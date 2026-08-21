@@ -1,3 +1,5 @@
+// Deployed via .github/workflows/deploy-rules.yml (auto-runs when this
+// file changes; manual runs from the Actions tab).
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
