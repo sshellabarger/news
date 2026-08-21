@@ -61,6 +61,13 @@ async function boot() {
       list.textContent = "";
       for (const c of docs) list.appendChild(render(c));
       if (count && docs.length) count.textContent = " (" + docs.length + ")";
+      if (docs.length >= 3 && !t.querySelector(".dd-popular")) {
+        const tag = document.createElement("span");
+        tag.className = "tag tag-accent-2 dd-popular";
+        tag.textContent = "Popular";
+        tag.style.marginLeft = "10px";
+        t.querySelector("summary").appendChild(tag);
+      }
     } catch (err) {
       console.warn("[comments] load failed for", slug, err);
     }

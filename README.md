@@ -82,6 +82,39 @@ their permalinks.
 - Sources are best-effort: Nextdoor/Facebook aren't publicly fetchable;
   add more RSS feeds in `GOOGLE_NEWS_QUERIES` / `REDDIT_ENDPOINTS`.
 
+## Wire sections, stamps, and Hot stories
+
+The fetcher classifies every wire item into **Major News** (the bulk of the
+page), **Crime & Safety**, **Sports**, or **Obituaries** using keyword and
+source rules — tune them in `SECTION_KEYWORDS` in `tools/fetch_wire.py`.
+Each item shows when the source **Filed** it and when the wire first
+**Pulled** it (carried across runs via `wire.json`). The most-discussed
+items (5+ Reddit comments, top 3) get a **Hot story** tag; curated stories
+with 3+ approved on-site comments get a **Popular** tag automatically.
+
+## Subscriptions
+
+**RSS**: the fetcher regenerates `public/feed.xml` hourly — linked from the
+page head and the Subscribe block in the footer. Works in any feed reader,
+no setup.
+
+**Daily email digest** (free via [Brevo](https://www.brevo.com), 300
+emails/day): visitors sign up in the footer (stored create-only in the
+Firestore `subscribers` collection; `/unsubscribe` writes to
+`unsubscribes`, which the sender honors). Every morning at 7am Central,
+`daily-digest.yml` runs `tools/send_digest.py` to build a digest of the
+last 24h and email each subscriber. Until configured it dry-runs
+harmlessly. To turn on sending:
+
+1. Create a free Brevo account, verify a sender address (or the domain),
+   and create an API key (SMTP & API → API Keys).
+2. Add repo secrets: `BREVO_API_KEY`, and optionally `DIGEST_FROM_EMAIL`
+   (defaults to `tips@dirtydogtown.news` — must be a Brevo-verified sender).
+3. In Google Cloud IAM, grant the deploy service account the
+   **Cloud Datastore Viewer** role so the job can read subscriber emails.
+4. Redeploy Firestore rules (the `subscribers`/`unsubscribes` collections):
+   `firebase deploy --only firestore:rules --project dirtydogtownnews`.
+
 ## Public comments (free Firestore + `/admin`)
 
 Each story (and the wire) has a "Neighborhood comments" thread. Comments are

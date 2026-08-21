@@ -1,0 +1,40 @@
+name: Daily digest
+
+# Emails subscribers a morning digest of the last 24 hours of the wire.
+# Dry-runs harmlessly until the BREVO_API_KEY secret exists; the service
+# account also needs the "Cloud Datastore Viewer" role to read subscribers.
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 7:00 AM Central (CDT)
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet google-auth requests
+
+      - name: Write service-account credentials
+        run: |
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$RUNNER_TEMP/sa.json"
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+      - name: Send digest
+        run: python3 tools/send_digest.py
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa.json
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          DIGEST_FROM_EMAIL: ${{ secrets.DIGEST_FROM_EMAIL }}

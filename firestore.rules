@@ -33,6 +33,31 @@ service cloud.firestore {
       allow delete: if isAdmin();
     }
 
+    // Daily-digest signups. Create-only from the public site; the digest
+    // sender reads them with service-account credentials (bypasses rules),
+    // and moderators can review or prune from the console.
+    match /subscribers/{id} {
+      allow create: if request.resource.data.keys().hasOnly(['email', 'createdAt'])
+        && request.resource.data.email is string
+        && request.resource.data.email.matches('^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$')
+        && request.resource.data.email.size() <= 254
+        && request.resource.data.createdAt == request.time;
+      allow read, delete: if isAdmin();
+      allow update: if false;
+    }
+
+    // Unsubscribe requests, same shape. The digest sender skips any email
+    // that appears here, so opting out needs no authentication.
+    match /unsubscribes/{id} {
+      allow create: if request.resource.data.keys().hasOnly(['email', 'createdAt'])
+        && request.resource.data.email is string
+        && request.resource.data.email.matches('^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$')
+        && request.resource.data.email.size() <= 254
+        && request.resource.data.createdAt == request.time;
+      allow read, delete: if isAdmin();
+      allow update: if false;
+    }
+
     // Moderator allowlist. Created by hand in the Firebase console
     // (doc id = the moderator's Auth UID); never writable from clients.
     match /admins/{uid} {

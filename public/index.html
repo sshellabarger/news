@@ -33,6 +33,7 @@
 <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<link rel="alternate" type="application/rss+xml" title="Dirty Dogtown — The Wire (North Little Rock, AR news)" href="/feed.xml">
 <link rel="preload" href="/fonts/source-serif-4-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/source-serif-4-italic-latin.woff2" as="font" type="font/woff2" crossorigin>
 <script type="application/ld+json">
@@ -893,7 +894,7 @@ textarea.input { min-height: 90px; resize: vertical; }
           <h3><a class="story-link" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmJ3c3RnemlpaXZvcmhtUzlQbkpuVXVmZlNQZDNCQ0VrMU0zd3QyRUFFWDhYRXhfZ0FrTjl0MGt4Yi15TUkza3dWU3J5TjVMLVpNOUZwRFhBWHd2bklaUy12M09HNTd5ZXBnWVVVVGVmSjhIZWNsWmhibmw5bXNvTFg3VXl5ZlhWbERSUUs2VlJSVnJBUEU3SEV4UQ?oc=5" rel="noopener">Little Rock to apply for $1 million state grant for 30 Crossing park project - The Arkansas Democrat-Gazette</a></h3>
           <p class="wire-links"><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmJ3c3RnemlpaXZvcmhtUzlQbkpuVXVmZlNQZDNCQ0VrMU0zd3QyRUFFWDhYRXhfZ0FrTjl0MGt4Yi15TUkza3dWU3J5TjVMLVpNOUZwRFhBWHd2bklaUy12M09HNTd5ZXBnWVVVVGVmSjhIZWNsWmhibmw5bXNvTFg3VXl5ZlhWbERSUUs2VlJSVnJBUEU3SEV4UQ?oc=5" rel="noopener">Read at the source</a></p></div></div>
         <!-- WIRE:END -->
-        <p style="font-size:13px;line-height:1.6;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:18px 0 0;max-width:72ch">Gathered automatically every hour from Google News, Reddit, and local outlets. Every item links to its source; quoted public comments belong to their authors and link to the original post.</p>
+        <p style="font-size:13px;line-height:1.6;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:18px 0 0;max-width:72ch">Gathered automatically every hour from Google News, Reddit, and local outlets. Every item links to its source; quoted public comments belong to their authors and link to the original post. Follow the wire as an <a href="/feed.xml">RSS feed</a> or get the <a href="#subscribe">daily email digest</a>.</p>
         <details class="dd-comments" data-story="the-wire" style="margin-top:16px">
           <summary>Neighborhood comments<span class="dd-count"></span></summary>
           <div class="dd-thread" style="display:grid;gap:12px;margin:14px 0 0"></div>
@@ -1058,6 +1059,18 @@ textarea.input { min-height: 90px; resize: vertical; }
         <a href="#legal" style="font-size:13px">Terms &amp; Legal</a>
       </div>
     </div>
+    <div style="flex:1 1 220px" id="subscribe">
+      <p style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:0">Subscribe</p>
+      <div style="display:grid;gap:8px;margin-top:12px;justify-items:start">
+        <a href="/feed.xml" style="font-size:13px">RSS news feed</a>
+        <form id="sub-form" style="display:grid;gap:8px;width:100%;max-width:260px">
+          <input class="input" type="email" name="email" required placeholder="you@example.com" aria-label="Email for the daily digest" style="font-size:13px;min-height:32px">
+          <button type="submit" class="btn btn-secondary" style="font-size:13px;justify-self:start">Get the daily email</button>
+          <span class="sub-note" style="font-size:12px;color:color-mix(in srgb, var(--color-text) 70%, transparent);min-height:1.2em"></span>
+        </form>
+        <a href="/unsubscribe" style="font-size:12px;color:color-mix(in srgb, var(--color-text) 60%, transparent)">Unsubscribe</a>
+      </div>
+    </div>
     <div style="flex:1 1 200px">
       <p style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:0">Contact</p>
       <div style="display:grid;gap:8px;margin-top:12px;justify-items:start">
@@ -1130,5 +1143,6 @@ textarea.input { min-height: 90px; resize: vertical; }
 </script>
 <script src="/firebase-config.js"></script>
 <script type="module" src="/comments.js"></script>
+<script type="module" src="/subscribe.js"></script>
 </body>
 </html>
