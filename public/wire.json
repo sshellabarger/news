@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T16:36:54.628042-05:00",
+ "updated": "2026-08-21T17:40:04.300819-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -73,18 +73,6 @@
    "comments": [],
    "first_seen": 1787337425.009798,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Jurline Jovanna Willie Lee Gilliam KayLee Akayla Marie Montgomery Obituary - ALEXANDER, AR - Dignity Memorial",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRF9MSFlkeWhxbm5ZUHgxVzAzWUdPM3RIblZTUlhvcXRnV09wM0pET00xb3FqNWRzZjdPNnR4RTJSb29CM2RUUFRtazJicDZXT05KeE9ZZ294RF9fcnN4NjFlN3hsbTZhZHlGYVpaejdENy1LeGhWNjZzWnR1ZmxCMHFDbzA1bUp5aHNRakdzdlBCd3dxZkdPOEh6a1d3Z19rLThYR1k1ZUNVZXgxSDdNQTFDVlZDT3NGSEtUclNMcW9PLWJpaVBlYkRR?oc=5",
-   "source": "Dignity Memorial",
-   "published": 1787247427.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787337425.009798,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -336,6 +324,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787344785.088791,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Police name man fatally struck by vehicle in North Little Rock - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2ZxVWhuWXAwbDZQT1VPRVNqY283ejJEX0RjajFBT3hscm16YTJVQVp5bGFiLXZRNkFDT3BIZ2pScTZKT2xRNE5UMGRDQTEwU0t3cE9JV0NwZ0hlTUdkRGI1bFIyOHVzczdVVDVuWWpIVkhWVzdhRFZQY2dJUkp4LXZ3UmNDc2lGcHJNdy0tRDlhOHRjSGJneQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1786660878.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787352004.300819,
    "section": "crime"
   }
  ]
