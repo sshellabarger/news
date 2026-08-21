@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin
-Disallow: /thanks
 
 Sitemap: https://dirtydogtown.news/sitemap.xml

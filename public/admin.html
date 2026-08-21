@@ -81,14 +81,20 @@ async function boot() {
     if (!user) { $("status").textContent = "Sign in to moderate comments."; return; }
     const gate = await getDoc(doc(db, "admins", user.uid)).catch(() => null);
     if (!gate || !gate.exists()) {
-      $("status").innerHTML =
-        "Signed in as " + user.email + ", but this account isn’t on the moderator " +
-        "list. Add a Firestore doc <code>admins/" + user.uid + "</code> " +
-        "(any contents) in the Firebase console to grant access.";
+      const s = $("status");
+      s.textContent = "Signed in as " + user.email + ", but this account isn’t on " +
+        "the moderator list. Add a Firestore doc ";
+      const code = document.createElement("code");
+      code.textContent = "admins/" + user.uid;
+      s.appendChild(code);
+      s.appendChild(document.createTextNode(
+        " (any contents) in the Firebase console to grant access."));
       return;
     }
     $("status").textContent = "Signed in as " + user.email + ".";
-    await refresh();
+    await refresh().catch((e) => {
+      $("status").textContent = "Couldn’t load comments: " + e.message;
+    });
   });
 
   async function refresh() {
@@ -145,7 +151,16 @@ async function boot() {
     const b = document.createElement("button");
     if (cls) b.className = cls;
     b.textContent = label;
-    b.onclick = async () => { b.disabled = true; try { await fn(); } finally { b.disabled = false; } };
+    b.onclick = async () => {
+      b.disabled = true;
+      try {
+        await fn();
+      } catch (e) {
+        $("status").textContent = label + " failed: " + e.message;
+      } finally {
+        b.disabled = false;
+      }
+    };
     return b;
   }
 }

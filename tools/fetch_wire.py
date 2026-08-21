@@ -7,7 +7,8 @@ Pulls headlines and public discussion from free, keyless sources:
 
 Writes:
   - public/wire.json                  (structured data, newest first)
-  - public/index.html                 (renders items between WIRE markers)
+  - public/index.html                 (renders items between WIRE markers,
+                                       refreshes the JSON-LD dateModified)
   - public/sitemap.xml                (bumps <lastmod>)
 
 Stdlib only — runs the same under GitHub Actions and locally:
@@ -67,7 +68,9 @@ def fetch(url: str, timeout: int = 20) -> bytes | None:
 
 
 def clean(text: str, limit: int = 240) -> str:
-    text = re.sub(r"<[^>]+>", " ", text or "")
+    # strip only tag-shaped runs (must start with a letter or /) so prose
+    # like "3 < 5 but > 2" survives untouched
+    text = re.sub(r"</?[A-Za-z][^>]*>", " ", text or "")
     text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     if len(text) > limit:
@@ -134,6 +137,8 @@ def reddit() -> list[dict]:
             permalink = "https://www.reddit.com" + d.get("permalink", "")
             is_self = d.get("is_self", True)
             outbound = d.get("url", "") if not is_self else permalink
+            if outbound.startswith("/"):  # crossposts return a relative path
+                outbound = "https://www.reddit.com" + outbound
             posts.append({
                 "type": "post",
                 "title": clean(d.get("title", ""), 200),
@@ -196,9 +201,11 @@ def when_label(ts: float, now: datetime) -> str:
     if not ts:
         return ""
     dt = datetime.fromtimestamp(ts, tz=CENTRAL)
+    day = f"{dt.strftime('%b')} {dt.day}"
     if (now - dt).days >= 1:
-        return dt.strftime("%b %-d")
-    return dt.strftime("%b %-d, %-I:%M %p")
+        return day
+    hour = dt.hour % 12 or 12
+    return f"{day}, {hour}:{dt.strftime('%M')} {dt.strftime('%p')}"
 
 
 def esc(s: str) -> str:
@@ -243,7 +250,8 @@ def main() -> int:
     now = datetime.now(CENTRAL)
     news = dedupe(google_news())
     news.sort(key=lambda n: n["published"], reverse=True)
-    items = news[:MAX_NEWS] + reddit()
+    items = sorted(news[:MAX_NEWS] + reddit(),
+                   key=lambda i: i["published"], reverse=True)
 
     wire_path = os.path.join(PUB, "wire.json")
     payload = {
@@ -267,9 +275,12 @@ def main() -> int:
     if n != 1:
         print("[wire] WIRE markers missing from index.html", file=sys.stderr)
         return 1
-    stamp = now.strftime("%b %-d, %-I:%M %p CT")
+    stamp = when_label(now.timestamp(), now) + " CT"
     page = re.sub(r'(<span id="wire-updated">)[^<]*(</span>)',
                   lambda m: m.group(1) + "Checked hourly · " + stamp + m.group(2), page)
+    # keep the structured data honest: the page really did change
+    page = re.sub(r'("dateModified":\s*")\d{4}-\d{2}-\d{2}(")',
+                  lambda m: m.group(1) + now.strftime("%Y-%m-%d") + m.group(2), page)
     open(index_path, "w", encoding="utf-8").write(page)
 
     sitemap_path = os.path.join(PUB, "sitemap.xml")

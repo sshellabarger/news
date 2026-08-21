@@ -42,8 +42,14 @@ jobs:
             git config user.email "wire@dirtydogtown.news"
             git add public/wire.json public/index.html public/sitemap.xml
             git commit -m "wire: hourly North Little Rock sweep"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            for attempt in 1 2 3; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" || true
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                break
+              fi
+              echo "push attempt ${attempt} failed; retrying"
+              sleep 5
+            done
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
