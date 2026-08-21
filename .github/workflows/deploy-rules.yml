@@ -1,0 +1,30 @@
+name: Deploy Firestore rules
+
+# Manual, push-button deploy of firestore.rules using the same secrets as
+# the news wire. Run it from the Actions tab whenever the rules change.
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "firestore.rules"
+
+permissions:
+  contents: read
+
+jobs:
+  rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write service-account credentials
+        run: |
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$RUNNER_TEMP/sa.json"
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+      - name: Deploy rules
+        run: npx firebase-tools deploy --only firestore:rules --project "${{ secrets.FIREBASE_PROJECT_ID }}" --non-interactive
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa.json
