@@ -6,8 +6,8 @@
  * secret — access control lives in firestore.rules.
  */
 window.DD_FIREBASE_CONFIG = {
-  apiKey: "REPLACE_ME",
-  authDomain: "REPLACE_ME.firebaseapp.com",
-  projectId: "REPLACE_ME",
-  appId: "REPLACE_ME",
+  apiKey: "AIzaSyCQEzyMzGiwqGnLFfB5vCEuGt1u57Pact4",
+  authDomain: "dirtydogtownnews.firebaseapp.com",
+  projectId: "dirtydogtownnews",
+  appId: "1:983564953566:web:d9640efd1ed1e1c67f5f4f",
 };
