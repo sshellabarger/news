@@ -1,0 +1,57 @@
+name: News wire
+
+# Sweeps North Little Rock news + public discussion every hour, rewrites
+# the Wire section, commits, and (when Firebase secrets are configured)
+# deploys hosting so the live site updates without a manual step.
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-wire
+  cancel-in-progress: false
+
+jobs:
+  wire:
+    runs-on: ubuntu-latest
+    env:
+      HAVE_FIREBASE: ${{ secrets.FIREBASE_SERVICE_ACCOUNT != '' && secrets.FIREBASE_PROJECT_ID != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch the wire
+        run: python3 tools/fetch_wire.py
+
+      - name: Commit updates
+        id: commit
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No wire changes this hour."
+          else
+            git config user.name "dogtown-wire[bot]"
+            git config user.email "wire@dirtydogtown.news"
+            git add public/wire.json public/index.html public/sitemap.xml
+            git commit -m "wire: hourly North Little Rock sweep"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Firebase Hosting
+        if: env.HAVE_FIREBASE == 'true' && steps.commit.outputs.changed == 'true'
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ secrets.FIREBASE_PROJECT_ID }}
+          channelId: live

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Moderation — Dirty Dogtown</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+  :root { --ink: #201e1d; --paper: #f3f2f2; --accent: #0088b0; --accent2: #d6006c; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink);
+    font: 15px/1.55 system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 20px 80px; }
+  h1 { font-family: Georgia, serif; font-size: 28px; margin: 0 0 4px; }
+  .sub { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.65; margin: 0 0 28px; }
+  button { font: inherit; cursor: pointer; border-radius: 2px; padding: 7px 14px;
+    border: 1px solid rgba(32,30,29,0.25); background: transparent; color: inherit; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  button.danger { color: #a00; border-color: #a00; }
+  button:disabled { opacity: 0.5; cursor: not-allowed; }
+  .card { background: #eae9e9; border-radius: 2px; padding: 14px 16px; margin: 0 0 12px; }
+  .meta { font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.6; margin: 0 0 6px; }
+  .text { margin: 0 0 10px; white-space: pre-wrap; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .pill { font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase;
+    padding: 2px 8px; border-radius: 2px; background: #fff1f4; color: #790e3d; }
+  .pill.ok { background: #e9f8ff; color: #004961; }
+  #status { margin: 20px 0; }
+  section h2 { font-size: 16px; letter-spacing: 0.06em; text-transform: uppercase; margin: 36px 0 14px; }
+  a { color: #006786; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Dirty Dogtown — moderation</h1>
+  <p class="sub">Comments desk · <a href="/">back to the site</a></p>
+  <div id="status">Loading…</div>
+  <div class="row" id="authrow" hidden>
+    <button class="primary" id="signin">Sign in with Google</button>
+    <button id="signout" hidden>Sign out</button>
+  </div>
+  <section id="pending-sec" hidden><h2>Pending</h2><div id="pending"></div></section>
+  <section id="approved-sec" hidden><h2>Approved</h2><div id="approved"></div></section>
+</main>
+<script src="/firebase-config.js"></script>
+<script type="module">
+const config = window.DD_FIREBASE_CONFIG;
+const $ = (id) => document.getElementById(id);
+
+if (!config || !config.apiKey || config.apiKey.indexOf("REPLACE") !== -1) {
+  $("status").innerHTML =
+    "Firebase isn’t configured yet. Fill in <code>public/firebase-config.js</code> " +
+    "with your project’s web-app config and redeploy — see the README.";
+} else {
+  boot();
+}
+
+async function boot() {
+  const [{ initializeApp }, auth, fs] = await Promise.all([
+    import("https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js"),
+    import("https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js"),
+    import("https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js"),
+  ]);
+  const { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged } = auth;
+  const { getFirestore, doc, getDoc, getDocs, collection, query, where,
+          updateDoc, deleteDoc } = fs;
+  const app = initializeApp(config);
+  const a = getAuth(app);
+  const db = getFirestore(app);
+
+  $("authrow").hidden = false;
+  $("signin").onclick = () => signInWithPopup(a, new GoogleAuthProvider()).catch(
+    (e) => ($("status").textContent = "Sign-in failed: " + e.message));
+  $("signout").onclick = () => signOut(a);
+
+  onAuthStateChanged(a, async (user) => {
+    $("signin").hidden = !!user;
+    $("signout").hidden = !user;
+    $("pending-sec").hidden = $("approved-sec").hidden = true;
+    if (!user) { $("status").textContent = "Sign in to moderate comments."; return; }
+    const gate = await getDoc(doc(db, "admins", user.uid)).catch(() => null);
+    if (!gate || !gate.exists()) {
+      $("status").innerHTML =
+        "Signed in as " + user.email + ", but this account isn’t on the moderator " +
+        "list. Add a Firestore doc <code>admins/" + user.uid + "</code> " +
+        "(any contents) in the Firebase console to grant access.";
+      return;
+    }
+    $("status").textContent = "Signed in as " + user.email + ".";
+    await refresh();
+  });
+
+  async function refresh() {
+    for (const status of ["pending", "approved"]) {
+      const box = $(status);
+      box.textContent = "Loading…";
+      const snap = await getDocs(query(collection(db, "comments"),
+        where("status", "==", status)));
+      const docs = snap.docs.sort((x, y) =>
+        (y.data().createdAt?.seconds || 0) - (x.data().createdAt?.seconds || 0));
+      box.textContent = docs.length ? "" : "Nothing here.";
+      $(status + "-sec").hidden = false;
+      for (const d of docs) box.appendChild(card(d, status));
+    }
+  }
+
+  function card(d, status) {
+    const c = d.data();
+    const el = document.createElement("div");
+    el.className = "card";
+    const when = c.createdAt?.seconds
+      ? new Date(c.createdAt.seconds * 1000).toLocaleString("en-US") : "—";
+    const meta = document.createElement("p");
+    meta.className = "meta";
+    meta.textContent = (c.story || "?") + " · " + (c.name || "Neighbor") + " · " + when;
+    const text = document.createElement("p");
+    text.className = "text";
+    text.textContent = c.text || "";
+    const row = document.createElement("div");
+    row.className = "row";
+    const pill = document.createElement("span");
+    pill.className = "pill" + (status === "approved" ? " ok" : "");
+    pill.textContent = status;
+    row.appendChild(pill);
+    if (status === "pending") {
+      row.appendChild(btn("Approve", "primary", async () => {
+        await updateDoc(d.ref, { status: "approved" }); await refresh();
+      }));
+    } else {
+      row.appendChild(btn("Unapprove", "", async () => {
+        await updateDoc(d.ref, { status: "pending" }); await refresh();
+      }));
+    }
+    row.appendChild(btn("Delete", "danger", async () => {
+      if (confirm("Delete this comment permanently?")) {
+        await deleteDoc(d.ref); await refresh();
+      }
+    }));
+    el.append(meta, text, row);
+    return el;
+  }
+
+  function btn(label, cls, fn) {
+    const b = document.createElement("button");
+    if (cls) b.className = cls;
+    b.textContent = label;
+    b.onclick = async () => { b.disabled = true; try { await fn(); } finally { b.disabled = false; } };
+    return b;
+  }
+}
+</script>
+</body>
+</html>
