@@ -1,13 +1,37 @@
 {
- "updated": "2026-08-21T17:40:04.300819-05:00",
+ "updated": "2026-08-21T18:36:22.521426-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Arkansas Travelers brewing up magic with Harry Potter night in North Little Rock - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdmduaFYxVV8tZjZQRm5uMGhJNWlmSVdtLVJKS19ya1VIU0ppX1FtTlRSd0hBeUFQMXlNV2w2UU8yYlVOWjBESUVsTGlkNVJZQ3cyd3UtNm5nRXozUWRKVHl1dGRhQ2x3UXFtT3gzUmg1ZFZGREJqaTlqT3ZBMHJ0YVJmQnFIZG9HaXdkN2E5MGVyTDA4WGNsOXdKZ21fdHY4cHVWdkpSWjVuSk9OM1AzVjRSUGM0MUZ1UzJmSGhQS3lJeGVOSzd6cmdVMmc1S2JRSTRMMWttTmNLX3E3UG5mSTU2M29zcnFlQmY2OWVlUEk?oc=5",
+   "source": "thv11.com",
+   "published": 1787352180.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787355382.521426,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas Women's Hall of Fame moves to North Little Rock Event Center - KUAF Public Radio",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG1ZMkJHQXdfWG1kS1hYbURhT25BLVJKOHR4WlVtcFE2V0hDaUNURDZqX3RlU2VUN1lURE16RVEwLUpnMl9hZGJKLV9MUmNyQ25oOFlPMExyc2tieE12TzBYdUo2QU9qN0NXN3J4MmZVOE1BczNESWMxY2pNdzRjc2ctdVhUaUtRdjZKNFJqVy10UExZUFJfZDBwalN5Z0NUbFRGUzZiRGtOQkxYTVppbUktcnVwdFVGenNYVHJB?oc=5",
+   "source": "KUAF Public Radio",
+   "published": 1787344200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787355382.521426,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Mayor Frank Scott says footage of Little Rock police officer holding gun to suspect’s head ‘disturbing’ - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTdQbjB6c2FmU2JYRkQtUFZqcC1BaWlscGc3M2tvbE5OcDFsYUVqM1lUaDhuUHJ0ZUhiME1Mamg2azlkX3hob0p2MnNBYjhqNUVDbm5DWXdSdEhISWVKdHZKckpyMzZub1FndTJFR0pHelAxZjhBTjVKSC1Jd0FKbHNyOV9hMmMyaVFpX25WYjdRejZ1b0dBX3h3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1787331660.0,
+   "published": 1787331840.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -313,30 +337,6 @@
    "comments": [],
    "first_seen": 1787337425.009798,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Police name man fatally struck by vehicle in North Little Rock - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnBlZzNiMzFiTHVsQTUwR3lMX0szaUlXN1JkNGczTjdqZGM1aTdWdHNMVm5MYlRibTFxNU1CSkFHVnBTaFcyaWlpeks5ejFmM3NjU1ZNdzBWMEhpZ3RCajdmX2QyemZrSVZPSVdkek03Z3FMUUE1MWdGYUVTcmliQTBXQ1F3dGZiYTNHNnZpWDdaUQ?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1786660980.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787344785.088791,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Police name man fatally struck by vehicle in North Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2ZxVWhuWXAwbDZQT1VPRVNqY283ejJEX0RjajFBT3hscm16YTJVQVp5bGFiLXZRNkFDT3BIZ2pScTZKT2xRNE5UMGRDQTEwU0t3cE9JV0NwZ0hlTUdkRGI1bFIyOHVzczdVVDVuWWpIVkhWVzdhRFZQY2dJUkp4LXZ3UmNDc2lGcHJNdy0tRDlhOHRjSGJneQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1786660878.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787352004.300819,
-   "section": "crime"
   }
  ]
 }
