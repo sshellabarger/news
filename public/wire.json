@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T12:43:27.303753-05:00",
+ "updated": "2026-08-21T13:37:05.009798-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -10,7 +10,9 @@
    "published": 1787331660.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -20,7 +22,9 @@
    "published": 1787320800.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -30,7 +34,9 @@
    "published": 1787289267.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -40,7 +46,9 @@
    "published": 1787286600.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -50,7 +58,9 @@
    "published": 1787280968.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -60,7 +70,9 @@
    "published": 1787269800.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -70,7 +82,9 @@
    "published": 1787266781.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "sports"
   },
   {
    "type": "article",
@@ -80,7 +94,9 @@
    "published": 1787247427.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "obits"
   },
   {
    "type": "article",
@@ -90,7 +106,9 @@
    "published": 1787245620.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -100,7 +118,9 @@
    "published": 1787240098.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -110,7 +130,9 @@
    "published": 1787196660.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -120,7 +142,9 @@
    "published": 1787190600.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -130,7 +154,9 @@
    "published": 1787186700.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -140,7 +166,9 @@
    "published": 1787182824.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -150,7 +178,9 @@
    "published": 1787181030.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -160,7 +190,9 @@
    "published": 1787177400.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -170,7 +202,9 @@
    "published": 1787172979.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -180,7 +214,9 @@
    "published": 1787164620.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -190,7 +226,9 @@
    "published": 1787160060.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   },
   {
    "type": "article",
@@ -200,7 +238,105 @@
    "published": 1787110500.0,
    "snippet": "",
    "discussion_url": "",
-   "comments": []
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Judge upholds panel’s decision to suspend Little Rock police officer - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS05vQkxJU2M2RTZmNnZuMUtPRF9lTTBrV3RPOTJVakFEOEZZX2pMdmF6b1d4MmtWcGtoY1ZVdUJjeF9lUVNpQ2hKemwyLWZYN3cyY0lyem9aa3g5UFliZUxZVXlLZ2pKSUxXVHA5U25FQ1JmWk9YaEFYdWdaVTQxaVMwNmxHUGpiV2s4c1dfclFNLVNWMXkzdV9jazI?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787101620.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas Women's Hall of Fame unveils new exhibit and inductees - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWw2anozYmFyUXd5Y2Y2NndsamdYbFRLdGJ5c08xNEdTMkhJZ0ZNc2tFMmZZVkR5c3MxY2pxRVBnbjZXYS1qdHdIUUREV1BlRDR1VEV3b1NoWE9VYm5Ldkhfc2UzLVpHczJWTmdKWDY2V0IzNjUzYmtUVkNKdkJueVRrQ3hlVFp4b2RPQ0dMMG03UW1yQ2g0YWNnVU9kbEhBRDZ2clU3SHlGcEd2ZUJ1d19kNmNRbm1KdG1jSmRUSGU2UFBzUHY5V1VIY1FZSnBMaXA5Mk5EeUhfUGN5Y1pxNzNoUmd2RXkwallwekpTbVc?oc=5",
+   "source": "thv11.com",
+   "published": 1787091840.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "3 people injured after winds caused damage, power outages as Monday storms moved across Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTd3ZGRYTktQejFSdXk4NWstUlVJdXJPT0tIdzZVR2JzdkJTMHFPb0FfanlfU1NMLVVpblNKVWVmcE4wTHBGNTdWcDh1c1JVLVpYSURVbkg1d3dTVzFmNVZZRTlJVEx4N3F5ckVUZHBudlNOaUwwcjZORk5fMzljbjVRQVZsdUFHcEpQWFhpdzZTSzQyUWxHNEFBRGNCZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787064060.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Outdoor charter school in Little Rock won’t open this fall as planned - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVhRS0NqMDdqNXZubjlqeHVyRzZhT082cURYRWRfUEJTaVMzZW43aXRCTlBiMXRXSk9Ec1R4ZWlhamhycmE0YUVYV3hSa29BdnU2RTl4TWhWY00ydENfaXNreU1UeDBocFlXSHF0czV3eXB0TV9NaEtnLVZ0SUpQXzJCMWRoQUFKUEprYjc0QzJCcXZkVlFHQ0ZR?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787054760.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - KARK",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTdSOWJIeS1qV0lSdlRCdHJuUXNybXI3RkdSR2pZMFBxaWdEVFl1ZGZRcnE4WVpyTldUdEJCM2p5R1pmVTk5SkF2ZWdjck1nRFQtLVNzMlBER3Z1MmxQX2l4MFFnRTJJenFJRW9CMk0yQW9BSTNrNzkwQ0dVNjVSX3ZXMXJ1a1IwNXRNeDliVjFXWVRlUlNwejFTMWlJY1hmbW9zdWN3c3hidWl2b2t3djJrcFNzR3JZ?oc=5",
+   "source": "KARK",
+   "published": 1787006028.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Baptist Health Buys 12 Acres in North Little Rock (Real Deals) - Arkansas Business",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnFyU1V6blRXZWtnUzU5Qmh3eGhXSkRUaEE1TmEwdDJtZTdoU0oya0d0VHBMd0doUVFXTVNiVlQxa3lsYkFoOEhObWhOaThaNjhBME1zSjNaZzBlZVJMSzA3TjR4TXQ1dExyUFlFYVJVWXJ1dS1hSmNFNXl2TmY4VlBXbDJWSnB6WGg3Sm9BVDVzYV9acnZHSThqdjdtRzdJc1loMG9R?oc=5",
+   "source": "Arkansas Business",
+   "published": 1786942828.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock, North Little Rock use 2 companies for their dozens of license plate cameras - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGsyZG9MVU5udkVzRXk0eVltTmE3b2R5enpacndhWHhXdWJMWmVWdlktWjVFM05FU1YwZ0xtQ3hwc0tvSlVEd0ItdDFQck1ZRm1hTlpjc2kzQVhvTXlZTjlMemd0Qnp0RHdISENJaS04TUdnaXY1aHBiQlNqR0F3cHA3STktbzVBQ0R4Y2FZM1EzcUpHLUQ5R19QSVE2cnM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1786849200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Task force will draft proposals for Little Rock School District, including possible closures - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVZFM3pnWlBLejRVcHg1UHVreVdISjBaNUhtS0tTTlB4TzN0NU1nck9OQ3RubEM3M2ZnWjV6Vi0xTXA1QkVDUGdrb2M1RmxoRHVuTFNkd1RBRWxVd3hjQUJ2OFRXRmNrX1N5ZXc0R0FKd2JhLUlpdmFObU9HZXFpdmdvUFlfRkZINWxFQUVhdk1WMHJXeVI0Qk5IQmc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1786681020.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787337425.009798,
+   "section": "major"
   }
  ]
 }
