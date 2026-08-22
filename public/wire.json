@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T04:40:19.169885-05:00",
+ "updated": "2026-08-22T05:38:10.981541-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -12,6 +12,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787391619.169885,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "East Little Rock fire destroys house, damages another - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1IzSzlad1Q1elZ4U1NiNmZfTkVvaC04OUZXZGo0MDM4b183T181Z3pZbUZHUGhQMmtFV0F1NndPTG02YVZ3Rk83NHBqd09reDhyMkdJVl9venZMTGs1MjN3X0MzNzEzMEZ0UnlNUVVXcGw3a1lkNDdpT1VyeWh4cUExdjNfei1hVHlhTy1rSDFLNy15aUdINA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787370600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787395090.981541,
    "section": "major"
   },
   {
@@ -37,6 +49,18 @@
    "comments": [],
    "first_seen": 1787363349.954641,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Two California men sentenced in Little Rock on money laundering charges after police found $1 million in traffic stop - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjBVOVd1QVFDeGN0b0EwUEhKa29LbGNkaFpKbkwteGQ2T1RRU1lwbFNxZVF0b0xkalo5YXA5NE9Bamx1RHJVWGt3LWl5SGN1ejlobXZjSWpoU1BMT05ENmRMTS01eXZSbDQybDlici1UNzZ6MFlVM0ZhTlhDbTFOQ3U5RkFNUEJCSWRrV2Z0TGFRYnd0NS1GUTRMTQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787356500.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787395090.981541,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -313,30 +337,6 @@
    "comments": [],
    "first_seen": 1787337425.009798,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas Women's Hall of Fame unveils new exhibit and inductees - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWw2anozYmFyUXd5Y2Y2NndsamdYbFRLdGJ5c08xNEdTMkhJZ0ZNc2tFMmZZVkR5c3MxY2pxRVBnbjZXYS1qdHdIUUREV1BlRDR1VEV3b1NoWE9VYm5Ldkhfc2UzLVpHczJWTmdKWDY2V0IzNjUzYmtUVkNKdkJueVRrQ3hlVFp4b2RPQ0dMMG03UW1yQ2g0YWNnVU9kbEhBRDZ2clU3SHlGcEd2ZUJ1d19kNmNRbm1KdG1jSmRUSGU2UFBzUHY5V1VIY1FZSnBMaXA5Mk5EeUhfUGN5Y1pxNzNoUmd2RXkwallwekpTbVc?oc=5",
-   "source": "thv11.com",
-   "published": 1787091840.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787348214.628042,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "3 people injured after winds caused damage, power outages as Monday storms moved across Arkansas - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTd3ZGRYTktQejFSdXk4NWstUlVJdXJPT0tIdzZVR2JzdkJTMHFPb0FfanlfU1NMLVVpblNKVWVmcE4wTHBGNTdWcDh1c1JVLVpYSURVbkg1d3dTVzFmNVZZRTlJVEx4N3F5ckVUZHBudlNOaUwwcjZORk5fMzljbjVRQVZsdUFHcEpQWFhpdzZTSzQyUWxHNEFBRGNCZw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787064060.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787337425.009798,
-   "section": "major"
   }
  ]
 }
