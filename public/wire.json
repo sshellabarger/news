@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T09:36:28.866767-05:00",
+ "updated": "2026-08-22T10:34:29.485670-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -156,6 +156,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787337425.009798,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police arrest second suspect in deadly July gas station shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV001bEg1ZmY3bTUwa0RWdkNmQWE2dWctbFRQOTZHeWRpVlE2VVRoNFhRZTVkRUpaQTBiTlpMSnNmcV9EZEZYZnF2bnhaWUw0bTNpYWxNVzVpUGREUFF3T0thNnp6U3JuTW40WFlyWDhES3JZSlN4Nlh0S0NycC1fUlI2TmNxaC1PcFp3SkxZMzdKS2hTeTIteUhFbzRNWU0zSXZXVEFPcDA2ckd5ZGZj?oc=5",
+   "source": "KARK",
+   "published": 1787282038.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787412869.48567,
    "section": "crime"
   },
   {
@@ -324,18 +336,6 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787337425.009798,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Skylnn Olivia Staple - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajY0eXNKS2JuQ1dkZ2d6LVB6X2VaMGlzR2taUi1kMU01Wi1hM1U5Y1NPeXFISVlTVGc0XzdMbU5FQ0xXYWEwUnFkaE1sb3JYWURkVWpkTDRnTWFFVnBjRnhHNEFreDZQRGVNZXIxcWFxUmVBUm43TXV4Tk9QdjRxY1R1clI2UQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787115949.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787406225.864975,
    "section": "major"
   }
  ]
