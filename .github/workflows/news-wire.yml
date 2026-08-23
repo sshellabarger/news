@@ -40,7 +40,7 @@ jobs:
           else
             git config user.name "dogtown-wire[bot]"
             git config user.email "wire@dirtydogtown.news"
-            git add public/wire.json public/index.html public/sitemap.xml
+            git add public/
             git commit -m "wire: hourly North Little Rock sweep"
             for attempt in 1 2 3; do
               git pull --rebase origin "${GITHUB_REF_NAME}" || true
