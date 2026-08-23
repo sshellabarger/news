@@ -1250,14 +1250,34 @@ textarea.input { min-height: 90px; resize: vertical; }
         body: new FormData(form),
         headers: { 'Accept': 'application/json' }
       }).then(function (r) {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
+        return r.json().catch(function () { return {}; }).then(function (data) {
+          var ok = r.ok || data.success === 'true' || data.success === true;
+          if (!ok) {
+            var err = new Error('HTTP ' + r.status);
+            err.detail = data && data.message ? String(data.message) : '';
+            throw err;
+          }
+          return data;
+        });
       }).then(function () {
         form.reset();
         status.innerHTML = '<strong style="font-style:normal;font-weight:600">Tip received.</strong> A moderator will review it. If it runs, it runs unsigned.';
         status.hidden = false;
-      }).catch(function () {
-        status.innerHTML = '<strong style="font-style:normal;font-weight:600">Couldn\u2019t send just now.</strong> Please email <a href="mailto:tips@dirtydogtown.news">tips@dirtydogtown.news</a> instead.';
+      }).catch(function (e) {
+        status.textContent = '';
+        var b = document.createElement('strong');
+        b.style.cssText = 'font-style:normal;font-weight:600';
+        b.textContent = 'Couldn\u2019t send just now.';
+        status.appendChild(b);
+        if (e && e.detail) {
+          status.appendChild(document.createTextNode(' The form service says: \u201C' + e.detail + '\u201D.'));
+        }
+        status.appendChild(document.createTextNode(' You can also email '));
+        var a = document.createElement('a');
+        a.href = 'mailto:tips@dirtydogtown.news';
+        a.textContent = 'tips@dirtydogtown.news';
+        status.appendChild(a);
+        status.appendChild(document.createTextNode(' directly.'));
         status.hidden = false;
       }).then(function () {
         button.disabled = false;
