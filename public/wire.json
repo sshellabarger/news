@@ -1,7 +1,19 @@
 {
- "updated": "2026-08-23T00:43:43.046395-05:00",
+ "updated": "2026-08-23T01:59:48.929835-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "JurLine JoVanna Willie Lee Gilliam KayLee Akayla Marie Montgomery Obituary - ALEXANDER, AR - Dignity Memorial",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRF9MSFlkeWhxbm5ZUHgxVzAzWUdPM3RIblZTUlhvcXRnV09wM0pET00xb3FqNWRzZjdPNnR4RTJSb29CM2RUUFRtazJicDZXT05KeE9ZZ294RF9fcnN4NjFlN3hsbTZhZHlGYVpaejdENy1LeGhWNjZzWnR1ZmxCMHFDbzA1bUp5aHNRakdzdlBCd3dxZkdPOEh6a1d3Z19rLThYR1k1ZUNVZXgxSDdNQTFDVlZDT3NGSEtUclNMcW9PLWJpaVBlYkRR?oc=5",
+   "source": "Dignity Memorial",
+   "published": 1787467051.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787468388.929835,
+   "section": "obits"
+  },
   {
    "type": "article",
    "title": "Firefighters extinguish North Little Rock blaze near Burns Park exit off Interstate 40 - The Arkansas Democrat-Gazette",
@@ -13,18 +25,6 @@
    "comments": [],
    "first_seen": 1787454843.563827,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas State Police corporal arrested on DWI-drugs charge following wreck near Monticello - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYy15SjRDejNBT1RGWGZZb1oyTnJUVHhTNTBMSnNaRE9mMGJRXzlteUl4eHFwVUp5aFJzN0NxRmN4bXUzLTVQRllHNTI0NHZxYjJpdnA2V211azZpSXB1U0dKcUd4RTVVOE5teXVVQlU2bHNVdUNvbURpbDEzNU4zOUV2MlhaQ04yWXJLWEZPeDI1MDlraFFqaVFmYw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787422200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787450319.447882,
-   "section": "crime"
   },
   {
    "type": "article",
@@ -304,18 +304,6 @@
   },
   {
    "type": "article",
-   "title": "3 people injured after winds caused damage, power outages as Monday storms moved across Arkansas - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTd3ZGRYTktQejFSdXk4NWstUlVJdXJPT0tIdzZVR2JzdkJTMHFPb0FfanlfU1NMLVVpblNKVWVmcE4wTHBGNTdWcDh1c1JVLVpYSURVbkg1d3dTVzFmNVZZRTlJVEx4N3F5ckVUZHBudlNOaUwwcjZORk5fMzljbjVRQVZsdUFHcEpQWFhpdzZTSzQyUWxHNEFBRGNCZw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787064060.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787441610.817884,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - KARK",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTdSOWJIeS1qV0lSdlRCdHJuUXNybXI3RkdSR2pZMFBxaWdEVFl1ZGZRcnE4WVpyTldUdEJCM2p5R1pmVTk5SkF2ZWdjck1nRFQtLVNzMlBER3Z1MmxQX2l4MFFnRTJJenFJRW9CMk0yQW9BSTNrNzkwQ0dVNjVSX3ZXMXJ1a1IwNXRNeDliVjFXWVRlUlNwejFTMWlJY1hmbW9zdWN3c3hidWl2b2t3djJrcFNzR3JZ?oc=5",
    "source": "KARK",
@@ -336,6 +324,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787450319.447882,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock, North Little Rock use 2 companies for their dozens of license plate cameras - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGsyZG9MVU5udkVzRXk0eVltTmE3b2R5enpacndhWHhXdWJMWmVWdlktWjVFM05FU1YwZ0xtQ3hwc0tvSlVEd0ItdDFQck1ZRm1hTlpjc2kzQVhvTXlZTjlMemd0Qnp0RHdISENJaS04TUdnaXY1aHBiQlNqR0F3cHA3STktbzVBQ0R4Y2FZM1EzcUpHLUQ5R19QSVE2cnM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1786849200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787468388.929835,
    "section": "major"
   }
  ]
