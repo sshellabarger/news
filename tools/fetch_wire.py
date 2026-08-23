@@ -109,6 +109,15 @@ GOOGLE_NEWS_QUERIES = [
     '"North Little Rock" city council OR police OR schools OR parks',
 ]
 
+# Additional RSS/Atom feeds folded into every sweep — drop in city notices,
+# library events, school district news, neighborhood blogs, etc. Each entry
+# is (feed_url, source_label); the label shows on the wire when the feed
+# doesn't name its own source. Facebook/Nextdoor have no public feeds and
+# can't be pulled automatically.
+EXTRA_FEEDS: list[tuple[str, str]] = [
+    # ("https://www.nlr.ar.gov/rss/news.xml", "City of North Little Rock"),
+]
+
 REDDIT_ENDPOINTS = [
     "https://www.reddit.com/r/LittleRock/search.json?q=%22North%20Little%20Rock%22&restrict_sr=1&sort=new&t=week&limit=15&raw_json=1",
     "https://www.reddit.com/search.json?q=%22North%20Little%20Rock%22%20Arkansas&sort=new&t=week&limit=15&raw_json=1",
@@ -180,6 +189,41 @@ def google_news() -> list[dict]:
                 "source": source,
                 "published": ts,
                 "snippet": "",
+                "discussion_url": "",
+                "comments": [],
+            })
+    return items
+
+
+def extra_feeds() -> list[dict]:
+    items = []
+    for url, label in EXTRA_FEEDS:
+        raw = fetch(url)
+        if not raw:
+            continue
+        try:
+            root = ET.fromstring(raw)
+        except ET.ParseError as e:
+            print(f"[wire] bad feed {url}: {e}", file=sys.stderr)
+            continue
+        for it in root.iter("item"):
+            title = clean(it.findtext("title") or "", 200)
+            link = (it.findtext("link") or "").strip()
+            if not title or not link:
+                continue
+            pub = it.findtext("pubDate") or ""
+            try:
+                ts = parsedate_to_datetime(pub).timestamp()
+            except (TypeError, ValueError):
+                ts = 0.0
+            src = it.find("source")
+            items.append({
+                "type": "article",
+                "title": title,
+                "url": link,
+                "source": clean(src.text if src is not None else "", 60) or label,
+                "published": ts,
+                "snippet": clean(it.findtext("description") or "", 240),
                 "discussion_url": "",
                 "comments": [],
             })
@@ -479,7 +523,7 @@ def write_feed(items: list[dict], now: datetime, path: str) -> None:
 
 def main() -> int:
     now = datetime.now(CENTRAL)
-    news = dedupe(google_news())
+    news = dedupe(google_news() + extra_feeds())
     news.sort(key=lambda n: n["published"], reverse=True)
     items = sorted(news[:MAX_NEWS] + reddit(),
                    key=lambda i: i["published"], reverse=True)

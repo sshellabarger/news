@@ -1,0 +1,41 @@
+name: Weekly front page
+
+# Renders public/this-week.png — the shareable square front-page image for
+# local Facebook groups and Nextdoor — every Monday morning. The next
+# hourly wire deploy publishes it at dirtydogtown.news/this-week.png.
+
+on:
+  schedule:
+    - cron: "30 12 * * 1"   # Mondays, 7:30 AM Central (CDT)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  front:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render the front page
+        run: python3 tools/weekly_front.py
+        env:
+          CHROME_BIN: google-chrome
+
+      - name: Commit the image
+        run: |
+          if git diff --quiet -- public/this-week.png; then
+            echo "No visual change this week."
+          else
+            git config user.name "dogtown-wire[bot]"
+            git config user.email "wire@dirtydogtown.news"
+            git add public/this-week.png
+            git commit -m "weekly: front-page share image"
+            for attempt in 1 2 3; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" || true
+              git push origin "HEAD:${GITHUB_REF_NAME}" && break
+              echo "push attempt ${attempt} failed; retrying"
+              sleep 5
+            done
+          fi
