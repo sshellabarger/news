@@ -6,7 +6,7 @@
     <atom:link href="https://dirtydogtown.news/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The Wire: North Little Rock, Arkansas news and public discussion, gathered hourly by dirtydogtown.news. Every item links to its source.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:37:05 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:35:21 -0500</lastBuildDate>
     <item>
       <title>Drake Spotted Singing Along at Ella Langley Concert in Arkansas - TMZ</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFNGTFNTTUw3dlJ1SzQ3MEFDN1FqOWs5QlBXenVnRWd2WGlvS2NmZzlyLVBfcFF0YnRmRXN1aTdvUjVlSE5HMllYMDVDcHRpTDJSelU5aWJwR3VrTTdSZk1HcVdaV1hucUpMd1gtdERpOXdsUGFQNTRlNGZ3MURUZ1FTTQ?oc=5</link>
@@ -184,6 +184,14 @@
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
+      <title>Dolores Hanson Obituary - North Little Rock, AR - Dignity Memorial</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFlyTGRmQ3ZDSXRKNGNJTlVRN2FTZnluV3JSU05DOGZnLURkbFBWZmZOSVF5Q0kxQzZPMVFfeEwzOWtHd1hXbV84azF2NU5xSW1UZVZGM3Z0bjZUTng3ZzFCajhCV0xlRkl5b2xHT0MxQmRpbUVaQUlCd29SaDBmbHJRaVE0cmVjV3BuNjh4VDU?oc=5</link>
+      <guid isPermaLink="false">dogtown-doloreshansonobituarynorthlittlerockardignitymemorial</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 +0000</pubDate>
+      <category>Obituaries</category>
+      <description>Source: Dignity Memorial</description>
+    </item>
+    <item>
       <title>4 people killed, 6 others hurt in crashes on Arkansas roads - The Arkansas Democrat-Gazette</title>
       <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQaTFzWV9UMkJCN1FMMEhFTUJkeEk0NGR3LWJ2WVZYakhxS3pyQzh3eGM3MnQ4QWpzbjU5ZUdUOFpMbEcxSmdJOGIzWnVsODF1WUZjTHM1U3hyMjhOVDFiYkxUU3QxUmFVMTdJcEc4YUhrbFZQZUF3blMtRUtkZ1lCZm5EM1RESmtyV0JubW5BR3duYU5pQXlz?oc=5</link>
       <guid isPermaLink="false">dogtown-4peoplekilled6othershurtincrashesonarkansasroadsthearkansasdemocratgazette</guid>
@@ -222,14 +230,6 @@
       <pubDate>Wed, 19 Aug 2026 04:27:00 +0000</pubDate>
       <category>Major News</category>
       <description>Source: The Arkansas Democrat-Gazette</description>
-    </item>
-    <item>
-      <title>Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - KARK</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTdSOWJIeS1qV0lSdlRCdHJuUXNybXI3RkdSR2pZMFBxaWdEVFl1ZGZRcnE4WVpyTldUdEJCM2p5R1pmVTk5SkF2ZWdjck1nRFQtLVNzMlBER3Z1MmxQX2l4MFFnRTJJenFJRW9CMk0yQW9BSTNrNzkwQ0dVNjVSX3ZXMXJ1a1IwNXRNeDliVjFXWVRlUlNwejFTMWlJY1hmbW9zdWN3c3hidWl2b2t3djJrcFNzR3JZ?oc=5</link>
-      <guid isPermaLink="false">dogtown-caterpillarnorthlittlerockinvestinganadditional3millionforarkansasjobskark</guid>
-      <pubDate>Mon, 17 Aug 2026 22:33:48 +0000</pubDate>
-      <category>Major News</category>
-      <description>Source: KARK</description>
     </item>
   </channel>
 </rss>
