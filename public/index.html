@@ -1043,12 +1043,9 @@ textarea.input { min-height: 90px; resize: vertical; }
       <p style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:40px 0 0">Ground rules</p>
       <p style="font-size:15.5px;line-height:1.65;color:color-mix(in srgb, var(--color-text) 78%, transparent);margin:10px 0 0">Stick to what you saw or can point to. No home addresses, phone numbers, or private info about anyone. No threats. Opinion is welcome when it's labeled as opinion. Full rules are in the <a href="#legal">Terms</a>.</p>
 
-      <form id="tip-form" action="https://formsubmit.co/tips@dirtydogtown.news" method="POST" style="margin-top:40px;display:grid;gap:22px">
-        <input type="hidden" name="_subject" value="New tip — dirtydogtown.news">
-        <input type="hidden" name="_template" value="table">
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_next" value="https://dirtydogtown.news/thanks">
+      <form id="tip-form" method="post" action="/thanks" style="margin-top:40px;display:grid;gap:22px">
         <input type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
+        <noscript><p style="font-size:14px;line-height:1.6;margin:0">The tip form needs JavaScript. You can email <a href="mailto:tips@dirtydogtown.news">tips@dirtydogtown.news</a> instead.</p></noscript>
         <div class="field">
           <label for="what">What happened?</label>
           <textarea class="input" id="what" name="what" required="" placeholder="Who, what, where, when. Photos can be attached after the site launches." style="min-height:150px"></textarea>
@@ -1237,54 +1234,7 @@ textarea.input { min-height: 90px; resize: vertical; }
   window.addEventListener('hashchange', route);
   route();
 
-  var form = document.getElementById('tip-form');
-  var status = document.getElementById('tip-status');
-  if (form && status && window.fetch) {
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      var button = form.querySelector('button[type="submit"]');
-      button.disabled = true;
-      button.textContent = 'Filing\u2026';
-      fetch('https://formsubmit.co/ajax/tips@dirtydogtown.news', {
-        method: 'POST',
-        body: new FormData(form),
-        headers: { 'Accept': 'application/json' }
-      }).then(function (r) {
-        return r.json().catch(function () { return {}; }).then(function (data) {
-          var ok = r.ok || data.success === 'true' || data.success === true;
-          if (!ok) {
-            var err = new Error('HTTP ' + r.status);
-            err.detail = data && data.message ? String(data.message) : '';
-            throw err;
-          }
-          return data;
-        });
-      }).then(function () {
-        form.reset();
-        status.innerHTML = '<strong style="font-style:normal;font-weight:600">Tip received.</strong> A moderator will review it. If it runs, it runs unsigned.';
-        status.hidden = false;
-      }).catch(function (e) {
-        status.textContent = '';
-        var b = document.createElement('strong');
-        b.style.cssText = 'font-style:normal;font-weight:600';
-        b.textContent = 'Couldn\u2019t send just now.';
-        status.appendChild(b);
-        if (e && e.detail) {
-          status.appendChild(document.createTextNode(' The form service says: \u201C' + e.detail + '\u201D.'));
-        }
-        status.appendChild(document.createTextNode(' You can also email '));
-        var a = document.createElement('a');
-        a.href = 'mailto:tips@dirtydogtown.news';
-        a.textContent = 'tips@dirtydogtown.news';
-        status.appendChild(a);
-        status.appendChild(document.createTextNode(' directly.'));
-        status.hidden = false;
-      }).then(function () {
-        button.disabled = false;
-        button.textContent = 'File it';
-      });
-    });
-  }
+  // Tip submission lives in comments.js (Firestore).
 })();
 </script>
 <script src="/firebase-config.js"></script>

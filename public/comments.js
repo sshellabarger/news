@@ -13,22 +13,34 @@
 
 const config = window.DD_FIREBASE_CONFIG;
 const threads = document.querySelectorAll(".dd-comments");
-if (threads.length) {
-  if (!config || !config.apiKey || config.apiKey.indexOf("REPLACE") !== -1) {
-    threads.forEach((t) => {
-      const note = t.querySelector(".dd-note");
-      const form = t.querySelector(".dd-comment-form");
-      if (form) form.hidden = true;
-      const p = document.createElement("p");
-      p.className = "dd-comment";
-      p.textContent =
-        "Comments open soon. Meanwhile, send thoughts to tips@dirtydogtown.news.";
-      t.querySelector(".dd-thread").appendChild(p);
-      if (note) note.textContent = "";
+const tipForm = document.getElementById("tip-form");
+const configured = config && config.apiKey && config.apiKey.indexOf("REPLACE") === -1;
+
+if (!configured) {
+  threads.forEach((t) => {
+    const note = t.querySelector(".dd-note");
+    const form = t.querySelector(".dd-comment-form");
+    if (form) form.hidden = true;
+    const p = document.createElement("p");
+    p.className = "dd-comment";
+    p.textContent =
+      "Comments open soon. Meanwhile, send thoughts to tips@dirtydogtown.news.";
+    t.querySelector(".dd-thread").appendChild(p);
+    if (note) note.textContent = "";
+  });
+  if (tipForm) {
+    tipForm.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const status = document.getElementById("tip-status");
+      if (status) {
+        status.textContent =
+          "The tip line is warming up — email tips@dirtydogtown.news meanwhile.";
+        status.hidden = false;
+      }
     });
-  } else {
-    boot().catch((err) => console.warn("[comments]", err));
   }
+} else if (threads.length || tipForm) {
+  boot().catch((err) => console.warn("[comments]", err));
 }
 
 async function boot() {
@@ -41,6 +53,8 @@ async function boot() {
     addDoc, serverTimestamp,
   } = fs;
   const db = getFirestore(initializeApp(config));
+
+  initTips(db, { collection, addDoc, serverTimestamp });
 
   for (const t of threads) {
     const slug = t.getAttribute("data-story");
@@ -98,6 +112,47 @@ async function boot() {
       button.disabled = false;
     });
   }
+}
+
+function initTips(db, fs) {
+  const form = document.getElementById("tip-form");
+  if (!form) return;
+  const status = document.getElementById("tip-status");
+
+  function say(html) {
+    if (!status) return;
+    status.innerHTML = html;
+    status.hidden = false;
+  }
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    if (form.elements._honey && form.elements._honey.value) return; // bot trap
+    const what = form.elements.what.value.trim();
+    if (what.length < 3) return;
+    const button = form.querySelector('button[type="submit"]');
+    button.disabled = true;
+    button.textContent = "Filing…";
+    try {
+      await fs.addDoc(fs.collection(db, "tips"), {
+        what: what.slice(0, 5000),
+        where: (form.elements.where.value || "").trim().slice(0, 200),
+        when: (form.elements.when.value || "").trim().slice(0, 200),
+        cat: (form.elements.cat.value || "").slice(0, 60),
+        contact: (form.elements.contact.value || "").trim().slice(0, 254),
+        createdAt: fs.serverTimestamp(),
+      });
+      form.reset();
+      say('<strong style="font-style:normal;font-weight:600">Tip received.</strong> ' +
+          "A moderator will review it. If it runs, it runs unsigned.");
+    } catch (err) {
+      console.warn("[tips]", err);
+      say('<strong style="font-style:normal;font-weight:600">Couldn\u2019t file that just now.</strong> ' +
+          'Try again in a minute, or email <a href="mailto:tips@dirtydogtown.news">tips@dirtydogtown.news</a>.');
+    }
+    button.disabled = false;
+    button.textContent = "File it";
+  });
 }
 
 function render(c) {

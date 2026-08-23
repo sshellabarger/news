@@ -34,14 +34,15 @@
 <body>
 <main>
   <h1>Dirty Dogtown — moderation</h1>
-  <p class="sub">Comments desk · <a href="/">back to the site</a></p>
+  <p class="sub">Tips &amp; comments desk · <a href="/">back to the site</a></p>
   <div id="status">Loading…</div>
   <div class="row" id="authrow" hidden>
     <button class="primary" id="signin">Sign in with Google</button>
     <button id="signout" hidden>Sign out</button>
   </div>
-  <section id="pending-sec" hidden><h2>Pending</h2><div id="pending"></div></section>
-  <section id="approved-sec" hidden><h2>Approved</h2><div id="approved"></div></section>
+  <section id="tips-sec" hidden><h2>Tip line</h2><div id="tips"></div></section>
+  <section id="pending-sec" hidden><h2>Pending comments</h2><div id="pending"></div></section>
+  <section id="approved-sec" hidden><h2>Approved comments</h2><div id="approved"></div></section>
 </main>
 <script src="/firebase-config.js"></script>
 <script type="module">
@@ -77,7 +78,7 @@ async function boot() {
   onAuthStateChanged(a, async (user) => {
     $("signin").hidden = !!user;
     $("signout").hidden = !user;
-    $("pending-sec").hidden = $("approved-sec").hidden = true;
+    $("tips-sec").hidden = $("pending-sec").hidden = $("approved-sec").hidden = true;
     if (!user) { $("status").textContent = "Sign in to moderate comments."; return; }
     const gate = await getDoc(doc(db, "admins", user.uid)).catch(() => null);
     if (!gate || !gate.exists()) {
@@ -98,6 +99,14 @@ async function boot() {
   });
 
   async function refresh() {
+    const tbox = $("tips");
+    tbox.textContent = "Loading…";
+    const tsnap = await getDocs(collection(db, "tips"));
+    const tdocs = tsnap.docs.sort((x, y) =>
+      (y.data().createdAt?.seconds || 0) - (x.data().createdAt?.seconds || 0));
+    tbox.textContent = tdocs.length ? "" : "No tips on the line.";
+    $("tips-sec").hidden = false;
+    for (const d of tdocs) tbox.appendChild(tipCard(d));
     for (const status of ["pending", "approved"]) {
       const box = $(status);
       box.textContent = "Loading…";
@@ -109,6 +118,39 @@ async function boot() {
       $(status + "-sec").hidden = false;
       for (const d of docs) box.appendChild(card(d, status));
     }
+  }
+
+  function tipCard(d) {
+    const t = d.data();
+    const el = document.createElement("div");
+    el.className = "card";
+    const when = t.createdAt?.seconds
+      ? new Date(t.createdAt.seconds * 1000).toLocaleString("en-US") : "—";
+    const meta = document.createElement("p");
+    meta.className = "meta";
+    meta.textContent = [t.cat || "uncategorized", t.when, when]
+      .filter(Boolean).join(" · ");
+    el.appendChild(meta);
+    const text = document.createElement("p");
+    text.className = "text";
+    text.textContent = t.what || "";
+    el.appendChild(text);
+    for (const [label, val] of [["Where", t.where], ["Contact", t.contact]]) {
+      if (!val) continue;
+      const line = document.createElement("p");
+      line.className = "meta";
+      line.textContent = label + ": " + val;
+      el.appendChild(line);
+    }
+    const row = document.createElement("div");
+    row.className = "row";
+    row.appendChild(btn("Delete", "danger", async () => {
+      if (confirm("Delete this tip permanently?")) {
+        await deleteDoc(d.ref); await refresh();
+      }
+    }));
+    el.appendChild(row);
+    return el;
   }
 
   function card(d, status) {

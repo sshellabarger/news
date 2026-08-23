@@ -33,6 +33,28 @@ service cloud.firestore {
       allow delete: if isAdmin();
     }
 
+    // News tips from the Send-a-Tip form. Create-only from the public
+    // site with every field present (empty string when blank); only
+    // moderators can read or clear them, from /admin.
+    match /tips/{tipId} {
+      allow create: if request.resource.data.keys().hasOnly(
+            ['what', 'where', 'when', 'cat', 'contact', 'createdAt'])
+        && request.resource.data.what is string
+        && request.resource.data.what.size() >= 3
+        && request.resource.data.what.size() <= 5000
+        && request.resource.data.where is string
+        && request.resource.data.where.size() <= 200
+        && request.resource.data.when is string
+        && request.resource.data.when.size() <= 200
+        && request.resource.data.cat is string
+        && request.resource.data.cat.size() <= 60
+        && request.resource.data.contact is string
+        && request.resource.data.contact.size() <= 254
+        && request.resource.data.createdAt == request.time;
+      allow read, delete: if isAdmin();
+      allow update: if false;
+    }
+
     // Daily-digest signups. Create-only from the public site; the digest
     // sender reads them with service-account credentials (bypasses rules),
     // and moderators can review or prune from the console.

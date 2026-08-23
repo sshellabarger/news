@@ -23,7 +23,7 @@ firebase deploy                         # site + Firestore rules (comments)
 | Piece | Where | Status |
 | --- | --- | --- |
 | Static, SEO-complete front page | `public/index.html` | Works on deploy |
-| Send-a-Tip form (FormSubmit, free) | `public/index.html` | Needs one-click activation (below) |
+| Send-a-Tip form (Firestore) | `public/index.html` + `/admin` | Works once rules are deployed |
 | Hourly news wire | `.github/workflows/news-wire.yml` + `tools/fetch_wire.py` | Works once pushed to GitHub; auto-deploys with secrets (below) |
 | Public comments + moderation | `public/comments.js`, `public/admin.html`, `firestore.rules` | Needs Firebase config (below) |
 
@@ -48,18 +48,14 @@ After the first deploy: add the site in
 property `dirtydogtown.news`), submit `https://dirtydogtown.news/sitemap.xml`,
 and do the same in Bing Webmaster Tools.
 
-## Send-a-Tip form (FormSubmit — free, no account)
+## Send-a-Tip form (Firestore)
 
-The form posts to [FormSubmit](https://formsubmit.co/) at
-`tips@dirtydogtown.news`, with an AJAX submit, honeypot spam trap, and a
-non-JavaScript fallback that redirects to `/thanks`.
-
-To activate: submit the form once after deploying. FormSubmit emails
-`tips@dirtydogtown.news` a confirmation link — click it and every later tip
-lands in that inbox. (If `tips@` isn't a live mailbox yet, swap both
-`formsubmit.co/...` URLs in `public/index.html` to an inbox you control.)
-Optional: after activation FormSubmit gives you a random alias string you can
-use in place of the address to keep scrapers off it.
+Tips post straight to the Firestore `tips` collection — same free
+infrastructure as comments, no third-party form service, no email
+activation. Rules allow create-only from the public site (validated
+fields, honeypot bot trap in the page); only moderators can read them.
+Review and clear tips at `/admin` under **Tip line**. The published
+`tips@dirtydogtown.news` address remains as a manual fallback.
 
 ## Hourly news wire
 
