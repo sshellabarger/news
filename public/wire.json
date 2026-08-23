@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T04:41:24.543539-05:00",
+ "updated": "2026-08-23T05:38:18.858547-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -25,18 +25,6 @@
    "comments": [],
    "first_seen": 1787468388.929835,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas secretary of state’s petition fraud investigator leaves after 9 months over lack of ‘action’ - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmphTzZRTmJBRE5pb2V0Nk40dVI0Q0xQcnpXYlBLdXJmWXNDY1pEZ3RwS3FsemRCQTlBbG5JZWRQM0ZFXzllQzVTQWU4WHBndEdQTzdQd1ZrajNGb3h4R3BLbXkwOGY2RjdJQWllZEhfTXdtS0w4Q2JHRnJWZnp6STk1OHlmV0xDQU90cnpWU1ZidHFMbHM0?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787455800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787478084.543539,
-   "section": "crime"
   },
   {
    "type": "article",
@@ -336,6 +324,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787450319.447882,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock, North Little Rock use 2 companies for their dozens of license plate cameras - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGsyZG9MVU5udkVzRXk0eVltTmE3b2R5enpacndhWHhXdWJMWmVWdlktWjVFM05FU1YwZ0xtQ3hwc0tvSlVEd0ItdDFQck1ZRm1hTlpjc2kzQVhvTXlZTjlMemd0Qnp0RHdISENJaS04TUdnaXY1aHBiQlNqR0F3cHA3STktbzVBQ0R4Y2FZM1EzcUpHLUQ5R19QSVE2cnM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1786849200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787481498.858547,
    "section": "major"
   }
  ]
