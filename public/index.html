@@ -679,11 +679,15 @@ textarea.input { min-height: 90px; resize: vertical; }
 <nav class="nav" aria-label="Site">
   <span class="nav-brand">Dirty Dogtown</span>
   <a href="#feed" data-nav="feed" aria-current="page" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">The Feed</a>
+  <a href="/morgue" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">The Morgue</a>
   <a href="#legal" data-nav="legal" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">Terms &amp; Legal</a>
+  <input class="input" type="search" id="site-search" placeholder="Search the news…" aria-label="Search the news" autocomplete="off" style="width:190px;min-height:32px;font-size:13px">
   <a href="#submit" class="btn btn-primary">Send a tip</a>
 </nav>
 
 <main style="max-width:1140px;margin:0 auto;padding:0 clamp(20px,5vw,64px)">
+
+  <section id="search-results" hidden aria-label="Search results" style="padding:clamp(24px,4vw,40px) 0 0"></section>
 
   <header style="padding:clamp(36px,6vw,64px) 0 34px">
     <h1 style="font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-size:clamp(48px,8vw,92px);line-height:1;letter-spacing:-0.02em;margin:0 0 0 -0.035em"><span class="cmyk-head"><span class="paper">Dirty Dogtown</span><span class="plate plate-c" aria-hidden="true">Dirty Dogtown</span><span class="plate plate-m" aria-hidden="true">Dirty Dogtown</span><span class="plate plate-y" aria-hidden="true">Dirty Dogtown</span></span></h1>
@@ -692,9 +696,9 @@ textarea.input { min-height: 90px; resize: vertical; }
 
   <div style="border-top:2px solid var(--color-text);border-bottom:1px solid var(--color-text);height:5px"></div>
   <p style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px 28px;margin:0;padding:12px 0;font-size:13px;line-height:1.4;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent)">
-    <span>№ 001</span>
+    <span id="issue-no">№ 001 · Updated —</span>
     <span>North Little Rock, Arkansas</span>
-    <span>Wednesday, August 20, 2026</span>
+    <span id="edition-date">Wednesday, August 20, 2026</span>
     <span>Tips: tips@dirtydogtown.news</span>
   </p>
   <div style="border-top:1px solid var(--color-text)"></div>
@@ -711,7 +715,7 @@ textarea.input { min-height: 90px; resize: vertical; }
     <section id="view-feed" aria-label="The Feed" style="padding:clamp(40px,6vw,60px) 0 0">
       <div style="display:flex;justify-content:space-between;gap:20px;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent)">
         <span>The Feed</span>
-        <span>№ 001 · Newest first</span>
+        <span id="feed-issue">№ 001 · Newest first</span>
       </div>
 
       <article id="story-travelers-lease" style="margin-top:38px">
@@ -1066,6 +1070,7 @@ textarea.input { min-height: 90px; resize: vertical; }
         <a href="#feed" style="font-size:13px">The Feed</a>
         <a href="#submit" style="font-size:13px">Send a Tip</a>
         <a href="#legal" style="font-size:13px">Terms &amp; Legal</a>
+        <a href="/morgue" style="font-size:13px">The Morgue (archive)</a>
       </div>
     </div>
     <div style="flex:1 1 220px" id="subscribe">
@@ -1153,5 +1158,6 @@ textarea.input { min-height: 90px; resize: vertical; }
 <script src="/firebase-config.js"></script>
 <script type="module" src="/comments.js"></script>
 <script type="module" src="/subscribe.js"></script>
+<script defer src="/search.js"></script>
 </body>
 </html>

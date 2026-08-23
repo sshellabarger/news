@@ -92,6 +92,21 @@ Each item shows when the source **Filed** it and when the wire first
 items (5+ Reddit comments, top 3) get a **Hot story** tag; curated stories
 with 3+ approved on-site comments get a **Popular** tag automatically.
 
+## Daily issue, The Morgue, and search
+
+- The masthead's **issue number advances daily** (№ 001 = launch day,
+  Aug 20 2026 — change `ISSUE_EPOCH` in `tools/fetch_wire.py` to renumber)
+  and shows the last-updated time next to it; the dateline date stays
+  current automatically.
+- The front page carries roughly the **last two weeks** (`FRESH_DAYS`).
+  Everything the wire has ever seen lives permanently in
+  `public/archive.json` and renders month-by-month at **/morgue** ("The
+  Morgue" — newsroom slang for the archive room). Nothing is lost when a
+  story ages off the front page.
+- The **search box** in the nav (front page and Morgue) searches the full
+  archive client-side — title, snippet, source, and section — newest
+  first, no server or account needed.
+
 ## Subscriptions
 
 **RSS**: the fetcher regenerates `public/feed.xml` hourly — linked from the

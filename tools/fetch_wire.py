@@ -11,10 +11,13 @@ when this wire first pulled it, and the most-discussed items are labeled
 "Hot story".
 
 Writes:
-  - public/wire.json                  (structured data, newest first)
-  - public/index.html                 (renders sections between WIRE markers,
-                                       refreshes the JSON-LD dateModified)
-  - public/feed.xml                   (RSS 2.0 feed of the wire)
+  - public/wire.json                  (this sweep, newest first)
+  - public/archive.json               (permanent corpus: The Morgue + search)
+  - public/index.html                 (fresh stories only, between WIRE markers;
+                                       daily issue number, updated stamps,
+                                       JSON-LD dateModified)
+  - public/morgue.html                (month-grouped archive, MORGUE markers)
+  - public/feed.xml                   (RSS 2.0 feed of the fresh wire)
   - public/sitemap.xml                (bumps <lastmod>)
 
 Stdlib only — runs the same under GitHub Actions and locally:
@@ -34,7 +37,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 
 try:
@@ -54,6 +57,15 @@ COMMENTS_PER_POST = 2
 POSTS_WITH_COMMENTS = 5
 HOT_MIN_COMMENTS = 5   # a post needs at least this much discussion...
 HOT_MAX_LABELS = 3     # ...and only the top few get the label
+
+# The daily issue number counts from edition № 001 on launch day.
+ISSUE_EPOCH = date(2026, 8, 20)
+
+# The front page carries only recent stories; everything older lives in
+# The Morgue (/morgue), which keeps every item the wire has ever carried.
+FRESH_DAYS = 14
+ARCHIVE_KEEP = 2000    # corpus cap in archive.json (search + morgue)
+MORGUE_RENDER = 600    # rows rendered on the morgue page
 
 # Section caps — Major News keeps the majority of the page.
 SECTION_CAPS = {"major": 16, "crime": 6, "sports": 6, "obits": 6}
@@ -367,6 +379,67 @@ def render(items: list[dict], now: datetime) -> str:
     return "\n        ".join(out)
 
 
+def item_stamp(it: dict) -> float:
+    return float(it.get("published") or it.get("first_seen") or 0)
+
+
+def update_archive(items: list[dict], path: str, now: datetime) -> list[dict]:
+    """Merge this sweep into the permanent corpus (The Morgue + search).
+
+    Items never leave when they drop off the live wire; re-seen items keep
+    their original first_seen and their best discussion count.
+    """
+    by_key: dict[str, dict] = {}
+    if os.path.exists(path):
+        try:
+            for it in json.load(open(path, encoding="utf-8")).get("items", []):
+                by_key[item_key(it)] = it
+        except (json.JSONDecodeError, OSError):
+            pass
+    for it in items:
+        rec = {k: it.get(k) for k in ("type", "title", "url", "source", "published",
+                                      "first_seen", "section", "snippet",
+                                      "discussion_url", "num_comments")}
+        old = by_key.get(item_key(it))
+        if old:
+            if old.get("first_seen"):
+                rec["first_seen"] = min(old["first_seen"], rec["first_seen"] or old["first_seen"])
+            rec["num_comments"] = max(int(old.get("num_comments") or 0),
+                                      int(rec.get("num_comments") or 0)) or None
+        by_key[item_key(it)] = rec
+    merged = sorted(by_key.values(), key=item_stamp, reverse=True)[:ARCHIVE_KEEP]
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump({"updated": now.isoformat(), "items": merged}, f,
+                  ensure_ascii=False, indent=1)
+    return merged
+
+
+def render_morgue(merged: list[dict], now: datetime) -> str:
+    """Month-grouped rows for the archive page."""
+    if not merged:
+        return ('<p style="font-size:15.5px;color:color-mix(in srgb, var(--color-text) '
+                '78%, transparent)">The morgue is empty — stories land here as they '
+                'age off the front page.</p>')
+    out, current_month = [], None
+    for it in merged[:MORGUE_RENDER]:
+        dt = datetime.fromtimestamp(item_stamp(it), tz=CENTRAL)
+        month = dt.strftime("%B %Y")
+        if month != current_month:
+            current_month = month
+            out.append(f'<h2 class="morgue-month">{esc(month)}</h2>')
+        sec = SECTION_FEED_NAMES.get(it.get("section", "major"), "Major News")
+        row = (f'<p class="morgue-row"><span class="m-date">{esc(dt.strftime("%b"))} {dt.day}</span>'
+               f'<span class="m-sec">{esc(sec)}</span>'
+               f'<a href="{esc(it["url"])}" rel="noopener">{esc(it["title"])}</a>'
+               f'<span class="m-src">{esc(it.get("source") or "")}</span></p>')
+        out.append(row)
+    if len(merged) > MORGUE_RENDER:
+        out.append(f'<p class="morgue-note">Showing the latest {MORGUE_RENDER} of '
+                   f'{len(merged)} archived items — the full record stays in '
+                   f'<a href="/archive.json">archive.json</a>.</p>')
+    return "\n      ".join(out)
+
+
 def write_feed(items: list[dict], now: datetime, path: str) -> None:
     """RSS 2.0 feed of the wire — the site's subscribable news feed."""
     rows = []
@@ -431,23 +504,53 @@ def main() -> int:
     with open(wire_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
 
-    if items:
-        write_feed(items, now, os.path.join(PUB, "feed.xml"))
+    # The permanent corpus: nothing drops off, it just moves to The Morgue.
+    merged = update_archive(items, os.path.join(PUB, "archive.json"), now)
+
+    # The front page carries only recent stories.
+    cutoff = now.timestamp() - FRESH_DAYS * 86400
+    fresh = [i for i in items if item_stamp(i) >= cutoff]
+
+    if fresh:
+        write_feed(fresh, now, os.path.join(PUB, "feed.xml"))
+
+    stamp = when_label(now.timestamp(), now) + " CT"
+    issue = f"№ {(now.date() - ISSUE_EPOCH).days + 1:03d}"
 
     index_path = os.path.join(PUB, "index.html")
     page = open(index_path, encoding="utf-8").read()
-    block = "<!-- WIRE:START -->\n        " + render(items, now) + "\n        <!-- WIRE:END -->"
+    block = "<!-- WIRE:START -->\n        " + render(fresh, now) + "\n        <!-- WIRE:END -->"
     page, n = re.subn(r"<!-- WIRE:START -->.*?<!-- WIRE:END -->", lambda _: block, page, flags=re.S)
     if n != 1:
         print("[wire] WIRE markers missing from index.html", file=sys.stderr)
         return 1
-    stamp = when_label(now.timestamp(), now) + " CT"
     page = re.sub(r'(<span id="wire-updated">)[^<]*(</span>)',
                   lambda m: m.group(1) + "Checked hourly · " + stamp + m.group(2), page)
+    # daily issue number + live update stamp in the masthead
+    page = re.sub(r'(<span id="issue-no">)[^<]*(</span>)',
+                  lambda m: m.group(1) + issue + " · Updated " + stamp + m.group(2), page)
+    page = re.sub(r'(<span id="edition-date">)[^<]*(</span>)',
+                  lambda m: m.group(1) + f"{now.strftime('%A, %B')} {now.day}, {now.year}" + m.group(2), page)
+    page = re.sub(r'(<span id="feed-issue">)[^<]*(</span>)',
+                  lambda m: m.group(1) + issue + " · Newest first" + m.group(2), page)
     # keep the structured data honest: the page really did change
     page = re.sub(r'("dateModified":\s*")\d{4}-\d{2}-\d{2}(")',
                   lambda m: m.group(1) + now.strftime("%Y-%m-%d") + m.group(2), page)
     open(index_path, "w", encoding="utf-8").write(page)
+
+    morgue_path = os.path.join(PUB, "morgue.html")
+    if os.path.exists(morgue_path):
+        mp = open(morgue_path, encoding="utf-8").read()
+        mblock = ("<!-- MORGUE:START -->\n      " + render_morgue(merged, now)
+                  + "\n      <!-- MORGUE:END -->")
+        mp, mn = re.subn(r"<!-- MORGUE:START -->.*?<!-- MORGUE:END -->",
+                         lambda _: mblock, mp, flags=re.S)
+        mp = re.sub(r'(<span id="morgue-updated">)[^<]*(</span>)',
+                    lambda m: m.group(1) + f"{len(merged)} stories · Updated " + stamp + m.group(2), mp)
+        if mn == 1:
+            open(morgue_path, "w", encoding="utf-8").write(mp)
+        else:
+            print("[wire] MORGUE markers missing from morgue.html", file=sys.stderr)
 
     sitemap_path = os.path.join(PUB, "sitemap.xml")
     if os.path.exists(sitemap_path):
@@ -456,9 +559,10 @@ def main() -> int:
                     "<lastmod>" + now.strftime("%Y-%m-%d") + "</lastmod>", sm)
         open(sitemap_path, "w", encoding="utf-8").write(sm)
 
-    counts = {k: len(v) for k, v in split_sections(items).items()}
-    print(f"[wire] {len(items)} items | sections {counts} | "
-          f"hot {sum(1 for i in items if i.get('hot'))}")
+    counts = {k: len(v) for k, v in split_sections(fresh).items()}
+    print(f"[wire] {issue} | {len(fresh)} fresh of {len(items)} fetched | "
+          f"archive {len(merged)} | sections {counts} | "
+          f"hot {sum(1 for i in fresh if i.get('hot'))}")
     return 0
 
 
