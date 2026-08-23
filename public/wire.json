@@ -1,7 +1,19 @@
 {
- "updated": "2026-08-23T01:59:48.929835-05:00",
+ "updated": "2026-08-23T02:46:12.930618-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "ANNIVERSARIES - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lNGVENDl4aFhFSWJMajFxcUhEaVVHN3Nhei12N1BBTjRiRy1PSE1XV2tVbW8wb2d6WGREOWM2d2VHdVNKTFhrNDl0ZnZDajFFUzVvSWJOVXBtVGhhV2NqNFJ4VWppS2x6Y2YyT0ZHRQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787468940.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787471172.930618,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "JurLine JoVanna Willie Lee Gilliam KayLee Akayla Marie Montgomery Obituary - ALEXANDER, AR - Dignity Memorial",
@@ -324,18 +336,6 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787450319.447882,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock, North Little Rock use 2 companies for their dozens of license plate cameras - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGsyZG9MVU5udkVzRXk0eVltTmE3b2R5enpacndhWHhXdWJMWmVWdlktWjVFM05FU1YwZ0xtQ3hwc0tvSlVEd0ItdDFQck1ZRm1hTlpjc2kzQVhvTXlZTjlMemd0Qnp0RHdISENJaS04TUdnaXY1aHBiQlNqR0F3cHA3STktbzVBQ0R4Y2FZM1EzcUpHLUQ5R19QSVE2cnM?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1786849200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787468388.929835,
    "section": "major"
   }
  ]
