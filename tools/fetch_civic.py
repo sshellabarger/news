@@ -238,22 +238,29 @@ def merge_meetings(*lists: list[dict]) -> list[dict]:
 # ---------------------------------------------------------------- agendas ---
 
 def agenda_links(src: str, base: str, date_tokens: set[str] | None = None) -> list[str]:
-    """Hrefs whose URL or link text mentions an agenda, PDFs first.
+    """Hrefs whose link text or URL *path* mentions an agenda, PDFs first.
 
-    With date_tokens, the URL must also carry one of the tokens — used on
-    listing pages that link many meetings' agendas at once.
+    Matching only text and path matters: calendar-export links (Google
+    Calendar templates, .ics feeds) smuggle the whole event description —
+    including the word "agenda" — into their query strings, and must never
+    become candidates. With date_tokens, the URL must also carry one of the
+    tokens — used on listing pages that link many meetings' agendas at once.
     """
     found: list[str] = []
     for m in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.{0,160}?)</a>',
                          src, re.S | re.I):
         href = html.unescape(m.group(1))
         text = re.sub(r"<[^>]+>", " ", m.group(2)).lower()
-        h = urllib.parse.unquote(href).lower()
-        if "agenda" not in h and "agenda" not in text:
-            continue
-        if date_tokens and not any(t in h for t in date_tokens):
-            continue
         url = urllib.parse.urljoin(base, href)
+        u_low = urllib.parse.unquote(url).lower()
+        if (".ics" in u_low or "ical=1" in u_low or "action=template" in u_low
+                or "/calendar/event" in u_low):
+            continue
+        path = urllib.parse.unquote(urllib.parse.urlsplit(url).path).lower()
+        if "agenda" not in path and "agenda" not in text:
+            continue
+        if date_tokens and not any(t in u_low for t in date_tokens):
+            continue
         if url not in found:
             found.append(url)
     return sorted(found, key=lambda u: 0 if u.lower().endswith(".pdf") else 1)
