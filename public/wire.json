@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T15:47:18.707422-05:00",
+ "updated": "2026-08-24T16:01:33.393082-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -37,6 +37,18 @@
    "comments": [],
    "first_seen": 1787597892.63388,
    "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Drake Spotted \"Fanning Out\" At An Ella Langley Concert - Hip-Hop Wired",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTRWZTUUU5S2Q5MXV5cUpIQVN4ZjhKRkl1Yy0zNXJMLVRnaDFKdmN0bEtxS2N0OUJSSG13ZE5mbjg5R3IyemRIQlpkRkRaU0x2amYxR3ZKREpmcExGUXpUMFlaOV9xcDV6bTQ1cGs0eGxMdmJxYUJxUDBQc1dRbQ?oc=5",
+   "source": "Hip-Hop Wired",
+   "published": 1787588902.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787605293.393082,
+   "section": "major"
   },
   {
    "type": "article",
@@ -96,6 +108,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787593573.961341,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "South heat wave to bring dozens of records this week - The Weather Channel",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2R5T1B5WjJsc28zUU91Wl9wNEVwODlRQUVIaUZ3c0dCU3FSZnRCNVgxNDE4WjJkcXRqM0Q5ODVidGtOME4wQWs3bFFDU29kZ2FTbl9MQXFPOXpNT2FMZ2dnNWZfWVY3YTR0MmU1OElPYjlBSm1oUTBEMUlhRkJrclNVeE1YTnlT?oc=5",
+   "source": "The Weather Channel",
+   "published": 1787529600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787605293.393082,
    "section": "major"
   },
   {
@@ -313,30 +337,6 @@
    "comments": [],
    "first_seen": 1787562197.454287,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Conway Man Killed in Interstate 40 Rollover in North Little Rock - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1c0Q2RUNkEtYXUxSWVBZTV1VXR3b0I0eTJQVk9aOXU1LXY2TG14MldEYWZpdWg3WWlCMGxOQmxyNU92a3BENW5FcV8yX28yeXBaeTJMbExMUnJhTG4tYmVBQlIzNEllNDk2YlFpUlZxdzdEVHVtYm16WEhpbG04UUd5RmJoN2lqMkdn?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1787182824.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787604438.707422,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - KARK",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTdSOWJIeS1qV0lSdlRCdHJuUXNybXI3RkdSR2pZMFBxaWdEVFl1ZGZRcnE4WVpyTldUdEJCM2p5R1pmVTk5SkF2ZWdjck1nRFQtLVNzMlBER3Z1MmxQX2l4MFFnRTJJenFJRW9CMk0yQW9BSTNrNzkwQ0dVNjVSX3ZXMXJ1a1IwNXRNeDliVjFXWVRlUlNwejFTMWlJY1hmbW9zdWN3c3hidWl2b2t3djJrcFNzR3JZ?oc=5",
-   "source": "KARK",
-   "published": 1787006028.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787604438.707422,
-   "section": "major"
   }
  ]
 }

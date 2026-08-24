@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T15:47:18.707422-05:00",
+ "updated": "2026-08-24T16:01:33.393082-05:00",
  "items": [
   {
    "type": "article",
@@ -33,6 +33,18 @@
    "published": 1787596920.0,
    "first_seen": 1787597892.63388,
    "section": "sports",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Drake Spotted \"Fanning Out\" At An Ella Langley Concert - Hip-Hop Wired",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTRWZTUUU5S2Q5MXV5cUpIQVN4ZjhKRkl1Yy0zNXJMLVRnaDFKdmN0bEtxS2N0OUJSSG13ZE5mbjg5R3IyemRIQlpkRkRaU0x2amYxR3ZKREpmcExGUXpUMFlaOV9xcDV6bTQ1cGs0eGxMdmJxYUJxUDBQc1dRbQ?oc=5",
+   "source": "Hip-Hop Wired",
+   "published": 1787588902.0,
+   "first_seen": 1787605293.393082,
+   "section": "major",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null
@@ -104,6 +116,18 @@
    "source": "The Arkansas Democrat-Gazette",
    "published": 1787534100.0,
    "first_seen": 1787544411.268169,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "South heat wave to bring dozens of records this week - The Weather Channel",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2R5T1B5WjJsc28zUU91Wl9wNEVwODlRQUVIaUZ3c0dCU3FSZnRCNVgxNDE4WjJkcXRqM0Q5ODVidGtOME4wQWs3bFFDU29kZ2FTbl9MQXFPOXpNT2FMZ2dnNWZfWVY3YTR0MmU1OElPYjlBSm1oUTBEMUlhRkJrclNVeE1YTnlT?oc=5",
+   "source": "The Weather Channel",
+   "published": 1787529600.0,
+   "first_seen": 1787605293.393082,
    "section": "major",
    "snippet": "",
    "discussion_url": "",
