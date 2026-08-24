@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>North Little Rock Civic Calendar — Council, School Board, Parks &amp; Library Meetings</title>
+<meta name="description" content="Every public meeting in North Little Rock, Arkansas in one place: City Council agendas and recaps, NLR School Board, Parks &amp; Recreation Commission, and the Library Board — when they meet, how to attend, and what happened.">
+<link rel="canonical" href="https://dirtydogtown.news/civic">
+<meta name="robots" content="index, follow">
+<meta name="geo.region" content="US-AR">
+<meta name="geo.placename" content="North Little Rock, Arkansas">
+<meta property="og:site_name" content="Dirty Dogtown">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://dirtydogtown.news/civic">
+<meta property="og:title" content="North Little Rock Civic Calendar — Dirty Dogtown">
+<meta property="og:description" content="City Council, School Board, Parks Commission, and Library Board: when they meet, how to attend, agendas and recaps.">
+<meta property="og:image" content="https://dirtydogtown.news/og-image.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Dirty Dogtown — The Wire" href="/feed.xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://dirtydogtown.news/civic#webpage",
+  "url": "https://dirtydogtown.news/civic",
+  "name": "North Little Rock Civic Calendar",
+  "description": "Public meetings in North Little Rock, Arkansas: City Council, School Board, Parks & Recreation Commission, and Library Board — schedules, agendas, and recaps.",
+  "isPartOf": { "@id": "https://dirtydogtown.news/#website" },
+  "about": { "@id": "https://dirtydogtown.news/#organization" },
+  "inLanguage": "en-US",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Dirty Dogtown", "item": "https://dirtydogtown.news/" },
+      { "@type": "ListItem", "position": 2, "name": "Civic Calendar", "item": "https://dirtydogtown.news/civic" }
+    ]
+  }
+}
+</script>
+<style>
+@font-face { font-family: 'Source Serif 4'; font-style: normal; font-weight: 400;
+  font-display: swap; src: url("/fonts/source-serif-4-normal-latin.woff2") format('woff2'); }
+@font-face { font-family: 'Source Serif 4'; font-style: normal; font-weight: 600;
+  font-display: swap; src: url("/fonts/source-serif-4-normal-latin.woff2") format('woff2'); }
+@font-face { font-family: 'Source Serif 4'; font-style: italic; font-weight: 400;
+  font-display: swap; src: url("/fonts/source-serif-4-italic-latin.woff2") format('woff2'); }
+:root {
+  --color-bg: #f3f2f2; --color-surface: #eae9e9; --color-text: #201e1d;
+  --color-accent: #0088b0; --color-accent-700: #006786; --color-accent-2: #d6006c;
+  --color-accent-2-100: #fff1f4; --color-accent-2-800: #790e3d;
+  --color-divider: color-mix(in srgb, #201e1d 16%, transparent);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--color-bg); color: var(--color-text);
+  font-family: "Source Serif 4", Georgia, serif; font-size: 16px; line-height: 1.6; }
+a { color: var(--color-accent-700); text-underline-offset: 3px; }
+main { max-width: 900px; margin: 0 auto; padding: 0 clamp(20px,5vw,64px) 64px; }
+.nav { display: flex; align-items: center; gap: 22px; padding: 15px clamp(20px,5vw,64px); flex-wrap: wrap; }
+.nav-brand { font-weight: 600; font-size: 18px; margin-right: auto; }
+.nav-brand a, .nav a { color: inherit; font-size: 14px; text-decoration: none; }
+.nav-brand a { font-size: 18px; }
+.nav a:hover { color: var(--color-accent-700); }
+h1 { font-size: clamp(34px,5vw,52px); line-height: 1.05; letter-spacing: -0.02em; margin: 34px 0 0; }
+.sub { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: color-mix(in srgb, var(--color-text) 70%, transparent); margin: 14px 0 0; }
+.rule { border-top: 2px solid var(--color-text); border-bottom: 1px solid var(--color-text); height: 5px; margin-top: 22px; }
+.lede { font-size: 17px; line-height: 1.65; max-width: 62ch; margin: 26px 0 0; }
+.section-head { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 400;
+  color: color-mix(in srgb, var(--color-text) 70%, transparent);
+  border-bottom: 1px solid var(--color-divider); padding-bottom: 8px; margin: 44px 0 0; }
+.meet-row { display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; margin: 0; padding: 10px 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--color-text) 7%, transparent); }
+.meet-row .m-date { font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; min-width: 92px;
+  color: color-mix(in srgb, var(--color-text) 70%, transparent); }
+.meet-row a { color: inherit; flex: 1 1 260px; }
+.meet-row .m-body { font-size: 13px; color: color-mix(in srgb, var(--color-text) 70%, transparent); }
+.body-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 28px clamp(24px,4vw,48px); margin-top: 22px; }
+.body-card h3 { font-size: 20px; line-height: 1.25; letter-spacing: -0.01em; margin: 0; }
+.body-card h3 a { color: inherit; text-decoration: none; }
+.body-card h3 a:hover { color: var(--color-accent-700); }
+.body-card p { font-size: 14.5px; line-height: 1.6; margin: 8px 0 0;
+  color: color-mix(in srgb, var(--color-text) 78%, transparent); }
+.tag { display: inline-block; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 3px 8px; border-radius: 2px; }
+.tag-accent-2 { background: var(--color-accent-2-100); color: var(--color-accent-2-800); }
+</style>
+</head>
+<body>
+<nav class="nav" aria-label="Site">
+  <span class="nav-brand"><a href="/">Dirty Dogtown</a></span>
+  <a href="/">The Feed</a>
+  <a href="/morgue">The Morgue</a>
+  <a href="/#submit">Send a Tip</a>
+</nav>
+<main>
+  <p class="sub"><a href="/">Dirty Dogtown</a> → Civic Calendar</p>
+  <h1>The Civic Calendar</h1>
+  <p class="sub">Every public meeting in Dogtown · Agendas before, recaps after</p>
+  <div class="rule"></div>
+  <p class="lede">Four public bodies decide most of what changes in North Little Rock — the
+    City Council, the School Board, the Parks &amp; Recreation Commission, and the Library
+    Board. Their meetings are open to everyone, but the agendas are scattered across four
+    websites and the minutes land weeks later. This page gathers it all: when each body
+    meets, what's on the docket, and what actually happened.</p>
+
+  <h2 class="section-head">Upcoming meetings</h2>
+  <!-- CIVIC:START -->
+  <p class="meet-row"><span class="m-date">Aug 24</span>
+    <a href="/civic/council-2026-08-24">City Council — regular meeting <span class="tag tag-accent-2">Tonight</span></a>
+    <span class="m-body">6:00 PM · City Hall Council Chambers, 300 Main St</span></p>
+  <p class="meet-row"><span class="m-date">Sep 3</span>
+    <a href="/civic/school-board">NLRSD Board of Education — Board workshop (first Thursday)</a>
+    <span class="m-body">5:30 PM · NLRSD Administration Building, 2400 Willow St</span></p>
+  <p class="meet-row"><span class="m-date">Sep 14</span>
+    <a href="/civic/council">City Council — regular meeting</a>
+    <span class="m-body">6:00 PM · City Hall Council Chambers, 300 Main St</span></p>
+  <p class="meet-row"><span class="m-date">Sep 17</span>
+    <a href="/civic/school-board">NLRSD Board of Education — Regular board meeting (third Thursday)</a>
+    <span class="m-body">5:30 PM · NLRSD Administration Building, 2400 Willow St</span></p>
+  <p class="meet-row"><span class="m-date">Sep 21</span>
+    <a href="/civic/parks-commission">Parks &amp; Recreation Commission — regular meeting</a>
+    <span class="m-body">5:00 PM · NLR Community Center, 2700 Willow St</span></p>
+  <p class="meet-row"><span class="m-date">Sep 28</span>
+    <a href="/civic/council">City Council — regular meeting</a>
+    <span class="m-body">6:00 PM · City Hall Council Chambers, 300 Main St</span></p>
+  <p class="meet-row"><span class="m-date">Oct 1</span>
+    <a href="/civic/school-board">NLRSD Board of Education — Board workshop (first Thursday)</a>
+    <span class="m-body">5:30 PM · NLRSD Administration Building, 2400 Willow St</span></p>
+  <p class="meet-row"><span class="m-date">Oct 12</span>
+    <a href="/civic/council">City Council — regular meeting</a>
+    <span class="m-body">6:00 PM · City Hall Council Chambers, 300 Main St</span></p>
+  <p class="meet-row"><span class="m-date">Oct 15</span>
+    <a href="/civic/school-board">NLRSD Board of Education — Regular board meeting (third Thursday)</a>
+    <span class="m-body">5:30 PM · NLRSD Administration Building, 2400 Willow St</span></p>
+  <p class="meet-row"><span class="m-date">Oct 19</span>
+    <a href="/civic/parks-commission">Parks &amp; Recreation Commission — regular meeting</a>
+    <span class="m-body">5:00 PM · NLR Community Center, 2700 Willow St</span></p>
+  <!-- CIVIC:END -->
+  <p style="font-size:13px;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:14px 0 0">
+    Dates follow each body's published regular schedule; holidays and special meetings can
+    move them. Always confirm against the official calendars linked on each body's page.</p>
+
+  <h2 class="section-head">The four bodies</h2>
+  <div class="body-grid">
+    <div class="body-card">
+      <h3><a href="/civic/council">City Council</a></h3>
+      <p>Second and fourth Mondays, 6:00 PM, City Hall Council Chambers, 300 Main St.
+        Budgets, ordinances, zoning, contracts — the big one.</p>
+    </div>
+    <div class="body-card">
+      <h3><a href="/civic/school-board">School Board</a></h3>
+      <p>NLRSD Board of Education: workshops first Thursdays, regular meetings third
+        Thursdays, 5:30 PM, Administration Building, 2400 Willow St.</p>
+    </div>
+    <div class="body-card">
+      <h3><a href="/civic/parks-commission">Parks &amp; Rec Commission</a></h3>
+      <p>Third Mondays, 5:00 PM, North Little Rock Community Center, 2700 Willow St.
+        Parks, pools, trails, Burns Park, and community centers.</p>
+    </div>
+    <div class="body-card">
+      <h3><a href="/civic/library-board">Library Board</a></h3>
+      <p>North Little Rock Public Library System Board of Trustees — meets every other
+        month (odd months) at Laman Library.</p>
+    </div>
+  </div>
+
+  <h2 class="section-head">How we cover it</h2>
+  <p style="font-size:15.5px;line-height:1.65;max-width:64ch;margin:18px 0 0">Before each
+    meeting we post the agenda in plain English — what's up for a vote and why it matters.
+    After, a recap: what passed, what stalled, who said what, sourced to the official
+    record and local coverage. See something we missed?
+    <a href="/#submit">Send a tip</a> — no name required.</p>
+</main>
+</body>
+</html>

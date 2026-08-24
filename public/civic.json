@@ -1,0 +1,85 @@
+{
+ "updated": "2026-08-24T15:46:08.570714-05:00",
+ "meetings": [
+  {
+   "body": "council",
+   "title": "City Council — regular meeting",
+   "start": "2026-08-24T18:00:00",
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://northlittlerock.hosted.civiclive.com/government/city_council",
+   "computed": true
+  },
+  {
+   "body": "school",
+   "title": "NLRSD Board of Education — Board workshop (first Thursday)",
+   "start": "2026-09-03T17:30:00",
+   "location": "NLRSD Administration Building, 2400 Willow St",
+   "url": "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public",
+   "computed": true
+  },
+  {
+   "body": "council",
+   "title": "City Council — regular meeting",
+   "start": "2026-09-14T18:00:00",
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://northlittlerock.hosted.civiclive.com/government/city_council",
+   "computed": true
+  },
+  {
+   "body": "school",
+   "title": "NLRSD Board of Education — Regular board meeting (third Thursday)",
+   "start": "2026-09-17T17:30:00",
+   "location": "NLRSD Administration Building, 2400 Willow St",
+   "url": "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public",
+   "computed": true
+  },
+  {
+   "body": "parks",
+   "title": "Parks & Recreation Commission — regular meeting",
+   "start": "2026-09-21T17:00:00",
+   "location": "NLR Community Center, 2700 Willow St",
+   "url": "https://nlr.ar.gov/departments/boards-and-commissions/parks-and-recreation-commission/",
+   "computed": true
+  },
+  {
+   "body": "council",
+   "title": "City Council — regular meeting",
+   "start": "2026-09-28T18:00:00",
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://northlittlerock.hosted.civiclive.com/government/city_council",
+   "computed": true
+  },
+  {
+   "body": "school",
+   "title": "NLRSD Board of Education — Board workshop (first Thursday)",
+   "start": "2026-10-01T17:30:00",
+   "location": "NLRSD Administration Building, 2400 Willow St",
+   "url": "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public",
+   "computed": true
+  },
+  {
+   "body": "council",
+   "title": "City Council — regular meeting",
+   "start": "2026-10-12T18:00:00",
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://northlittlerock.hosted.civiclive.com/government/city_council",
+   "computed": true
+  },
+  {
+   "body": "school",
+   "title": "NLRSD Board of Education — Regular board meeting (third Thursday)",
+   "start": "2026-10-15T17:30:00",
+   "location": "NLRSD Administration Building, 2400 Willow St",
+   "url": "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public",
+   "computed": true
+  },
+  {
+   "body": "parks",
+   "title": "Parks & Recreation Commission — regular meeting",
+   "start": "2026-10-19T17:00:00",
+   "location": "NLR Community Center, 2700 Willow St",
+   "url": "https://nlr.ar.gov/departments/boards-and-commissions/parks-and-recreation-commission/",
+   "computed": true
+  }
+ ]
+}

@@ -78,6 +78,30 @@ their permalinks.
 - Sources are best-effort: Nextdoor/Facebook aren't publicly fetchable;
   add more RSS feeds in `GOOGLE_NEWS_QUERIES` / `REDDIT_ENDPOINTS`.
 
+## Civic Calendar (/civic)
+
+Meeting coverage for the four public bodies: **City Council** (2nd & 4th
+Mondays), **NLRSD School Board** (1st & 3rd Thursdays), **Parks & Rec
+Commission** (3rd Mondays), and the **Library Board** (odd months).
+
+- `/civic` — hub with the upcoming-meetings list; body pages at
+  `/civic/council`, `/civic/school-board`, `/civic/parks-commission`,
+  `/civic/library-board`; per-meeting pages at `/civic/<body>-<YYYY-MM-DD>`
+  (agenda preview before, recap after, own comments thread).
+- `tools/fetch_civic.py` (runs daily via `.github/workflows/civic.yml`, or
+  on demand from the Actions tab) sweeps the city calendar, the CivicLive
+  council agenda PDFs (text extracted with `pypdf`), and the library events
+  feed. It maintains `public/civic.json`, the hub's meeting list, the front
+  page's Civic Calendar strip, and injects posted agendas into meeting
+  pages between their `AGENDA:START/END` markers. Every source is
+  best-effort: when a fetch fails, the computed regular schedules keep the
+  calendar honest and nothing breaks. **Watch the first Actions run** — the
+  city portals' markup can drift, and the log says exactly which sources
+  answered.
+- Meeting pages also carry `RECAP:START/END` markers; recaps are written
+  editorially after each meeting (what passed, what stalled, who said
+  what), sourced to the official record and local coverage.
+
 ## Wire sections, stamps, and Hot stories
 
 The fetcher classifies every wire item into **Major News** (the bulk of the

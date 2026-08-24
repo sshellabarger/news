@@ -763,6 +763,7 @@ textarea.input { min-height: 90px; resize: vertical; }
 <nav class="nav" aria-label="Site">
   <span class="nav-brand">Dirty Dogtown</span>
   <a href="#feed" data-nav="feed" aria-current="page" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">The Feed</a>
+  <a href="/civic" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">Civic Calendar</a>
   <a href="/morgue" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">The Morgue</a>
   <a href="#legal" data-nav="legal" style="font-size:14px;color:inherit;white-space:nowrap;text-underline-offset:6px">Terms &amp; Legal</a>
   <input class="input" type="search" id="site-search" placeholder="Search the news…" aria-label="Search the news" autocomplete="off" style="width:190px;min-height:32px;font-size:13px">
@@ -788,9 +789,9 @@ textarea.input { min-height: 90px; resize: vertical; }
 
   
     <p style="display:flex;align-items:baseline;flex-wrap:wrap;gap:8px 12px;margin:0;padding:16px 0 0;font-size:15.5px">
-      <span class="tag tag-accent-2">Breaking</span>
-      <span>Travelers staying — council approves a 20-year Dickey-Stephens lease, 5–2.</span>
-      <a href="#feed" style="font-size:14px">Read the feed</a>
+      <span class="tag tag-accent-2">Watchdog</span>
+      <span>Four million images a month, no public accounting — NLR&#39;s plate readers are outrunning the state&#39;s audit law.</span>
+      <a href="#story-alpr-cameras" style="font-size:14px">Read the story</a>
     </p>
   
 
@@ -801,9 +802,31 @@ textarea.input { min-height: 90px; resize: vertical; }
         <span id="feed-issue">№ 005 · Newest first</span>
       </div>
 
-      <article id="story-travelers-lease" style="margin-top:38px">
+      <article id="story-alpr-cameras" style="margin-top:38px">
+        <p style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:0">Police · The surveillance files · Filed Aug 23</p>
+        <h2 style="font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-size:clamp(34px,4.8vw,58px);line-height:1.06;letter-spacing:-0.015em;margin:14px 0 0;max-width:24ch"><a href="#story-alpr-cameras" class="story-link">Four million images a month, and no public accounting for the stops</a></h2>
+        <div style="display:flex;flex-wrap:wrap;gap:24px clamp(32px,5vw,72px);align-items:flex-start;margin-top:22px">
+          <p style="font-size:18px;line-height:1.65;margin:0;max-width:56ch;flex:2 1 380px">North Little Rock is doubling down on license plate readers — 20 more Flock Safety cameras bought this spring for $70,000, which will bring the city&#39;s Flock total to 32 once installed. But the Democrat-Gazette reports the police department has published no data this year on the traffic stops those cameras produce, despite a 2025 state law that requires agencies to compile the results every six months for public consumption. In one 30-day window, the department&#39;s own IT division found, the cameras captured roughly four million images. Statewide, Greers Ferry, Mayflower, Cabot, and Pea Ridge have all dropped their Flock readers this month.</p>
+          <p style="font-family:var(--font-heading);font-style:italic;font-size:19px;line-height:1.55;margin:0;max-width:30ch;flex:1 1 240px">“The revised policy will include regular audits of LPR usage.”<span style="display:block;font-style:normal;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin-top:10px">— Mayor Terry Hartwick, who says the department&#39;s policy is being rewritten</span></p>
+        </div>
+        <p style="font-size:13px;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:18px 0 0">Reporting by the <a href="https://www.arkansasonline.com/news/2026/aug/23/data-lacking-on-north-little-rocks-use-of-license/" rel="noopener">Democrat-Gazette (Aug 23)</a> and its <a href="https://www.arkansasonline.com/news/2026/aug/15/little-rock-north-little-rock-use-2-companies-for/" rel="noopener">camera-vendor survey (Aug 15)</a> · Watch this thread at <a href="/civic/council">City Council</a></p>
+        <details class="dd-comments" data-story="alpr-cameras" style="margin-top:16px">
+          <summary>Neighborhood comments<span class="dd-count"></span></summary>
+          <div class="dd-thread" style="display:grid;gap:12px;margin:14px 0 0"></div>
+          <form class="dd-comment-form" style="display:grid;gap:10px;margin-top:14px;max-width:560px">
+            <input class="input" name="name" maxlength="60" placeholder="Name (optional)" aria-label="Name (optional)">
+            <textarea class="input" name="text" maxlength="2000" required placeholder="Your comment or opinion. No private info about anyone. Comments appear after a moderator approves them." aria-label="Comment" style="min-height:80px"></textarea>
+            <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+              <button type="submit" class="btn btn-secondary">Post comment</button>
+              <span class="dd-note" style="font-size:13px;color:color-mix(in srgb, var(--color-text) 70%, transparent)"></span>
+            </div>
+          </form>
+        </details>
+      </article>
+
+      <article id="story-travelers-lease" style="margin-top:clamp(48px,7vw,72px);max-width:900px">
         <p style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:0">City Council · Filed Aug 11</p>
-        <h2 style="font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-size:clamp(34px,4.8vw,58px);line-height:1.06;letter-spacing:-0.015em;margin:14px 0 0;max-width:22ch"><a href="#story-travelers-lease" class="story-link">Travelers staying: council approves 20-year Dickey-Stephens lease</a></h2>
+        <h2 style="font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-size:clamp(26px,3.4vw,38px);line-height:1.12;letter-spacing:-0.01em;margin:12px 0 0;max-width:32ch"><a href="#story-travelers-lease" class="story-link">Travelers staying: council approves 20-year Dickey-Stephens lease</a></h2>
         <div style="display:flex;flex-wrap:wrap;gap:24px clamp(32px,5vw,72px);align-items:flex-start;margin-top:22px">
           <p style="font-size:18px;line-height:1.65;margin:0;max-width:56ch;flex:2 1 380px">The council voted 5–2 Monday night to let Mayor Terry Hartwick sign a new lease with Diamond Baseball Holdings, keeping the Arkansas Travelers at Dickey-Stephens Park through 2046 — twenty more seasons of professional baseball on the north shore of the river.</p>
           <p style="font-family:var(--font-heading);font-style:italic;font-size:19px;line-height:1.55;margin:0;max-width:30ch;flex:1 1 240px">“Keeping the Travelers here for the next 20 years is a win for our residents.”<span style="display:block;font-style:normal;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin-top:10px">— Mayor Terry Hartwick</span></p>
@@ -912,6 +935,18 @@ textarea.input { min-height: 90px; resize: vertical; }
         </div>
       </div>
 
+
+      <div style="margin-top:clamp(48px,7vw,72px);border-top:1px solid var(--color-text);border-bottom:1px solid var(--color-divider);padding:14px 0;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:baseline;font-size:14.5px">
+        <span style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent)">Civic Calendar</span>
+        <!-- CIVIC-STRIP:START -->
+        <a href="/civic/council-2026-08-24">City Council — regular meeting — tonight, 6:00 PM</a>
+        <span aria-hidden="true">·</span>
+        <a href="/civic/school-board">NLRSD Board of Education — Board workshop (first Thursday) — Sep 3, 5:30 PM</a>
+        <span aria-hidden="true">·</span>
+        <a href="/civic/council">City Council — regular meeting — Sep 14, 6:00 PM</a>
+  <!-- CIVIC-STRIP:END -->
+        <a href="/civic" style="font-size:13px;white-space:nowrap">All meetings →</a>
+      </div>
 
       <div id="the-wire" style="margin-top:clamp(56px,8vw,84px)">
         <div style="display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent)">
@@ -1184,6 +1219,7 @@ textarea.input { min-height: 90px; resize: vertical; }
       <p style="font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:color-mix(in srgb, var(--color-text) 70%, transparent);margin:0">Site</p>
       <div style="display:grid;gap:8px;margin-top:12px;justify-items:start">
         <a href="#feed" style="font-size:13px">The Feed</a>
+        <a href="/civic" style="font-size:13px">Civic Calendar</a>
         <a href="#submit" style="font-size:13px">Send a Tip</a>
         <a href="#legal" style="font-size:13px">Terms &amp; Legal</a>
         <a href="/morgue" style="font-size:13px">The Morgue (archive)</a>
