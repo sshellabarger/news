@@ -200,7 +200,7 @@ def council_schedule() -> list[dict]:
             "title": "City Council — regular meeting",
             "start": f"{d.isoformat()}T18:00:00",
             "location": "City Hall Council Chambers, 300 Main St",
-            "url": CIVICLIVE_COUNCIL,
+            "url": "https://nlr.ar.gov/events/category/city-council/",
             "computed": True,
         })
     return out
@@ -299,8 +299,11 @@ def find_council_agenda(meet_date: date, event_url: str = "") -> tuple[str, list
             continue
         if blob.startswith(b"%PDF"):
             return url, pdf_items(blob)
-        # an agenda *page* — remember it, and look inside for the PDF
-        fallback_page = fallback_page or url
+        # an agenda *page* — remember it, and look inside for the PDF.
+        # CivicLive pages block ordinary visitors ("you have been blocked"),
+        # so never hand readers a civiclive link with nothing extracted.
+        if "civiclive.com" not in url:
+            fallback_page = fallback_page or url
         for inner in agenda_links(blob.decode("utf-8", "replace"), url)[:5]:
             if inner in seen:
                 continue
@@ -483,8 +486,13 @@ def main() -> int:
             continue
         url, items = find_council_agenda(meet_date, m.get("url") or "")
         if url:
+            # readers can't open civiclive links (visitor blocking) — when the
+            # PDF came from there, point "the source" at the city event page.
+            display = url
+            if "civiclive.com" in url and (m.get("url") or "").startswith("http"):
+                display = m["url"]
             replace_between(page, "<!-- AGENDA:START -->", "<!-- AGENDA:END -->",
-                            render_agenda(url, items))
+                            render_agenda(display, items))
             print(f"[civic] agenda for {d}: {url} ({len(items)} items)")
 
     print(f"[civic] {len(meetings)} meetings tracked "
