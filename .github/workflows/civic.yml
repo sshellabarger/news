@@ -1,0 +1,71 @@
+name: Civic calendar
+
+# Sweeps North Little Rock public-meeting sources (city calendar, council
+# agenda PDFs, library events, school board schedule) every morning,
+# updates /civic and any posted agendas on meeting pages, commits, and
+# (when Firebase secrets are configured) deploys hosting.
+#
+# Run it on demand from the Actions tab (workflow_dispatch) — e.g. right
+# after merging a new meeting page, so the posted agenda lands before the
+# meeting starts.
+
+on:
+  schedule:
+    - cron: "10 13 * * *"   # daily, 8:10 AM Central (CDT)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: civic-sweep
+  cancel-in-progress: false
+
+jobs:
+  civic:
+    runs-on: ubuntu-latest
+    env:
+      HAVE_FIREBASE: ${{ secrets.FIREBASE_SERVICE_ACCOUNT != '' && secrets.FIREBASE_PROJECT_ID != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PDF extraction (agenda text)
+        run: pip install pypdf
+
+      - name: Sweep the civic calendar
+        run: python3 tools/fetch_civic.py
+
+      - name: Commit updates
+        id: commit
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No civic changes today."
+          else
+            git config user.name "dogtown-wire[bot]"
+            git config user.email "wire@dirtydogtown.news"
+            git add public/
+            git commit -m "civic: daily meeting & agenda sweep"
+            for attempt in 1 2 3; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" || true
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                break
+              fi
+              echo "push attempt ${attempt} failed; retrying"
+              sleep 5
+            done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Firebase Hosting
+        if: env.HAVE_FIREBASE == 'true' && steps.commit.outputs.changed == 'true'
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ secrets.FIREBASE_PROJECT_ID }}
+          channelId: live
