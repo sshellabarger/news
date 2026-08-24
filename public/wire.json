@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T22:15:48.925957-05:00",
+ "updated": "2026-08-23T23:06:51.268169-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -12,6 +12,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787541348.925957,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock School District program graduating students with nursing credentials - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGRXVVdfT0U5TUlYZmFEa05zRnVSRkdGMUlINWNiUms1T0ZFZkJ2Uy1WR1lKYkNnNGVBdjZuRFRWYV9MV0ZVckE3bGVxczFYa3R1WmJOdG4zS1BJQXotWGV4UGY3amJmRFZ5WDY5X3ZiM28xMnY5Y0M5cWNuVVhPZEdwaGxoRVd2Uk1PTXp3TjhmeGJzZVN6ZHQxSQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787534100.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787544411.268169,
    "section": "major"
   },
   {
@@ -325,18 +337,6 @@
    "comments": [],
    "first_seen": 1787337425.009798,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Conway Man Killed in Interstate 40 Rollover in North Little Rock - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1c0Q2RUNkEtYXUxSWVBZTV1VXR3b0I0eTJQVk9aOXU1LXY2TG14MldEYWZpdWg3WWlCMGxOQmxyNU92a3BENW5FcV8yX28yeXBaeTJMbExMUnJhTG4tYmVBQlIzNEllNDk2YlFpUlZxdzdEVHVtYm16WEhpbG04UUd5RmJoN2lqMkdn?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1787182824.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787337425.009798,
-   "section": "major"
   }
  ]
 }
