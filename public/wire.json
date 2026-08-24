@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-24T17:42:38.996567-05:00",
+ "updated": "2026-08-24T18:34:02.607030-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Drake spotted in Arkansas singing along to Ella Langley concert at Simmons Bank Arena - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3NTbmRUQkVSenZMMURJZml5NDJydHluRjMzeTJnU0M3dU51YzZRREhZVTUtUXM3QjFtRUZudU9nM3JaWlZ5cmN1VEZtVDVZQUppXzVNbHdoYWRXRVZZT3RNZkk4SHVsVUFmY3BTWlc2NHU1czc4X1J4V2NKaTBvb0Ffak5ydkd5a253NW5ILVRTQktwc1U2QWtfZ1JKQjBvdjktN2dEbFFQQVY5Vlo3THhVOA?oc=5",
+   "source": "KATV",
+   "published": 1787612625.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787614442.60703,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock man dies after Washington County motorcycle crash - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUE1yTTJxdnk0aG85NG9LbENGNl9sNWJXNHFaMDhjSFBHQVdZLWJ0dzVPYkZybFM5QUljS2hoZnVrUGQzU1VHaUlSby1QaU5NdWZKeTJmSnoxVTZZLW91d25XdEtidzVUX2NsX1dMU21FeVVaY09mRjJQektkSFVzU01PSFFHampNaWVSU2IxX2Rlc3l3QVI1dQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787610960.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787614442.60703,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "Hagar says he won’t meet with Arkansas Legislative Black Caucus due to ongoing litigation over punching incident - The Arkansas Democrat-Gazette",
@@ -96,18 +120,6 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787593573.961341,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab - Billboard",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEMwc0dfTU5JNTBKOGhBa2x4RXY1Wm1OWHdxNjM0YUh5MXRvMWtYZmFoSVVic29NdFM0c0hwZFJjOTRTbFdCS1BQLVVSWFc5cGpJMmc0eXVud091dWFMUVUwajRNcmo0eFczQXRlM2RmNG96VGp4ZVZkSWZqMGpRRUZIYmRrQkJmWmI1eU9qMjktbFBDbHVkRkVTUm9pVVdBX0ZDM25vTXR5S2dQSGc?oc=5",
-   "source": "Billboard",
-   "published": 1787512495.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787611358.996567,
    "section": "major"
   },
   {
@@ -292,6 +304,18 @@
   },
   {
    "type": "article",
+   "title": "NLRPD confirm suspect surrendered on capital murder warrant in gas station homicide - KATV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkx3a0hPeFdSVzF2NVA1bGVwZjFMX3lHWGVmWGxRT2ZFdFBXaDRWb2tOVDdMZHVfMDJmcHF2TzR3Sk81LUktTWZCVGVieVhMekRoRnRyd2E4TGg4czFvckZYMWJzUkhBUFlUdVRkdUVHSHJsN0NoWWNnODBra2I5eGdSX0JHa3hYMUZWUGhkOW9Id3Y5MFdrZ2VHbWlrSVFrNnVmRDRNUmM1Sk1IYjF6Xw?oc=5",
+   "source": "KATV",
+   "published": 1787281024.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787614442.60703,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "Little Rock city board candidate calls for investigation into May arrest - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzFaTGZVYVhXY1hxV0hiT0paV1hNekhTMUNrbWp5NlNXdlFjTkVXSi0zQTZxTHNjMGJYVzFCQmtOWnhVZ1M3ZVJFS1NtZnp2V3FHaE5CQXRQd0pZUTJfUkxVS1lla3hZUzNkQURWVVlURTlkSHVadWRicHlqeDFaZHFGSjlUeE14SW1NckhFMzJsaDc5Tmc?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -313,30 +337,6 @@
    "comments": [],
    "first_seen": 1787337425.009798,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock police officer on paid leave after video shows him pressing gun to man’s head - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXFRd2VxNDNMb3BGWHZrWG1CQURPWVdkdWxpRXNXTDJHVU90dWVoeUdCMUQwSm9uX2FTRG9CVnVtWjFlcTJUV1JIeXVGQzdsQTZWV19KOU5SczBaaHBiaFVwY3B3TGNvRnRkejA3UDBkU1QwSUFoU20teDVTcnlPeFpJbTFQWHprTGV2dUFYZFdUSUd6dGk1S3ptRQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787186700.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787562197.454287,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Conway Man Killed in Interstate 40 Rollover in North Little Rock - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1c0Q2RUNkEtYXUxSWVBZTV1VXR3b0I0eTJQVk9aOXU1LXY2TG14MldEYWZpdWg3WWlCMGxOQmxyNU92a3BENW5FcV8yX28yeXBaeTJMbExMUnJhTG4tYmVBQlIzNEllNDk2YlFpUlZxdzdEVHVtYm16WEhpbG04UUd5RmJoN2lqMkdn?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1787182824.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787611358.996567,
-   "section": "major"
   }
  ]
 }
