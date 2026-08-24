@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:34:21.578885-05:00",
+ "updated": "2026-08-23T20:56:19.438524-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -16,14 +16,26 @@
   },
   {
    "type": "article",
-   "title": "Drake Spotted Singing Along at Ella Langley Concert in Arkansas - tmz.com",
+   "title": "Arkansas State Police corporal resigns after DWI arrest, wreck while on duty - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUENtUzdVb2h0c3d0RzJLeFUtMmYtN1hzc0w0d01YUFh4cFhVMjFaZ0VjOUo2blNvbWN3X0liRVVKcE8yRnk5cnYwM3JlNDg2WmgzYUVNT1JuR1JUbkZYcEtXX2UyRVdGTTlOMExuU0dQYUZ0OFNyRTZkb1NNLU9IMzMyRjljV19JMEUtYkFLOUQ1cFdMSzNEc3laTklRSmZK?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787515980.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787536579.438524,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Drake Spotted Singing Along at Ella Langley Concert in Arkansas - TMZ",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFNGTFNTTUw3dlJ1SzQ3MEFDN1FqOWs5QlBXenVnRWd2WGlvS2NmZzlyLVBfcFF0YnRmRXN1aTdvUjVlSE5HMllYMDVDcHRpTDJSelU5aWJwR3VrTTdSZk1HcVdaV1hucUpMd1gtdERpOXdsUGFQNTRlNGZ3MURUZ1FTTQ?oc=5",
-   "source": "tmz.com",
+   "source": "TMZ",
    "published": 1787492735.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787528061.578885,
+   "first_seen": 1787536579.438524,
    "section": "major"
   },
   {
@@ -220,15 +232,15 @@
   },
   {
    "type": "article",
-   "title": "Police arrest second suspect tied to fatal shooting at North Little Rock convenience store - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXpzSzdmbVlWZmotU1R6NXlmcEh2ZVJIWkNZSllGdW9zV05iSzcwZXg5a1oyZGl2a0Q2dWd0LXd2bXlpYkV1bUdVN1o1NGo0bUthY1pwNXkwYm8zYUstQVNxVXNaWGxWOUdHOGwyMXNibGo5Tnh1aW92U1FOYzNYaTRyaV9wMHI5bjVqUGhtZw?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1787286600.0,
+   "title": "Pulaski County restaurant inspections: Complaint of a staple found in french fries; Food for sale with 2023 expiration date - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjF4aWZsZ3N1dnhSMmhodEo3X0JLeFlEUlZUR29JNm1zVDRxUWdoTU1zSXpreVppZDdQVjFvamkwcC1tYmtwaDBvdDV6YjB3RFpweXRaOFpwWkxONGE1T1FvdnJhQ1VmcmZmdFl0TnFtNVFqNTZac3ZDR2FuVUhzV045SWxGV2E1NmVLTVN1b2ZSTXZDLXRTWTZBd3I?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787329260.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787490023.632474,
-   "section": "crime"
+   "first_seen": 1787536579.438524,
+   "section": "major"
   },
   {
    "type": "article",
@@ -324,18 +336,6 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787337425.009798,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Wildfire extinguished near VA facility in North Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTZFNHk5MnRYdjBDOFZMZ09WclU1eldVd1FOXzRwWWhoNkNXMFEwRGVSOEtlWGJRWDRla1psM2NTTnRLSlkzajRPXzVRWWlXZjdBWm1WX1kzaHYxT1RDcFNTOHZYcmJDdFVmYmI0bnJtemRqNmpYU1kyQmU4QlVpQlhoeHctX1F1S0dNZE5xbEtyb21McHpiT0pZVXY?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787113620.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787484825.00051,
    "section": "major"
   }
  ]
