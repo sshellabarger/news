@@ -47,6 +47,9 @@ except Exception:
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PUB = os.path.join(ROOT, "public")
 UA = "dirtydogtown-civic/1.0 (+https://dirtydogtown.news)"
+# CivicLive fronts 403 plain-script UAs; a browser UA gets the public pages.
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
 
 LOOKAHEAD_DAYS = 60
 
@@ -74,8 +77,8 @@ LIBRARY_EVENTS = "https://lamanlibrary.libnet.info/events?r=thismonth"
 BOARDDOCS_PUBLIC = "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public"
 
 
-def fetch(url: str, timeout: int = 20, binary: bool = False):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+def fetch(url: str, timeout: int = 20, binary: bool = False, ua: str = UA):
+    req = urllib.request.Request(url, headers={"User-Agent": ua})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             data = r.read()
@@ -234,11 +237,37 @@ def merge_meetings(*lists: list[dict]) -> list[dict]:
 
 # ---------------------------------------------------------------- agendas ---
 
-def find_council_agenda(meet_date: date) -> tuple[str, list[str]]:
+def agenda_links(src: str, base: str, date_tokens: set[str] | None = None) -> list[str]:
+    """Hrefs whose URL or link text mentions an agenda, PDFs first.
+
+    With date_tokens, the URL must also carry one of the tokens — used on
+    listing pages that link many meetings' agendas at once.
+    """
+    found: list[str] = []
+    for m in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.{0,160}?)</a>',
+                         src, re.S | re.I):
+        href = html.unescape(m.group(1))
+        text = re.sub(r"<[^>]+>", " ", m.group(2)).lower()
+        h = urllib.parse.unquote(href).lower()
+        if "agenda" not in h and "agenda" not in text:
+            continue
+        if date_tokens and not any(t in h for t in date_tokens):
+            continue
+        url = urllib.parse.urljoin(base, href)
+        if url not in found:
+            found.append(url)
+    return sorted(found, key=lambda u: 0 if u.lower().endswith(".pdf") else 1)
+
+
+def find_council_agenda(meet_date: date, event_url: str = "") -> tuple[str, list[str]]:
     """Return (agenda_url, extracted_items) for a council meeting date.
 
-    Tries links on the CivicLive council page first, then the historical
-    CDN path pattern. Items come from PDF text when pypdf is available.
+    Order: the meeting's own city event page (nlr.ar.gov answers plain
+    fetches), then the CivicLive council page (browser UA — it 403s script
+    UAs), then the historical CDN path pattern. A discovered agenda link
+    that is itself a page gets one more scan for the PDF inside it; a PDF
+    yields extracted items when pypdf is available, anything else is still
+    returned as the link to show.
     """
     tokens = {
         f"{meet_date.month}-{meet_date.day}-{meet_date:%y}",
@@ -247,23 +276,39 @@ def find_council_agenda(meet_date: date) -> tuple[str, list[str]]:
     }
     candidates: list[str] = []
 
-    page = fetch(CIVICLIVE_COUNCIL)
+    if event_url:
+        page = fetch(event_url)
+        if page:
+            candidates += agenda_links(page, event_url)
+
+    page = fetch(CIVICLIVE_COUNCIL, ua=BROWSER_UA)
     if page:
-        for m in re.finditer(r'href="([^"]+)"', page):
-            href = html.unescape(m.group(1))
-            h = urllib.parse.unquote(href).lower()
-            if "agenda" in h and any(t in h for t in tokens):
-                candidates.append(urllib.parse.urljoin(CIVICLIVE_COUNCIL, href))
+        candidates += agenda_links(page, CIVICLIVE_COUNCIL, tokens)
 
     for t in sorted(tokens):
         candidates.append(f"{CIVICLIVE_PDF_BASE}{t}/City%20Council%20Agenda%20{t}.pdf")
 
+    seen: set[str] = set()
+    fallback_page = ""
     for url in candidates:
-        blob = fetch(url, binary=True)
-        if not blob or not blob.startswith(b"%PDF"):
+        if url in seen:
             continue
-        return url, pdf_items(blob)
-    return "", []
+        seen.add(url)
+        blob = fetch(url, binary=True, ua=BROWSER_UA)
+        if not blob:
+            continue
+        if blob.startswith(b"%PDF"):
+            return url, pdf_items(blob)
+        # an agenda *page* — remember it, and look inside for the PDF
+        fallback_page = fallback_page or url
+        for inner in agenda_links(blob.decode("utf-8", "replace"), url)[:5]:
+            if inner in seen:
+                continue
+            seen.add(inner)
+            inner_blob = fetch(inner, binary=True, ua=BROWSER_UA)
+            if inner_blob and inner_blob.startswith(b"%PDF"):
+                return inner, pdf_items(inner_blob)
+    return fallback_page, []
 
 
 def pdf_items(blob: bytes) -> list[str]:
@@ -375,8 +420,11 @@ def replace_between(path: str, start_marker: str, end_marker: str, content: str)
 
 
 def render_agenda(url: str, items: list[str]) -> str:
-    out = [f'  <p class="agenda-note">The city has posted the '
-           f'<a href="{esc(url)}" rel="noopener">official agenda</a> for this meeting.</p>']
+    claim = ("The city has posted the official agenda for this meeting"
+             if items else
+             "The official agenda for this meeting posts on the city&#39;s site")
+    out = [f'  <p class="agenda-note">{claim} — '
+           f'<a href="{esc(url)}" rel="noopener">read it at the source</a>.</p>']
     if items:
         out.append('  <ol class="agenda-items">')
         out.extend(f"    <li>{esc(i)}</li>" for i in items)
@@ -433,7 +481,7 @@ def main() -> int:
         page = os.path.join(PUB, "civic", f"council-{d}.html")
         if not os.path.exists(page):
             continue
-        url, items = find_council_agenda(meet_date)
+        url, items = find_council_agenda(meet_date, m.get("url") or "")
         if url:
             replace_between(page, "<!-- AGENDA:START -->", "<!-- AGENDA:END -->",
                             render_agenda(url, items))
