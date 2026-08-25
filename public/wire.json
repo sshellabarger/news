@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T02:07:07.287847-05:00",
+ "updated": "2026-08-25T02:57:09.810677-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -85,18 +85,6 @@
    "comments": [],
    "first_seen": 1787597892.63388,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Drake Spotted \"Fanning Out\" At An Ella Langley Concert - Hip-Hop Wired",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGlTRWZTUUU5S2Q5MXV5cUpIQVN4ZjhKRkl1Yy0zNXJMLVRnaDFKdmN0bEtxS2N0OUJSSG13ZE5mbjg5R3IyemRIQlpkRkRaU0x2amYxR3ZKREpmcExGUXpUMFlaOV9xcDV6bTQ1cGs0eGxMdmJxYUJxUDBQc1dRbQ?oc=5",
-   "source": "Hip-Hop Wired",
-   "published": 1787588902.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787630285.939433,
-   "section": "major"
   },
   {
    "type": "article",
@@ -337,6 +325,18 @@
    "comments": [],
    "first_seen": 1787622660.415004,
    "section": "obits"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police arrest second suspect in deadly July gas station shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV001bEg1ZmY3bTUwa0RWdkNmQWE2dWctbFRQOTZHeWRpVlE2VVRoNFhRZTVkRUpaQTBiTlpMSnNmcV9EZEZYZnF2bnhaWUw0bTNpYWxNVzVpUGREUFF3T0thNnp6U3JuTW40WFlyWDhES3JZSlN4Nlh0S0NycC1fUlI2TmNxaC1PcFp3SkxZMzdKS2hTeTIteUhFbzRNWU0zSXZXVEFPcDA2ckd5ZGZj?oc=5",
+   "source": "KARK",
+   "published": 1787282038.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787644629.810677,
+   "section": "crime"
   }
  ]
 }
