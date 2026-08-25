@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T10:03:33.992630-05:00",
+ "updated": "2026-08-25T10:58:34.762447-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -172,6 +172,18 @@
   },
   {
    "type": "article",
+   "title": "South heat wave to bring dozens of records this week - The Weather Channel",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2R5T1B5WjJsc28zUU91Wl9wNEVwODlRQUVIaUZ3c0dCU3FSZnRCNVgxNDE4WjJkcXRqM0Q5ODVidGtOME4wQWs3bFFDU29kZ2FTbl9MQXFPOXpNT2FMZ2dnNWZfWVY3YTR0MmU1OElPYjlBSm1oUTBEMUlhRkJrclNVeE1YTnlT?oc=5",
+   "source": "The Weather Channel",
+   "published": 1787529600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787673514.762447,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "Saturday night storms leave thousands without power in Saline County - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk1TS0pCckhLWFFiMTlFby1fZnJ2U1ZCTzM1NWJQS2tfdnFRb251bnUzLWxhSWN1UUtxT2xDcWtzbzRnVHcxeGVXV1Zzb2N6UjBrUXVMeUZpQzhqTnFobFhZbl8xLTN0YnZHWi1tblZRSHNMY3lvZTcyR3IyRkl4anF4b0NtNll6bGx6VVFyWGluUFNvTDlrS3Fn?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -316,27 +328,15 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police arrest second suspect in deadly July gas station shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV001bEg1ZmY3bTUwa0RWdkNmQWE2dWctbFRQOTZHeWRpVlE2VVRoNFhRZTVkRUpaQTBiTlpMSnNmcV9EZEZYZnF2bnhaWUw0bTNpYWxNVzVpUGREUFF3T0thNnp6U3JuTW40WFlyWDhES3JZSlN4Nlh0S0NycC1fUlI2TmNxaC1PcFp3SkxZMzdKS2hTeTIteUhFbzRNWU0zSXZXVEFPcDA2ckd5ZGZj?oc=5",
-   "source": "KARK",
-   "published": 1787282038.0,
+   "title": "Wayne Douglas Elkins Obituary (2026) - Little Rock, AR - Smith Family Funeral Homes - Little Rock - Legacy obituary",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWNJVTVzeXRXRVlnQ25sVERXTlFHT3prM3JFcDZZWnVnZDVOZXhUdHZNbElObDJGRDczYnYzazdWUDVMZnVqSmp5b1h5VV9SYVp1WFc3c3NaaEw2N0JTcmtsc3ZVMDFsQmNLQkc2b1lZMlc2cEcyMGZFUnJFWU5LLQ?oc=5",
+   "source": "Legacy obituary",
+   "published": 1787295600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787670213.99263,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "NLRPD confirm suspect surrendered on capital murder warrant in gas station homicide - KATV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkx3a0hPeFdSVzF2NVA1bGVwZjFMX3lHWGVmWGxRT2ZFdFBXaDRWb2tOVDdMZHVfMDJmcHF2TzR3Sk81LUktTWZCVGVieVhMekRoRnRyd2E4TGg4czFvckZYMWJzUkhBUFlUdVRkdUVHSHJsN0NoWWNnODBra2I5eGdSX0JHa3hYMUZWUGhkOW9Id3Y5MFdrZ2VHbWlrSVFrNnVmRDRNUmM1Sk1IYjF6Xw?oc=5",
-   "source": "KATV",
-   "published": 1787281024.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787670213.99263,
-   "section": "crime"
+   "first_seen": 1787673514.762447,
+   "section": "obits"
   }
  ]
 }
