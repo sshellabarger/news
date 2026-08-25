@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T02:57:09.810677-05:00",
+ "updated": "2026-08-25T03:58:49.890921-05:00",
  "items": [
   {
    "type": "article",
@@ -57,6 +57,18 @@
    "published": 1787610960.0,
    "first_seen": 1787614442.60703,
    "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Academies of Central Arkansas, National Guard sign partnership deal - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0dpd2VNNGpfa3EtdERDY2kxYzlhN3dERHNaN2I4WVRLRG5xRmJOTS02UVJsS3ZlN0VUNk85Zm5yaFVNQ1lYTHJJeU9jR1dlM0R0YTk2QjlBQW9oRHZMVVdJVzNoRXpObGZmNklEVVlmYTRvZDBNOG1MQlYwTVhlc3B6ekdjWU51YlUyMlFHYlloMVpyZGRIc1A1cVB5QjQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787610900.0,
+   "first_seen": 1787648329.890921,
+   "section": "major",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null
@@ -536,6 +548,18 @@
    "source": "smithfamilycares.com",
    "published": 1787295600.0,
    "first_seen": 1787622660.415004,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Wayne Douglas Elkins Obituary (2026) - Little Rock, AR - Smith Family Funeral Homes - Little Rock - Legacy obituary",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWNJVTVzeXRXRVlnQ25sVERXTlFHT3prM3JFcDZZWnVnZDVOZXhUdHZNbElObDJGRDczYnYzazdWUDVMZnVqSmp5b1h5VV9SYVp1WFc3c3NaaEw2N0JTcmtsc3ZVMDFsQmNLQkc2b1lZMlc2cEcyMGZFUnJFWU5LLQ?oc=5",
+   "source": "Legacy obituary",
+   "published": 1787295600.0,
+   "first_seen": 1787648329.890921,
    "section": "obits",
    "snippet": "",
    "discussion_url": "",
