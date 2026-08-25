@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T23:52:26.070271-05:00",
+ "updated": "2026-08-25T00:46:36.893267-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -12,6 +12,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787614442.60703,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "140429-A-QU728-425 [Image 2 of 145] - DVIDS",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4U2NmdC15VGtsZnlMQW1qY3VOdUFWWE82bXlBQjFOd2VLQ1A0NUE5RENHT3d6UzYzV3Q0OVJlMmd3VHh5WkFjMUh0bmR3SlhiMEk5OHEyWGNlQXZub2gzbnpJTHhVZw?oc=5",
+   "source": "DVIDS",
+   "published": 1787620200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787636796.893267,
    "section": "major"
   },
   {
@@ -325,18 +337,6 @@
    "comments": [],
    "first_seen": 1787622660.415004,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police arrest second suspect in deadly July gas station shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV001bEg1ZmY3bTUwa0RWdkNmQWE2dWctbFRQOTZHeWRpVlE2VVRoNFhRZTVkRUpaQTBiTlpMSnNmcV9EZEZYZnF2bnhaWUw0bTNpYWxNVzVpUGREUFF3T0thNnp6U3JuTW40WFlyWDhES3JZSlN4Nlh0S0NycC1fUlI2TmNxaC1PcFp3SkxZMzdKS2hTeTIteUhFbzRNWU0zSXZXVEFPcDA2ckd5ZGZj?oc=5",
-   "source": "KARK",
-   "published": 1787282038.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787633546.070271,
-   "section": "crime"
   }
  ]
 }

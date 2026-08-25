@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T23:52:26.070271-05:00",
+ "updated": "2026-08-25T00:46:36.893267-05:00",
  "items": [
   {
    "type": "article",
@@ -8,6 +8,18 @@
    "source": "KATV",
    "published": 1787622094.0,
    "first_seen": 1787614442.60703,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "140429-A-QU728-425 [Image 2 of 145] - DVIDS",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4U2NmdC15VGtsZnlMQW1qY3VOdUFWWE82bXlBQjFOd2VLQ1A0NUE5RENHT3d6UzYzV3Q0OVJlMmd3VHh5WkFjMUh0bmR3SlhiMEk5OHEyWGNlQXZub2gzbnpJTHhVZw?oc=5",
+   "source": "DVIDS",
+   "published": 1787620200.0,
+   "first_seen": 1787636796.893267,
    "section": "major",
    "snippet": "",
    "discussion_url": "",
