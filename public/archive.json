@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T22:11:45.305378-05:00",
+ "updated": "2026-08-24T22:58:05.939433-05:00",
  "items": [
   {
    "type": "article",
@@ -140,6 +140,18 @@
    "source": "The Arkansas Democrat-Gazette",
    "published": 1787561940.0,
    "first_seen": 1787565743.289393,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Data lacking on North Little Rock’s use of Flock, other license plate reading cameras - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWxoeEJXS0w2bllNbURJWTVfdjZ1TWprUW96bkxzYXFjVzhkY3d5NkpXWmwtcXdQOGZVVEFZbF9PUWxGczhYUTFqOVE4MFpFRU5iVXFSSFMycWhjWVNQaE9yemRMZ3pETTl5V0R3bGVPSDF5ZkhVZjJGV3FkNWlUcFN3ODBhZkZadmc4UjI0UG4yd2xyXzhpeGxwUk4xSkE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787540520.0,
+   "first_seen": 1787630285.939433,
    "section": "major",
    "snippet": "",
    "discussion_url": "",
