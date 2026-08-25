@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T05:48:49.155275-05:00",
+ "updated": "2026-08-25T06:42:13.129285-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -73,18 +73,6 @@
    "comments": [],
    "first_seen": 1787597892.63388,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Firefighters respond to fire potentially caused by lightning at historic Little Rock house - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjg1WGFxX1hPTTJyZVlPMVU2czVreE5XZy1uYnFpaDFHZm1yOXdrUGRMS1docURzWE5DdVJzRVViYnpSYTBXcFRXVkY0Wm9sbzNYTk03Mm5lR0w1UjFjRkJVZ3BySS1sR1pLRWttc1NOWndYUi1MUmJ0LUNCMFROVERDdVVWZVcwM3hvRGhZNndMcU1jTGs4VEhhMXA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787582940.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787633546.070271,
-   "section": "major"
   },
   {
    "type": "article",
@@ -336,6 +324,18 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787654929.155275,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock city board candidate calls for investigation into May arrest - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzFaTGZVYVhXY1hxV0hiT0paV1hNekhTMUNrbWp5NlNXdlFjTkVXSi0zQTZxTHNjMGJYVzFCQmtOWnhVZ1M3ZVJFS1NtZnp2V3FHaE5CQXRQd0pZUTJfUkxVS1lla3hZUzNkQURWVVlURTlkSHVadWRicHlqeDFaZHFGSjlUeE14SW1NckhFMzJsaDc5Tmc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787269800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787658133.129285,
    "section": "crime"
   }
  ]
