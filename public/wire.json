@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T09:02:16.724949-05:00",
+ "updated": "2026-08-25T10:03:33.992630-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -25,6 +25,18 @@
    "comments": [],
    "first_seen": 1787666536.724949,
    "section": "obits"
+  },
+  {
+   "type": "article",
+   "title": "Woman fatally stabbed Tuesday morning in Little Rock - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFlMcXpFM19EZkpJejRJTjZaVTZLZ3YxV3otbEVfYW1TUjZuMGx1T0VJVTVVSHlpam5xYU5aM0V2WWE3VldJamVWOXZlMkdYMTkxTXR6dUY2YzlvQWlZR2ZVZWhYeFlDb1JKNzBaVnNXSHpudFFXa3l5Q3p1Qm9ESWRsOWRQS3JiN1oyQmpkS202MzM3QnExaFFJbzc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787660400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787670213.99263,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -160,18 +172,6 @@
   },
   {
    "type": "article",
-   "title": "South heat wave to bring dozens of records this week - The Weather Channel",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2R5T1B5WjJsc28zUU91Wl9wNEVwODlRQUVIaUZ3c0dCU3FSZnRCNVgxNDE4WjJkcXRqM0Q5ODVidGtOME4wQWs3bFFDU29kZ2FTbl9MQXFPOXpNT2FMZ2dnNWZfWVY3YTR0MmU1OElPYjlBSm1oUTBEMUlhRkJrclNVeE1YTnlT?oc=5",
-   "source": "The Weather Channel",
-   "published": 1787529600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787630285.939433,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Saturday night storms leave thousands without power in Saline County - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk1TS0pCckhLWFFiMTlFby1fZnJ2U1ZCTzM1NWJQS2tfdnFRb251bnUzLWxhSWN1UUtxT2xDcWtzbzRnVHcxeGVXV1Zzb2N6UjBrUXVMeUZpQzhqTnFobFhZbl8xLTN0YnZHWi1tblZRSHNMY3lvZTcyR3IyRkl4anF4b0NtNll6bGx6VVFyWGluUFNvTDlrS3Fn?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -244,18 +244,6 @@
   },
   {
    "type": "article",
-   "title": "Hot Springs man arrested, faces capital murder charge after shooting at Little Rock convenience store - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGREbURfVk1KOHNZazZ2UUpGRmhNOGZNTUprblI5RzY2ZlRFZk5Cb3h6ZjFvNDVLYVhqdFVUcEtMUGhaSWM1UnRhYW1KRUI1T081RlBNczhheEZ6cllVNHRvendSVzJfOFBsbFpaUHdQUmNKYWJCSFpTLVhsOExiSi1oNE5MX2ZqWVlIQ0pmSGphSXNpc0tVMDdn?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787365800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787391619.169885,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "Democratic gubernatorial hopeful proposes pause on Arkansas data centers; lawmakers refer his resolution for review - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmtEOTlaTGs5NGpBRURpb2JybkxxVU9KRTlnM0U5OF9KR2I3ZmREdGFqQUZ6emo2UHZJcXpYSFAyNTRaSmhoTDdkMi10MXlTdms5bk4tTi1wYVFycjVPVHRjU3NJUllOaGpDblpnQVFIamxSTUZkS0FGTk95ZFNQc050OVllQ1BmelVQQkctczZpSnplaVBJeDJtTUc?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -280,14 +268,14 @@
   },
   {
    "type": "article",
-   "title": "Arkansas Travelers brewing up magic with Harry Potter night in North Little Rock - THV11",
+   "title": "Arkansas Travelers brewing up magic with Harry Potter night in North Little Rock - thv11.com",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdmduaFYxVV8tZjZQRm5uMGhJNWlmSVdtLVJKS19ya1VIU0ppX1FtTlRSd0hBeUFQMXlNV2w2UU8yYlVOWjBESUVsTGlkNVJZQ3cyd3UtNm5nRXozUWRKVHl1dGRhQ2x3UXFtT3gzUmg1ZFZGREJqaTlqT3ZBMHJ0YVJmQnFIZG9HaXdkN2E5MGVyTDA4WGNsOXdKZ21fdHY4cHVWdkpSWjVuSk9OM1AzVjRSUGM0MUZ1UzJmSGhQS3lJeGVOSzd6cmdVMmc1S2JRSTRMMWttTmNLX3E3UG5mSTU2M29zcnFlQmY2OWVlUEk?oc=5",
-   "source": "THV11",
+   "source": "thv11.com",
    "published": 1787352180.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787666536.724949,
+   "first_seen": 1787670213.99263,
    "section": "sports"
   },
   {
@@ -328,15 +316,27 @@
   },
   {
    "type": "article",
-   "title": "Wayne Douglas Elkins Obituary (2026) - Little Rock, AR - Smith Family Funeral Homes - Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWNJVTVzeXRXRVlnQ25sVERXTlFHT3prM3JFcDZZWnVnZDVOZXhUdHZNbElObDJGRDczYnYzazdWUDVMZnVqSmp5b1h5VV9SYVp1WFc3c3NaaEw2N0JTcmtsc3ZVMDFsQmNLQkc2b1lZMlc2cEcyMGZFUnJFWU5LLQ?oc=5",
-   "source": "Legacy obituary",
-   "published": 1787295600.0,
+   "title": "North Little Rock police arrest second suspect in deadly July gas station shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV001bEg1ZmY3bTUwa0RWdkNmQWE2dWctbFRQOTZHeWRpVlE2VVRoNFhRZTVkRUpaQTBiTlpMSnNmcV9EZEZYZnF2bnhaWUw0bTNpYWxNVzVpUGREUFF3T0thNnp6U3JuTW40WFlyWDhES3JZSlN4Nlh0S0NycC1fUlI2TmNxaC1PcFp3SkxZMzdKS2hTeTIteUhFbzRNWU0zSXZXVEFPcDA2ckd5ZGZj?oc=5",
+   "source": "KARK",
+   "published": 1787282038.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787648329.890921,
-   "section": "obits"
+   "first_seen": 1787670213.99263,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "NLRPD confirm suspect surrendered on capital murder warrant in gas station homicide - KATV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkx3a0hPeFdSVzF2NVA1bGVwZjFMX3lHWGVmWGxRT2ZFdFBXaDRWb2tOVDdMZHVfMDJmcHF2TzR3Sk81LUktTWZCVGVieVhMekRoRnRyd2E4TGg4czFvckZYMWJzUkhBUFlUdVRkdUVHSHJsN0NoWWNnODBra2I5eGdSX0JHa3hYMUZWUGhkOW9Id3Y5MFdrZ2VHbWlrSVFrNnVmRDRNUmM1Sk1IYjF6Xw?oc=5",
+   "source": "KATV",
+   "published": 1787281024.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787670213.99263,
+   "section": "crime"
   }
  ]
 }

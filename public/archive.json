@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T09:02:16.724949-05:00",
+ "updated": "2026-08-25T10:03:33.992630-05:00",
  "items": [
   {
    "type": "article",
@@ -21,6 +21,18 @@
    "published": 1787665790.0,
    "first_seen": 1787666536.724949,
    "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Woman fatally stabbed Tuesday morning in Little Rock - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFlMcXpFM19EZkpJejRJTjZaVTZLZ3YxV3otbEVfYW1TUjZuMGx1T0VJVTVVSHlpam5xYU5aM0V2WWE3VldJamVWOXZlMkdYMTkxTXR6dUY2YzlvQWlZR2ZVZWhYeFlDb1JKNzBaVnNXSHpudFFXa3l5Q3p1Qm9ESWRsOWRQS3JiN1oyQmpkS202MzM3QnExaFFJbzc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787660400.0,
+   "first_seen": 1787670213.99263,
+   "section": "crime",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null
