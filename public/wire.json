@@ -1,7 +1,19 @@
 {
- "updated": "2026-08-25T20:57:12.509531-05:00",
+ "updated": "2026-08-25T22:16:58.344375-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Bentonville City Council approves noise regulation amendments; bar owner says new limits will hurt nightlife - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenVBVnppYXQ1bWpSWHYxUVJjYkU0TDlaS2NWMHlXd1BXTXAyRG8tNkd6d2NrVXh4V2wtU3M5cmtZNXFCdTJGZGJZaF9TWFdYQzhsVjBLOGhuWmp3dXpndlg5bVkzaEZvNktBN2FHd3NDQUVLNkNaekZQaTl5VmtnaFZ0SmdrUEgyekNZVnVoNjUwZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787713560.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1787714218.344375,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Man faces murder charge after pursuit, crash in Little Rock - The Arkansas Democrat-Gazette",
@@ -324,18 +336,6 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787337425.009798,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police arrest second suspect in deadly July gas station shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV001bEg1ZmY3bTUwa0RWdkNmQWE2dWctbFRQOTZHeWRpVlE2VVRoNFhRZTVkRUpaQTBiTlpMSnNmcV9EZEZYZnF2bnhaWUw0bTNpYWxNVzVpUGREUFF3T0thNnp6U3JuTW40WFlyWDhES3JZSlN4Nlh0S0NycC1fUlI2TmNxaC1PcFp3SkxZMzdKS2hTeTIteUhFbzRNWU0zSXZXVEFPcDA2ckd5ZGZj?oc=5",
-   "source": "KARK",
-   "published": 1787282038.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787676838.440577,
    "section": "crime"
   }
  ]
