@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T04:44:13.339031-05:00",
+ "updated": "2026-08-27T15:28:42.008964-05:00",
  "items": [
   {
    "type": "article",
@@ -8,6 +8,18 @@
    "source": "The Arkansas Democrat-Gazette",
    "published": 1787807700.0,
    "first_seen": 1787823853.339031,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Former Pulaski County clerk's office employee gets suspended sentence for altering voter records - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVR3QkplQVVlWUVfZGpvYUZ3QzhUZFhqQjdSdm9HS0N5UGdTQnh0SlluekFtUkh0R1pmLS1uTDJNMlpDb2lQYzZpSVQ4R3NITzZqNllSbkV2SnBLbG92d3lxOWMwVE9YU3JrSXNDaHlIS3AwRkQwbVFlXzFia2V4bGNRWjZXdFQ3aGlzQlVvbGJ0YVBDZDRyOUdic2ItRUU?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787802420.0,
+   "first_seen": 1787862522.008964,
    "section": "major",
    "snippet": "",
    "discussion_url": "",
@@ -453,6 +465,30 @@
    "published": 1787561940.0,
    "first_seen": 1787565743.289393,
    "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Margaret D Thiele Niehaus Fiser Obituary Aug 24, 2026 - smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6WFM3dnJxVGpJTFlPV3l4NFlaa2NsSTlsR1FWRDZSZW9acGZuVENLbHlQSXRPQjhVaWZmQzQtTk1uYTRJTEQ2OGY4VzBzaFhtb3NvUlVQUHhiUUo5LVB0Y0Q1WnBzcldINk9lRnpDQ2VGdmdVMmdjQ0hkRVdYZw?oc=5",
+   "source": "smithfamilycares.com",
+   "published": 1787554800.0,
+   "first_seen": 1787862522.008964,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Margarete Anne Hiers Obituary Aug 24, 2026 - smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pSDctQjgwaE0yYnRHRFlWWHc1S1piczFDVDFvdVJycDVxLXVMbk9nU2g0QThlWFRkRXlITkp5dHJFdk5DOWRTR3dlVW9OVmR3RGQwMkR3cUY1anBGWTJPOXkzRFVlakRDeVFJ?oc=5",
+   "source": "smithfamilycares.com",
+   "published": 1787554800.0,
+   "first_seen": 1787862522.008964,
+   "section": "obits",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null
