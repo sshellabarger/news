@@ -1,7 +1,19 @@
 {
- "updated": "2026-08-29T13:26:55.659738-05:00",
+ "updated": "2026-08-29T16:43:07.835590-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Man tells police he was struck, robbed; Shooting suspect arrested, charged - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXd5YjlwZ3FhX2FucERzODQ5WG04MkpVNGl1OVdoLVFtTlQyRGwtMEkzbHdzNHJSZ1dTbzlNa1pCRHZ2cmVuamdLUVNzSkhUWk9YWDlHM3E2VWRwdlg5QWRQWDlyeXFOVm5FSzZoLTlNVXk3aUFhdWdnTWtpNDZldU9GQ09EN0xhQW0tTFlhS0RTaGVmR1JXSjFQSQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787990040.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788039787.83559,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "Football Friday Night returns as Arkansas high school football season kicks off - 5newsonline.com",
@@ -88,14 +100,14 @@
   },
   {
    "type": "article",
-   "title": "NLR takes big lead, rallies in final seconds for win - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmFkc1pjRmdNM1g3UWpEdFFTY0FoMV9fTFNfS1dnN2tvSXNFanVoSVg0MHFwZjhTNThfMFJ4M25kdGFVczlOYTNOY3JDakR0NUxpMlBwcFg2Rkl5MHo4Wlk5V2lzbnRrSGRFSjdIUzFyRF83aXBTaFlvV0V1Y3M5ZE01b0NNLVp5QnNRSHp1cnRMQk9qZFZua1RTVGM?oc=5",
+   "title": "Wildcats take big lead, rally in final seconds for win - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYk1uY0VUbGxPQWxvbHdnU3V1QW0xS0ZRdmtPdGhRMklYR0VrOTl0Tk80MVFRbVFZaEVpc0l5SDhGRU1PcEJOTGkyRmk1eEVEZlNhZ2VvNXZFTUhQNmJHNkVFVlA2UFZ2VjVySC01WDM1aFRqbjRxMVFrRjhKekZHaGtqdTU2OUNNcy04QlhSR2VzWkR2?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1787900520.0,
+   "published": 1787896860.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787942347.73468,
+   "first_seen": 1788039787.83559,
    "section": "major"
   },
   {
@@ -324,18 +336,6 @@
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787862522.008964,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas Women's Hall of Fame moves to North Little Rock Event Center - KUAF Public Radio",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG1ZMkJHQXdfWG1kS1hYbURhT25BLVJKOHR4WlVtcFE2V0hDaUNURDZqX3RlU2VUN1lURE16RVEwLUpnMl9hZGJKLV9MUmNyQ25oOFlPMExyc2tieE12TzBYdUo2QU9qN0NXN3J4MmZVOE1BczNESWMxY2pNdzRjc2ctdVhUaUtRdjZKNFJqVy10UExZUFJfZDBwalN5Z0NUbFRGUzZiRGtOQkxYTVppbUktcnVwdFVGenNYVHJB?oc=5",
-   "source": "KUAF Public Radio",
-   "published": 1787344200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787894528.482361,
    "section": "major"
   }
  ]
