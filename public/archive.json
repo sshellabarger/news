@@ -1,6 +1,18 @@
 {
- "updated": "2026-08-29T16:43:07.835590-05:00",
+ "updated": "2026-08-29T19:18:06.667364-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "North Little Rock’s Flyway Brewing Co. opens taproom at Walmart’s campus in Northwest Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFBPcU43S1BvcnFNNGNXUGF1Y1ZndVdtY2JMSDUxRmRhVHNaNkx6SXp3S3daaWRYWFQ2THNGNTZJZ2lMQ2Z5a2lzX0JDZVkwbkNrRHpjNkQ3QlExdTA3Ynh3TFl0dDIxMzFxOUV1eW56ZDVfWTFaYk9KekVzWEwycVVRY1RmdHNhMmpWbTB0WXdlZFFCNmc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788042600.0,
+   "first_seen": 1788049086.667364,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
   {
    "type": "article",
    "title": "Man tells police he was struck, robbed; Shooting suspect arrested, charged - The Arkansas Democrat-Gazette",
@@ -51,18 +63,6 @@
   },
   {
    "type": "article",
-   "title": "Police investigate hatchet assault in North Little Rock; victim hospitalized - KATV",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1Z6cThYUWh6cEhuM2VWSkV3MTBCXzkzYkF2enViM3U1c1htbGRKYnBWcnhYSDZsT0NLb2lyT0NiYVduNWpaZ05IM29DcUw3UlhqXy1NeFlycFktNWVmTUZXVHBPbkY3bjJLQWZ3U2pubE5UVVNwZVlVRVFCTG9uRHBxdkR2b0tDOG5PSkJWa2RmMnJWanQxWlhtWk1EbUdXTXBSQ21R?oc=5",
-   "source": "KATV",
-   "published": 1787959295.0,
-   "first_seen": 1787969382.113308,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null
-  },
-  {
-   "type": "article",
    "title": "Arkansas police chiefs association endorses use of Flock license plate readers amid backlash - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDNObzVwVnFvRFdaTlo2dE9VcXhvX0JYcWU3R3NxbVZIdFRRbE1scWtheEUwb2RLQWhicnllZjVNV0V3NkJtdXIxdmg4V3c2WjBYZkJIWWJabmkwbEFIZmxGbUZzX0lRVUdMYURMVzUycEF2SEhScGlSRnBBQm11X0pLVzJDNUNSTTBQZVB0UGJEZ3NOSkx4RzBqcF8?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -93,6 +93,18 @@
    "published": 1787944977.0,
    "first_seen": 1787969382.113308,
    "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null
+  },
+  {
+   "type": "article",
+   "title": "Police investigate hatchet assault in North Little Rock; victim hospitalized - KATV",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1Z6cThYUWh6cEhuM2VWSkV3MTBCXzkzYkF2enViM3U1c1htbGRKYnBWcnhYSDZsT0NLb2lyT0NiYVduNWpaZ05IM29DcUw3UlhqXy1NeFlycFktNWVmTUZXVHBPbkY3bjJLQWZ3U2pubE5UVVNwZVlVRVFCTG9uRHBxdkR2b0tDOG5PSkJWa2RmMnJWanQxWlhtWk1EbUdXTXBSQ21R?oc=5",
+   "source": "KATV",
+   "published": 1787943017.0,
+   "first_seen": 1787969382.113308,
+   "section": "crime",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null
