@@ -1,7 +1,19 @@
 {
- "updated": "2026-08-30T07:52:06.278642-05:00",
+ "updated": "2026-08-30T12:27:40.788522-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Silver Alert activated for 70-year-old man from North Little Rock - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1hyaTJGUlRMYXVLaFE1anBEMmpzcVBqT3pjVVZYalE3YnlyYmo2YWFxSnpBeGZJWFdTd09QU01Rd3lWYXI0R1EwV3RUUEE0d2tWSzhZLVFXM1F0RVczVWt2Ylg4a1N0UVE1eFhHRXlwWlA2UTdNUTRDX3dQOEFNRzlDLTdmMVE?oc=5",
+   "source": "Yahoo",
+   "published": 1788096429.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788110860.788522,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Retiring jersey No. 6 - The Arkansas Democrat-Gazette",
@@ -13,6 +25,30 @@
    "comments": [],
    "first_seen": 1788094326.278642,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas Travelers Secure Long-Term Future in North Little Rock - MLB.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN0hTQkRGQWZSVXRhR04zSF9IWkxBRG91RmJxR2JROW0zTVc1N2ZkR2h5MTdHTlJ6YU5jODJXbmZOR291R3daRlRFYTQyVG0xOTVMUUdnaHRjbjVCRURXczVYM1NHVHYwdzBHWW5Ma1VPbDdGek03eWRmMXpIVU5VWGtudmZTcjBLM3RKRk5vRG1iaXdhczNhczdEcnR2SGp2NXF2WFFOS3NibFlzLVZUY0NHd0RoaERnQ2JtdG5vUTE0aHh3?oc=5",
+   "source": "MLB.com",
+   "published": 1788056547.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788110860.788522,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Federal appeals court will hear arguments on immunity for Arkansas police officers in wrongful conviction - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUREYzJoR3NxLURjMUI5Ul9NNWE4bnl4R0JvcVlIUm5UMkllQm9BRHVfN3ViRXpPNVFMdjRVUGFIS0UzVTNiN0R2bE9pV052czA3cllVejFxUXhVM2ZGR0hvZGVrNDNWYlNfOEZiSGJlZ0ZnZk00eS02Xy1HQTljY1ZLQTF5c3RMWWVyVmpvanplOXRYOEFHeQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788050400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788110860.788522,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -136,14 +172,14 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police investigating hatchet attack - KARK",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmpweFJSNjZjSTVwdGNlRXNhQk1rUVJaTXdhOUhaYXhuazNaRHpPeTJRc2NXX0o3WmJoQ2wwY2RNMk84Z196TG9HQTJxcmFUMU1KdTJ4NmhBc3NtZ2hWMVIwSGE2Tm1mb0ZQWGh1Uk92TGlPWW52Q1lNUGZVMllDdk1aWFlOMno1NUdmRzlfSDVmWXc0?oc=5",
-   "source": "KARK",
-   "published": 1787928589.0,
+   "title": "Hempstead County man charged with the rape and battery of a 4-year-old girl - KATV",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEhsRUhnSklOY0REanR0Y05RaUdPei05cVYzZks4MWxXVmVoQ2hBOFVuRlBWUHdoZWw5OG9LTzNPdHV4MnlEZTdiazNCc2l5Uk1HbU9nRjhLMmR3UVR0ZVl5bXE1TXJCWDRsTHRoZlFSM3c5UnRtOGlkbGY5b0FYTmg5c1FOeDQtVnVaaW9RQUFHay0xMjRQVFV4VjhrODVjQmRBTUZR?oc=5",
+   "source": "KATV",
+   "published": 1787939716.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1787994040.222821,
+   "first_seen": 1788110860.788522,
    "section": "crime"
   },
   {
@@ -256,54 +292,6 @@
   },
   {
    "type": "article",
-   "title": "Marilyn Lane Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMXQ5WTZsdVdhVDhrLU9scmRCM3laSzVrZVc5Q2lRNzZ4c1FhaW9qQTUySm4zQ1E2X3k2UDVERHBIQTlMbTU5MzJnblhfRTVnTm0xWHdBaWRtcGNyRHBhRm5sNFUtTXhBbFM3b3oyeThDeG43YktJbTVFMHhuZDVTYQ?oc=5",
-   "source": "Legacy obituary",
-   "published": 1787768151.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1788094326.278642,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Linda Lee Jennings Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGhPbEpBblZlSzh4RjVwUVlEUllrOWozQUFVRXozbUgtQ3pVNzdFZ2tyeTM4VWg1RXZjbDJ4dDVCSWpxMlV4cGJXVmhhN00wcWZrbG9KYnlnLUl1RHlTeDlHZnlkVlFOOEpYSTZscXZKVGhPZ2w5ZUlteng2WkIyZVp6QQ?oc=5",
-   "source": "Legacy obituary",
-   "published": 1787727600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787969382.113308,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Wilma Womack Obituary - North Little Rock, AR - Dignity Memorial",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZC1DV0JLUGt6S2lXQlFCZ1g3M0hKNjF1OExNUEUwZkpvRnpuajl5a0ZXcFlHQVhHWHNfdmx3OGdXZFYwN2xLRXVZTW1ZRUxHOGxIdm9CYi00LWFuNUR0YzhWajB3bFAtQnlZa0VuOXRlcEhVN3JORUJibUUxN212WE14bUlwOFN6VS1EQ0dn?oc=5",
-   "source": "Dignity Memorial",
-   "published": 1787641200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1788094326.278642,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Gloria Burgess Obituary - North Little Rock, AR - Dignity Memorial",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVFCWmRTS09TRDhNNm5YVktSeGFEdzNKUU1CZDRrWXlNSFBxQXIyYmJVdVdGOU5hZmpoZ296dENjN1ZVa3QtTFgtcGJtQU9qek9kVkt2SGVWWVhBakdRWkxmZFkxaGVYUzhOY014OV9lQWRkRDhTVWx0Rko1Y1ZrakVHWF9XUjJueWJXbUFVbng?oc=5",
-   "source": "Dignity Memorial",
-   "published": 1787554800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1788094326.278642,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Data lacking on North Little Rock’s use of Flock, other license plate reading cameras - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWxoeEJXS0w2bllNbURJWTVfdjZ1TWprUW96bkxzYXFjVzhkY3d5NkpXWmwtcXdQOGZVVEFZbF9PUWxGczhYUTFqOVE4MFpFRU5iVXFSSFMycWhjWVNQaE9yemRMZ3pETTl5V0R3bGVPSDF5ZkhVZjJGV3FkNWlUcFN3ODBhZkZadmc4UjI0UG4yd2xyXzhpeGxwUk4xSkE?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -331,11 +319,23 @@
    "title": "Ella Langley's 2026 Simmons Bank Arena Show in North Little Rock, Arkansas: Everything You Need To Know - Holler Country",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjU5OGtjY2JZcDBXWGRQdnJKNldVOVcwM0pvTmtwOUdoYU1tTXdKemdxdEp3THNnWkxEdFZkeS1KSklzNkh1S1lHQXh2dnRhbkVTNUo1dVQ2LWdGUlhKRVFJLXo2S3RfOXhRQUw4ai1DNzJzTG9YejVUM1FkT21YdUFJZDRuakJRWWEwVEFTZ3h2SVFVZmtqQ2h5QjNPRzduYXRDa3RQcVVYRTlnZGdRZG45OWZ3M1l2SkVjdU5kelVjMUVOQmdIZDVuaVNUOGhOVlQ4?oc=5",
    "source": "Holler Country",
-   "published": 1787391420.0,
+   "published": 1787382000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "first_seen": 1787862522.008964,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas Women's Hall of Fame moves to North Little Rock Event Center - KUAF Public Radio",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG1ZMkJHQXdfWG1kS1hYbURhT25BLVJKOHR4WlVtcFE2V0hDaUNURDZqX3RlU2VUN1lURE16RVEwLUpnMl9hZGJKLV9MUmNyQ25oOFlPMExyc2tieE12TzBYdUo2QU9qN0NXN3J4MmZVOE1BczNESWMxY2pNdzRjc2ctdVhUaUtRdjZKNFJqVy10UExZUFJfZDBwalN5Z0NUbFRGUzZiRGtOQkxYTVppbUktcnVwdFVGenNYVHJB?oc=5",
+   "source": "KUAF Public Radio",
+   "published": 1787344200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788110860.788522,
    "section": "major"
   }
  ]
