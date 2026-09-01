@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T05:04:12.148484-05:00",
+ "updated": "2026-09-01T09:51:58.907359-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -16,14 +16,26 @@
   },
   {
    "type": "article",
-   "title": "Kane Loiselle Obituary (2026) - Sherwood, AR - Smith Family Funeral Homes - Sherwood - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1ZjQzBDQ25BbDdLZXlNaHQzNE16U0FlWXBZaXl0S2ZkTlA5ODI1UVhJYnpEZ3RuWHF0dkZjQ291dnR1Y2dPUTJyWEUzTFB0VUROTzdHeDBGRmJzY3E0NTB0X3BCa28tQkI5TzFTSERuM0VMTERWekdqZExpb3JxSjRR?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788207544.0,
+   "title": "Wayne Gruber, former Pulaski County District Court Judge, dead at 76 - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVG95WEtfbXhYUXNvRnRwYnVwZWpTaERNcFhteXNWdEN1cEtmakVMUVBQdGxTdTZ4cGxMUXJOU2I5M3B5aUs2d1RBUktTRzByVGF0WHljMGZXS2wtbVVvOTRORVpIbGluWVV4ZWVzLWZETm5OMUNQZmFVaVlZT1BYT3VNWWhVWmptNFNZeVF5a2lDYVkyOFpGWnZHYmdWaGM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788220320.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1788220195.606076,
+   "first_seen": 1788274318.907359,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Homer Terrell Murphy Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTdBd01qRElNS1UzeFRWTGt3eEVUVEdZSHpOdV9YZFNpS3JHam55N1FnVVVvWWZwYTVOSWcyRWNaTW50T21hLWp6eXhHRDlYR0xuODgtV216Rk1BLThJcjNzOE8tcmNGMHd4dVBkVng3NTNQNVltZjVFVFVUQWE5LQ?oc=5",
+   "source": "Legacy obituary",
+   "published": 1788211887.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788274318.907359,
    "section": "obits"
   },
   {
@@ -64,26 +76,14 @@
   },
   {
    "type": "article",
-   "title": "Silver Alert activated for 70-year-old man from North Little Rock - kark.com",
+   "title": "Silver Alert activated for 70-year-old man from North Little Rock - KARK",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzNvMDU0VVZpdEl4dnVMYTZPMnkybHUwdnMwcTVNUmpTSV9RbHk1cWJ6bHJvTzA3VzBxaldtaFEwMG1vaF9ZZkxTR3dkZnlycC10TlpNVXFrSkhOOHBVSFB0aGdlaTRWUVl3d21QZ0Y4UnBEMTMxX0daSnZ3OTdEdFRZWF9mSUlXUXFCcS1aX3VxUGJmVV9sTjR1TXhCcERjdkJ4SGtR?oc=5",
-   "source": "kark.com",
+   "source": "KARK",
    "published": 1788096429.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1788257052.148484,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "PAPER TRAILS: Little Rock native eyes Miss Egypt title - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONnpDTTBqUUx3NDBnaFFNRkczampBTVdDTnFkMXBNdEJGYU4tMHVBeXRuWWpVbUpGVF9PLWVxZGlGQ1ZZWGpXUDhsSlZmTk9wR2N0LVBHRmlMQUY4R0tvcTVkZkl1azhFNmg2ME9nb2xLcWdPVHRaVEE3MG90dEplTW1qZG9wbkF4c21BSl80bE13UHpmc2ZqUXJEVlI?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788069600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1788123782.987411,
+   "first_seen": 1788274318.907359,
    "section": "major"
   },
   {
@@ -160,50 +160,14 @@
   },
   {
    "type": "article",
-   "title": "School district cuts student access to Central Arkansas Library System’s online materials - arkansasadvocate.com",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEVhbmVlY1hmZktDZFIzeW1FbndLN0ZkNlJvMjg0REk2NFVlNi1uWkp0V01qXzVibUhYTkZSTjBSeE9PM2tmTG5nTGJyTzJZRnNoc3J4eEFnSGNRTEs4aXc4dmFKSVRXcGZuUVB1OTdjclgxcmNHZFpiMnRMdTNpNDdqYlc4S3RvUzJfcDlLc0VCNkNlaDlJVXQweTNVLWZJbS1sb2VLZDlQR3lMYzY2amp4bC0zU0xYc0FXa01PcXVCVFdSbG10UQ?oc=5",
-   "source": "arkansasadvocate.com",
-   "published": 1787944977.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1787969382.113308,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police investigating hatchet attack - kark.com",
+   "title": "North Little Rock police investigating hatchet attack - KARK",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmpweFJSNjZjSTVwdGNlRXNhQk1rUVJaTXdhOUhaYXhuazNaRHpPeTJRc2NXX0o3WmJoQ2wwY2RNMk84Z196TG9HQTJxcmFUMU1KdTJ4NmhBc3NtZ2hWMVIwSGE2Tm1mb0ZQWGh1Uk92TGlPWW52Q1lNUGZVMllDdk1aWFlOMno1NUdmRzlfSDVmWXc0?oc=5",
-   "source": "kark.com",
+   "source": "KARK",
    "published": 1787929374.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1788257052.148484,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Homer Terrell Murphy Obituary Aug 28, 2026 - smithfamilycares.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56aHNXaE1RMUVRdUtCT25saTVZbmNtWjNhckZZaGJ4d2hzQWpUNmdZV04xWktKcElBMzRSLTZwdDdqdUdFUEk1MnZjaC1ZZlh6Q3RwZWJoSVpZbGZOZnAtM1lvMUNFbk0?oc=5",
-   "source": "smithfamilycares.com",
-   "published": 1787900400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1788257052.148484,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Man, 23, arrested in fatal stabbing of woman in Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3BHb1pqZG9OcFFhenBMWTZjMC1LdGp5S2FpT0pnSno0eE5KaFFJdTFQb2dKbnhnYzFWakF3R2xHaHhDSVhUSlBlbHBNeVJMU0VueDhXQmFZb0E1MnVEYjBaU2NTR0Z0UWxNQXp5dk5MWlVNQ3FfUzQ2b1Z6TmRTSGd4b0c5anF5OFZKa0ZHMEpsLURRdUFWMlZR?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1787886600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "first_seen": 1788028015.659738,
+   "first_seen": 1788274318.907359,
    "section": "crime"
   },
   {
@@ -292,26 +256,26 @@
   },
   {
    "type": "article",
-   "title": "Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - kark.com",
+   "title": "Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - KARK",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTdSOWJIeS1qV0lSdlRCdHJuUXNybXI3RkdSR2pZMFBxaWdEVFl1ZGZRcnE4WVpyTldUdEJCM2p5R1pmVTk5SkF2ZWdjck1nRFQtLVNzMlBER3Z1MmxQX2l4MFFnRTJJenFJRW9CMk0yQW9BSTNrNzkwQ0dVNjVSX3ZXMXJ1a1IwNXRNeDliVjFXWVRlUlNwejFTMWlJY1hmbW9zdWN3c3hidWl2b2t3djJrcFNzR3JZ?oc=5",
-   "source": "kark.com",
+   "source": "KARK",
    "published": 1786950000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1788257052.148484,
+   "first_seen": 1788274318.907359,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Baptist Health Buys 12 Acres in North Little Rock (Real Deals) - arkansasbusiness.com",
+   "title": "Baptist Health Buys 12 Acres in North Little Rock (Real Deals) - Arkansas Business",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnFyU1V6blRXZWtnUzU5Qmh3eGhXSkRUaEE1TmEwdDJtZTdoU0oya0d0VHBMd0doUVFXTVNiVlQxa3lsYkFoOEhObWhOaThaNjhBME1zSjNaZzBlZVJMSzA3TjR4TXQ1dExyUFlFYVJVWXJ1dS1hSmNFNXl2TmY4VlBXbDJWSnB6WGg3Sm9BVDVzYV9acnZHSThqdjdtRzdJc1loMG9R?oc=5",
-   "source": "arkansasbusiness.com",
+   "source": "Arkansas Business",
    "published": 1786950000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "first_seen": 1788257052.148484,
+   "first_seen": 1788274318.907359,
    "section": "major"
   },
   {
@@ -337,6 +301,42 @@
    "comments": [],
    "first_seen": 1788257052.148484,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police identify pedestrian killed in Wednesday crash - KARK",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2NNVG5kLVJtdHA4MkcyaXZvZlB3aWdMWWtwcXpZcHdnMFdHQ2cwSk9jbDlIMzFtb0E3V091Sk5HalNjcnk4V1B6TVZJUjVTcXhkOXpJcXlhTzZLYS1lTDhodkQ1dHRTZFFpV0ZjVWFwSEtmNTVtZVB4dTBycTRmVE5fZ1NSc3FuUXFPcHRJaGduNzlhTnBxeXRkM01QX0NWNjdrVlVod3ZQZ3hl?oc=5",
+   "source": "KARK",
+   "published": 1786604400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788274318.907359,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Task force will draft proposals for Little Rock School District, including possible closures - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVZFM3pnWlBLejRVcHg1UHVreVdISjBaNUhtS0tTTlB4TzN0NU1nck9OQ3RubEM3M2ZnWjV6Vi0xTXA1QkVDUGdrb2M1RmxoRHVuTFNkd1RBRWxVd3hjQUJ2OFRXRmNrX1N5ZXc0R0FKd2JhLUlpdmFObU9HZXFpdmdvUFlfRkZINWxFQUVhdk1WMHJXeVI0Qk5IQmc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1786604400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788274318.907359,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Investigation underway after fatal accident in North Little Rock - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT1FESm9seVBwYWQydC1ndjI2c3pYOEYtMnBIU3ZGc29BU05qaFdMR0ZUMXpGQnYwOG1EVXZFUDl4TU1peDEzdzBLaEEwV2ZXZndQQ3JnWEQ3Q2ZRQ1A0TWhoeWMtcGxacHZpaFZQa1prLUo2bXRQb0dkTWlyRFZTMDZkZG1kQXJ6M3R3N1RkOG5hdExMamxyam90djJxNmE1X0txQjhoUEN3bjBkU2gyREdkajBGNFZzTmhiNTl3eDVHNFVxWUJEby1xdFNoRU1mYk1MbXprS0ExR0pP?oc=5",
+   "source": "thv11.com",
+   "published": 1786518000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "first_seen": 1788274318.907359,
+   "section": "crime"
   }
  ]
 }
