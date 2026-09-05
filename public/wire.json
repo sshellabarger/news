@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T15:24:22.819569-05:00",
+ "updated": "2026-09-05T17:53:32.684689-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -26,7 +26,7 @@
   },
   {
    "type": "article",
-   "title": "Authorities continue search for missing North Little Rock nursing home resident - The Arkansas Democrat-Gazette",
+   "title": "Authorities continue search for missing North Little Rock nursing home resident - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjFZT0ktZ3Y5RW9kWWw4NGpzS0QzMW9tS2VJejN3UU15b2JUTHdOYzdkM0dJeU9WQ3R4Zlo4NlBXT3p5MTdyNXFXeXdUeXo0NFpTLTVsWGtJb0MyM3NhcW1pdlFOZVNraTlsaGpnZzNsWGlmcXczZ1F4bGt5cWtKcmgxTVU2UXhzeXp3UWFkRTVGNUpxQXhkRTNB?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788580800.0,
@@ -41,9 +41,31 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "authoritiescontinuesearchformissingnorthlittlerocknursinghomeresidentthearkansas"
+    "authoritiescontinuesearchformissingnorthlittlerocknursinghomeresidentarkansasonl"
    ],
-   "first_seen": 1788598977.952448,
+   "first_seen": 1788648812.684689,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock School District releases plan for possible school closures in 2027-28 - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788572764.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728arkansasonl"
+   ],
+   "first_seen": 1788648812.684689,
    "section": "major"
   },
   {
@@ -67,28 +89,6 @@
    ],
    "first_seen": 1788566566.956202,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock School District releases plan for possible school closures in 2027-28 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788563280.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728thearkansas"
-   ],
-   "first_seen": 1788612101.757073,
-   "section": "major"
   },
   {
    "type": "article",
@@ -143,14 +143,20 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGxDd0JtbVlVZ0NaTndINURsWl9hM0tIb1RaUHNWb3pkOUowcDI2VE5oTUFETVFoNHlaWTdOZWtqNkMxWE81RWpzX1kxWHVwSzZZMzRvdHIyc09nX1lBTkpDR2FGY25vNi1sWlFJUWJDR05McWdiaEtfQW13MTBNYmdSY0VEZHZoVFBEQUtZczVhak9aVUVCdFNHMHZFallabmZqa05CNVFqTGl4T1lOdFJoMy1LN2sydFk0V3hETllpTll6Wi1j?oc=5"
+    },
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhKdEpwY3ZicWp1UkZzeDczLVdZdW44Qms2UDlqNXU5aHJ5SEliaEYxd0hPX2ZKd19sdUE4enotYVppaTQzUFBwNDJmV1YxQzFRaUVwTG40RjI4dVVyOFIteWswY1hnZnVMRDFWNnp3VnB1bTlBVW56eE5vRUV3UUp5ZU1NbE1RT0pjeDhJd2p5Z2Y3b1VhOXQ0Y2dyUHdsLVRSbjFLUQ?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
+    "northlittlerockpoliceissuesilveralertformissingpersonarkansasradio",
     "northlittlerockpolicereleaseadditionalpicturesofsilveralertsubjectcharlesnoiseka"
    ],
    "first_seen": 1788598977.952448,
@@ -180,7 +186,7 @@
   },
   {
    "type": "article",
-   "title": "Search continues for missing North Little Rock man as multiple agencies join effort - fox16.com",
+   "title": "Search continues for missing North Little Rock man as multiple agencies join effort - FOX16.com",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUxRaXZyZlpvUDV4ekdNMF9pdzIxajMzSGg1dVZRVzYtRGFOSl8tLUw3c2VKTFBHZ0Iwcy10VmJoaFhTakVmSW9tZ3MwN29UUm00Rk5EdGxlMnhjak0xUGMtb24zUjFHMFJTX0pFUy1SRDRnWGRrX0RPUm8yOGQ5Zm5CQ3V3T0taUGdaRnZSRzJTQ1k5QUpJVzUtMF9oWG5BN1MxbHFUUmdXYlRoeFdIUUw3a1IxWHBXdFh6OS1VVdIBxAFBVV95cUxQLU5HQW5OQUlKSkN0UmE3VXNob0V5WFNNNElKaWI5RS0zVzhwX0VtWVZNaWk1WUF3MGVNLS05dnYwbDdiVFlPUUppMG5hVzNqVnlwbXdHSzZ5RGZIanZ0LWVuLXA1REtabTgtVWdzZmZEOTgxNGxtN2F6T0RtcE5CS0RIenFrVURRUEhncHhNTEI1RUxNZEhzUVJMZVZmbUt4ZEJfNjhqTWVVaFZQSHBPVktnaUFsYXNfQkRSU08xYXpVbXA5?oc=5",
    "source": "FOX16",
    "published": 1788491937.0,
@@ -270,33 +276,11 @@
    ],
    "source_count": 3,
    "member_keys": [
-    "simmonsbankclosing26locations6inarkansasindecemberkatv",
+    "simmonsbankclosing26locations6inarkansasindecemberkatvcom",
     "simmonsbanktoclose26branchesasitseekstostrengthenitsbottomlinearkansasbusiness",
-    "simmonsbankwillclose26branchesincludingsixinarkansasthearkansasdemocratgazette"
+    "simmonsbankwillclose26branchesincludingsixinarkansasarkansasonlinecom"
    ],
    "first_seen": 1788582233.616763,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Lanes reopened following accident on I-30 westbound near North Little Rock - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb01rSHd6RzdRQXFmdkNwam91TXNNc09fY1pYcHgzRzFaTzhWLW9ndW05NkFKM0hpekRhaWJ1OUlqNWxNX1dsb1NXTzVsdFI0UVVkNk9wa3ltdWNXd1phb0JORWN3Ul9LUlVwb2YwVEhCUDhlR3QtZ2hoWUpaUllJTE91V2xJaF9EaXlaWXBXWG9ZaTlZTkctVEtOSG5wS3otVUMxdGpKVU93ZGdBT1kxYl9HcTR1aDExaGZQNzlxdlh0LWRMaVE?oc=5",
-   "source": "THV11",
-   "published": 1788471720.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb01rSHd6RzdRQXFmdkNwam91TXNNc09fY1pYcHgzRzFaTzhWLW9ndW05NkFKM0hpekRhaWJ1OUlqNWxNX1dsb1NXTzVsdFI0UVVkNk9wa3ltdWNXd1phb0JORWN3Ul9LUlVwb2YwVEhCUDhlR3QtZ2hoWUpaUllJTE91V2xJaF9EaXlaWXBXWG9ZaTlZTkctVEtOSG5wS3otVUMxdGpKVU93ZGdBT1kxYl9HcTR1aDExaGZQNzlxdlh0LWRMaVE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "lanesreopenedfollowingaccidentoni30westboundnearnorthlittlerockthv11com"
-   ],
-   "first_seen": 1788496152.439051,
    "section": "major"
   },
   {
@@ -323,7 +307,7 @@
   },
   {
    "type": "article",
-   "title": "Labor Day weekend temperatures in Little Rock could meet 80-year-old heat record, forecasters say - The Arkansas Democrat-Gazette",
+   "title": "Labor Day weekend temperatures in Little Rock could meet 80-year-old heat record, forecasters say - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUdSTjlhd0JHZnFCSzRuZ0pFMkR0MHoxZ2I3cHdnQUkxWDNqM2FIWXVycWhqSWpCcDRiOEI5YTQzbm13cVNTNDBVam8zR3JDU3p3NTdEME9ZMy1xMDk1THN0c0xSMEo3cVN4T002OUZjN1RhcHBWNzBTM0l6VzlOU3pjN05zbWtucTdiNjd1RTk1a0xUNjhVTVpR?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788460980.0,
@@ -341,6 +325,28 @@
     "labordayweekendtemperaturesinlittlerockcouldmeet80yearoldheatrecordforecasterssa"
    ],
    "first_seen": 1788496152.439051,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas libraries offer discounts for cardholders during card sign-up month - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHdVbmhlWjBEMWhfaFZ1VVZxb0FDaUM3T2ZBbEM5VHZnR0JYSDVTYVNmdzBRU1BVUkVZQ1N3VDhPZmxGVGd1TFNYX3hOVFRKSHRnV0pDRDJtVU9qcUIwaWxLWGYzRG95ZHNiRzFSVU5GamRPdFV2ZEtyVmhMSEJTNVhUd29xWG9xcThqd05RMmQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788457500.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHdVbmhlWjBEMWhfaFZ1VVZxb0FDaUM3T2ZBbEM5VHZnR0JYSDVTYVNmdzBRU1BVUkVZQ1N3VDhPZmxGVGd1TFNYX3hOVFRKSHRnV0pDRDJtVU9qcUIwaWxLWGYzRG95ZHNiRzFSVU5GamRPdFV2ZEtyVmhMSEJTNVhUd29xWG9xcThqd05RMmQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansaslibrariesofferdiscountsforcardholdersduringcardsignupmontharkansasonline"
+   ],
+   "first_seen": 1788648812.684689,
    "section": "major"
   },
   {
@@ -389,7 +395,7 @@
   },
   {
    "type": "article",
-   "title": "Putt Chip Chill swings into North Little Rock with new take on mini-golf - The Arkansas Democrat-Gazette",
+   "title": "Putt Chip Chill swings into North Little Rock with new take on mini-golf - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEVRRlNuZnkya29JR2tzQk9Wdlpqc0RWcVZuZG5xTkVLSnE1Z19PdG0zOTdtRDItNENnRXRiSU5xOTR6R3BBQzNJR3MxamYybXhqVnNtbGgwNFRFZ1pnZG9oaEJJY0FfcmRGNUdORUtDWjEyWnd2TWxQUVE2T0MzRXhjcEtWQ09QdGlxNmUtWUo5SU5nOV9MbUJR?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788390900.0,
@@ -404,23 +410,23 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "puttchipchillswingsintonorthlittlerockwithnewtakeonminigolfthearkansasdemocratga"
+    "puttchipchillswingsintonorthlittlerockwithnewtakeonminigolfarkansasonlinecom"
    ],
-   "first_seen": 1788582233.616763,
+   "first_seen": 1788648812.684689,
    "section": "sports"
   },
   {
    "type": "article",
-   "title": "Video of 2 Mississippi County traffic stops prompt calls for Arkansas State Police investigation - Arkansas Advocate",
+   "title": "Video of 2 Mississippi County traffic stops prompt calls for Arkansas State Police investigation - arkansasadvocate.com",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmc4UkpZTnRvdkpvUjlhdzY0cHQ4QWVRWWpycjJQZjdLdGNnM3hrbWNpeHBOV2ZvN2Z1SEROODVLcUQyblZ3dlo2ZUI1TUdMZHlUdHczQ21hMUxGekpWcW1EVW0ybnlkbm9IXzRCZ24xTFFSMUJJeXUwd01iOVhCc1QyTjFBVG9FUWhYV1JCTkZnZzJHY3dIS1UzS3FJZk4wUnVadVNGYUV0bVMwaU5obWJmb05nX0dtSDR4cGtsZ2JqYlQxTjZ5N05PU0ZreExzZno0?oc=5",
-   "source": "Arkansas Advocate",
+   "source": "arkansasadvocate.com",
    "published": 1788380838.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Arkansas Advocate",
+     "source": "arkansasadvocate.com",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmc4UkpZTnRvdkpvUjlhdzY0cHQ4QWVRWWpycjJQZjdLdGNnM3hrbWNpeHBOV2ZvN2Z1SEROODVLcUQyblZ3dlo2ZUI1TUdMZHlUdHczQ21hMUxGekpWcW1EVW0ybnlkbm9IXzRCZ24xTFFSMUJJeXUwd01iOVhCc1QyTjFBVG9FUWhYV1JCTkZnZzJHY3dIS1UzS3FJZk4wUnVadVNGYUV0bVMwaU5obWJmb05nX0dtSDR4cGtsZ2JqYlQxTjZ5N05PU0ZreExzZno0?oc=5"
     }
    ],
@@ -483,19 +489,15 @@
   },
   {
    "type": "article",
-   "title": "Eaton Announces $242 Million, 1 Million-Square-Foot North Little Rock Facility Creating 1,200 Jobs - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcm83V1lTUGdFbE02VWo2dXhUTUtkZC1jTGRoMUtYOHIxQkFfYS1sUTVHWWJ6MHlkQzRNWDlncnB3T05DM1VTV2lnTHZwVzdzZnVlXzdJYnl0VHVPSkNZcmlUbENkX3JfMy1NOWRzZS0zRjhBNWZjWU1QdXVVaUk0VklCUlZOMlBfUXMxY25rLTNTR1U?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1788358488.0,
+   "title": "Eaton to open $242 million facility in North Little Rock, adding 1,200 jobs - katv.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1hETU1OVmVMdTlubXFrYzZVM01KUXJWVTFiV211cEFjc2NIMkUwSHAzNGJhTHZibms0VUtucW9yMFNpQVZsX3lCaTV4cHV1ZU8tNUxQS0FWVGNDNXN4YVcxSGZHdTV1ODlOXzR6aWdGVnRjYnUyWmRxQ095SHB2dmZneUVVUDFsSC1BTElyTWFjSHczU3JHdkc5bkFUekcxc0E?oc=5",
+   "source": "KATV",
+   "published": 1788364287.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "num_comments": null,
    "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcm83V1lTUGdFbE02VWo2dXhUTUtkZC1jTGRoMUtYOHIxQkFfYS1sUTVHWWJ6MHlkQzRNWDlncnB3T05DM1VTV2lnTHZwVzdzZnVlXzdJYnl0VHVPSkNZcmlUbENkX3JfMy1NOWRzZS0zRjhBNWZjWU1QdXVVaUk0VklCUlZOMlBfUXMxY25rLTNTR1U?oc=5"
-    },
     {
      "source": "KATV",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1hETU1OVmVMdTlubXFrYzZVM01KUXJWVTFiV211cEFjc2NIMkUwSHAzNGJhTHZibms0VUtucW9yMFNpQVZsX3lCaTV4cHV1ZU8tNUxQS0FWVGNDNXN4YVcxSGZHdTV1ODlOXzR6aWdGVnRjYnUyWmRxQ095SHB2dmZneUVVUDFsSC1BTElyTWFjSHczU3JHdkc5bkFUekcxc0E?oc=5"
@@ -509,11 +511,10 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR24zZW5pdDZUTFU4NW9kZzhuNkkyb29yZEpsanBETHJGNUFjU0RvVEJJcmEwTk9RTFJwck9jZTd2VjJHeUg4U05QNDJXVmd5aVRvVW5iUG9NU0lTUGMzOEd0d3VUZWIwcktVeU0yWDNBTTNZU3d1dXZBS1htbG1JUko0bUJweFZpazc0cUtWX3RZaVhNMEZLWkVTMFNFWlBQTDgtSVJqaDc3dHctU2Vrd0ZCTnVfQXZlTVE0?oc=5"
     }
    ],
-   "source_count": 4,
+   "source_count": 3,
    "member_keys": [
-    "eatonannounces242million1millionsquarefootnorthlittlerockfacilitycreating1200job",
     "eatontoinvest242millioninnewnorthlittlerockfacilitycreatingapproximately12kjobsk",
-    "eatontoopen242millionfacilityinnorthlittlerockadding1200jobskatv",
+    "eatontoopen242millionfacilityinnorthlittlerockadding1200jobskatvcom",
     "northlittlerockmayorspeaksoneatonsplanned242millionmanufacturingfacilitykark"
    ],
    "first_seen": 1788612101.757073,

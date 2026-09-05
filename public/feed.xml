@@ -6,7 +6,7 @@
     <atom:link href="https://dirtydogtown.news/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The Wire: North Little Rock, Arkansas news and public discussion, gathered hourly by dirtydogtown.news. Every item links to its source.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 15:24:22 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:53:32 -0500</lastBuildDate>
     <item>
       <title>Mary Lynn Bowen Obituary (2026) - North Little Rock, AR - Benton Funeral Home - Fordyce - Legacy obituary</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1qYTRTQ1VGQXNwcUdsOGJvWnBjZ1daWU80RFRfY2lmZnVzVURBWXM5ZVRTM1Jma3ZVQ1V0SVJCRFdqSUdtXzVsdENOM2Q1Mk9ydFlpeWI1aXRMbmVNN0owd0NUUnpicmRKVG1idFhsU2xPT0Y1ZVNucHZKRERqdw?oc=5</link>
@@ -16,10 +16,18 @@
       <description>Source: Legacy obituary</description>
     </item>
     <item>
-      <title>Authorities continue search for missing North Little Rock nursing home resident - The Arkansas Democrat-Gazette</title>
+      <title>Authorities continue search for missing North Little Rock nursing home resident - arkansasonline.com</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjFZT0ktZ3Y5RW9kWWw4NGpzS0QzMW9tS2VJejN3UU15b2JUTHdOYzdkM0dJeU9WQ3R4Zlo4NlBXT3p5MTdyNXFXeXdUeXo0NFpTLTVsWGtJb0MyM3NhcW1pdlFOZVNraTlsaGpnZzNsWGlmcXczZ1F4bGt5cWtKcmgxTVU2UXhzeXp3UWFkRTVGNUpxQXhkRTNB?oc=5</link>
-      <guid isPermaLink="false">dogtown-authoritiescontinuesearchformissingnorthlittlerocknursinghomeresidentthearkansas</guid>
+      <guid isPermaLink="false">dogtown-authoritiescontinuesearchformissingnorthlittlerocknursinghomeresidentarkansasonl</guid>
       <pubDate>Sat, 05 Sep 2026 04:00:00 +0000</pubDate>
+      <category>Major News</category>
+      <description>Source: The Arkansas Democrat-Gazette</description>
+    </item>
+    <item>
+      <title>Little Rock School District releases plan for possible school closures in 2027-28 - arkansasonline.com</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5</link>
+      <guid isPermaLink="false">dogtown-littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728arkansasonl</guid>
+      <pubDate>Sat, 05 Sep 2026 01:46:04 +0000</pubDate>
       <category>Major News</category>
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
@@ -30,14 +38,6 @@
       <pubDate>Fri, 04 Sep 2026 23:54:51 +0000</pubDate>
       <category>Obituaries</category>
       <description>Source: Legacy obituary</description>
-    </item>
-    <item>
-      <title>Little Rock School District releases plan for possible school closures in 2027-28 - The Arkansas Democrat-Gazette</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5</link>
-      <guid isPermaLink="false">dogtown-littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728thearkansas</guid>
-      <pubDate>Fri, 04 Sep 2026 23:08:00 +0000</pubDate>
-      <category>Major News</category>
-      <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
       <title>Robert &quot;Bob&quot; E. York Obituary (2026) - Little Rock, AR - Smith Family Funeral Homes - Little Rock - Legacy obituary</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="false">dogtown-northlittlerockpolicereleaseadditionalpicturesofsilveralertsubjectcharlesnoiseka</guid>
       <pubDate>Fri, 04 Sep 2026 16:47:39 +0000</pubDate>
       <category>Crime &amp; Safety</category>
-      <description>Source: KARK</description>
+      <description>Sources: KARK, Arkansas Radio</description>
     </item>
     <item>
       <title>Mountain Home City Council continues discussion of food trucks, approves purchase of smart water m - KTLO</title>
@@ -72,7 +72,7 @@
       <description>Source: KTLO</description>
     </item>
     <item>
-      <title>Search continues for missing North Little Rock man as multiple agencies join effort - fox16.com</title>
+      <title>Search continues for missing North Little Rock man as multiple agencies join effort - FOX16.com</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUxRaXZyZlpvUDV4ekdNMF9pdzIxajMzSGg1dVZRVzYtRGFOSl8tLUw3c2VKTFBHZ0Iwcy10VmJoaFhTakVmSW9tZ3MwN29UUm00Rk5EdGxlMnhjak0xUGMtb24zUjFHMFJTX0pFUy1SRDRnWGRrX0RPUm8yOGQ5Zm5CQ3V3T0taUGdaRnZSRzJTQ1k5QUpJVzUtMF9oWG5BN1MxbHFUUmdXYlRoeFdIUUw3a1IxWHBXdFh6OS1VVdIBxAFBVV95cUxQLU5HQW5OQUlKSkN0UmE3VXNob0V5WFNNNElKaWI5RS0zVzhwX0VtWVZNaWk1WUF3MGVNLS05dnYwbDdiVFlPUUppMG5hVzNqVnlwbXdHSzZ5RGZIanZ0LWVuLXA1REtabTgtVWdzZmZEOTgxNGxtN2F6T0RtcE5CS0RIenFrVURRUEhncHhNTEI1RUxNZEhzUVJMZVZmbUt4ZEJfNjhqTWVVaFZQSHBPVktnaUFsYXNfQkRSU08xYXpVbXA5?oc=5</link>
       <guid isPermaLink="false">dogtown-searchcontinuesformissingnorthlittlerockmanasmultipleagenciesjoineffortfox16com</guid>
       <pubDate>Fri, 04 Sep 2026 03:18:57 +0000</pubDate>
@@ -104,14 +104,6 @@
       <description>Sources: Arkansas Business, The Arkansas Democrat-Gazette, KATV</description>
     </item>
     <item>
-      <title>Lanes reopened following accident on I-30 westbound near North Little Rock - thv11.com</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQb01rSHd6RzdRQXFmdkNwam91TXNNc09fY1pYcHgzRzFaTzhWLW9ndW05NkFKM0hpekRhaWJ1OUlqNWxNX1dsb1NXTzVsdFI0UVVkNk9wa3ltdWNXd1phb0JORWN3Ul9LUlVwb2YwVEhCUDhlR3QtZ2hoWUpaUllJTE91V2xJaF9EaXlaWXBXWG9ZaTlZTkctVEtOSG5wS3otVUMxdGpKVU93ZGdBT1kxYl9HcTR1aDExaGZQNzlxdlh0LWRMaVE?oc=5</link>
-      <guid isPermaLink="false">dogtown-lanesreopenedfollowingaccidentoni30westboundnearnorthlittlerockthv11com</guid>
-      <pubDate>Thu, 03 Sep 2026 21:42:00 +0000</pubDate>
-      <category>Major News</category>
-      <description>Source: THV11</description>
-    </item>
-    <item>
       <title>News | Eaton plans Arkansas facility to make outdoor storage containers for data centers - CoStar</title>
       <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHFENkZCUlBTTkZpM3N6dC1BWXdoaEROS2ZsSGxYM2wxdU5NU19FT3NGS2JKa2tnUlBaN05mMDBXaHpXZHUwR0U4SF9DQTNnTENRTVluN055eklSQm9Mc2RORGMzZC1OaGNHcXkxa3FwaVVNZXhCcVlpTWVCSlUwc0tPVktmaU9Na0E2enJ0NmY4dlpiZUJMN2g2YlhKaVh3NklxM3FFWW9Lb0pBRnUtWmFVdVBuTTZWa3c1bjdaa0s?oc=5</link>
       <guid isPermaLink="false">dogtown-newseatonplansarkansasfacilitytomakeoutdoorstoragecontainersfordatacenterscostar</guid>
@@ -120,10 +112,18 @@
       <description>Source: CoStar</description>
     </item>
     <item>
-      <title>Labor Day weekend temperatures in Little Rock could meet 80-year-old heat record, forecasters say - The Arkansas Democrat-Gazette</title>
+      <title>Labor Day weekend temperatures in Little Rock could meet 80-year-old heat record, forecasters say - arkansasonline.com</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUdSTjlhd0JHZnFCSzRuZ0pFMkR0MHoxZ2I3cHdnQUkxWDNqM2FIWXVycWhqSWpCcDRiOEI5YTQzbm13cVNTNDBVam8zR3JDU3p3NTdEME9ZMy1xMDk1THN0c0xSMEo3cVN4T002OUZjN1RhcHBWNzBTM0l6VzlOU3pjN05zbWtucTdiNjd1RTk1a0xUNjhVTVpR?oc=5</link>
       <guid isPermaLink="false">dogtown-labordayweekendtemperaturesinlittlerockcouldmeet80yearoldheatrecordforecasterssa</guid>
       <pubDate>Thu, 03 Sep 2026 18:43:00 +0000</pubDate>
+      <category>Major News</category>
+      <description>Source: The Arkansas Democrat-Gazette</description>
+    </item>
+    <item>
+      <title>Arkansas libraries offer discounts for cardholders during card sign-up month - arkansasonline.com</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHdVbmhlWjBEMWhfaFZ1VVZxb0FDaUM3T2ZBbEM5VHZnR0JYSDVTYVNmdzBRU1BVUkVZQ1N3VDhPZmxGVGd1TFNYX3hOVFRKSHRnV0pDRDJtVU9qcUIwaWxLWGYzRG95ZHNiRzFSVU5GamRPdFV2ZEtyVmhMSEJTNVhUd29xWG9xcThqd05RMmQ?oc=5</link>
+      <guid isPermaLink="false">dogtown-arkansaslibrariesofferdiscountsforcardholdersduringcardsignupmontharkansasonline</guid>
+      <pubDate>Thu, 03 Sep 2026 17:45:00 +0000</pubDate>
       <category>Major News</category>
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
@@ -144,20 +144,20 @@
       <description>Source: THV11</description>
     </item>
     <item>
-      <title>Putt Chip Chill swings into North Little Rock with new take on mini-golf - The Arkansas Democrat-Gazette</title>
+      <title>Putt Chip Chill swings into North Little Rock with new take on mini-golf - arkansasonline.com</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEVRRlNuZnkya29JR2tzQk9Wdlpqc0RWcVZuZG5xTkVLSnE1Z19PdG0zOTdtRDItNENnRXRiSU5xOTR6R3BBQzNJR3MxamYybXhqVnNtbGgwNFRFZ1pnZG9oaEJJY0FfcmRGNUdORUtDWjEyWnd2TWxQUVE2T0MzRXhjcEtWQ09QdGlxNmUtWUo5SU5nOV9MbUJR?oc=5</link>
-      <guid isPermaLink="false">dogtown-puttchipchillswingsintonorthlittlerockwithnewtakeonminigolfthearkansasdemocratga</guid>
+      <guid isPermaLink="false">dogtown-puttchipchillswingsintonorthlittlerockwithnewtakeonminigolfarkansasonlinecom</guid>
       <pubDate>Wed, 02 Sep 2026 23:15:00 +0000</pubDate>
       <category>Sports</category>
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
-      <title>Video of 2 Mississippi County traffic stops prompt calls for Arkansas State Police investigation - Arkansas Advocate</title>
+      <title>Video of 2 Mississippi County traffic stops prompt calls for Arkansas State Police investigation - arkansasadvocate.com</title>
       <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmc4UkpZTnRvdkpvUjlhdzY0cHQ4QWVRWWpycjJQZjdLdGNnM3hrbWNpeHBOV2ZvN2Z1SEROODVLcUQyblZ3dlo2ZUI1TUdMZHlUdHczQ21hMUxGekpWcW1EVW0ybnlkbm9IXzRCZ24xTFFSMUJJeXUwd01iOVhCc1QyTjFBVG9FUWhYV1JCTkZnZzJHY3dIS1UzS3FJZk4wUnVadVNGYUV0bVMwaU5obWJmb05nX0dtSDR4cGtsZ2JqYlQxTjZ5N05PU0ZreExzZno0?oc=5</link>
       <guid isPermaLink="false">dogtown-videoof2mississippicountytrafficstopspromptcallsforarkansasstatepoliceinvestigat</guid>
       <pubDate>Wed, 02 Sep 2026 20:27:18 +0000</pubDate>
       <category>Crime &amp; Safety</category>
-      <description>Source: Arkansas Advocate</description>
+      <description>Source: arkansasadvocate.com</description>
     </item>
     <item>
       <title>New power management company to bring over 1,000 jobs to North Little Rock - thv11.com</title>
@@ -176,12 +176,12 @@
       <description>Sources: Industrial Equipment News, KTLO</description>
     </item>
     <item>
-      <title>Eaton Announces $242 Million, 1 Million-Square-Foot North Little Rock Facility Creating 1,200 Jobs - Arkansas Radio</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPcm83V1lTUGdFbE02VWo2dXhUTUtkZC1jTGRoMUtYOHIxQkFfYS1sUTVHWWJ6MHlkQzRNWDlncnB3T05DM1VTV2lnTHZwVzdzZnVlXzdJYnl0VHVPSkNZcmlUbENkX3JfMy1NOWRzZS0zRjhBNWZjWU1QdXVVaUk0VklCUlZOMlBfUXMxY25rLTNTR1U?oc=5</link>
-      <guid isPermaLink="false">dogtown-eatonannounces242million1millionsquarefootnorthlittlerockfacilitycreating1200job</guid>
-      <pubDate>Wed, 02 Sep 2026 14:14:48 +0000</pubDate>
+      <title>Eaton to open $242 million facility in North Little Rock, adding 1,200 jobs - katv.com</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1hETU1OVmVMdTlubXFrYzZVM01KUXJWVTFiV211cEFjc2NIMkUwSHAzNGJhTHZibms0VUtucW9yMFNpQVZsX3lCaTV4cHV1ZU8tNUxQS0FWVGNDNXN4YVcxSGZHdTV1ODlOXzR6aWdGVnRjYnUyWmRxQ095SHB2dmZneUVVUDFsSC1BTElyTWFjSHczU3JHdkc5bkFUekcxc0E?oc=5</link>
+      <guid isPermaLink="false">dogtown-eatontoopen242millionfacilityinnorthlittlerockadding1200jobskatvcom</guid>
+      <pubDate>Wed, 02 Sep 2026 15:51:27 +0000</pubDate>
       <category>Major News</category>
-      <description>Sources: Arkansas Radio, KATV, KVOM 101.7, KARK</description>
+      <description>Sources: KATV, KVOM 101.7, KARK</description>
     </item>
   </channel>
 </rss>
