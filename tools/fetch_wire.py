@@ -311,6 +311,151 @@ def dedupe(items: list[dict]) -> list[dict]:
     return out
 
 
+# ------------------------------------------------------------- clustering ---
+# Different outlets cover the same event under different headlines (and the
+# same outlet shows up as both "KATV" and "katv.com"). The wire folds those
+# into one item that links every source; being covered by several outlets is
+# also the strongest "this is a big story" signal we have, so multi-source
+# items get a tag and a front-of-section boost (see sort_stamp).
+
+SOURCE_ALIASES = {
+    "arkansasonline.com": "The Arkansas Democrat-Gazette",
+    "nwaonline.com": "Northwest Arkansas Democrat-Gazette",
+    "katv.com": "KATV",
+    "kark.com": "KARK",
+    "fox16.com": "FOX16",
+    "klrt - fox16.com": "FOX16",
+    "thv11.com": "THV11",
+    "kait8.com": "KAIT",
+    "5newsonline.com": "5NEWS",
+    "nwahomepage.com": "KNWA FOX24",
+    "knwa fox24": "KNWA FOX24",
+    "legacy.com": "Legacy obituary",
+    "maxpreps.com": "MaxPreps",
+    "ktlo.com": "KTLO",
+    "yahoo.com": "Yahoo",
+    "magnoliareporter.com": "Magnolia Reporter",
+    "stocktitan.net": "Stock Titan",
+    "talkbusiness.net": "Talk Business & Politics",
+}
+
+
+def norm_source(s: str) -> str:
+    key = (s or "").strip().lower()
+    return SOURCE_ALIASES.get(key, (s or "").strip() or "Wire")
+
+
+CLUSTER_STOP = set(
+    "a an and the at by for in of on to with as is are was were from this that "
+    "after amid over into new north little rock arkansas ar nlr says said his her "
+    "their its will has have had who what when where how "
+    "obituary funeral home homes service services memorial legacy dignity".split())
+WORD_NUMBERS = {"one": "1", "two": "2", "three": "3", "four": "4", "five": "5",
+                "six": "6", "seven": "7", "eight": "8", "nine": "9", "ten": "10"}
+CLUSTER_WINDOW = 5 * 86400   # same event ⇒ coverage lands within days
+
+
+def title_tokens(title: str) -> frozenset:
+    # strip a trailing " - Publisher" and normalize numbers ($242M → 242)
+    t = re.split(r"\s+[-|•]\s+[^-|•]{0,60}$", title or "")[0].lower()
+    out = set()
+    for w in re.findall(r"[a-z0-9]+", t):
+        w = WORD_NUMBERS.get(w, w)
+        m = re.fullmatch(r"(\d+)[a-z]*", w)
+        if m:
+            n = m.group(1)
+            if not re.fullmatch(r"(19|20)\d\d", n):  # bare years say nothing
+                out.add(n)
+            continue
+        if w in CLUSTER_STOP or len(w) <= 2:
+            continue
+        out.add(w)
+    return frozenset(out)
+
+
+def _distinctive(w: str) -> bool:
+    return w.isdigit() or len(w) >= 7
+
+
+def same_event(a: frozenset, b: frozenset, ts_a: float, ts_b: float) -> bool:
+    if ts_a and ts_b and abs(ts_a - ts_b) > CLUSTER_WINDOW:
+        return False
+    inter = a & b
+    n = len(inter)
+    if n < 2:
+        return False
+    ratio = n / min(len(a), len(b))
+    if n == 2:
+        return ratio >= 0.6 and any(_distinctive(w) for w in inter)
+    return ratio >= 0.5
+
+
+def merge_cluster(members: list[dict]) -> dict:
+    """One wire item from several same-event finds; every source keeps a link."""
+    members = sorted(members, key=lambda m: m.get("published") or 9e12)
+    primary = members[0]
+    merged = dict(primary)
+    merged["source"] = norm_source(primary.get("source"))
+    sources, seen_src = [], set()
+    for m in members:
+        src = norm_source(m.get("source"))
+        if src not in seen_src:
+            seen_src.add(src)
+            sources.append({"source": src, "url": m.get("url") or ""})
+        # keep the richest snippet and any discussion thread the cluster found
+        if len(m.get("snippet") or "") > len(merged.get("snippet") or ""):
+            merged["snippet"] = m["snippet"]
+        if m.get("discussion_url") and not merged.get("discussion_url"):
+            merged["discussion_url"] = m["discussion_url"]
+            merged["comments"] = m.get("comments") or []
+        merged["num_comments"] = max(int(merged.get("num_comments") or 0),
+                                     int(m.get("num_comments") or 0)) or None
+    merged["sources"] = sources
+    merged["source_count"] = len(sources)
+    merged["member_keys"] = sorted({item_key(m) for m in members})
+    return merged
+
+
+def cluster_items(items: list[dict]) -> list[dict]:
+    """Greedy half-linkage: an item joins a cluster only when it looks like the
+    same event as at least half of that cluster's members. No transitive
+    chaining — that's what keeps unrelated briefs from snowballing."""
+    clusters: list[list[tuple[frozenset, dict]]] = []
+    for it in sorted(items, key=lambda i: i.get("published") or 0):
+        tk = title_tokens(it.get("title") or "")
+        ts = it.get("published") or 0
+        best, best_frac = None, 0.0
+        if tk:
+            for c in clusters:
+                hits = sum(1 for mt, m in c
+                           if same_event(tk, mt, ts, m.get("published") or 0))
+                frac = hits / len(c)
+                if frac >= 0.5 and frac > best_frac:
+                    best, best_frac = c, frac
+        if best is not None:
+            best.append((tk, it))
+        else:
+            clusters.append([(tk, it)])
+    out = []
+    for c in clusters:
+        ms = [m for _, m in c]
+        out.append(merge_cluster(ms) if len(ms) > 1 else dict(
+            ms[0], source=norm_source(ms[0].get("source")),
+            sources=[{"source": norm_source(ms[0].get("source")),
+                      "url": ms[0].get("url") or ""}],
+            source_count=1, member_keys=[item_key(ms[0])]))
+    return out
+
+
+def sort_stamp(it: dict) -> float:
+    """Recency, nudged forward for multi-outlet coverage (never for obits —
+    syndication networks make every obituary look 'widely covered')."""
+    ts = float(it.get("published") or it.get("first_seen") or 0)
+    if it.get("section") != "obits":
+        ts += 12 * 3600 * max(0, min(int(it.get("source_count") or 1), 5) - 1)
+    return ts
+
+
 def when_label(ts: float, now: datetime) -> str:
     if not ts:
         return ""
@@ -327,17 +472,21 @@ def esc(s: str) -> str:
 
 
 def carry_first_seen(items: list[dict], wire_path: str, now: datetime) -> None:
-    """Items keep the pull stamp from the run that first found them."""
+    """Items keep the pull stamp from the run that first found them — matched
+    through every clustered member key, so a story that later gains sources
+    (and a new primary headline) keeps its original Pulled stamp."""
     prev: dict[str, dict] = {}
     if os.path.exists(wire_path):
         try:
             for it in json.load(open(wire_path, encoding="utf-8")).get("items", []):
-                prev[item_key(it)] = it
+                for k in it.get("member_keys") or [item_key(it)]:
+                    prev.setdefault(k, it)
         except (json.JSONDecodeError, OSError):
             pass
     for it in items:
-        old = prev.get(item_key(it))
-        it["first_seen"] = (old or {}).get("first_seen") or now.timestamp()
+        seen = [prev[k]["first_seen"] for k in it.get("member_keys") or [item_key(it)]
+                if k in prev and prev[k].get("first_seen")]
+        it["first_seen"] = min(seen) if seen else now.timestamp()
 
 
 def mark_hot(items: list[dict]) -> None:
@@ -357,8 +506,14 @@ def render_item(it: dict, now: datetime) -> str:
     if pulled:
         meta += " · Pulled " + esc(pulled)
     parts = []
+    tags = []
     if it.get("hot"):
-        parts.append('<p style="margin:0 0 6px"><span class="tag tag-accent-2">Hot story</span></p>')
+        tags.append('<span class="tag tag-accent-2">Hot story</span>')
+    if int(it.get("source_count") or 1) >= 3:
+        tags.append('<span class="tag tag-accent">Widely covered</span>')
+    if tags:
+        parts.append('<p style="margin:0 0 6px;display:flex;gap:8px;flex-wrap:wrap">'
+                     + "".join(tags) + "</p>")
     parts.append(f'<p class="wire-meta">{meta}</p>')
     parts.append(
         f'<h3><a class="story-link" href="{esc(it["url"])}" rel="noopener">{esc(it["title"])}</a></h3>')
@@ -367,6 +522,13 @@ def render_item(it: dict, now: datetime) -> str:
             f'<p style="font-size:14.5px;line-height:1.6;color:color-mix(in srgb, '
             f'var(--color-text) 78%, transparent);margin:8px 0 0">{esc(it["snippet"])}</p>')
     links = [f'<a href="{esc(it["url"])}" rel="noopener">Read at the source</a>']
+    extra = (it.get("sources") or [])[1:]
+    for s in extra[:4]:
+        if s.get("url"):
+            links.append(f'<a href="{esc(s["url"])}" rel="noopener">{esc(s["source"])}</a>')
+    if len(extra) > 4:
+        links.append(f'<span style="margin-left:16px;color:color-mix(in srgb, '
+                     f'var(--color-text) 60%, transparent)">+{len(extra) - 4} more</span>')
     if it.get("discussion_url") and it["discussion_url"] != it["url"]:
         n = it.get("num_comments")
         label_d = f"Discussion ({n})" if n else "Discussion"
@@ -391,6 +553,8 @@ def render(items: list[dict], now: datetime) -> str:
         return ('<p style="font-size:15.5px;line-height:1.65;color:color-mix(in srgb, '
                 'var(--color-text) 78%, transparent);margin:18px 0 0">Quiet hour on the '
                 'wire — nothing new found. The next sweep runs within the hour.</p>')
+    # widely-covered stories float toward the front of their section
+    items = sorted(items, key=sort_stamp, reverse=True)
     sections = split_sections(items)
     out = []
 
@@ -434,23 +598,38 @@ def update_archive(items: list[dict], path: str, now: datetime) -> list[dict]:
     their original first_seen and their best discussion count.
     """
     by_key: dict[str, dict] = {}
+    member_of: dict[str, str] = {}   # any clustered member key -> canonical key
     if os.path.exists(path):
         try:
             for it in json.load(open(path, encoding="utf-8")).get("items", []):
-                by_key[item_key(it)] = it
+                key = item_key(it)
+                by_key[key] = it
+                for k in it.get("member_keys") or [key]:
+                    member_of.setdefault(k, key)
         except (json.JSONDecodeError, OSError):
             pass
     for it in items:
         rec = {k: it.get(k) for k in ("type", "title", "url", "source", "published",
                                       "first_seen", "section", "snippet",
-                                      "discussion_url", "num_comments")}
-        old = by_key.get(item_key(it))
-        if old:
+                                      "discussion_url", "num_comments",
+                                      "sources", "source_count", "member_keys")}
+        # absorb every archive entry this cluster covers (a story that gained
+        # sources replaces the single-source rows it grew out of)
+        olds = []
+        for k in it.get("member_keys") or [item_key(it)]:
+            canon = member_of.get(k)
+            if canon and canon in by_key:
+                olds.append(by_key.pop(canon))
+        for old in olds:
             if old.get("first_seen"):
-                rec["first_seen"] = min(old["first_seen"], rec["first_seen"] or old["first_seen"])
+                rec["first_seen"] = min(old["first_seen"],
+                                        rec["first_seen"] or old["first_seen"])
             rec["num_comments"] = max(int(old.get("num_comments") or 0),
                                       int(rec.get("num_comments") or 0)) or None
-        by_key[item_key(it)] = rec
+        key = item_key(it)
+        by_key[key] = rec
+        for k in rec.get("member_keys") or [key]:
+            member_of[k] = key
     merged = sorted(by_key.values(), key=item_stamp, reverse=True)[:ARCHIVE_KEEP]
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"updated": now.isoformat(), "items": merged}, f,
@@ -472,10 +651,14 @@ def render_morgue(merged: list[dict], now: datetime) -> str:
             current_month = month
             out.append(f'<h2 class="morgue-month">{esc(month)}</h2>')
         sec = SECTION_FEED_NAMES.get(it.get("section", "major"), "Major News")
+        src = esc(it.get("source") or "")
+        n_src = int(it.get("source_count") or 1)
+        if n_src > 1:
+            src += f" +{n_src - 1} more"
         row = (f'<p class="morgue-row"><span class="m-date">{esc(dt.strftime("%b"))} {dt.day}</span>'
                f'<span class="m-sec">{esc(sec)}</span>'
                f'<a href="{esc(it["url"])}" rel="noopener">{esc(it["title"])}</a>'
-               f'<span class="m-src">{esc(it.get("source") or "")}</span></p>')
+               f'<span class="m-src">{src}</span></p>')
         out.append(row)
     if len(merged) > MORGUE_RENDER:
         out.append(f'<p class="morgue-note">Showing the latest {MORGUE_RENDER} of '
@@ -490,7 +673,9 @@ def write_feed(items: list[dict], now: datetime, path: str) -> None:
     for it in items:
         ts = it.get("published") or it.get("first_seen") or now.timestamp()
         pub = format_datetime(datetime.fromtimestamp(ts, tz=timezone.utc))
-        desc_bits = [it.get("snippet") or "", "Source: " + it["source"]]
+        srcs = [s["source"] for s in it.get("sources") or []] or [it["source"]]
+        src_label = ("Sources: " if len(srcs) > 1 else "Source: ") + ", ".join(srcs)
+        desc_bits = [it.get("snippet") or "", src_label]
         if it.get("discussion_url") and it["discussion_url"] != it["url"]:
             desc_bits.append("Discussion: " + it["discussion_url"])
         rows.append(
@@ -527,6 +712,8 @@ def main() -> int:
     news.sort(key=lambda n: n["published"], reverse=True)
     items = sorted(news[:MAX_NEWS] + reddit(),
                    key=lambda i: i["published"], reverse=True)
+    items = cluster_items(items)
+    items.sort(key=lambda i: i.get("published") or 0, reverse=True)
 
     wire_path = os.path.join(PUB, "wire.json")
 

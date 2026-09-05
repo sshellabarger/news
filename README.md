@@ -107,6 +107,19 @@ Commission** (3rd Mondays), and the **Library Board** (odd months).
 The fetcher classifies every wire item into **Major News** (the bulk of the
 page), **Crime & Safety**, **Sports**, or **Obituaries** using keyword and
 source rules — tune them in `SECTION_KEYWORDS` in `tools/fetch_wire.py`.
+
+**Same-event clustering**: when several outlets cover one event (or one
+outlet syndicates under two names — `KATV` / `katv.com`), the wire merges
+the finds into a single item that links every source ("Read at the source"
+plus each additional outlet). Items covered by 3+ outlets get a **Widely
+covered** tag, and multi-source stories float toward the front of their
+section (+12h of sort recency per extra outlet, capped at four; obituaries
+are exempt — syndication makes every obit look widely covered). Matching is
+conservative on purpose: headlines must share meaningful tokens and land
+within five days of each other; a follow-up story a week later is treated
+as its own item. Tune in `cluster_items` / `same_event` / `SOURCE_ALIASES`.
+Multi-source coverage is also the strongest signal a wire find deserves
+promotion to a curated front-page story.
 Each item shows when the source **Filed** it and when the wire first
 **Pulled** it (carried across runs via `wire.json`). The most-discussed
 items (5+ Reddit comments, top 3) get a **Hot story** tag; curated stories
