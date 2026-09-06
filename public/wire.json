@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T14:09:13.030246-05:00",
+ "updated": "2026-09-06T16:19:22.443842-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -26,7 +26,7 @@
   },
   {
    "type": "article",
-   "title": "Seven special women - The Arkansas Democrat-Gazette",
+   "title": "Arkansas Women’s Hall of Fame inducts new members - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wQ2tTT3FGZnl1d1MzZzNXdl8xVTN6Z3V5bEllYjlEamNFbE4tNmhYTC15MmVhdGpHd18tOVhydzFYa2sya24tb2htV0VyekVPY3FxWThiSzZ2LW5qVWJtQ0dpZDdfdFptR0JzOVVYS013aWhuQTRz?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788681060.0,
@@ -41,9 +41,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "sevenspecialwomenthearkansasdemocratgazette"
+    "arkansaswomenshalloffameinductsnewmembersthearkansasdemocratgazette"
    ],
-   "first_seen": 1788714054.062889,
+   "first_seen": 1788729562.443842,
    "section": "major"
   },
   {
@@ -88,6 +88,28 @@
     "northlittlerockcelebrates3rdannualarkansasreggaefestivalthv11com"
    ],
    "first_seen": 1788674157.978512,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Tuition at Arkansas’ top private schools rising faster than LEARNS Act funding - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788663600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "tuitionatarkansastopprivateschoolsrisingfasterthanlearnsactfundingthearkansasdem"
+   ],
+   "first_seen": 1788729562.443842,
    "section": "major"
   },
   {
@@ -202,28 +224,6 @@
   },
   {
    "type": "article",
-   "title": "State insurance regulators approve Arkansas Blue Cross and Blue Shield’s affiliation with Cambia Health Solutions - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXpvQmh1OFJNRkZaUnpCRkdCc2FqS0cwd2JIcFc4TDFzRkMtUHNGNVcydU9ENDBrVG55UExKM09ZN1pHUlZGaVBRTDI2ZzFZYlFodnVHQVl2V0JpMGhrUEJSV2xoWG5OWHJtQlgtOUhDcWJUSGwzdkxWVWMxQ0gtUUhPcHVyQ210NFg1d3ozY2NQWHpWV3dKeXZCUmxBZw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788548100.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXpvQmh1OFJNRkZaUnpCRkdCc2FqS0cwd2JIcFc4TDFzRkMtUHNGNVcydU9ENDBrVG55UExKM09ZN1pHUlZGaVBRTDI2ZzFZYlFodnVHQVl2V0JpMGhrUEJSV2xoWG5OWHJtQlgtOUhDcWJUSGwzdkxWVWMxQ0gtUUhPcHVyQ210NFg1d3ozY2NQWHpWV3dKeXZCUmxBZw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "stateinsuranceregulatorsapprovearkansasbluecrossandblueshieldsaffiliationwithcam"
-   ],
-   "first_seen": 1788674157.978512,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Wayne Andrew Gruber Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlkybTB2MFJJVTVWRE1OZ2dWUHhnTTYyMS0yZ2FMN2VnSjJsUTBxZlo5UF85ZHZrTmRGU2xTOXFfOUctcmtPY2pHb0VaLVZwVldVWkI2ejVCdjhkSjc4TENBNlMxMThhNzNmbW9XVG1xd0hmQ1QtcDBXZEhBNm9Dbw?oc=5",
    "source": "Legacy obituary",
@@ -293,28 +293,6 @@
    ],
    "first_seen": 1788531610.18302,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Mary Lynn Bowen Obituary Sep 4, 2026 - bentonfuneralhome.net",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1haG53amlZTUZrRFhudDg0ZkFMRnVRNlJTM0IwOS0yRk9SMEpRS1hCS3NuTGpzcERZNEx3NWxfdW9LeDBDb2ZxRFRhT3FmQXU4ZUFxZ0o3MW5WY3F5OUY5a29jY3hDUQ?oc=5",
-   "source": "bentonfuneralhome.net",
-   "published": 1788505200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "bentonfuneralhome.net",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1haG53amlZTUZrRFhudDg0ZkFMRnVRNlJTM0IwOS0yRk9SMEpRS1hCS3NuTGpzcERZNEx3NWxfdW9LeDBDb2ZxRFRhT3FmQXU4ZUFxZ0o3MW5WY3F5OUY5a29jY3hDUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "marylynnbowenobituarysep42026bentonfuneralhomenet"
-   ],
-   "first_seen": 1788721753.030246,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -390,28 +368,6 @@
   },
   {
    "type": "article",
-   "title": "Most Arkansas job growth in Northwest, central Arkansas metros - Talk Business & Politics",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUVhN1pyaHlzSS1odHNuU2g5VzRRRWFoczlSNFR4aFNrUzJPSDdsc1M0RkpNUzRaeF9lQy1YTjVSZW9jSGhUdGMxbm5sdUNuN29waTYxV1FfVXNJQUVnNXEyTFBJcWZwNGlXVlpXbnpMOGpILWY1US1fdGx2MVpPZThBeDRzUkVUV3RSSXNxVklScTI5OERjTVJoWQ?oc=5",
-   "source": "Talk Business & Politics",
-   "published": 1788477692.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Talk Business & Politics",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUVhN1pyaHlzSS1odHNuU2g5VzRRRWFoczlSNFR4aFNrUzJPSDdsc1M0RkpNUzRaeF9lQy1YTjVSZW9jSGhUdGMxbm5sdUNuN29waTYxV1FfVXNJQUVnNXEyTFBJcWZwNGlXVlpXbnpMOGpILWY1US1fdGx2MVpPZThBeDRzUkVUV3RSSXNxVklScTI5OERjTVJoWQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "mostarkansasjobgrowthinnorthwestcentralarkansasmetrostalkbusinesspolitics"
-   ],
-   "first_seen": 1788582233.616763,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock will host annual conference on cybersecurity, emerging technologies, global threats - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDJlMkxSZS04V1ZBRW5KZTNDeGYxcnQ1dURmTXNBQm45ekxYcXJUeThkaDJ3YUFFSFhaMnRGVkF4TzFaNG1qcWNjWnBidHRRUHhGRkZnMjB4LW5FRGZyRGlobjM0MnA4bGFFVS1pNjcyemlldDhuMFNyalRVS3VicnlZSUIzUzB6cXcxRllJYURaMWtCQndQaU5fOEJodw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -456,16 +412,16 @@
   },
   {
    "type": "article",
-   "title": "News | Eaton plans Arkansas facility to make outdoor storage containers for data centers - costar.com",
+   "title": "News | Eaton plans Arkansas facility to make outdoor storage containers for data centers - CoStar",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHFENkZCUlBTTkZpM3N6dC1BWXdoaEROS2ZsSGxYM2wxdU5NU19FT3NGS2JKa2tnUlBaN05mMDBXaHpXZHUwR0U4SF9DQTNnTENRTVluN055eklSQm9Mc2RORGMzZC1OaGNHcXkxa3FwaVVNZXhCcVlpTWVCSlUwc0tPVktmaU9Na0E2enJ0NmY4dlpiZUJMN2g2YlhKaVh3NklxM3FFWW9Lb0pBRnUtWmFVdVBuTTZWa3c1bjdaa0s?oc=5",
-   "source": "costar.com",
+   "source": "CoStar",
    "published": 1788469583.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "costar.com",
+     "source": "CoStar",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHFENkZCUlBTTkZpM3N6dC1BWXdoaEROS2ZsSGxYM2wxdU5NU19FT3NGS2JKa2tnUlBaN05mMDBXaHpXZHUwR0U4SF9DQTNnTENRTVluN055eklSQm9Mc2RORGMzZC1OaGNHcXkxa3FwaVVNZXhCcVlpTWVCSlUwc0tPVktmaU9Na0E2enJ0NmY4dlpiZUJMN2g2YlhKaVh3NklxM3FFWW9Lb0pBRnUtWmFVdVBuTTZWa3c1bjdaa0s?oc=5"
     }
    ],
@@ -544,25 +500,25 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock mayor speaks on Eaton’s planned $242 million manufacturing facility - KARK",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR24zZW5pdDZUTFU4NW9kZzhuNkkyb29yZEpsanBETHJGNUFjU0RvVEJJcmEwTk9RTFJwck9jZTd2VjJHeUg4U05QNDJXVmd5aVRvVW5iUG9NU0lTUGMzOEd0d3VUZWIwcktVeU0yWDNBTTNZU3d1dXZBS1htbG1JUko0bUJweFZpazc0cUtWX3RZaVhNMEZLWkVTMFNFWlBQTDgtSVJqaDc3dHctU2Vrd0ZCTnVfQXZlTVE0?oc=5",
-   "source": "KARK",
-   "published": 1788387019.0,
+   "title": "Labor Day weekend travelers in Arkansas can expect scorching weather, high gas prices - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzVnczM4YlVoNEUxNHZBUm5IeGtyU1pUcEoxVmNPaWExRlVzSUxoZmdSTWNoTkhGdXRDSHZJeFRfNzRXdWtXWll4eHIyb3RlemFsSjhtOFpzUElELW5Ga1lqMHRSY1hTTzNWaE0xV0VzSEc0LXh4RHlxc2ZkdlEtZjBXTS10YWpfV05BNnV0Um91Z3JBaVpv?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788406200.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR24zZW5pdDZUTFU4NW9kZzhuNkkyb29yZEpsanBETHJGNUFjU0RvVEJJcmEwTk9RTFJwck9jZTd2VjJHeUg4U05QNDJXVmd5aVRvVW5iUG9NU0lTUGMzOEd0d3VUZWIwcktVeU0yWDNBTTNZU3d1dXZBS1htbG1JUko0bUJweFZpazc0cUtWX3RZaVhNMEZLWkVTMFNFWlBQTDgtSVJqaDc3dHctU2Vrd0ZCTnVfQXZlTVE0?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzVnczM4YlVoNEUxNHZBUm5IeGtyU1pUcEoxVmNPaWExRlVzSUxoZmdSTWNoTkhGdXRDSHZJeFRfNzRXdWtXWll4eHIyb3RlemFsSjhtOFpzUElELW5Ga1lqMHRSY1hTTzNWaE0xV0VzSEc0LXh4RHlxc2ZkdlEtZjBXTS10YWpfV05BNnV0Um91Z3JBaVpv?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockmayorspeaksoneatonsplanned242millionmanufacturingfacilitykark"
+    "labordayweekendtravelersinarkansascanexpectscorchingweatherhighgaspricesthearkan"
    ],
-   "first_seen": 1788721753.030246,
-   "section": "major"
+   "first_seen": 1788729562.443842,
+   "section": "sports"
   },
   {
    "type": "article",
@@ -585,6 +541,34 @@
    ],
    "first_seen": 1788409954.131704,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Eaton to Invest 242 Million in New North Little Rock Facility Creating Approximately 1.2K Jobs - KVOM 101.7",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHE1Skh6aFNQbVJNM2RlQnFCdFo3d25LWDM0dFdfZkMweXdIOGlOYXZCVW1pLVk5clZ3RnpzZlB3SnB4ZE9IamVYTnpjMEJmbjVtdHdrNlFFY193cFhmY000VHJYeHJEbkZMTEh4X1Q5TXdzOTdWSTdUeUxZaWJDWjIwWGROU2gxM1lBc1o2aUhiREhlWktGaHZOVzE5OWxzN1lrdmJlUWhGWG1INzJsdVNveHRkZlE?oc=5",
+   "source": "KVOM 101.7",
+   "published": 1788380822.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KVOM 101.7",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHE1Skh6aFNQbVJNM2RlQnFCdFo3d25LWDM0dFdfZkMweXdIOGlOYXZCVW1pLVk5clZ3RnpzZlB3SnB4ZE9IamVYTnpjMEJmbjVtdHdrNlFFY193cFhmY000VHJYeHJEbkZMTEh4X1Q5TXdzOTdWSTdUeUxZaWJDWjIwWGROU2gxM1lBc1o2aUhiREhlWktGaHZOVzE5OWxzN1lrdmJlUWhGWG1INzJsdVNveHRkZlE?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR24zZW5pdDZUTFU4NW9kZzhuNkkyb29yZEpsanBETHJGNUFjU0RvVEJJcmEwTk9RTFJwck9jZTd2VjJHeUg4U05QNDJXVmd5aVRvVW5iUG9NU0lTUGMzOEd0d3VUZWIwcktVeU0yWDNBTTNZU3d1dXZBS1htbG1JUko0bUJweFZpazc0cUtWX3RZaVhNMEZLWkVTMFNFWlBQTDgtSVJqaDc3dHctU2Vrd0ZCTnVfQXZlTVE0?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "eatontoinvest242millioninnewnorthlittlerockfacilitycreatingapproximately12kjobsk",
+    "northlittlerockmayorspeaksoneatonsplanned242millionmanufacturingfacilitykark"
+   ],
+   "first_seen": 1788721753.030246,
+   "section": "major"
   }
  ]
 }
