@@ -1,7 +1,51 @@
 {
- "updated": "2026-09-06T00:55:57.978512-05:00",
+ "updated": "2026-09-06T05:53:19.284733-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Seven special women - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wQ2tTT3FGZnl1d1MzZzNXdl8xVTN6Z3V5bEllYjlEamNFbE4tNmhYTC15MmVhdGpHd18tOVhydzFYa2sya24tb2htV0VyekVPY3FxWThiSzZ2LW5qVWJtQ0dpZDdfdFptR0JzOVVYS013aWhuQTRz?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788681060.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wQ2tTT3FGZnl1d1MzZzNXdl8xVTN6Z3V5bEllYjlEamNFbE4tNmhYTC15MmVhdGpHd18tOVhydzFYa2sya24tb2htV0VyekVPY3FxWThiSzZ2LW5qVWJtQ0dpZDdfdFptR0JzOVVYS013aWhuQTRz?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "sevenspecialwomenthearkansasdemocratgazette"
+   ],
+   "first_seen": 1788691999.284733,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "The Travelers play on - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pak9MVlM1VjZGSldvYkNnTGpBV19KZDVBbVJQZkJWb2RlSFFEakFBQ2RpTVVjcDdadHpmTDJQQmJURjF3VVhRci0yRlRyS0lENEdNZXo1SzBsbWFxUGs4dV9zRWJlYUR5LUZGRFEzdEtJb1hkeDBwbi13?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788678000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pak9MVlM1VjZGSldvYkNnTGpBV19KZDVBbVJQZkJWb2RlSFFEakFBQ2RpTVVjcDdadHpmTDJQQmJURjF3VVhRci0yRlRyS0lENEdNZXo1SzBsbWFxUGs4dV9zRWJlYUR5LUZGRFEzdEtJb1hkeDBwbi13?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "thetravelersplayonthearkansasdemocratgazette"
+   ],
+   "first_seen": 1788691999.284733,
+   "section": "sports"
+  },
   {
    "type": "article",
    "title": "North Little Rock celebrates 3rd annual Arkansas Reggae Festival - thv11.com",
@@ -22,6 +66,28 @@
     "northlittlerockcelebrates3rdannualarkansasreggaefestivalthv11com"
    ],
    "first_seen": 1788674157.978512,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Tuition at Arkansas’ top private schools rising faster than LEARNS Act funding - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788663600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "tuitionatarkansastopprivateschoolsrisingfasterthanlearnsactfundingthearkansasdem"
+   ],
+   "first_seen": 1788691999.284733,
    "section": "major"
   },
   {
@@ -92,28 +158,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock School District releases plan for possible school closures in 2027-28 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788572764.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728thearkansas"
-   ],
-   "first_seen": 1788656099.176937,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Nickolas Ray Speck Obituary (2026) - North Little Rock, AR - A Natural State Funeral Service & Crematory - Legacy obituary",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYUM3Q2JfLXhkMy1UTElRWkdVTjVfZEpYRTFXdTdmczlFVlhCMnJZRDExczY5bWFPY19XRHhxYzZ3WTZ3bFVHY3B5dnRfMzI0YndFWWlOOFNZdFlBc1IyelJnRFZSX3g5STJic0J1UkVsNnU4U2tUWFVfTjYwMlpkc3Bkaw?oc=5",
    "source": "Legacy obituary",
@@ -136,25 +180,25 @@
   },
   {
    "type": "article",
-   "title": "Robert \"Bob\" E. York Obituary (2026) - Little Rock, AR - Smith Family Funeral Homes - Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkxMa19sVTk0MDIwZUVndjNZM1ZITHFQWWFRS0lPMFhXaE9ZeTNZaUN2SVEtUlZ1YkVDbGVBTVBmcmNEazRTZkRfZWpqcDkwNnBSY2MtaWFaVmMwZ1BUS21YeHJXSkdFOE4wUlZna2h0aV9YR2tJRUZSR242NHN4NE5zdVI?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788552181.0,
+   "title": "Little Rock School District releases plan for possible school closures in 2027-28 - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788556218.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkxMa19sVTk0MDIwZUVndjNZM1ZITHFQWWFRS0lPMFhXaE9ZeTNZaUN2SVEtUlZ1YkVDbGVBTVBmcmNEazRTZkRfZWpqcDkwNnBSY2MtaWFaVmMwZ1BUS21YeHJXSkdFOE4wUlZna2h0aV9YR2tJRUZSR242NHN4NE5zdVI?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "robertbobeyorkobituary2026littlerockarsmithfamilyfuneralhomeslittlerocklegacyobi"
+    "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728thearkansas"
    ],
-   "first_seen": 1788612101.757073,
-   "section": "obits"
+   "first_seen": 1788656099.176937,
+   "section": "major"
   },
   {
    "type": "article",
@@ -230,7 +274,7 @@
   },
   {
    "type": "article",
-   "title": "Mountain Home City Council continues discussion of food trucks, approves purchase of smart water m - KTLO",
+   "title": "Mountain Home City Council continues discussion of food trucks, approves purchase of smart water m - ktlo.com",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmp6S2tvTjQwOHdya0x2czYycFBBc3lYdHJpVkZYeHhBTzd1ZkNjbWpJY0ZySU5HWE4wdEdRbWdDZkZsOGg5My1RdTVRYUhrS0x2aldUMms3NHVha0NpY0toVjRPNGNGanRxQXp4eXFTNW1NME5OczZRRTZ5Z196M1VHM3NQaDRTTERGTjRMd2dtcVJJaFVJN1RxSGNVb3JsdC1HaWNvZHQzamNJdzNaYVlYN0VUNlRmOU1DMUpWcE9CVWZwR2pnR3Vn?oc=5",
    "source": "KTLO",
    "published": 1788518060.0,
@@ -296,6 +340,34 @@
   },
   {
    "type": "article",
+   "title": "Simmons Bank will close 26 branches, including six in Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRzNmVTeEdaNTg3aTVzZkhQQmdKQWRTMlhrdVREdV9Za2gyeTJaR3d2OUtuVXJtR2lvSzFjT1NmNUlfdzBSbGgzdHNZcXAzT2lMbkR0NHdfay10LTZsMG53R1hZZG1mc1ZvR1lfVzdXMmlMeXBURFJxRkRHYWZpbWZpQm5RYlFxUENNSzFLQ2VJXzA3REJJ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788487380.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRzNmVTeEdaNTg3aTVzZkhQQmdKQWRTMlhrdVREdV9Za2gyeTJaR3d2OUtuVXJtR2lvSzFjT1NmNUlfdzBSbGgzdHNZcXAzT2lMbkR0NHdfay10LTZsMG53R1hZZG1mc1ZvR1lfVzdXMmlMeXBURFJxRkRHYWZpbWZpQm5RYlFxUENNSzFLQ2VJXzA3REJJ?oc=5"
+    },
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "simmonsbankclosing26locations6inarkansasindecemberkatv",
+    "simmonsbankwillclose26branchesincludingsixinarkansasthearkansasdemocratgazette"
+   ],
+   "first_seen": 1788582233.616763,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "Arkansas crews search for missing elderly man in North Little Rock amidst heat wave - thv11.com",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcmRHSUJOM2ZESV9OcVVBeUJTS25uVTlsV05xWGxpa0I1YXB6RzF4RDQ3bXROMl9JRngzR3J3Sk5qR0NzeUtySks2cFRHc1FkekhXSktGTFlMMzRpM0tteUdta2xlVEowbjNsSjFteHVHdjUycjJKZUd2RHpUYzFTZGJfTjNCSHQ2cUt4N1VKN3llN0FVcllKNEd0M0hOQ3pOUHIwa3F1WUNpa3d4NW90SW04MGhfdVJGanNmeHpjcEhyaVozMWk3QzFaa0xuYWhpV0lMN1EwVXEtV1hIcEZ1RjBJNXYxTnNSZHFESG94OHhLNEs0Q0dWMjZCWQ?oc=5",
    "source": "THV11",
@@ -334,39 +406,6 @@
    "source_count": 1,
    "member_keys": [
     "mostarkansasjobgrowthinnorthwestcentralarkansasmetrostalkbusinesspolitics"
-   ],
-   "first_seen": 1788582233.616763,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Simmons Bank to Close 26 Branches as It Seeks to Strengthen Its Bottom Line - Arkansas Business",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcG9CM1FRTER5c0RzTm5rZEhGN3hHLUtJV1pNUDNFOFduMmZQSjJSRnFlb0FaNFRPeDQwRnhWQ1Y4RzhwNmhyV1RyM0xUcUFISGJNaUc1UjFjTHFQWkJIbHVJNU5UaFpweFdpY21ld3RRbHk4SzNtRElzeUdfV01ZaUx4TU1IbThteG8wcjVR?oc=5",
-   "source": "Arkansas Business",
-   "published": 1788476481.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "Arkansas Business",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcG9CM1FRTER5c0RzTm5rZEhGN3hHLUtJV1pNUDNFOFduMmZQSjJSRnFlb0FaNFRPeDQwRnhWQ1Y4RzhwNmhyV1RyM0xUcUFISGJNaUc1UjFjTHFQWkJIbHVJNU5UaFpweFdpY21ld3RRbHk4SzNtRElzeUdfV01ZaUx4TU1IbThteG8wcjVR?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRzNmVTeEdaNTg3aTVzZkhQQmdKQWRTMlhrdVREdV9Za2gyeTJaR3d2OUtuVXJtR2lvSzFjT1NmNUlfdzBSbGgzdHNZcXAzT2lMbkR0NHdfay10LTZsMG53R1hZZG1mc1ZvR1lfVzdXMmlMeXBURFJxRkRHYWZpbWZpQm5RYlFxUENNSzFLQ2VJXzA3REJJ?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5"
-    }
-   ],
-   "source_count": 3,
-   "member_keys": [
-    "simmonsbankclosing26locations6inarkansasindecemberkatv",
-    "simmonsbanktoclose26branchesasitseekstostrengthenitsbottomlinearkansasbusiness",
-    "simmonsbankwillclose26branchesincludingsixinarkansasthearkansasdemocratgazette"
    ],
    "first_seen": 1788582233.616763,
    "section": "major"
@@ -439,47 +478,25 @@
   },
   {
    "type": "article",
-   "title": "Arkansas Outdoors: Prostate cancer awareness bass tournament in Little Rock area a success - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWZJUExMZHZmVlExaGJyX0JUN3VmczlESGVFRWJlVm1zZ0NNd2dhcWh6NnA3VlZ1ZHFsei1QVHNRcllwQ2ZITUhUMGZwZVp1czBRR28temVjajNYZENDZEdXLVFqNnNtZm9HTjdNd0RvNTc5bF8xUnAzY2NqbFdJREt4VV9pSXZZNXV5MmVzSzAwQXNwVjBj?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
+   "title": "Arkansas Outdoors: Prostate cancer awareness bass tournament in Little Rock area a success - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGROOXVDSllsTWtaYmxvWHc0MFdvRFFfYXRYSkZqWmtoRXBuaGg1aDk1OXdPMzB2ZFBmb25OMlhHWnUzNDdjZFU2bk4ydGhDRkJvYWFRdE9pT29Dd19QbURXWEdvTVpMYzZpXzBCeHQ3eFRKdXNzcXNsVkVDUU1mWEN5TmhOZDU3Z2QwRF9LZ1JGc05HR3JMeFFVbHVVdw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
    "published": 1788418800.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWZJUExMZHZmVlExaGJyX0JUN3VmczlESGVFRWJlVm1zZ0NNd2dhcWh6NnA3VlZ1ZHFsei1QVHNRcllwQ2ZITUhUMGZwZVp1czBRR28temVjajNYZENDZEdXLVFqNnNtZm9HTjdNd0RvNTc5bF8xUnAzY2NqbFdJREt4VV9pSXZZNXV5MmVzSzAwQXNwVjBj?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGROOXVDSllsTWtaYmxvWHc0MFdvRFFfYXRYSkZqWmtoRXBuaGg1aDk1OXdPMzB2ZFBmb25OMlhHWnUzNDdjZFU2bk4ydGhDRkJvYWFRdE9pT29Dd19QbURXWEdvTVpMYzZpXzBCeHQ3eFRKdXNzcXNsVkVDUU1mWEN5TmhOZDU3Z2QwRF9LZ1JGc05HR3JMeFFVbHVVdw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "arkansasoutdoorsprostatecancerawarenessbasstournamentinlittlerockareaasuccessnor"
+    "arkansasoutdoorsprostatecancerawarenessbasstournamentinlittlerockareaasuccessthe"
    ],
-   "first_seen": 1788598977.952448,
+   "first_seen": 1788691999.284733,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Company owner speaks out after woman's North Little Rock property caught in land deal dispute - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaU14VFdHcTVFejVmNHBGb3NlVmNfbU16U0RDMjVYeXJuOEV4U0pHRGY0dDd1eFctcXNDa3Qzek1FaFBPU0JkaEdTQmlmNzQtbnV0VDIzSHFDMXFVZl9lU2RIQUN0djU1Vk9WczRJY044REx2ZDV5Yi1XM09VdXFuaWFPaHVuZC1jV2lFNDRJMWpFYUIzazJMaTdpWG1Fd3JKakZ0S2tFTExJeHptVnQ5ZkVnZFBVd2hIQlNHOVFNa2dkSFNMTjQwRDZSVXc2VjV5b0VLRFM3SURKcm5tQVJTNy1IMA?oc=5",
-   "source": "THV11",
-   "published": 1788406020.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaU14VFdHcTVFejVmNHBGb3NlVmNfbU16U0RDMjVYeXJuOEV4U0pHRGY0dDd1eFctcXNDa3Qzek1FaFBPU0JkaEdTQmlmNzQtbnV0VDIzSHFDMXFVZl9lU2RIQUN0djU1Vk9WczRJY044REx2ZDV5Yi1XM09VdXFuaWFPaHVuZC1jV2lFNDRJMWpFYUIzazJMaTdpWG1Fd3JKakZ0S2tFTExJeHptVnQ5ZkVnZFBVd2hIQlNHOVFNa2dkSFNMTjQwRDZSVXc2VjV5b0VLRFM3SURKcm5tQVJTNy1IMA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "companyownerspeaksoutafterwomansnorthlittlerockpropertycaughtinlanddealdisputeth"
-   ],
-   "first_seen": 1788471714.861551,
-   "section": "major"
   },
   {
    "type": "article",
