@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T14:56:25.281418-05:00",
+ "updated": "2026-09-07T17:49:11.282657-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -7,7 +7,7 @@
    "title": "North Little Rock police investigating deadly gas station shooting - KATV",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2FaeEdQelJWMVNIQVRHNWZVTV9NRmczWmFXVHYwOEVVclN3UjQ3QnBLTXRJbWh4QmhGeHVCRF83OUZfWGN2MnFyaGdjTG9UTF9mSUFiNUpHZHQzT2dleXlvWEFreFlFWEZ4NFZVWWNqTnNZbkxwOFBGVkYtWEZqQU55cUNBQm9ZWWtXdjFYVUxDbnA5Rmx3Z29QbDdaMmdOU3RDeFJfaUMzTFlqa2JYQnNUYUpPT1NvaTc5V2hmNmFHVkJac1hZcHpuUF8?oc=5",
    "source": "KATV",
-   "published": 1788795742.0,
+   "published": 1788811495.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -48,7 +48,29 @@
   },
   {
    "type": "article",
-   "title": "Jacksonville voters will decide whether to shift to ward-only City Council elections - The Arkansas Democrat-Gazette",
+   "title": "Man shot and killed at Circle K gas station in North Little Rock - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5",
+   "source": "KARK",
+   "published": 1788782687.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "manshotandkilledatcirclekgasstationinnorthlittlerockkark"
+   ],
+   "first_seen": 1788821351.282657,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Jacksonville voters will decide whether to shift to ward-only City Council elections - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWcxeFZQcHBtaVVtY3pSeWV2U3l1d013Z2V2eHBIM3NkWDItYzIyVHJKbUdaZDFUeFpINUpibng0OU1uZWp0cW5nMTFMR3VwNHkzRmZBTk9uakhCektpdm5LYktQbXIyVUYtZl9ZVlRLN2FSTDNla2ppN1c1ci1xbXFOMmVpaFByYTBoZHNrN2U2QU9ZcEJUaUM3Q2pMdw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788750000.0,
@@ -63,14 +85,14 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "jacksonvillevoterswilldecidewhethertoshifttowardonlycitycouncilelectionsthearkan"
+    "jacksonvillevoterswilldecidewhethertoshifttowardonlycitycouncilelectionsarkansas"
    ],
-   "first_seen": 1788755808.501868,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Sherwood police reconsidering Flock Safety cameras over annual $15,000 fee to comply with Arkansas law - The Arkansas Democrat-Gazette",
+   "title": "Sherwood police reconsidering Flock Safety cameras over annual $15,000 fee to comply with Arkansas law - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFZMNUVJYnRFYTVlMi1uS0dYY21PTFJTcjdIejY5T3pyZ00zRUx0dEdUY0lXMDFIM0g3UXl0SlFfcTZ3WXJFSy1OSkVVamJkajVIY3lJQzB6bWtfcWpwTnlQeWpqODN3WHdicVV1Z1VmS1d1dENSaDRscG5aS0pWeDVUS2REdmlIcjZxcXA0Q3hkX05Ibmc?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788748260.0,
@@ -92,7 +114,7 @@
   },
   {
    "type": "article",
-   "title": "Pulaski County law enforcement reports four homicides in August - The Arkansas Democrat-Gazette",
+   "title": "Pulaski County law enforcement reports four homicides in August - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZF9DR29Cdlcwa1ZYaTlhVTc5STlHeXQtY0FBdEdXcmF6R283a2hRS241NWZFeW9wNEk0Z3BJNWNJTS1sWE5mTTlGNWFpOVY2cnZUOWdZZzJqejFzdFBMRUpsSThhSGtHQWxLb0RGUGdVa3hNM3RWQmhzeV9TdDhlZVNieHVFSXFHd3hkcDJ5R1RaMXdZNnFz?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788743700.0,
@@ -107,14 +129,14 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "pulaskicountylawenforcementreportsfourhomicidesinaugustthearkansasdemocratgazett"
+    "pulaskicountylawenforcementreportsfourhomicidesinaugustarkansasonlinecom"
    ],
-   "first_seen": 1788755808.501868,
+   "first_seen": 1788821351.282657,
    "section": "crime"
   },
   {
    "type": "article",
-   "title": "St. Joseph Center community garden moving to Dunbar plots after Burns Park project halted - The Arkansas Democrat-Gazette",
+   "title": "St. Joseph Center community garden moving to Dunbar plots after Burns Park project halted - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGxtdkd3c2N2VXNJZXlOSXdtYVNJay1SSHdmb3BNaTk4M1lDaDVRdVl4bnlPRGpvOXoxY3FVNEYxNXJYcWtTNFpobVZBQWdZa1l5M3NoUTdsbVhrTEMtRkd6Wm1Mc1owRjBZVW5QNnp1cFBfcmsxLTNOYnI3RWdBenktOF96Q3RRYW1tQnlmUUpMcW1HSzNR?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788740100.0,
@@ -129,36 +151,36 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "stjosephcentercommunitygardenmovingtodunbarplotsafterburnsparkprojecthaltedthear"
+    "stjosephcentercommunitygardenmovingtodunbarplotsafterburnsparkprojecthaltedarkan"
    ],
-   "first_seen": 1788755808.501868,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Paxton Lynch - Sports Illustrated",
+   "title": "Paxton Lynch - si.com",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ01jU0U3Um1xb0x4dF9DdEV2TkpFWTlOejZEQUhtdGJHUHNHVFZzbHl6OUw3X2x1VHY5M1l0VkNqbGRSZERFczVIWnd4Z0p0bzhYempoa2ZhUVVEcmQ3cFkxbkpxWFVPSzBhU0RqNU9xalEtcTFtTURKR2gzVGwzV3ZBMF9fR1plcmZoRG15bjZLUmptV3RXRERyRHNCQ3VHNkF0OGxJWFdNdlVzcGZSQmdmeDhQWW1iTm1ETUQ3NHE0TlowVll0S2FRa1o?oc=5",
-   "source": "Sports Illustrated",
+   "source": "si.com",
    "published": 1788736600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Sports Illustrated",
+     "source": "si.com",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ01jU0U3Um1xb0x4dF9DdEV2TkpFWTlOejZEQUhtdGJHUHNHVFZzbHl6OUw3X2x1VHY5M1l0VkNqbGRSZERFczVIWnd4Z0p0bzhYempoa2ZhUVVEcmQ3cFkxbkpxWFVPSzBhU0RqNU9xalEtcTFtTURKR2gzVGwzV3ZBMF9fR1plcmZoRG15bjZLUmptV3RXRERyRHNCQ3VHNkF0OGxJWFdNdlVzcGZSQmdmeDhQWW1iTm1ETUQ3NHE0TlowVll0S2FRa1o?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "paxtonlynchsportsillustrated"
+    "paxtonlynchsicom"
    ],
-   "first_seen": 1788755808.501868,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Driving Away Hunger event to support Potluck fundraiser - The Arkansas Democrat-Gazette",
+   "title": "Driving Away Hunger event to support Potluck fundraiser - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXc4ZWx4TERzZktXRE5zWXg1cGYwY21WQ3hfZXFfMmltbXFHb1dkVU1BVVpuNVVkQzg4N1JGMDhySV9Ob05PVFNBZEVvQzFTU2xCQzZIbEtrVVd4WFdHTHhQVWkzQkJ5MV84Ukt0RktTbVkxTWZ6YVA3ZXViUENJYWp0dlAxRVBNLWtWUlZSbS1PTGRmSUhiYQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788683220.0,
@@ -173,14 +195,14 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "drivingawayhungereventtosupportpotluckfundraiserthearkansasdemocratgazette"
+    "drivingawayhungereventtosupportpotluckfundraiserarkansasonlinecom"
    ],
-   "first_seen": 1788714054.062889,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "OPINION | REX NELSON: The Travelers play on - The Arkansas Democrat-Gazette",
+   "title": "OPINION | REX NELSON: The Travelers play on - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pak9MVlM1VjZGSldvYkNnTGpBV19KZDVBbVJQZkJWb2RlSFFEakFBQ2RpTVVjcDdadHpmTDJQQmJURjF3VVhRci0yRlRyS0lENEdNZXo1SzBsbWFxUGs4dV9zRWJlYUR5LUZGRFEzdEtJb1hkeDBwbi13?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788678000.0,
@@ -195,9 +217,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "opinionrexnelsonthetravelersplayonthearkansasdemocratgazette"
+    "opinionrexnelsonthetravelersplayonarkansasonlinecom"
    ],
-   "first_seen": 1788714054.062889,
+   "first_seen": 1788821351.282657,
    "section": "sports"
   },
   {
@@ -224,7 +246,7 @@
   },
   {
    "type": "article",
-   "title": "Tuition at Arkansas’ top private schools rising faster than LEARNS Act funding - The Arkansas Democrat-Gazette",
+   "title": "Tuition at Arkansas’ top private schools rising faster than LEARNS Act funding - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788663600.0,
@@ -239,14 +261,14 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "tuitionatarkansastopprivateschoolsrisingfasterthanlearnsactfundingthearkansasdem"
+    "tuitionatarkansastopprivateschoolsrisingfasterthanlearnsactfundingarkansasonline"
    ],
-   "first_seen": 1788729562.443842,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "North Little Rock police report success using netting to catch fleeing suspects - The Arkansas Democrat-Gazette",
+   "title": "North Little Rock police report success using netting to catch fleeing suspects - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkpweHZMRFV3T2hNaDVyc2JKWmV6dzA2UlNCVDlGZnJpTnhHZ21tcGoyOTZBQV9hdnl3cjFQVkI1Wkc2Rk5wYjcyb1VBTlVPallBbWdlY255Y1F4eHg2U0hIa2M0clNheXMxZW94QWtKT0RJSGI1UlNTVjV1QkZ6YkFDblkxWW1TX0VhVGJ6WlRudjg2ZEI2dnF3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788660000.0,
@@ -261,14 +283,14 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpolicereportsuccessusingnettingtocatchfleeingsuspectsthearkansasd"
+    "northlittlerockpolicereportsuccessusingnettingtocatchfleeingsuspectsarkansasonli"
    ],
-   "first_seen": 1788714054.062889,
+   "first_seen": 1788821351.282657,
    "section": "crime"
   },
   {
    "type": "article",
-   "title": "Authorities continue search for missing North Little Rock nursing home resident - The Arkansas Democrat-Gazette",
+   "title": "Authorities continue search for missing North Little Rock nursing home resident - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjFZT0ktZ3Y5RW9kWWw4NGpzS0QzMW9tS2VJejN3UU15b2JUTHdOYzdkM0dJeU9WQ3R4Zlo4NlBXT3p5MTdyNXFXeXdUeXo0NFpTLTVsWGtJb0MyM3NhcW1pdlFOZVNraTlsaGpnZzNsWGlmcXczZ1F4bGt5cWtKcmgxTVU2UXhzeXp3UWFkRTVGNUpxQXhkRTNB?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788580800.0,
@@ -283,14 +305,36 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "authoritiescontinuesearchformissingnorthlittlerocknursinghomeresidentthearkansas"
+    "authoritiescontinuesearchformissingnorthlittlerocknursinghomeresidentarkansasonl"
    ],
-   "first_seen": 1788776086.747776,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Little Rock School District releases plan for possible school closures in 2027-28 - The Arkansas Democrat-Gazette",
+   "title": "Arkansas High School Football Scoreboard: Week 1 - KARK",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ01zcV8xSzRITEJiVjVHTmdwTUIwLTYzcUt3VkItNkRuUXdvQi1DUWE0Ul9EdGFOM0hsMkkyOUdScFZxU2E0M1BtZk5vYjU5M0F2SXFscEd1WkF6aUNYQ09XV0N4TVpUSzNQNnJDMzhsRldOTGZxUGdMSDgwVGt3ME5VVG1JU0xJWkg4ZWJPX05oTzJMSFF3X2JoU0ZBWlY3SkxfUVVDYw?oc=5",
+   "source": "KARK",
+   "published": 1788563168.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ01zcV8xSzRITEJiVjVHTmdwTUIwLTYzcUt3VkItNkRuUXdvQi1DUWE0Ul9EdGFOM0hsMkkyOUdScFZxU2E0M1BtZk5vYjU5M0F2SXFscEd1WkF6aUNYQ09XV0N4TVpUSzNQNnJDMzhsRldOTGZxUGdMSDgwVGt3ME5VVG1JU0xJWkg4ZWJPX05oTzJMSFF3X2JoU0ZBWlY3SkxfUVVDYw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansashighschoolfootballscoreboardweek1kark"
+   ],
+   "first_seen": 1788821351.282657,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock School District releases plan for possible school closures in 2027-28 - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788556218.0,
@@ -305,14 +349,14 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728thearkansas"
+    "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728arkansasonl"
    ],
-   "first_seen": 1788714054.062889,
+   "first_seen": 1788821351.282657,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "State insurance regulators approve Arkansas Blue Cross and Blue Shield’s affiliation with Cambia Health Solutions - The Arkansas Democrat-Gazette",
+   "title": "State insurance regulators approve Arkansas Blue Cross and Blue Shield’s affiliation with Cambia Health Solutions - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXpvQmh1OFJNRkZaUnpCRkdCc2FqS0cwd2JIcFc4TDFzRkMtUHNGNVcydU9ENDBrVG55UExKM09ZN1pHUlZGaVBRTDI2ZzFZYlFodnVHQVl2V0JpMGhrUEJSV2xoWG5OWHJtQlgtOUhDcWJUSGwzdkxWVWMxQ0gtUUhPcHVyQ210NFg1d3ozY2NQWHpWV3dKeXZCUmxBZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788548100.0,
@@ -450,7 +494,7 @@
   },
   {
    "type": "article",
-   "title": "Internal review finds no fault with use of force by trooper who punched passenger after pursuit in Mississippi County - The Arkansas Democrat-Gazette",
+   "title": "Internal review finds no fault with use of force by trooper who punched passenger after pursuit in Mississippi County - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFVjTTBKWXMwT1pFbVF4SWNUR20tZjRwaGhobTJOQzdfeGVqTldVdlJpeDl1WktyZlk5TnU5Y2pOSUFLR213bDE0bWpxWXlydDQzNjRVSDNzMmdjNnRYbk14SmdPQTNRNXJYamd1ZGYzYkI4R3drUGpRVThBR0ROaXZNVzZTY1RnOWtkWFRMYzk4aHJkZjRKc1hpMWVSUQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788472860.0,
@@ -469,6 +513,28 @@
    ],
    "first_seen": 1788703750.895894,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Lanes reopened following accident on I-30 westbound near North Little Rock - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb01rSHd6RzdRQXFmdkNwam91TXNNc09fY1pYcHgzRzFaTzhWLW9ndW05NkFKM0hpekRhaWJ1OUlqNWxNX1dsb1NXTzVsdFI0UVVkNk9wa3ltdWNXd1phb0JORWN3Ul9LUlVwb2YwVEhCUDhlR3QtZ2hoWUpaUllJTE91V2xJaF9EaXlaWXBXWG9ZaTlZTkctVEtOSG5wS3otVUMxdGpKVU93ZGdBT1kxYl9HcTR1aDExaGZQNzlxdlh0LWRMaVE?oc=5",
+   "source": "THV11",
+   "published": 1788471720.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb01rSHd6RzdRQXFmdkNwam91TXNNc09fY1pYcHgzRzFaTzhWLW9ndW05NkFKM0hpekRhaWJ1OUlqNWxNX1dsb1NXTzVsdFI0UVVkNk9wa3ltdWNXd1phb0JORWN3Ul9LUlVwb2YwVEhCUDhlR3QtZ2hoWUpaUllJTE91V2xJaF9EaXlaWXBXWG9ZaTlZTkctVEtOSG5wS3otVUMxdGpKVU93ZGdBT1kxYl9HcTR1aDExaGZQNzlxdlh0LWRMaVE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "lanesreopenedfollowingaccidentoni30westboundnearnorthlittlerockthv11com"
+   ],
+   "first_seen": 1788821351.282657,
+   "section": "major"
   },
   {
    "type": "article",
@@ -494,7 +560,7 @@
   },
   {
    "type": "article",
-   "title": "Labor Day weekend temperatures in Little Rock could meet 80-year-old heat record, forecasters say - The Arkansas Democrat-Gazette",
+   "title": "Labor Day weekend temperatures in Little Rock could meet 80-year-old heat record, forecasters say - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUdSTjlhd0JHZnFCSzRuZ0pFMkR0MHoxZ2I3cHdnQUkxWDNqM2FIWXVycWhqSWpCcDRiOEI5YTQzbm13cVNTNDBVam8zR3JDU3p3NTdEME9ZMy1xMDk1THN0c0xSMEo3cVN4T002OUZjN1RhcHBWNzBTM0l6VzlOU3pjN05zbWtucTdiNjd1RTk1a0xUNjhVTVpR?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788460980.0,
@@ -516,7 +582,7 @@
   },
   {
    "type": "article",
-   "title": "Labor Day weekend travelers in Arkansas can expect scorching weather, high gas prices - The Arkansas Democrat-Gazette",
+   "title": "Labor Day weekend travelers in Arkansas can expect scorching weather, high gas prices - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzVnczM4YlVoNEUxNHZBUm5IeGtyU1pUcEoxVmNPaWExRlVzSUxoZmdSTWNoTkhGdXRDSHZJeFRfNzRXdWtXWll4eHIyb3RlemFsSjhtOFpzUElELW5Ga1lqMHRSY1hTTzNWaE0xV0VzSEc0LXh4RHlxc2ZkdlEtZjBXTS10YWpfV05BNnV0Um91Z3JBaVpv?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1788406200.0,
@@ -531,60 +597,10 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "labordayweekendtravelersinarkansascanexpectscorchingweatherhighgaspricesthearkan"
+    "labordayweekendtravelersinarkansascanexpectscorchingweatherhighgaspricesarkansas"
    ],
-   "first_seen": 1788729562.443842,
+   "first_seen": 1788821351.282657,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Video of 2 Mississippi County traffic stops prompt calls for Arkansas State Police investigation - Arkansas Advocate",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmc4UkpZTnRvdkpvUjlhdzY0cHQ4QWVRWWpycjJQZjdLdGNnM3hrbWNpeHBOV2ZvN2Z1SEROODVLcUQyblZ3dlo2ZUI1TUdMZHlUdHczQ21hMUxGekpWcW1EVW0ybnlkbm9IXzRCZ24xTFFSMUJJeXUwd01iOVhCc1QyTjFBVG9FUWhYV1JCTkZnZzJHY3dIS1UzS3FJZk4wUnVadVNGYUV0bVMwaU5obWJmb05nX0dtSDR4cGtsZ2JqYlQxTjZ5N05PU0ZreExzZno0?oc=5",
-   "source": "Arkansas Advocate",
-   "published": 1788380838.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Advocate",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmc4UkpZTnRvdkpvUjlhdzY0cHQ4QWVRWWpycjJQZjdLdGNnM3hrbWNpeHBOV2ZvN2Z1SEROODVLcUQyblZ3dlo2ZUI1TUdMZHlUdHczQ21hMUxGekpWcW1EVW0ybnlkbm9IXzRCZ24xTFFSMUJJeXUwd01iOVhCc1QyTjFBVG9FUWhYV1JCTkZnZzJHY3dIS1UzS3FJZk4wUnVadVNGYUV0bVMwaU5obWJmb05nX0dtSDR4cGtsZ2JqYlQxTjZ5N05PU0ZreExzZno0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "videoof2mississippicountytrafficstopspromptcallsforarkansasstatepoliceinvestigat"
-   ],
-   "first_seen": 1788810985.281418,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Eaton to Invest 242 Million in New North Little Rock Facility Creating Approximately 1.2K Jobs - KVOM 101.7",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHE1Skh6aFNQbVJNM2RlQnFCdFo3d25LWDM0dFdfZkMweXdIOGlOYXZCVW1pLVk5clZ3RnpzZlB3SnB4ZE9IamVYTnpjMEJmbjVtdHdrNlFFY193cFhmY000VHJYeHJEbkZMTEh4X1Q5TXdzOTdWSTdUeUxZaWJDWjIwWGROU2gxM1lBc1o2aUhiREhlWktGaHZOVzE5OWxzN1lrdmJlUWhGWG1INzJsdVNveHRkZlE?oc=5",
-   "source": "KVOM 101.7",
-   "published": 1788380822.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KVOM 101.7",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHE1Skh6aFNQbVJNM2RlQnFCdFo3d25LWDM0dFdfZkMweXdIOGlOYXZCVW1pLVk5clZ3RnpzZlB3SnB4ZE9IamVYTnpjMEJmbjVtdHdrNlFFY193cFhmY000VHJYeHJEbkZMTEh4X1Q5TXdzOTdWSTdUeUxZaWJDWjIwWGROU2gxM1lBc1o2aUhiREhlWktGaHZOVzE5OWxzN1lrdmJlUWhGWG1INzJsdVNveHRkZlE?oc=5"
-    },
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR24zZW5pdDZUTFU4NW9kZzhuNkkyb29yZEpsanBETHJGNUFjU0RvVEJJcmEwTk9RTFJwck9jZTd2VjJHeUg4U05QNDJXVmd5aVRvVW5iUG9NU0lTUGMzOEd0d3VUZWIwcktVeU0yWDNBTTNZU3d1dXZBS1htbG1JUko0bUJweFZpazc0cUtWX3RZaVhNMEZLWkVTMFNFWlBQTDgtSVJqaDc3dHctU2Vrd0ZCTnVfQXZlTVE0?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "eatontoinvest242millioninnewnorthlittlerockfacilitycreatingapproximately12kjobsk",
-    "northlittlerockmayorspeaksoneatonsplanned242millionmanufacturingfacilitykark"
-   ],
-   "first_seen": 1788810985.281418,
-   "section": "major"
   }
  ]
 }
