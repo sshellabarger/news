@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T23:36:48.501868-05:00",
+ "updated": "2026-09-07T05:14:46.747776-05:00",
  "items": [
   {
    "type": "article",
@@ -678,10 +678,15 @@
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGxDd0JtbVlVZ0NaTndINURsWl9hM0tIb1RaUHNWb3pkOUowcDI2VE5oTUFETVFoNHlaWTdOZWtqNkMxWE81RWpzX1kxWHVwSzZZMzRvdHIyc09nX1lBTkpDR2FGY25vNi1sWlFJUWJDR05McWdiaEtfQW13MTBNYmdSY0VEZHZoVFBEQUtZczVhak9aVUVCdFNHMHZFallabmZqa05CNVFqTGl4T1lOdFJoMy1LN2sydFk0V3hETllpTll6Wi1j?oc=5"
+    },
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXhKdEpwY3ZicWp1UkZzeDczLVdZdW44Qms2UDlqNXU5aHJ5SEliaEYxd0hPX2ZKd19sdUE4enotYVppaTQzUFBwNDJmV1YxQzFRaUVwTG40RjI4dVVyOFIteWswY1hnZnVMRDFWNnp3VnB1bTlBVW56eE5vRUV3UUp5ZU1NbE1RT0pjeDhJd2p5Z2Y3b1VhOXQ0Y2dyUHdsLVRSbjFLUQ?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
+    "northlittlerockpoliceissuesilveralertformissingpersonarkansasradio",
     "northlittlerockpolicereleaseadditionalpicturesofsilveralertsubjectcharlesnoiseka"
    ]
   },
