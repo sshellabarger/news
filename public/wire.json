@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T06:15:30.571881-05:00",
+ "updated": "2026-09-08T10:07:50.441598-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -70,25 +70,91 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police identify gas station homicide victim, search for suspect - arkansasonline.com",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzZNU3JsMGRkOE8zVlN5Q1RwQkFBcmM5YW5CVWVMdXN3aVRqZVBxUGswUUpETVYwUXFRSzVRNUtYbTNyS3dVYklwUFYwN2RMNjY0SVF3RUVxaTUwcWNMblF3M3dnc3JZU3dmQm9hRnpMQVpSbm5VeS1ONnFkbGtDNFVGZ0dSTHR4Q0ZOc0g2b2lLV0l6?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
+   "title": "North Little Rock police identify gas station homicide victim, search for suspect - Northwest Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
    "published": 1788828060.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzZNU3JsMGRkOE8zVlN5Q1RwQkFBcmM5YW5CVWVMdXN3aVRqZVBxUGswUUpETVYwUXFRSzVRNUtYbTNyS3dVYklwUFYwN2RMNjY0SVF3RUVxaTUwcWNMblF3M3dnc3JZU3dmQm9hRnpMQVpSbm5VeS1ONnFkbGtDNFVGZ0dSTHR4Q0ZOc0g2b2lLV0l6?oc=5"
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectarkansasonl"
+    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectnorthwestar"
+   ],
+   "first_seen": 1788880070.441598,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock homicide suspect was being monitored by state program after insanity diagnosis - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnNNbFBybmhVcXhjOHFpbHdCRGdWNk9wSFBGR1FLZEZTc3lsSFdUNV93aUNWaVFBUkJOekdlZG82NG45Q2doVjdQc3F5S2xvVkRyTFFsUzZjaDd2akszSk5Qc3VpU1BEZzVQMm5pampCVlV3ZE5sMHlMQnZJV3RFcEY4OVpwMFJka2pDSmI5VnFzamdDajNsQ2U5X0ozUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788827220.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnNNbFBybmhVcXhjOHFpbHdCRGdWNk9wSFBGR1FLZEZTc3lsSFdUNV93aUNWaVFBUkJOekdlZG82NG45Q2doVjdQc3F5S2xvVkRyTFFsUzZjaDd2akszSk5Qc3VpU1BEZzVQMm5pampCVlV3ZE5sMHlMQnZJV3RFcEY4OVpwMFJka2pDSmI5VnFzamdDajNsQ2U5X0ozUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockhomicidesuspectwasbeingmonitoredbystateprogramafterinsanitydiagnosisar"
+   ],
+   "first_seen": 1788880070.441598,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "State Championship Horse Show draws equestrians young and old to Little Rock - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE9NV0lvSGREQUVoOHppcHRFSUFQSWJOZ0pPeWRXdDBUTWVMcmtxUkxNeVJ2ckFBeVd2Wm5LOWhqZ0E4QzdlQ3RPc3VzbEdTREJHb1JGMTJpZ05Wd0xmTDZnYTVVX2lPS3A2VnlYcnY1bGQ4dzVzNENFOTRpVlJxVnNiLVc5ZW5LVmtDZEo0SnNnaFlDcFFXWXZIa0Q?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788825300.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE9NV0lvSGREQUVoOHppcHRFSUFQSWJOZ0pPeWRXdDBUTWVMcmtxUkxNeVJ2ckFBeVd2Wm5LOWhqZ0E4QzdlQ3RPc3VzbEdTREJHb1JGMTJpZ05Wd0xmTDZnYTVVX2lPS3A2VnlYcnY1bGQ4dzVzNENFOTRpVlJxVnNiLVc5ZW5LVmtDZEo0SnNnaFlDcFFXWXZIa0Q?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "statechampionshiphorseshowdrawsequestriansyoungandoldtolittlerockarkansasonlinec"
    ],
    "first_seen": 1788866130.571881,
-   "section": "crime"
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "California-based marketing firm withdraws from Little Rock schools contract - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGdoVlJQdkQwVENTZDZPUlZUM2N2d1FtcWRKUnBTeVBQc2J0RnZ3NXNwMkx2UGJIbnhvR3BqVG9lVVNia1lCYS1CTFhQTGdWNHpWWTFPb0tFTUJ6eEYzN18wYTVfbjl5cU15YUFaSHZVdDdpNTN5UHVNM3czMS1LdTZ1TDUtTE90RVNrWThQY0prU3FxbzZqZVR4dw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788825000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGdoVlJQdkQwVENTZDZPUlZUM2N2d1FtcWRKUnBTeVBQc2J0RnZ3NXNwMkx2UGJIbnhvR3BqVG9lVVNia1lCYS1CTFhQTGdWNHpWWTFPb0tFTUJ6eEYzN18wYTVfbjl5cU15YUFaSHZVdDdpNTN5UHVNM3czMS1LdTZ1TDUtTE90RVNrWThQY0prU3FxbzZqZVR4dw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "californiabasedmarketingfirmwithdrawsfromlittlerockschoolscontractarkansasonline"
+   ],
+   "first_seen": 1788880070.441598,
+   "section": "major"
   },
   {
    "type": "article",
@@ -114,10 +180,10 @@
   },
   {
    "type": "article",
-   "title": "Community reacts after North Little Rock deadly shooting at Circle K - kark.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFNTeUh4V2tiRVNjMXdLTDh3Nm5FVHBfbnYzU0tLYnh1V1YyT09YNjJ1RzNtdW5ya3J1ZFgtVU1MY0RXWXM5aHZsM3MzMHRCS0g4Z3d2dUlWMTdVNUVfLUdYNjJDTm5vd1R3aWNWdVRna2RiMFhwNEdENlNmSUUwNVNzSDN2Z0ZYd3JfLTgyMTVzVGlwVExPcDVrTXNHcGtLUGllMzZrMEU?oc=5",
+   "title": "Community reacts after North Little Rock deadly shooting at Circle K - KARK",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5",
    "source": "KARK",
-   "published": 1788818708.0,
+   "published": 1788818759.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -125,15 +191,15 @@
    "sources": [
     {
      "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFNTeUh4V2tiRVNjMXdLTDh3Nm5FVHBfbnYzU0tLYnh1V1YyT09YNjJ1RzNtdW5ya3J1ZFgtVU1MY0RXWXM5aHZsM3MzMHRCS0g4Z3d2dUlWMTdVNUVfLUdYNjJDTm5vd1R3aWNWdVRna2RiMFhwNEdENlNmSUUwNVNzSDN2Z0ZYd3JfLTgyMTVzVGlwVExPcDVrTXNHcGtLUGllMzZrMEU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "communityreactsafternorthlittlerockdeadlyshootingatcirclekkarkcom",
-    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkarkcom"
+    "communityreactsafternorthlittlerockdeadlyshootingatcirclekkark",
+    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkark"
    ],
-   "first_seen": 1788866130.571881,
+   "first_seen": 1788880070.441598,
    "section": "crime"
   },
   {
@@ -184,7 +250,7 @@
    ],
    "source_count": 3,
    "member_keys": [
-    "manshotandkilledatcirclekgasstationinnorthlittlerockkarkcom",
+    "manshotandkilledatcirclekgasstationinnorthlittlerockkark",
     "northlittlerockpoliceinvestigatingdeadlygasstationshootingkatv",
     "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com"
    ],
@@ -214,28 +280,6 @@
    ],
    "first_seen": 1788866130.571881,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "State Championship Horse Show draws equestrians young and old to Little Rock - arkansasonline.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE9NV0lvSGREQUVoOHppcHRFSUFQSWJOZ0pPeWRXdDBUTWVMcmtxUkxNeVJ2ckFBeVd2Wm5LOWhqZ0E4QzdlQ3RPc3VzbEdTREJHb1JGMTJpZ05Wd0xmTDZnYTVVX2lPS3A2VnlYcnY1bGQ4dzVzNENFOTRpVlJxVnNiLVc5ZW5LVmtDZEo0SnNnaFlDcFFXWXZIa0Q?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788760960.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE9NV0lvSGREQUVoOHppcHRFSUFQSWJOZ0pPeWRXdDBUTWVMcmtxUkxNeVJ2ckFBeVd2Wm5LOWhqZ0E4QzdlQ3RPc3VzbEdTREJHb1JGMTJpZ05Wd0xmTDZnYTVVX2lPS3A2VnlYcnY1bGQ4dzVzNENFOTRpVlJxVnNiLVc5ZW5LVmtDZEo0SnNnaFlDcFFXWXZIa0Q?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "statechampionshiphorseshowdrawsequestriansyoungandoldtolittlerockarkansasonlinec"
-   ],
-   "first_seen": 1788866130.571881,
-   "section": "major"
   },
   {
    "type": "article",
@@ -349,6 +393,28 @@
   },
   {
    "type": "article",
+   "title": "Cabot school bus stolen, wrecked; district reports arrest in case - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnRhX2pMall0Sm1aX3pMODRtQ01iUk85RXlaR0dpQ2xmOVVaZlB1RmtNRkRQQ2ptaTltYkp0OUtwSlpRaDBXUkkyT3Rxd18zRVlqbnRkaG83bHgtUWVSUDdoaUZQel9DWWQxRTZKaUZQNEw1U28tRTNqeFNJNFFQcDQ0STM5d1R3NUxHNWtNcWExN0lkN0tCZmVkOGN5QQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788655800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnRhX2pMall0Sm1aX3pMODRtQ01iUk85RXlaR0dpQ2xmOVVaZlB1RmtNRkRQQ2ptaTltYkp0OUtwSlpRaDBXUkkyT3Rxd18zRVlqbnRkaG83bHgtUWVSUDdoaUZQel9DWWQxRTZKaUZQNEw1U28tRTNqeFNJNFFQcDQ0STM5d1R3NUxHNWtNcWExN0lkN0tCZmVkOGN5QQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "cabotschoolbusstolenwreckeddistrictreportsarrestincasearkansasonlinecom"
+   ],
+   "first_seen": 1788880070.441598,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "Little Rock School District releases plan for possible school closures in 2027-28 - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk40OTZLbWxBVF9iNHF0RGdpbkRjMGpVQ1BHYk95Ny1mRktBV0lpRERPX2lqamZQdFYyTFYtUnlFUFVzU3UxUVRpZGh4eFNYRUkzOTloRHZuck00M1doYWJEdGlyN0JGY0Y2LVNqc0x3QXZVaWZmS3VaM3RBOXdMWklobnJVRk5mckg4c1hKXzZrMUlHR2hCNnF3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -367,28 +433,6 @@
     "littlerockschooldistrictreleasesplanforpossibleschoolclosuresin202728arkansasonl"
    ],
    "first_seen": 1788866130.571881,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Simmons Bank closing 26 locations, 6 in Arkansas in December - KATV",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5",
-   "source": "KATV",
-   "published": 1788547762.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "simmonsbankclosing26locations6inarkansasindecemberkatv"
-   ],
-   "first_seen": 1788755808.501868,
    "section": "major"
   },
   {
@@ -415,7 +459,7 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police release additional pictures of Silver Alert subject Charles Noise - kark.com",
+   "title": "North Little Rock police release additional pictures of Silver Alert subject Charles Noise - KARK",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGxDd0JtbVlVZ0NaTndINURsWl9hM0tIb1RaUHNWb3pkOUowcDI2VE5oTUFETVFoNHlaWTdOZWtqNkMxWE81RWpzX1kxWHVwSzZZMzRvdHIyc09nX1lBTkpDR2FGY25vNi1sWlFJUWJDR05McWdiaEtfQW13MTBNYmdSY0VEZHZoVFBEQUtZczVhak9aVUVCdFNHMHZFallabmZqa05CNVFqTGl4T1lOdFJoMy1LN2sydFk0V3hETllpTll6Wi1j?oc=5",
    "source": "KARK",
    "published": 1788540459.0,
@@ -434,28 +478,6 @@
    ],
    "first_seen": 1788598977.952448,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Mountain Home City Council continues discussion of food trucks, approves purchase of smart water m - KTLO",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmp6S2tvTjQwOHdya0x2czYycFBBc3lYdHJpVkZYeHhBTzd1ZkNjbWpJY0ZySU5HWE4wdEdRbWdDZkZsOGg5My1RdTVRYUhrS0x2aldUMms3NHVha0NpY0toVjRPNGNGanRxQXp4eXFTNW1NME5OczZRRTZ5Z196M1VHM3NQaDRTTERGTjRMd2dtcVJJaFVJN1RxSGNVb3JsdC1HaWNvZHQzamNJdzNaYVlYN0VUNlRmOU1DMUpWcE9CVWZwR2pnR3Vn?oc=5",
-   "source": "KTLO",
-   "published": 1788518060.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KTLO",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmp6S2tvTjQwOHdya0x2czYycFBBc3lYdHJpVkZYeHhBTzd1ZkNjbWpJY0ZySU5HWE4wdEdRbWdDZkZsOGg5My1RdTVRYUhrS0x2aldUMms3NHVha0NpY0toVjRPNGNGanRxQXp4eXFTNW1NME5OczZRRTZ5Z196M1VHM3NQaDRTTERGTjRMd2dtcVJJaFVJN1RxSGNVb3JsdC1HaWNvZHQzamNJdzNaYVlYN0VUNlRmOU1DMUpWcE9CVWZwR2pnR3Vn?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "mountainhomecitycouncilcontinuesdiscussionoffoodtrucksapprovespurchaseofsmartwat"
-   ],
-   "first_seen": 1788847021.026348,
-   "section": "major"
   },
   {
    "type": "article",
@@ -519,28 +541,6 @@
    "source_count": 1,
    "member_keys": [
     "searchcontinuesformissingnorthlittlerockmanasmultipleagenciesjoineffortfox16com"
-   ],
-   "first_seen": 1788866130.571881,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas crews search for missing elderly man in North Little Rock amidst heat wave - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcmRHSUJOM2ZESV9OcVVBeUJTS25uVTlsV05xWGxpa0I1YXB6RzF4RDQ3bXROMl9JRngzR3J3Sk5qR0NzeUtySks2cFRHc1FkekhXSktGTFlMMzRpM0tteUdta2xlVEowbjNsSjFteHVHdjUycjJKZUd2RHpUYzFTZGJfTjNCSHQ2cUt4N1VKN3llN0FVcllKNEd0M0hOQ3pOUHIwa3F1WUNpa3d4NW90SW04MGhfdVJGanNmeHpjcEhyaVozMWk3QzFaa0xuYWhpV0lMN1EwVXEtV1hIcEZ1RjBJNXYxTnNSZHFESG94OHhLNEs0Q0dWMjZCWQ?oc=5",
-   "source": "THV11",
-   "published": 1788481080.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcmRHSUJOM2ZESV9OcVVBeUJTS25uVTlsV05xWGxpa0I1YXB6RzF4RDQ3bXROMl9JRngzR3J3Sk5qR0NzeUtySks2cFRHc1FkekhXSktGTFlMMzRpM0tteUdta2xlVEowbjNsSjFteHVHdjUycjJKZUd2RHpUYzFTZGJfTjNCSHQ2cUt4N1VKN3llN0FVcllKNEd0M0hOQ3pOUHIwa3F1WUNpa3d4NW90SW04MGhfdVJGanNmeHpjcEhyaVozMWk3QzFaa0xuYWhpV0lMN1EwVXEtV1hIcEZ1RjBJNXYxTnNSZHFESG94OHhLNEs0Q0dWMjZCWQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansascrewssearchformissingelderlymaninnorthlittlerockamidstheatwavethv11com"
    ],
    "first_seen": 1788866130.571881,
    "section": "major"
