@@ -1,49 +1,71 @@
 {
- "updated": "2026-09-09T16:40:54.571460-05:00",
+ "updated": "2026-09-09T23:40:59.439577-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Arkansas Postcard Past: Conway in 1942 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlZmMm1QV1dLLUNqOG9qNnpJTUlKTG5TbjhxMngzR0tZVlJiMTJZUWZ1dEc4VXZiazJ6Tkd4TFJRWTBrSlJCZG92ZTdVSjNURzU5SmxNc0NraUw4US0tMHRNTkx6ZGpnX3o2Z21pQmZjb0Z5ODVMU2p0a1hKUXFJZUhFNEg4UkFRa3RhaVc4dw?oc=5",
+   "title": "Retirees run popular 20-year-old North Little Rock hardwood shop - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXFCY1pWT3FZS2RaUW9zM2Rsem1WcFJfMzhDV0Z1cVBoanBZTGQ1d2pWTDIyeDZ5SGhFOXBKd204dnVOMmhPYkN1c0Z3dVNTT1k5VWU2Z0NnNjFtT3l4QzhOaWMzOW1jVTNXNmlIaldsdEtad3BreWh2dmdMa015RU4yNWNtYXZOR2puWXdjdjRBbzFwRmNySjZ3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1788987600.0,
+   "published": 1788995400.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlZmMm1QV1dLLUNqOG9qNnpJTUlKTG5TbjhxMngzR0tZVlJiMTJZUWZ1dEc4VXZiazJ6Tkd4TFJRWTBrSlJCZG92ZTdVSjNURzU5SmxNc0NraUw4US0tMHRNTkx6ZGpnX3o2Z21pQmZjb0Z5ODVMU2p0a1hKUXFJZUhFNEg4UkFRa3RhaVc4dw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXFCY1pWT3FZS2RaUW9zM2Rsem1WcFJfMzhDV0Z1cVBoanBZTGQ1d2pWTDIyeDZ5SGhFOXBKd204dnVOMmhPYkN1c0Z3dVNTT1k5VWU2Z0NnNjFtT3l4QzhOaWMzOW1jVTNXNmlIaldsdEtad3BreWh2dmdMa015RU4yNWNtYXZOR2puWXdjdjRBbzFwRmNySjZ3?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "arkansaspostcardpastconwayin1942thearkansasdemocratgazette"
+    "retireesrunpopular20yearoldnorthlittlerockhardwoodshopthearkansasdemocratgazette"
    ],
-   "first_seen": 1788990054.57146,
+   "first_seen": 1789015259.439577,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Arkansas State Employees Awards Record $66,000 To 66 Scholarship Recipients - arkansasradio.com",
+   "title": "Little Rock Fire Department investigation into condo blaze includes security video - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVZBZng1U1dqZFk4YXc5Qnp6ZVJQUHJVc0hyWTZiVS1PYVlQSUNSODR2RENPNFhXRjRQdTVTc0RXcE1LNlhZdnBXTXE2bXk2LWNOLUNCQUdwblVxVWY3TGU0SE5MTkZSOVFBUHp2clZFMWVQckVnQnQ3TTFxSWQxWGc5Yks3bGNHZUcxYjRTNlJWUzhjdUY1RncxUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788992820.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVZBZng1U1dqZFk4YXc5Qnp6ZVJQUHJVc0hyWTZiVS1PYVlQSUNSODR2RENPNFhXRjRQdTVTc0RXcE1LNlhZdnBXTXE2bXk2LWNOLUNCQUdwblVxVWY3TGU0SE5MTkZSOVFBUHp2clZFMWVQckVnQnQ3TTFxSWQxWGc5Yks3bGNHZUcxYjRTNlJWUzhjdUY1RncxUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockfiredepartmentinvestigationintocondoblazeincludessecurityvideothearkan"
+   ],
+   "first_seen": 1789015259.439577,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas State Employees Awards Record $66,000 To 66 Scholarship Recipients - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5",
-   "source": "arkansasradio.com",
+   "source": "Arkansas Radio",
    "published": 1788978026.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasradio.com",
+     "source": "Arkansas Radio",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "arkansasstateemployeesawardsrecord66000to66scholarshiprecipientsarkansasradiocom"
+    "arkansasstateemployeesawardsrecord66000to66scholarshiprecipientsarkansasradio"
    ],
-   "first_seen": 1788990054.57146,
+   "first_seen": 1789015259.439577,
    "section": "major"
   },
   {
@@ -114,28 +136,6 @@
   },
   {
    "type": "article",
-   "title": "Hudson Ritchie - Sports Illustrated",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGgxd2lrSERHWk1fWHExYlI4bC1Wd21vLXdhbWZKMnlUSW9GMzBFZGpaYnZBRDk5NGpxT2E2N0VIR04yc2dmazFZYlhYbkhGeUJMdUlSeHBLa09JT29XVDNKYmV6WFlpV2Z6ZDZTc19WdUNDZXFEZkNwNzExdG1aV2pJTkRnQVJZaWFPYXMxaW4yNlZ0cE5XMmxpM05PdWdlT2ZCX0lOdTJEQWdHcDExaHUwSVRnRmRwaFItMWZ4cUpVaFVnMTVHWWxOZ1lwVnVqTVE?oc=5",
-   "source": "Sports Illustrated",
-   "published": 1788952768.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Sports Illustrated",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGgxd2lrSERHWk1fWHExYlI4bC1Wd21vLXdhbWZKMnlUSW9GMzBFZGpaYnZBRDk5NGpxT2E2N0VIR04yc2dmazFZYlhYbkhGeUJMdUlSeHBLa09JT29XVDNKYmV6WFlpV2Z6ZDZTc19WdUNDZXFEZkNwNzExdG1aV2pJTkRnQVJZaWFPYXMxaW4yNlZ0cE5XMmxpM05PdWdlT2ZCX0lOdTJEQWdHcDExaHUwSVRnRmRwaFItMWZ4cUpVaFVnMTVHWWxOZ1lwVnVqTVE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "hudsonritchiesportsillustrated"
-   ],
-   "first_seen": 1788964490.992868,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Malzahn recounts historic coaching career in Little Rock Touchdown Club appearance - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENvUXNGT0J4dlcxV0QtRUpEWVY5aHVJVW9hUjNLOGx5OFBpY0MzMWJnby1fVUFVLWhkOW96Ylk3bXJoTW55ZngzMGVHRW1oZzJlV0UzZkR1bmwtNUVncXRSQ1BEM3ctWFAxQU5KS19iN18xc1dKa1hxVl9SVHBfUmVEUnE0MF9oV3l6TGJLOW9LUUtzc090ZQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -158,47 +158,27 @@
   },
   {
    "type": "article",
-   "title": "Lucas Beck - Central Arkansas Christian Mustangs Freshman Football (North Little Rock, AR) - Sports Illustrated",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU5OOVJUWDIwREgxMDNVa29fek1saXlBc1pWTTVMTUlxclpjdnRTWmlUczBpYUZfdjNJV1lRVWFfbWY2ZHNUUjdKRGRZQ1ZqYnFPQkprRGFlVDd0Y3Q4bHV5LTQ0YW1Ea0tBRk5aMXM1OFl1UWdyb2QxLXIzd3ZFLXI2YTE2Z0pueWpSOVhUc2xGSlRMc1QxQ25JbXFMMUh2Sy0tZGVSNF9Id0JnZHJXQ200eFpiWmlLeUZ0VXhoVEZDc2JHVGJSZUxaQ1RMUQ?oc=5",
+   "title": "Will Cauley - Central Arkansas Christian Mustangs Freshman Football (North Little Rock, AR) - Sports Illustrated",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm5VRTI4NG5TS1dNeVQtZXNGV0lxSDBMMVFmSGlGZTVZS1JKT2FhOVVpYW5PYnBPWXZIYnlnZ1BybW9uWS11NXlMM0tqejg1RWF2MF9rZXZmXzEyakZUaExKWjNJT09ENlpobXF1Q1I4YVUwOFZEX2ZPSEU3VEJLZktLemU4elpKRjM4Q1BURWtBOGpDVC00NlpaNVJuaTNEdHQ4NS15Sk1uV3Axc2FNalF0MktsTlFaMEhsbWRtRnVoSkxVenplSkozd20wZw?oc=5",
    "source": "Sports Illustrated",
-   "published": 1788925325.0,
+   "published": 1788914202.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "Sports Illustrated",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU5OOVJUWDIwREgxMDNVa29fek1saXlBc1pWTTVMTUlxclpjdnRTWmlUczBpYUZfdjNJV1lRVWFfbWY2ZHNUUjdKRGRZQ1ZqYnFPQkprRGFlVDd0Y3Q4bHV5LTQ0YW1Ea0tBRk5aMXM1OFl1UWdyb2QxLXIzd3ZFLXI2YTE2Z0pueWpSOVhUc2xGSlRMc1QxQ25JbXFMMUh2Sy0tZGVSNF9Id0JnZHJXQ200eFpiWmlLeUZ0VXhoVEZDc2JHVGJSZUxaQ1RMUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm5VRTI4NG5TS1dNeVQtZXNGV0lxSDBMMVFmSGlGZTVZS1JKT2FhOVVpYW5PYnBPWXZIYnlnZ1BybW9uWS11NXlMM0tqejg1RWF2MF9rZXZmXzEyakZUaExKWjNJT09ENlpobXF1Q1I4YVUwOFZEX2ZPSEU3VEJLZktLemU4elpKRjM4Q1BURWtBOGpDVC00NlpaNVJuaTNEdHQ4NS15Sk1uV3Axc2FNalF0MktsTlFaMEhsbWRtRnVoSkxVenplSkozd20wZw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "lucasbeckcentralarkansaschristianmustangsfreshmanfootballnorthlittlerockarsports"
+    "lucasbeckcentralarkansaschristianmustangsfreshmanfootballnorthlittlerockarsports",
+    "willcauleycentralarkansaschristianmustangsfreshmanfootballnorthlittlerockarsport"
    ],
    "first_seen": 1788946983.431834,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Carol Morgan Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE9yNnRZY1NNNG9oVHVDazVKNDdyQmpuWWd1Nk1QTlZMNktwVmM4cV90MjQ3VElCV3E0Vml2cVZGdFc5Vm5pWVBiN1JzN0s5b1dUR1Nfb0NnUGVHNXoxdzdvUlpJTElRV1Z4Qy00NVZ1NEI1bGYtRU1OVG5Zd2hfaA?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788911867.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE9yNnRZY1NNNG9oVHVDazVKNDdyQmpuWWd1Nk1QTlZMNktwVmM4cV90MjQ3VElCV3E0Vml2cVZGdFc5Vm5pWVBiN1JzN0s5b1dUR1Nfb0NnUGVHNXoxdzdvUlpJTElRV1Z4Qy00NVZ1NEI1bGYtRU1OVG5Zd2hfaA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "carolmorganobituary2026northlittlerockarsuperiorfuneralservicesnorthlittlerockle"
-   ],
-   "first_seen": 1788912739.110491,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -224,6 +204,28 @@
   },
   {
    "type": "article",
+   "title": "Luke Shockley - Sports Illustrated",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW1KVnh6cXdlcWNaVmVDcjJ6QzFIbmFDMnJKTnpSdEtwa0JSQm9oNF81Y2k2eHZJQTNiTURCLWtnYk9UUWhiVjVMVEFmSmNEaDRSZTE5V3kzUXpadjVtbThSTkNwZVlvMm1SUlViTGhhb2xzOENZaWthRF90c3pRcjMwanpMczhacFFuQTlBZ0FhbWFfdUNHN1RacU9BbHBUUlplV0JoQUttMTZKcUVubF9obUtFZHQtOTZrcS1ibWJFRXgwUlRrU1VKc2RfSDVL?oc=5",
+   "source": "Sports Illustrated",
+   "published": 1788910480.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW1KVnh6cXdlcWNaVmVDcjJ6QzFIbmFDMnJKTnpSdEtwa0JSQm9oNF81Y2k2eHZJQTNiTURCLWtnYk9UUWhiVjVMVEFmSmNEaDRSZTE5V3kzUXpadjVtbThSTkNwZVlvMm1SUlViTGhhb2xzOENZaWthRF90c3pRcjMwanpMczhacFFuQTlBZ0FhbWFfdUNHN1RacU9BbHBUUlplV0JoQUttMTZKcUVubF9obUtFZHQtOTZrcS1ibWJFRXgwUlRrU1VKc2RfSDVL?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "lukeshockleysportsillustrated"
+   ],
+   "first_seen": 1789015259.439577,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "Little Rock chamber taps engineer to serve as project manager for proposed downtown park - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazNFYXlldlpyZ1JYSEF5M3NjcXEtb25lSjN4WklKVXJ1djQzNzlHNzI3RGRFR3BmdVVib2NzOVBHR1ZYc00wLWdnMTJELXFUNGwtM1JTaElDV3FBd0Fqak9NNm1lOVRFZ3hvVmd6YVNPUGd6eV85a0RCOWlOOTRabXV6WFp4SjdBZW8xRkNvQ2d2UXlvQ3hnMlF3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -246,24 +248,24 @@
   },
   {
    "type": "article",
-   "title": "WATCH: Footage Released After Huge Fight Breaks Out In Little Rock High School - arkansasradio.com",
+   "title": "WATCH: Footage Released After Huge Fight Breaks Out In Little Rock High School - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5",
-   "source": "arkansasradio.com",
+   "source": "Arkansas Radio",
    "published": 1788904953.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasradio.com",
+     "source": "Arkansas Radio",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "watchfootagereleasedafterhugefightbreaksoutinlittlerockhighschoolarkansasradioco"
+    "watchfootagereleasedafterhugefightbreaksoutinlittlerockhighschoolarkansasradio"
    ],
-   "first_seen": 1788990054.57146,
+   "first_seen": 1789015259.439577,
    "section": "major"
   },
   {
@@ -312,72 +314,6 @@
   },
   {
    "type": "article",
-   "title": "Ermalene Sanders Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHJjTkdaZkFRb3lqZkNZeDEyOWU4X3ZDNUp0T1kyT3g4SjFTQUEwNFFFZ0ZzVFNGZFlEdEF4R3FyT0F6aVUzWWVIcUYwdTR1a3dsVEFmQnRLRExaVWdZWHVjUDNQM18xNFd3c0gwak1ZeGRfdDJhSDd5UHQ1WkpyU2xHdlk4UQ?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788902491.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHJjTkdaZkFRb3lqZkNZeDEyOWU4X3ZDNUp0T1kyT3g4SjFTQUEwNFFFZ0ZzVFNGZFlEdEF4R3FyT0F6aVUzWWVIcUYwdTR1a3dsVEFmQnRLRExaVWdZWHVjUDNQM18xNFd3c0gwak1ZeGRfdDJhSDd5UHQ1WkpyU2xHdlk4UQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "ermalenesandersobituary2026northlittlerockarsuperiorfuneralservicesnorthlittlero"
-   ],
-   "first_seen": 1788904201.82696,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Mother Margie Harris Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUzJWeDJyLTdDSWxfcjl3OHZVQWZvaW1GR0owZUJ0SVJuNUZ5VlIxc3VaTWV1YjNkd1F3WWFLQXRUYmhsZ2VKM1lzNWVsVnItWXlxUndlVDNxR19fWDBqZ0hvQ3B1MEhfVXVlV0g4VU5rd1hVczc4ZndHWEhUWHlBWE9B?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788901274.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUzJWeDJyLTdDSWxfcjl3OHZVQWZvaW1GR0owZUJ0SVJuNUZ5VlIxc3VaTWV1YjNkd1F3WWFLQXRUYmhsZ2VKM1lzNWVsVnItWXlxUndlVDNxR19fWDBqZ0hvQ3B1MEhfVXVlV0g4VU5rd1hVczc4ZndHWEhUWHlBWE9B?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "mothermargieharrisobituary2026northlittlerockarsuperiorfuneralservicesnorthlittl"
-   ],
-   "first_seen": 1788904201.82696,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Eleanor Merritt Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWtPcEtwNUhFVkYxZHVzV3Z4MGI4eTNCenpFOE9FcjUzQ0ZiU3ZDSFZrRWVOY1hmZ0FtdFdLSElpWmVhandMSEFsUXFGY0picjRVTFdXRmh0SEdmX0pGUXFSdnFYSWVqV0hWaGdJRXFNdHJkUXRHMzN5NEtPN19GWTJ3RVk?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788890432.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWtPcEtwNUhFVkYxZHVzV3Z4MGI4eTNCenpFOE9FcjUzQ0ZiU3ZDSFZrRWVOY1hmZ0FtdFdLSElpWmVhandMSEFsUXFGY0picjRVTFdXRmh0SEdmX0pGUXFSdnFYSWVqV0hWaGdJRXFNdHJkUXRHMzN5NEtPN19GWTJ3RVk?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "eleanormerrittobituary2026northlittlerockarsuperiorfuneralservicesnorthlittleroc"
-   ],
-   "first_seen": 1788892712.818519,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Potentially dangerous drought conditions in Arkansas possible as heat continues into September - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0tWU3FhOWRhanVOa203R29LUW90eUhIdEgtbWQ0NlRvNnA2WlgwYzdiUEdka3ZSa0NjdVM4M1pvZHVjSkVHakFEdkdKRnBwSWhDWWlhd0NrRmhmQXRUcTk3UlNLTlJVZDlUZ2lBbXZobnFSUUdhSmQ1RDNSMTl1VUowanVSNjFKWm14VjN5MUZOeUpiLXpv?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -400,31 +336,47 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police arrest 18-year-old in deadly gas station shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5",
-   "source": "KARK",
-   "published": 1788870219.0,
+   "title": "North Little Rock police arrest 18-year-old in connection to fatal convenience store shooting - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3Z1QUJIQWJLTkJpSjRaLXhwd1BMZUFmQ0MxSEw4X3ZHNERMbUs3QS1QWlNJdFFNLUUxRlhaa0RnaTJFYUVGNUE1R1JjLVNyV0E0NDNGZTQ2OF8weXF4elVUdWFFUDlSNXRFVEdndGFDYl9MU1BSQ1FnU29QQXg0bXctc2lOeWhZcEVKM0RHZEtfOWlaT05Od05KYw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1788883380.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5"
-    },
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3Z1QUJIQWJLTkJpSjRaLXhwd1BMZUFmQ0MxSEw4X3ZHNERMbUs3QS1QWlNJdFFNLUUxRlhaa0RnaTJFYUVGNUE1R1JjLVNyV0E0NDNGZTQ2OF8weXF4elVUdWFFUDlSNXRFVEdndGFDYl9MU1BSQ1FnU29QQXg0bXctc2lOeWhZcEVKM0RHZEtfOWlaT05Od05KYw?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "northlittlerockpolicearrest18yearoldinconnectiontofatalconveniencestoreshootingt",
-    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark"
+    "northlittlerockpolicearrest18yearoldinconnectiontofatalconveniencestoreshootingt"
    ],
    "first_seen": 1788964490.992868,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "WWE Monday Night RAW returns to North Little Rock this November - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVpVUF95cnpVN0hsTGZrdjdiYXp3TVhSODR4OFYzNTFjUktMX2tPLXRub1hmSUFCdGlSOG9RcTFHV1JjMFE4LUdBRDFhT1RUSFROcmlWc0dzcVVGX0Y1WU1abWtVdk9iYXpZNFBteWV1NUpaSUxoQmdMWnAtNmNkMC12NkJLS0s0ZUdFY094aXdYYkdocDV6bFA5TmdDeGRsN195WThvQmpxZmdZTHBnVnpVaDlweXhTNFdRaHZXdzJIc0pHZ1dPcHFHWHZvRmlV?oc=5",
+   "source": "THV11",
+   "published": 1788877440.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVpVUF95cnpVN0hsTGZrdjdiYXp3TVhSODR4OFYzNTFjUktMX2tPLXRub1hmSUFCdGlSOG9RcTFHV1JjMFE4LUdBRDFhT1RUSFROcmlWc0dzcVVGX0Y1WU1abWtVdk9iYXpZNFBteWV1NUpaSUxoQmdMWnAtNmNkMC12NkJLS0s0ZUdFY094aXdYYkdocDV6bFA5TmdDeGRsN195WThvQmpxZmdZTHBnVnpVaDlweXhTNFdRaHZXdzJIc0pHZ1dPcHFHWHZvRmlV?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "wwemondaynightrawreturnstonorthlittlerockthisnovemberthv11com"
+   ],
+   "first_seen": 1789015259.439577,
+   "section": "major"
   },
   {
    "type": "article",
@@ -450,140 +402,147 @@
   },
   {
    "type": "article",
-   "title": "Anti-death penalty activist donates collection related to executions to Alabama college - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzEwa3ozOXVkejgtazE2YkdhY2hFODdrTlFNcWRHNmNBMjdYYk0xazkxZjZ0TEZmam5xN3A5R1haSTBqNUNiMHhpWDNNMm9IaFJOUzdMQzVUb01qUjBna0lzc2NHZHRKQTYxV1hJaHl0M2lKdm5DdGo0QkVlSUtVTGdwckxPUkZfaVhrRHZlSXlieWhDNjRjLXJpYw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788835800.0,
+   "title": "Eaton Announces $242 Million Arkansas Facility to Boost Modular Electrical Enclosure Production - Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUdNSzVnZDRINDl6dmMybld6eEdXbXhfUHpiV1pfMWNOSkpQNVZYdl9hTnNBTjFkS05ZTlZZTlVoMEFCYUdKMzJXRE5fdEV3YjlJV2lBVTJUQmw1OF9xbFZXQnluUFNsa0J3czVZTkJfU1JMdXZ1ZEM2ZWMxdGJJd3ctWm1TeTY4VWw0SW5sM1NMNG5neG1Vdjg0NkZ1R3d2Vlk4Nk41RzR3WDlLZUhuMjJsRTQ2SHI4SWhrc0MtX3E1YmtEOER5by1OQmR1YzdVTmc?oc=5",
+   "source": "Global Sources",
+   "published": 1788837461.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzEwa3ozOXVkejgtazE2YkdhY2hFODdrTlFNcWRHNmNBMjdYYk0xazkxZjZ0TEZmam5xN3A5R1haSTBqNUNiMHhpWDNNMm9IaFJOUzdMQzVUb01qUjBna0lzc2NHZHRKQTYxV1hJaHl0M2lKdm5DdGo0QkVlSUtVTGdwckxPUkZfaVhrRHZlSXlieWhDNjRjLXJpYw?oc=5"
+     "source": "Global Sources",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUdNSzVnZDRINDl6dmMybld6eEdXbXhfUHpiV1pfMWNOSkpQNVZYdl9hTnNBTjFkS05ZTlZZTlVoMEFCYUdKMzJXRE5fdEV3YjlJV2lBVTJUQmw1OF9xbFZXQnluUFNsa0J3czVZTkJfU1JMdXZ1ZEM2ZWMxdGJJd3ctWm1TeTY4VWw0SW5sM1NMNG5neG1Vdjg0NkZ1R3d2Vlk4Nk41RzR3WDlLZUhuMjJsRTQ2SHI4SWhrc0MtX3E1YmtEOER5by1OQmR1YzdVTmc?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "antideathpenaltyactivistdonatescollectionrelatedtoexecutionstoalabamacollegethea"
+    "eatonannounces242millionarkansasfacilitytoboostmodularelectricalenclosureproduct"
    ],
-   "first_seen": 1788964490.992868,
+   "first_seen": 1789015259.439577,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "North Little Rock police identify gas station homicide victim, search for suspect - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzZNU3JsMGRkOE8zVlN5Q1RwQkFBcmM5YW5CVWVMdXN3aVRqZVBxUGswUUpETVYwUXFRSzVRNUtYbTNyS3dVYklwUFYwN2RMNjY0SVF3RUVxaTUwcWNMblF3M3dnc3JZU3dmQm9hRnpMQVpSbm5VeS1ONnFkbGtDNFVGZ0dSTHR4Q0ZOc0g2b2lLV0l6?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788828060.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzZNU3JsMGRkOE8zVlN5Q1RwQkFBcmM5YW5CVWVMdXN3aVRqZVBxUGswUUpETVYwUXFRSzVRNUtYbTNyS3dVYklwUFYwN2RMNjY0SVF3RUVxaTUwcWNMblF3M3dnc3JZU3dmQm9hRnpMQVpSbm5VeS1ONnFkbGtDNFVGZ0dSTHR4Q0ZOc0g2b2lLV0l6?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectnorthwestar",
-    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectthearkansas"
-   ],
-   "first_seen": 1788810985.281418,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock homicide suspect was being monitored by state program after insanity diagnosis - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnNNbFBybmhVcXhjOHFpbHdCRGdWNk9wSFBGR1FLZEZTc3lsSFdUNV93aUNWaVFBUkJOekdlZG82NG45Q2doVjdQc3F5S2xvVkRyTFFsUzZjaDd2akszSk5Qc3VpU1BEZzVQMm5pampCVlV3ZE5sMHlMQnZJV3RFcEY4OVpwMFJka2pDSmI5VnFzamdDajNsQ2U5X0ozUQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788827220.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnNNbFBybmhVcXhjOHFpbHdCRGdWNk9wSFBGR1FLZEZTc3lsSFdUNV93aUNWaVFBUkJOekdlZG82NG45Q2doVjdQc3F5S2xvVkRyTFFsUzZjaDd2akszSk5Qc3VpU1BEZzVQMm5pampCVlV3ZE5sMHlMQnZJV3RFcEY4OVpwMFJka2pDSmI5VnFzamdDajNsQ2U5X0ozUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockhomicidesuspectwasbeingmonitoredbystateprogramafterinsanitydiagnosisth"
-   ],
-   "first_seen": 1788964490.992868,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "California-based marketing firm withdraws from Little Rock schools contract - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGdoVlJQdkQwVENTZDZPUlZUM2N2d1FtcWRKUnBTeVBQc2J0RnZ3NXNwMkx2UGJIbnhvR3BqVG9lVVNia1lCYS1CTFhQTGdWNHpWWTFPb0tFTUJ6eEYzN18wYTVfbjl5cU15YUFaSHZVdDdpNTN5UHVNM3czMS1LdTZ1TDUtTE90RVNrWThQY0prU3FxbzZqZVR4dw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788825000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGdoVlJQdkQwVENTZDZPUlZUM2N2d1FtcWRKUnBTeVBQc2J0RnZ3NXNwMkx2UGJIbnhvR3BqVG9lVVNia1lCYS1CTFhQTGdWNHpWWTFPb0tFTUJ6eEYzN18wYTVfbjl5cU15YUFaSHZVdDdpNTN5UHVNM3czMS1LdTZ1TDUtTE90RVNrWThQY0prU3FxbzZqZVR4dw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "californiabasedmarketingfirmwithdrawsfromlittlerockschoolscontractthearkansasdem"
-   ],
-   "first_seen": 1788964490.992868,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Police Seek 18-Year-Old Wanted In Capital Murder Case - arkansasradio.com",
+   "title": "North Little Rock Police Seek 18-Year-Old Wanted In Capital Murder Case - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5",
-   "source": "arkansasradio.com",
+   "source": "Arkansas Radio",
    "published": 1788823089.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasradio.com",
+     "source": "Arkansas Radio",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpoliceseek18yearoldwantedincapitalmurdercasearkansasradiocom"
+    "northlittlerockpoliceseek18yearoldwantedincapitalmurdercasearkansasradio"
    ],
-   "first_seen": 1788990054.57146,
+   "first_seen": 1789015259.439577,
    "section": "crime"
   },
   {
    "type": "article",
-   "title": "Suspect, victim identified in North Little Rock Circle K deadly shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5",
+   "title": "Community reacts after North Little Rock deadly shooting at Circle K - KARK",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5",
    "source": "KARK",
-   "published": 1788822574.0,
+   "published": 1788818759.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "communityreactsafternorthlittlerockdeadlyshootingatcirclekkark",
+    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkark"
+   ],
+   "first_seen": 1788978854.252834,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police investigating deadly gas station shooting - KATV",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2FaeEdQelJWMVNIQVRHNWZVTV9NRmczWmFXVHYwOEVVclN3UjQ3QnBLTXRJbWh4QmhGeHVCRF83OUZfWGN2MnFyaGdjTG9UTF9mSUFiNUpHZHQzT2dleXlvWEFreFlFWEZ4NFZVWWNqTnNZbkxwOFBGVkYtWEZqQU55cUNBQm9ZWWtXdjFYVUxDbnA5Rmx3Z29QbDdaMmdOU3RDeFJfaUMzTFlqa2JYQnNUYUpPT1NvaTc5V2hmNmFHVkJac1hZcHpuUF8?oc=5",
+   "source": "KATV",
+   "published": 1788811495.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2FaeEdQelJWMVNIQVRHNWZVTV9NRmczWmFXVHYwOEVVclN3UjQ3QnBLTXRJbWh4QmhGeHVCRF83OUZfWGN2MnFyaGdjTG9UTF9mSUFiNUpHZHQzT2dleXlvWEFreFlFWEZ4NFZVWWNqTnNZbkxwOFBGVkYtWEZqQU55cUNBQm9ZWWtXdjFYVUxDbnA5Rmx3Z29QbDdaMmdOU3RDeFJfaUMzTFlqa2JYQnNUYUpPT1NvaTc5V2hmNmFHVkJac1hZcHpuUF8?oc=5"
+    },
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzZNU3JsMGRkOE8zVlN5Q1RwQkFBcmM5YW5CVWVMdXN3aVRqZVBxUGswUUpETVYwUXFRSzVRNUtYbTNyS3dVYklwUFYwN2RMNjY0SVF3RUVxaTUwcWNMblF3M3dnc3JZU3dmQm9hRnpMQVpSbm5VeS1ONnFkbGtDNFVGZ0dSTHR4Q0ZOc0g2b2lLV0l6?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5"
+    }
+   ],
+   "source_count": 3,
+   "member_keys": [
+    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark",
+    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectthearkansas",
+    "northlittlerockpoliceinvestigatingdeadlygasstationshootingkatv"
+   ],
+   "first_seen": 1788810985.281418,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Police In Arkansas Seek Information on \"Homicide\" at Circle K - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1788789634.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policeinarkansasseekinformationonhomicideatcirclekarkansasradio"
+   ],
+   "first_seen": 1789015259.439577,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Man shot and killed at Circle K gas station in North Little Rock - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5",
+   "source": "KARK",
+   "published": 1788782687.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkark"
+    "manshotandkilledatcirclekgasstationinnorthlittlerockkark"
    ],
-   "first_seen": 1788978854.252834,
+   "first_seen": 1789015259.439577,
    "section": "crime"
   }
  ]
