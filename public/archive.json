@@ -1,6 +1,28 @@
 {
- "updated": "2026-09-09T23:40:59.439577-05:00",
+ "updated": "2026-09-10T04:41:26.346772-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "McAlmont residents object to Harris Elementary’s inclusion in proposed Sherwood school district - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGVKS2dnejI5dlNDcjRWaWR6RUxodkdHVWhkaUhKR2hiSUl3a21PYXJnUkVPNEd5YzFIWU96NzVTR1hfcDFEcGhJV0tGb2lBMDhmQUkwNW0xSnQwZmMtemY0enVQcEJjUU5QWWg3WFdOb00xR1RvUEZMbnFlcV9GbTlISzVYU3M2TzlMSUdPR1Z2aFRNQnBlTk1SdGU?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789010302.0,
+   "first_seen": 1789033286.346772,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGVKS2dnejI5dlNDcjRWaWR6RUxodkdHVWhkaUhKR2hiSUl3a21PYXJnUkVPNEd5YzFIWU96NzVTR1hfcDFEcGhJV0tGb2lBMDhmQUkwNW0xSnQwZmMtemY0enVQcEJjUU5QWWg3WFdOb00xR1RvUEZMbnFlcV9GbTlISzVYU3M2TzlMSUdPR1Z2aFRNQnBlTk1SdGU?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "mcalmontresidentsobjecttoharriselementarysinclusioninproposedsherwoodschooldistr"
+   ]
+  },
   {
    "type": "article",
    "title": "Retirees run popular 20-year-old North Little Rock hardwood shop - The Arkansas Democrat-Gazette",
@@ -69,28 +91,6 @@
   },
   {
    "type": "article",
-   "title": "Arkansas State Employees Awards Record $66,000 To 66 Scholarship Recipients - arkansasradio.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5",
-   "source": "arkansasradio.com",
-   "published": 1788978026.0,
-   "first_seen": 1788990054.57146,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "arkansasradio.com",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasstateemployeesawardsrecord66000to66scholarshiprecipientsarkansasradiocom"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Arkansas State Employees Awards Record $66,000 To 66 Scholarship Recipients - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5",
    "source": "Arkansas Radio",
@@ -109,6 +109,28 @@
    "source_count": 1,
    "member_keys": [
     "arkansasstateemployeesawardsrecord66000to66scholarshiprecipientsarkansasradio"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Arkansas State Employees Awards Record $66,000 To 66 Scholarship Recipients - arkansasradio.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5",
+   "source": "arkansasradio.com",
+   "published": 1788978026.0,
+   "first_seen": 1788990054.57146,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "arkansasradio.com",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno1TW5KODhTSk5ZX1dub2xmcGlpcjJNRzl5VVF1b0x2YnRhUFZsVVdoYVBSQUt4dllSRVotVUNvbFNMVzRoRkFzV0VaNjdvSGFBTEZDbVpEbDd1NmN3Z3J3bnJud2JFelJNM1F5eWcxbXhVTk1mcW5fQ2pvSjdUbFpGdw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansasstateemployeesawardsrecord66000to66scholarshiprecipientsarkansasradiocom"
    ]
   },
   {
@@ -422,28 +444,6 @@
   },
   {
    "type": "article",
-   "title": "WATCH: Footage Released After Huge Fight Breaks Out In Little Rock High School - arkansasradio.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5",
-   "source": "arkansasradio.com",
-   "published": 1788904953.0,
-   "first_seen": 1788912739.110491,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "arkansasradio.com",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "watchfootagereleasedafterhugefightbreaksoutinlittlerockhighschoolarkansasradioco"
-   ]
-  },
-  {
-   "type": "article",
    "title": "WATCH: Footage Released After Huge Fight Breaks Out In Little Rock High School - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5",
    "source": "Arkansas Radio",
@@ -462,6 +462,28 @@
    "source_count": 1,
    "member_keys": [
     "watchfootagereleasedafterhugefightbreaksoutinlittlerockhighschoolarkansasradio"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "WATCH: Footage Released After Huge Fight Breaks Out In Little Rock High School - arkansasradio.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5",
+   "source": "arkansasradio.com",
+   "published": 1788904953.0,
+   "first_seen": 1788912739.110491,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "arkansasradio.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "watchfootagereleasedafterhugefightbreaksoutinlittlerockhighschoolarkansasradioco"
    ]
   },
   {
@@ -1104,28 +1126,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Police Seek 18-Year-Old Wanted In Capital Murder Case - arkansasradio.com",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5",
-   "source": "arkansasradio.com",
-   "published": 1788823089.0,
-   "first_seen": 1788912739.110491,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "arkansasradio.com",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceseek18yearoldwantedincapitalmurdercasearkansasradiocom"
-   ]
-  },
-  {
-   "type": "article",
    "title": "North Little Rock Police Seek 18-Year-Old Wanted In Capital Murder Case - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5",
    "source": "Arkansas Radio",
@@ -1148,25 +1148,24 @@
   },
   {
    "type": "article",
-   "title": "Community reacts after North Little Rock deadly shooting at Circle K - kark.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5",
-   "source": "KARK",
-   "published": 1788818759.0,
-   "first_seen": 1788866130.571881,
+   "title": "North Little Rock Police Seek 18-Year-Old Wanted In Capital Murder Case - arkansasradio.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5",
+   "source": "arkansasradio.com",
+   "published": 1788823089.0,
+   "first_seen": 1788912739.110491,
    "section": "crime",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null,
    "sources": [
     {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5"
+     "source": "arkansasradio.com",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWpRY2VZYW1fNGVibjh5ZTZjVk4tVkI1TGozLWpiMjZFZllDbC1jV1VpOU5aWVJOTjQwcjBuUS1MQnJUcGdnU3p2WjE4YjM4eUdXRzZiXzZzdmozMXdwXzRVcnJ2cXh3V1BwZ1Q0NFFmd19WbFhZZ1oxWTJ3MEFuU1VBTjlBMjRxOHktOUFWbm1RTkVOVzBLSThB?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "communityreactsafternorthlittlerockdeadlyshootingatcirclekkarkcom",
-    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkarkcom"
+    "northlittlerockpoliceseek18yearoldwantedincapitalmurdercasearkansasradiocom"
    ]
   },
   {
@@ -1190,6 +1189,29 @@
    "member_keys": [
     "communityreactsafternorthlittlerockdeadlyshootingatcirclekkark",
     "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkark"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Community reacts after North Little Rock deadly shooting at Circle K - kark.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5",
+   "source": "KARK",
+   "published": 1788818759.0,
+   "first_seen": 1788866130.571881,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "communityreactsafternorthlittlerockdeadlyshootingatcirclekkarkcom",
+    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkarkcom"
    ]
   },
   {
@@ -1219,7 +1241,7 @@
    ],
    "source_count": 3,
    "member_keys": [
-    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark",
+    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkarkcom",
     "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectthearkansas",
     "northlittlerockpoliceinvestigatingdeadlygasstationshootingkatv"
    ]
@@ -1248,28 +1270,6 @@
   },
   {
    "type": "article",
-   "title": "Police In Arkansas Seek Information on \"Homicide\" at Circle K - arkansasradio.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5",
-   "source": "arkansasradio.com",
-   "published": 1788789634.0,
-   "first_seen": 1788912739.110491,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "arkansasradio.com",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "policeinarkansasseekinformationonhomicideatcirclekarkansasradiocom"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Police In Arkansas Seek Information on \"Homicide\" at Circle K - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5",
    "source": "Arkansas Radio",
@@ -1288,6 +1288,28 @@
    "source_count": 1,
    "member_keys": [
     "policeinarkansasseekinformationonhomicideatcirclekarkansasradio"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Police In Arkansas Seek Information on \"Homicide\" at Circle K - arkansasradio.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5",
+   "source": "arkansasradio.com",
+   "published": 1788789634.0,
+   "first_seen": 1788912739.110491,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "arkansasradio.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG84Vmo1Qnpic01vS0NxdThfYXVPeWNVUlk3U3Nac25fWE9KX2wtWTRyTS03MzU2eGlITXh1SWIxaVFFMnZicUtzRlF6ejZRY3FieTc4dVBLSDVSWlpGMkV3d2hwWE10b2U0MHRNVGlOVVFtcUU5QXVMUnMyZUNhN0Rfd2p0N3N5MnVSeWZoR2FUeGZvUk5MVVNyckFhNnhYSkVyV3ZlZU42ejlHbjZFcA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policeinarkansasseekinformationonhomicideatcirclekarkansasradiocom"
    ]
   },
   {
@@ -1314,35 +1336,24 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police investigating deadly shooting at Circle K gas station - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5",
-   "source": "THV11",
-   "published": 1788779760.0,
-   "first_seen": 1788964490.992868,
+   "title": "Man shot and killed at Circle K gas station in North Little Rock - kark.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5",
+   "source": "KARK",
+   "published": 1788782687.0,
+   "first_seen": 1789033286.346772,
    "section": "crime",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null,
    "sources": [
     {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5"
-    },
-    {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2FaeEdQelJWMVNIQVRHNWZVTV9NRmczWmFXVHYwOEVVclN3UjQ3QnBLTXRJbWh4QmhGeHVCRF83OUZfWGN2MnFyaGdjTG9UTF9mSUFiNUpHZHQzT2dleXlvWEFreFlFWEZ4NFZVWWNqTnNZbkxwOFBGVkYtWEZqQU55cUNBQm9ZWWtXdjFYVUxDbnA5Rmx3Z29QbDdaMmdOU3RDeFJfaUMzTFlqa2JYQnNUYUpPT1NvaTc5V2hmNmFHVkJac1hZcHpuUF8?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 1,
    "member_keys": [
-    "manshotandkilledatcirclekgasstationinnorthlittlerockkarkcom",
-    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkarkcom",
-    "northlittlerockpoliceinvestigatingdeadlygasstationshootingkatvcom",
-    "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com"
+    "manshotandkilledatcirclekgasstationinnorthlittlerockkarkcom"
    ]
   },
   {
