@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T04:18:59.066871-05:00",
+ "updated": "2026-09-12T08:35:54.352465-05:00",
  "items": [
   {
    "type": "article",
@@ -65,6 +65,28 @@
    "source_count": 1,
    "member_keys": [
     "arkansaspolicereport19peoplekilledin18wrecksonstateroadsinfirstweekofseptemberth"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Event in Little Rock to honor gospel music trailblazers - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2U3NUNnVG1IYVJYZVp3TFRpbzNhTnZtRDB4TUJIN0ZjR1ZxblBLcjFHQWR6Sm5ZcGt1ZzFFRU9RUEZ1YlV0cVhNcnNjTktNczhTaGtFektHUTFramxQaFR3TnBQbDVUcW5xNzhxLXJyYkVBWWE3MFVUMFNDNkNDZnZpUzZyNThOVC1XdENaTUlkcFl6OTlscG5nWU9iQWM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789179300.0,
+   "first_seen": 1789220154.352465,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2U3NUNnVG1IYVJYZVp3TFRpbzNhTnZtRDB4TUJIN0ZjR1ZxblBLcjFHQWR6Sm5ZcGt1ZzFFRU9RUEZ1YlV0cVhNcnNjTktNczhTaGtFektHUTFramxQaFR3TnBQbDVUcW5xNzhxLXJyYkVBWWE3MFVUMFNDNkNDZnZpUzZyNThOVC1XdENaTUlkcFl6OTlscG5nWU9iQWM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "eventinlittlerocktohonorgospelmusictrailblazersthearkansasdemocratgazette"
    ]
   },
   {
@@ -1690,15 +1712,10 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzZNU3JsMGRkOE8zVlN5Q1RwQkFBcmM5YW5CVWVMdXN3aVRqZVBxUGswUUpETVYwUXFRSzVRNUtYbTNyS3dVYklwUFYwN2RMNjY0SVF3RUVxaTUwcWNMblF3M3dnc3JZU3dmQm9hRnpMQVpSbm5VeS1ONnFkbGtDNFVGZ0dSTHR4Q0ZOc0g2b2lLV0l6?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectnorthwestar",
     "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectthearkansas"
    ]
   },
@@ -1902,28 +1919,6 @@
   },
   {
    "type": "article",
-   "title": "Suspect, victim identified in North Little Rock Circle K deadly shooting - kark.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5",
-   "source": "KARK",
-   "published": 1788822574.0,
-   "first_seen": 1788866130.571881,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkarkcom"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Suspect, victim identified in North Little Rock Circle K deadly shooting - KARK",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5",
    "source": "KARK",
@@ -1942,6 +1937,28 @@
    "source_count": 1,
    "member_keys": [
     "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkark"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Suspect, victim identified in North Little Rock Circle K deadly shooting - kark.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5",
+   "source": "KARK",
+   "published": 1788822574.0,
+   "first_seen": 1788866130.571881,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkarkcom"
    ]
   },
   {
@@ -2012,28 +2029,6 @@
   },
   {
    "type": "article",
-   "title": "Man shot and killed at Circle K gas station in North Little Rock - kark.com",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5",
-   "source": "KARK",
-   "published": 1788782687.0,
-   "first_seen": 1789033286.346772,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "manshotandkilledatcirclekgasstationinnorthlittlerockkarkcom"
-   ]
-  },
-  {
-   "type": "article",
    "title": "North Little Rock police investigating deadly shooting at Circle K gas station - thv11.com",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5",
    "source": "THV11",
@@ -2059,8 +2054,8 @@
    ],
    "source_count": 3,
    "member_keys": [
-    "manshotandkilledatcirclekgasstationinnorthlittlerockkark",
-    "northlittlerockpoliceinvestigatingdeadlygasstationshootingkatv",
+    "manshotandkilledatcirclekgasstationinnorthlittlerockkarkcom",
+    "northlittlerockpoliceinvestigatingdeadlygasstationshootingkatvcom",
     "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com"
    ]
   },
