@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T17:15:38.508121-05:00",
+ "updated": "2026-09-12T19:00:45.899966-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -446,28 +446,6 @@
   },
   {
    "type": "article",
-   "title": "WATCH: Footage Released After Huge Fight Breaks Out In Little Rock High School - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1788904953.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVzaXBCb0ZnRnVpa2ZkOWE4Y29WTEpYamhzLW5TamV4T05nWm1pd0wzWXJsR2Z6ZHhYaFdMeV80SGdwYk9KeXBZVElaa2kxVnVYOEZRQU5YMUlTRmJISU9zM1RNSEFDMHJweUZ0RWFEM2ZISHFDak0tZTAtRTVzQnAtNHg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "watchfootagereleasedafterhugefightbreaksoutinlittlerockhighschoolarkansasradio"
-   ],
-   "first_seen": 1789076183.180805,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock police arrest 18-year-old in connection to fatal convenience store shooting - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3Z1QUJIQWJLTkJpSjRaLXhwd1BMZUFmQ0MxSEw4X3ZHNERMbUs3QS1QWlNJdFFNLUUxRlhaa0RnaTJFYUVGNUE1R1JjLVNyV0E0NDNGZTQ2OF8weXF4elVUdWFFUDlSNXRFVEdndGFDYl9MU1BSQ1FnU29QQXg0bXctc2lOeWhZcEVKM0RHZEtfOWlaT05Od05KYw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -580,6 +558,28 @@
     "policeinarkansasseekinformationonhomicideatcirclekarkansasradio"
    ],
    "first_seen": 1789119546.446404,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Man shot and killed at Circle K gas station in North Little Rock - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5",
+   "source": "KARK",
+   "published": 1788782687.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkRGcTM0aElzS2Z5QUFwMWU3NjJ2Q2NUMTRXLWtTSlBudjRPWDRRMDdDZW1GalJKdTFyS2h6THR6TnlvZFMtMDZmU2tfZ05BMWdmMk90Tk9DeVdNRjFTblBLOWRoZzM3SU83VkI4cFQycmw3RmNaeGNsaHRNNWxXX3YwQWtiNF8yVm95dTRjNlVsR25hWnNV?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "manshotandkilledatcirclekgasstationinnorthlittlerockkark"
+   ],
+   "first_seen": 1789257645.899966,
    "section": "crime"
   }
  ]
