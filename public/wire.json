@@ -1,7 +1,35 @@
 {
- "updated": "2026-09-13T20:02:27.391060-05:00",
+ "updated": "2026-09-14T01:15:38.121453-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "North Little Rock City Council will consider restrictions on data centers - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFprbmExY1B5YkpOSHRfRjBuWE1vT0lZY1RNRnlGaGJqSmpGWFNkQWdDZjFiWGczdUNoamp6U2tITEZNdFZPWlZPdW42cDJCc0dEdzZqVWZJeVVNWDFoYWNqc04xN3RyV0tmbndEWDh6THQ2NWRXQVQ2NlN2RVBtQmxmWkRkMWRxdWV4X28zR2pzUkFjMk1Ldg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789351200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFprbmExY1B5YkpOSHRfRjBuWE1vT0lZY1RNRnlGaGJqSmpGWFNkQWdDZjFiWGczdUNoamp6U2tITEZNdFZPWlZPdW42cDJCc0dEdzZqVWZJeVVNWDFoYWNqc04xN3RyV0tmbndEWDh6THQ2NWRXQVQ2NlN2RVBtQmxmWkRkMWRxdWV4X28zR2pzUkFjMk1Ldg?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEc1R3RFMHA4LS1WbVpFV0tPVHV3T2lpMzVMaEdKSEVqa2dBcWxBUC1SRVZRcUdwRjhJR0NQTnFtYWQwdjlFTWFfMjItUkNCakpIMmYzUTdRaTY1cXpYNVg3OWJ2RUdSaUNNemRrYW5oRHN6dUFtclpwalczeFhtbGNHMGpRT3ZZLTFJME5OMFNfUQ?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersnorthwestarkansas",
+    "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersthearkansasdemocr"
+   ],
+   "first_seen": 1789366538.121453,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Robert Alton Lloyd II Obituary (2026) - Bryant, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
@@ -26,47 +54,25 @@
   },
   {
    "type": "article",
-   "title": "Donna Renneal Jones Obituary | Hubble Funeral Home | North Little Rock, AR - Tribute Archive",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kOElfQjBiRml5ZVFXMnRoNmNjNDRYVjh3U0lXZzNPb1BOaWFoVldKc3VBdEkzZ1RTY1Y5eEZDVGlEYWVSaXdKdlMwTFF5Y1VCME9PeEZJYjd0VWZGODZlVUxwb0xqQUtlbG5icG9zYWdWaE9iaU1oWE1R?oc=5",
-   "source": "Tribute Archive",
-   "published": 1789245615.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Tribute Archive",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kOElfQjBiRml5ZVFXMnRoNmNjNDRYVjh3U0lXZzNPb1BOaWFoVldKc3VBdEkzZ1RTY1Y5eEZDVGlEYWVSaXdKdlMwTFF5Y1VCME9PeEZJYjd0VWZGODZlVUxwb0xqQUtlbG5icG9zYWdWaE9iaU1oWE1R?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "donnarennealjonesobituaryhubblefuneralhomenorthlittlerockartributearchive"
-   ],
-   "first_seen": 1789323068.961892,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Acansa Festival lineup and schedule - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENSUmhGbUNWSm1SMWdtVzRhSGJQZ2lpM0lfTDUzYmtUVUxFRGYyRFNwU0N2TTAtSFVweEJBUllrU1F0Ti00SmNYMGZTNDRwWEZ5ajRvalFUeEF5UkNrNmVCbU41a0JrZDkxR0xkY0hLYWZ4MmI3bmo5UzJEMV9nMm5sYXBrRXV2a2Rfbg?oc=5",
+   "title": "Arkansas police report 19 people killed in 18 wrecks on state roads in first week of September - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3p2ZzZrTFZhTmR5UEhGWk5zeGtRT3pvUklhVmJYbTdYbEpraDR1NEtOR3IzUFdfdlkwaXVNYU02STF6eHdJbEdzQWRNZEpkT0xQeDVHdjJuazE2S3VzWlpzeVRoenJQcll0VGhKS29oZVpweTM3VnV1OE05VzlPcDNmSUNSYkY3ZXhHM245RlM1akZJbkZwdWJqaw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789228800.0,
+   "published": 1789182000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZENSUmhGbUNWSm1SMWdtVzRhSGJQZ2lpM0lfTDUzYmtUVUxFRGYyRFNwU0N2TTAtSFVweEJBUllrU1F0Ti00SmNYMGZTNDRwWEZ5ajRvalFUeEF5UkNrNmVCbU41a0JrZDkxR0xkY0hLYWZ4MmI3bmo5UzJEMV9nMm5sYXBrRXV2a2Rfbg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3p2ZzZrTFZhTmR5UEhGWk5zeGtRT3pvUklhVmJYbTdYbEpraDR1NEtOR3IzUFdfdlkwaXVNYU02STF6eHdJbEdzQWRNZEpkT0xQeDVHdjJuazE2S3VzWlpzeVRoenJQcll0VGhKS29oZVpweTM3VnV1OE05VzlPcDNmSUNSYkY3ZXhHM245RlM1akZJbkZwdWJqaw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "acansafestivallineupandschedulethearkansasdemocratgazette"
+    "arkansaspolicereport19peoplekilledin18wrecksonstateroadsinfirstweekofseptemberth"
    ],
-   "first_seen": 1789232857.519545,
-   "section": "major"
+   "first_seen": 1789366538.121453,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -202,6 +208,28 @@
   },
   {
    "type": "article",
+   "title": "Matt Hobbs press conference: Previewing Arkansas baseball fall practice - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdU1pSzg3S0RoY201UUpfUlFoQVZXMU5ZY1pGSFl2SmtkZWV0MzFTbklEZVEydExKRWdlLTlRR0IwYVVkMWNpSWt0Qm9qTXhxOGtZTmZRQUdnWVl4eXZRZlItcEtBanlqNEpGS3A0QzR6eUhOeDZwdU9aSnVLYzF2dnJFOWthcDB6VmljcUFEd2Y5MGd2MU5FakhPR293em5sNXptbUExZm9uUHBjQmo1aXRJV2FJM25vMVNn?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789056480.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdU1pSzg3S0RoY201UUpfUlFoQVZXMU5ZY1pGSFl2SmtkZWV0MzFTbklEZVEydExKRWdlLTlRR0IwYVVkMWNpSWt0Qm9qTXhxOGtZTmZRQUdnWVl4eXZRZlItcEtBanlqNEpGS3A0QzR6eUhOeDZwdU9aSnVLYzF2dnJFOWthcDB6VmljcUFEd2Y5MGd2MU5FakhPR293em5sNXptbUExZm9uUHBjQmo1aXRJV2FJM25vMVNn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "matthobbspressconferencepreviewingarkansasbaseballfallpracticethearkansasdemocra"
+   ],
+   "first_seen": 1789366538.121453,
+   "section": "sports"
+  },
+  {
+   "type": "article",
    "title": "Man fatally shot in Little Rock Thursday morning - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVY4aThtTUJsb2UwdG54T2N6ODl2Q3VHbHlhS0xPR1Q0RUxhTDY0eHhYd25KdFYtaEdyYzNLeHFXc2thTmoyWGRnb005T2VwRXEyS0dxR3VoVDk1ZXN0V1RGanRDZGtzUUx3cVpUTDlHWldfLWw1LTQxckJET1N0WUNTTDBMeXZja0QtRDMwZTV3MWJQd2pCSXlDblVRZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -246,24 +274,24 @@
   },
   {
    "type": "article",
-   "title": "Barbara Wood Obituary - North Little Rock, AR - Dignity Memorial",
+   "title": "Barbara Wood Obituary - North Little Rock, AR - dignitymemorial.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXlzUXUzTENVWU5YTllKa1Atc1hvdFBvTG02MlFpQTJ1SXBEZXdPYXY1aS1ZSFJXVjZXMFUwNUdYOURva3lDTUZKMHVsMnNTYmdON2czd3dHNm1hVGtvZTRYV2xwX1Q3aTRoTDNXVEZjUHFqNElTMWVzUk5CWHJJVGMyaFJpcDI5dkFKaE5B?oc=5",
-   "source": "Dignity Memorial",
+   "source": "dignitymemorial.com",
    "published": 1789023600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Dignity Memorial",
+     "source": "dignitymemorial.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXlzUXUzTENVWU5YTllKa1Atc1hvdFBvTG02MlFpQTJ1SXBEZXdPYXY1aS1ZSFJXVjZXMFUwNUdYOURva3lDTUZKMHVsMnNTYmdON2czd3dHNm1hVGtvZTRYV2xwX1Q3aTRoTDNXVEZjUHFqNElTMWVzUk5CWHJJVGMyaFJpcDI5dkFKaE5B?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "barbarawoodobituarynorthlittlerockardignitymemorial"
+    "barbarawoodobituarynorthlittlerockardignitymemorialcom"
    ],
-   "first_seen": 1789274639.493808,
+   "first_seen": 1789366538.121453,
    "section": "obits"
   },
   {
@@ -289,50 +317,6 @@
     "wayneandrewgruberobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittle"
    ],
    "first_seen": 1789232857.519545,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock Fire Department investigation into condo blaze includes security video - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVZBZng1U1dqZFk4YXc5Qnp6ZVJQUHJVc0hyWTZiVS1PYVlQSUNSODR2RENPNFhXRjRQdTVTc0RXcE1LNlhZdnBXTXE2bXk2LWNOLUNCQUdwblVxVWY3TGU0SE5MTkZSOVFBUHp2clZFMWVQckVnQnQ3TTFxSWQxWGc5Yks3bGNHZUcxYjRTNlJWUzhjdUY1RncxUQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788993034.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVZBZng1U1dqZFk4YXc5Qnp6ZVJQUHJVc0hyWTZiVS1PYVlQSUNSODR2RENPNFhXRjRQdTVTc0RXcE1LNlhZdnBXTXE2bXk2LWNOLUNCQUdwblVxVWY3TGU0SE5MTkZSOVFBUHp2clZFMWVQckVnQnQ3TTFxSWQxWGc5Yks3bGNHZUcxYjRTNlJWUzhjdUY1RncxUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockfiredepartmentinvestigationintocondoblazeincludessecurityvideothearkan"
-   ],
-   "first_seen": 1789294515.943953,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Dallas White Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXAzTURud2wtN2NJSVhhX1B0NFlnSWZrNVZsbS01ZnhQbHY3bm9NVHNWTzhDSVVXNnZVdjRfaHEtdjB4WHZpX2NjYTRXUEhOdjlHSmJFV1FWaHRIeXB6c0hjWldMdm9uNFRoUmdqTEJCby1CRkl6LUF5V2ZzMkJVaw?oc=5",
-   "source": "Legacy obituary",
-   "published": 1788977938.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXAzTURud2wtN2NJSVhhX1B0NFlnSWZrNVZsbS01ZnhQbHY3bm9NVHNWTzhDSVVXNnZVdjRfaHEtdjB4WHZpX2NjYTRXUEhOdjlHSmJFV1FWaHRIeXB6c0hjWldMdm9uNFRoUmdqTEJCby1CRkl6LUF5V2ZzMkJVaw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "dallaswhiteobituary2026northlittlerockarsuperiorfuneralservicesnorthlittlerockle"
-   ],
-   "first_seen": 1789294515.943953,
    "section": "obits"
   },
   {
@@ -432,24 +416,24 @@
   },
   {
    "type": "article",
-   "title": "Paxton Lynch - si.com",
+   "title": "Paxton Lynch - Sports Illustrated",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ01jU0U3Um1xb0x4dF9DdEV2TkpFWTlOejZEQUhtdGJHUHNHVFZzbHl6OUw3X2x1VHY5M1l0VkNqbGRSZERFczVIWnd4Z0p0bzhYempoa2ZhUVVEcmQ3cFkxbkpxWFVPSzBhU0RqNU9xalEtcTFtTURKR2gzVGwzV3ZBMF9fR1plcmZoRG15bjZLUmptV3RXRERyRHNCQ3VHNkF0OGxJWFdNdlVzcGZSQmdmeDhQWW1iTm1ETUQ3NHE0TlowVll0S2FRa1o?oc=5",
-   "source": "si.com",
+   "source": "Sports Illustrated",
    "published": 1788736600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "si.com",
+     "source": "Sports Illustrated",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ01jU0U3Um1xb0x4dF9DdEV2TkpFWTlOejZEQUhtdGJHUHNHVFZzbHl6OUw3X2x1VHY5M1l0VkNqbGRSZERFczVIWnd4Z0p0bzhYempoa2ZhUVVEcmQ3cFkxbkpxWFVPSzBhU0RqNU9xalEtcTFtTURKR2gzVGwzV3ZBMF9fR1plcmZoRG15bjZLUmptV3RXRERyRHNCQ3VHNkF0OGxJWFdNdlVzcGZSQmdmeDhQWW1iTm1ETUQ3NHE0TlowVll0S2FRa1o?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "paxtonlynchsicom"
+    "paxtonlynchsportsillustrated"
    ],
-   "first_seen": 1789347747.39106,
+   "first_seen": 1789366538.121453,
    "section": "major"
   },
   {
