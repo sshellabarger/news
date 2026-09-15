@@ -1,28 +1,50 @@
 {
- "updated": "2026-09-14T17:29:20.275112-05:00",
+ "updated": "2026-09-14T20:26:09.002237-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "WholeHogSports Daily Podcast: Looking back at Arkansas football's loss at Utah - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0xheVVWRGZIektYSktwVFIwejhOS1c2bmtDbmVvX3phQmpERUdkd3VqYVY4ZndUR0F6dnRaY05hU2hLWHltUjBoNFNlQUlzZml2amdlTUNnS1F2djVpZG9ZN2RkQ09BekFBSTdrUWlzTVhJVEJCdWx3RnpFc195MHJDMk9GRDlJd2tfMWJBaEdYdDdXbkREZWp4ejg3OGlnSkNmSmhHd0U0S3pfd3N1YS1WSEdkdkJ1THo4OC1GY0lmbDA?oc=5",
+   "title": "North Little Rock approves zoning regulations for data centers - nwaonline.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDNqZXR4VUhtUzlacDVBdVNJZHRqU21Sd054WjZKSUpNdG5hOC1MbW9maEtEVTNxLUQycERCNUk2NldzV2xhTnpQeDJzdE9lRGlhMnBiZlExV29vY0NRbXNuUC1PQUhoV0EzN01tQU5BT3RhRVh4eWMyRGhtUW1sVy1mbzg2V3Q5ZGdYMFo4V2xiNlhrWkwydg?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
+   "published": 1789434300.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDNqZXR4VUhtUzlacDVBdVNJZHRqU21Sd054WjZKSUpNdG5hOC1MbW9maEtEVTNxLUQycERCNUk2NldzV2xhTnpQeDJzdE9lRGlhMnBiZlExV29vY0NRbXNuUC1PQUhoV0EzN01tQU5BT3RhRVh4eWMyRGhtUW1sVy1mbzg2V3Q5ZGdYMFo4V2xiNlhrWkwydg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockapproveszoningregulationsfordatacentersnwaonlinecom"
+   ],
+   "first_seen": 1789435569.002237,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Potentially dangerous heat to continue through Friday, little to no chance of rain across Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0w5VHZCaXZONlItN0NKV2FhTWRQbEhPYXh3YkJGang1WXRqeUc4ejlxUy1CMTlpOGxUZ1o4QUhhTzZjcnVRbDlGRVlmaDBMRENmQnNWeFhnblEyM3VsZ3JqM09YX3FFYmhWUUo3dm5NT0J3N2hZaTRpZmsybkhUZUpMS0tPS0FCTTNiN1pMcE1RaXBCaS1ocnlySQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789406520.0,
+   "published": 1789409400.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0xheVVWRGZIektYSktwVFIwejhOS1c2bmtDbmVvX3phQmpERUdkd3VqYVY4ZndUR0F6dnRaY05hU2hLWHltUjBoNFNlQUlzZml2amdlTUNnS1F2djVpZG9ZN2RkQ09BekFBSTdrUWlzTVhJVEJCdWx3RnpFc195MHJDMk9GRDlJd2tfMWJBaEdYdDdXbkREZWp4ejg3OGlnSkNmSmhHd0U0S3pfd3N1YS1WSEdkdkJ1THo4OC1GY0lmbDA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0w5VHZCaXZONlItN0NKV2FhTWRQbEhPYXh3YkJGang1WXRqeUc4ejlxUy1CMTlpOGxUZ1o4QUhhTzZjcnVRbDlGRVlmaDBMRENmQnNWeFhnblEyM3VsZ3JqM09YX3FFYmhWUUo3dm5NT0J3N2hZaTRpZmsybkhUZUpMS0tPS0FCTTNiN1pMcE1RaXBCaS1ocnlySQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "wholehogsportsdailypodcastlookingbackatarkansasfootballslossatutahthearkansasdem"
+    "potentiallydangerousheattocontinuethroughfridaylittletonochanceofrainacrossarkan"
    ],
-   "first_seen": 1789411012.57028,
-   "section": "sports"
+   "first_seen": 1789435569.002237,
+   "section": "major"
   },
   {
    "type": "article",
@@ -70,6 +92,28 @@
   },
   {
    "type": "article",
+   "title": "Little Rock Zoo announces births of two female marmosets - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFVtOXJTeVg1TmVzaC1MTUY3Z1dkX05OT1htZnczdFZBeXVqLWVMekJUT1I4RXExR3RyX21qMW9JYWdPLVI5aGlhTEJIeDZNb0xKaEZ5VXRVTmE2dXpVckl5RjlNT2pyLTVaeXZ3Q0pNV0cyVEY5TnB3djNzVzJ0Zzg2YXg3YjQ2ekkyQW9PODdLZDVCMWxTWFJtYw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789358400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFVtOXJTeVg1TmVzaC1MTUY3Z1dkX05OT1htZnczdFZBeXVqLWVMekJUT1I4RXExR3RyX21qMW9JYWdPLVI5aGlhTEJIeDZNb0xKaEZ5VXRVTmE2dXpVckl5RjlNT2pyLTVaeXZ3Q0pNV0cyVEY5TnB3djNzVzJ0Zzg2YXg3YjQ2ekkyQW9PODdLZDVCMWxTWFJtYw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockzooannouncesbirthsoftwofemalemarmosetsthearkansasdemocratgazette"
+   ],
+   "first_seen": 1789435569.002237,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "North Little Rock City Council will consider restrictions on data centers - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFprbmExY1B5YkpOSHRfRjBuWE1vT0lZY1RNRnlGaGJqSmpGWFNkQWdDZjFiWGczdUNoamp6U2tITEZNdFZPWlZPdW42cDJCc0dEdzZqVWZJeVVNWDFoYWNqc04xN3RyV0tmbndEWDh6THQ2NWRXQVQ2NlN2RVBtQmxmWkRkMWRxdWV4X28zR2pzUkFjMk1Ldg?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -90,12 +134,34 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersnorthwestarkansas",
+    "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersnwaonlinecom",
     "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersthearkansasdemocr",
     "vendorproposedforlakefayettevillemarinashopwithcitycouncilsettovotetuesdaytheark"
    ],
    "first_seen": 1789366538.121453,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Defendant in separate Pulaski County cases of murder, assault seeks to exclude evidence - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1pkQS1JSVk1MGR1Yy1KclZSMTJjRFVIREk1NWVZblkybW5mMGQ2OFdXVWhrWHpkMEpHX09TdjVIaThFT1BpSjlGczFURTBSdlVISGpiNVNudE16YmVDX0RjMXF1aUN6TW1pSlJlZFFhVENmZ3lqMWtEeEJ0bFllNnY1WjRzZjNOOHVtVzU0WlJQY2o3djA5bmlR?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789347600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1pkQS1JSVk1MGR1Yy1KclZSMTJjRFVIREk1NWVZblkybW5mMGQ2OFdXVWhrWHpkMEpHX09TdjVIaThFT1BpSjlGczFURTBSdlVISGpiNVNudE16YmVDX0RjMXF1aUN6TW1pSlJlZFFhVENmZ3lqMWtEeEJ0bFllNnY1WjRzZjNOOHVtVzU0WlJQY2o3djA5bmlR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "defendantinseparatepulaskicountycasesofmurderassaultseekstoexcludeevidencetheark"
+   ],
+   "first_seen": 1789435569.002237,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -297,24 +363,24 @@
   },
   {
    "type": "article",
-   "title": "Creed Michael Haigh Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMzJfbDRqVnNncXZIbERyV3AtUmY3ay1qZlVUQWxXSDk1SUNlbE1TeTRCV3h3ZFFsd3dXYzlvWUZkTEM1ZFBFUjFRQ0NBZ2Uwd1hCTVdQTjZDMjMyUFY3bnpPaEc4Wm5RVjFvWnFoWS1udVhkaUlTUVExLVkzZGc?oc=5",
-   "source": "Legacy obituary",
+   "title": "Creed Michael Haigh Obituary Sep 10, 2026 - smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WcVdkaUZ1akthd1JYa01PMWp6OWcxalBWU09IZFkwemdUN1BVYnRRZzBIdDhYaFUyRVFiRWNRcmFlUDN0Q1p0RmpybDByWE81dFhMd0NUZHdEd0VCLXUta2tLWjJMQQ?oc=5",
+   "source": "smithfamilycares.com",
    "published": 1789023600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMzJfbDRqVnNncXZIbERyV3AtUmY3ay1qZlVUQWxXSDk1SUNlbE1TeTRCV3h3ZFFsd3dXYzlvWUZkTEM1ZFBFUjFRQ0NBZ2Uwd1hCTVdQTjZDMjMyUFY3bnpPaEc4Wm5RVjFvWnFoWS1udVhkaUlTUVExLVkzZGc?oc=5"
+     "source": "smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WcVdkaUZ1akthd1JYa01PMWp6OWcxalBWU09IZFkwemdUN1BVYnRRZzBIdDhYaFUyRVFiRWNRcmFlUDN0Q1p0RmpybDByWE81dFhMd0NUZHdEd0VCLXUta2tLWjJMQQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "creedmichaelhaighobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittle"
+    "creedmichaelhaighobituarysep102026smithfamilycarescom"
    ],
-   "first_seen": 1789411012.57028,
+   "first_seen": 1789435569.002237,
    "section": "obits"
   },
   {
@@ -385,7 +451,7 @@
   },
   {
    "type": "article",
-   "title": "NLRPD arrest suspect following fatal gas station shooting - KATV",
+   "title": "NLRPD arrest suspect following fatal gas station shooting - katv.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNGZFODFBNEhXNmt1MW15S2RZbXhIMnpSMmtXcDN0YXU5OEFjaG5Tc1VreEJDWWk0aVFpaXZBT3JENjF6WmhtRDlFeVhiZTk1dTJGbVlsNTlmTnh0QlczcWVXckVYRGV6bmpxbVoyUGFhMG1wR3V6cm5KMzU5WkE0cnhkb1NBWldCYjJkUFJ3?oc=5",
    "source": "KATV",
    "published": 1788871216.0,
@@ -400,9 +466,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "nlrpdarrestsuspectfollowingfatalgasstationshootingkatv"
+    "nlrpdarrestsuspectfollowingfatalgasstationshootingkatvcom"
    ],
-   "first_seen": 1789323068.961892,
+   "first_seen": 1789435569.002237,
    "section": "crime"
   },
   {
@@ -444,12 +510,11 @@
     },
     {
      "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjFuNGV5cy11dlAwZnVPM1czOUdYYlpsUUZLV25wT3hsV1I4MFFjNVhkZ054WWVwMWJxbXBBUmlkU3BzZ25BcGZFME5IaFNVWU9NRzdvTlhVV0xCU205dEpwOVRaVEdKSmJGdmZCaHhVTEZGMFEwZERLX3FTVWJMRTA5aTB5aWt1aFo3Uzc3b09adHpTc3AtN2V0TUs?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc095MUlwNmxJQlQxbzBXcVlWZmJOQ2ZJcV80TnFxa3NMRl9vVU1ocUU0eHFHLXo5ai12N1lxS0hIV1RrZXp6UTRWejZfWkctSWxuVURFZWtDQ0lhTUI3U2JPYjh5QXozY09VMVVZSnpmZ2poQnMySExtcFJVU00yM2ZNNlRmNDZPZ1FLRkhTTzUySHdvY21DQXpyVGFVQVlv?oc=5"
     }
    ],
    "source_count": 2,
    "member_keys": [
-    "communityreactsafternorthlittlerockdeadlyshootingatcirclekkark",
     "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com",
     "suspectvictimidentifiedinnorthlittlerockcirclekdeadlyshootingkark"
    ],
@@ -480,68 +545,24 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police report success using netting to catch fleeing suspects - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkpweHZMRFV3T2hNaDVyc2JKWmV6dzA2UlNCVDlGZnJpTnhHZ21tcGoyOTZBQV9hdnl3cjFQVkI1Wkc2Rk5wYjcyb1VBTlVPallBbWdlY255Y1F4eHg2U0hIa2M0clNheXMxZW94QWtKT0RJSGI1UlNTVjV1QkZ6YkFDblkxWW1TX0VhVGJ6WlRudjg2ZEI2dnF3?oc=5",
+   "title": "Jacksonville voters will decide whether to shift to ward-only City Council elections - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWcxeFZQcHBtaVVtY3pSeWV2U3l1d013Z2V2eHBIM3NkWDItYzIyVHJKbUdaZDFUeFpINUpibng0OU1uZWp0cW5nMTFMR3VwNHkzRmZBTk9uakhCektpdm5LYktQbXIyVUYtZl9ZVlRLN2FSTDNla2ppN1c1ci1xbXFOMmVpaFByYTBoZHNrN2U2QU9ZcEJUaUM3Q2pMdw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1788660000.0,
+   "published": 1788678000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkpweHZMRFV3T2hNaDVyc2JKWmV6dzA2UlNCVDlGZnJpTnhHZ21tcGoyOTZBQV9hdnl3cjFQVkI1Wkc2Rk5wYjcyb1VBTlVPallBbWdlY255Y1F4eHg2U0hIa2M0clNheXMxZW94QWtKT0RJSGI1UlNTVjV1QkZ6YkFDblkxWW1TX0VhVGJ6WlRudjg2ZEI2dnF3?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWcxeFZQcHBtaVVtY3pSeWV2U3l1d013Z2V2eHBIM3NkWDItYzIyVHJKbUdaZDFUeFpINUpibng0OU1uZWp0cW5nMTFMR3VwNHkzRmZBTk9uakhCektpdm5LYktQbXIyVUYtZl9ZVlRLN2FSTDNla2ppN1c1ci1xbXFOMmVpaFByYTBoZHNrN2U2QU9ZcEJUaUM3Q2pMdw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpolicereportsuccessusingnettingtocatchfleeingsuspectsthearkansasd"
+    "jacksonvillevoterswilldecidewhethertoshifttowardonlycitycouncilelectionsthearkan"
    ],
-   "first_seen": 1789323068.961892,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock celebrates 3rd annual Arkansas Reggae Festival - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNem9xRGw4dlpwZTJGc0JVREdpV3l6ZGtTMXlGRmN5UkxqN1VYUnZnRVlCTU1qYTVRazl5R182NEktRnVYTm5wNi1LdUU4eHNzZnEyVDNCU1ZQb0xPTnhldi1HZFFNSXhmRlFBWmJycjIxOUVmV0tfTlRYYVczNm1SLTJHTWlIczBRdzRNYzNpZVhqRzJ3aWJqLURYeVVRd0gwX3FQLXAxbDUxallKY2hGZ19tTmxrVjJ0VE9LdV9NblRxQkVVY2lHeHpnSEtnazktWUdkcE9iMEZFZXlsR0Q3SWlnYk9jcEQ3VUNGQVlfOXo2dm8?oc=5",
-   "source": "THV11",
-   "published": 1788591600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNem9xRGw4dlpwZTJGc0JVREdpV3l6ZGtTMXlGRmN5UkxqN1VYUnZnRVlCTU1qYTVRazl5R182NEktRnVYTm5wNi1LdUU4eHNzZnEyVDNCU1ZQb0xPTnhldi1HZFFNSXhmRlFBWmJycjIxOUVmV0tfTlRYYVczNm1SLTJHTWlIczBRdzRNYzNpZVhqRzJ3aWJqLURYeVVRd0gwX3FQLXAxbDUxallKY2hGZ19tTmxrVjJ0VE9LdV9NblRxQkVVY2lHeHpnSEtnazktWUdkcE9iMEZFZXlsR0Q3SWlnYk9jcEQ3VUNGQVlfOXo2dm8?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockcelebrates3rdannualarkansasreggaefestivalthv11com"
-   ],
-   "first_seen": 1789332487.828555,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Tuition at Arkansas’ top private schools rising faster than LEARNS Act funding - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788591600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmpJOWJ4d2EtakJ2YnNwZVNCU1FDamJSWEV4ZmRpY3R3SnhXcFg1VkdTT2Y4VDROXzlIZVhkdTN3ZE5rWk9SX01TZUJ3QUhieExaTzlQWmx1Q2d3eGViZ295eFI1eGxsbDFkdVlFdFBCLW1aZG9pTmFNbzhLZ1VmOXNRRzQ4M2dmS2Q4OVVRbTNBc3VBTkdpSzJla1p0bnM?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "tuitionatarkansastopprivateschoolsrisingfasterthanlearnsactfundingthearkansasdem"
-   ],
-   "first_seen": 1789332487.828555,
+   "first_seen": 1789435569.002237,
    "section": "major"
   }
  ]
