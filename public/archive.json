@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-16T15:06:33.388009-05:00",
+ "updated": "2026-09-16T17:54:54.628923-05:00",
  "items": [
   {
    "type": "article",
    "title": "Arrest made in connection to Sept. 9 Little Rock condo fire - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX3I4by1mbDZiQ1BnbnVmWnhGWnZ5eHdTRFNqSHRzc1AzOFlPX3Y0UnJOcVFjelRnbGNyZzN0bm0zLUNqdE4wM2NodTU2VmFhVE1lYTZsenczMEhtdGxBOVh2WG9tcThDalE0NFgwMEpMZUU1SXpvbnZUYk9ldkJDamZEZHFPXy05alp0Q0lpaTU0dTk4UU16ZW9MSFg?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789574280.0,
+   "published": 1789574340.0,
    "first_seen": 1789577525.671284,
    "section": "crime",
    "snippet": "",
@@ -28,7 +28,7 @@
    "title": "Taqueria now open on Main Street in North Little Rock’s Argenta District - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlpPazZxYUJmaEZkbXFZdE1tb1RHS1l3UHkyVmY5ckRxTEFoYWZvc250R3ZrWWxaTHNlaDJSUWlHZUV4amdBYVNfY2pQcl94anZrWGNFQlFCekpOTW1WMVdBQllyZTFrXzB2NEo5dGR1SnZ6UnJnRTlEWlV1cGFndXZ6OEtjS0NrUl9UbUViYVBKQTlLWTc1V3dVMEJWZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789574160.0,
+   "published": 1789574220.0,
    "first_seen": 1789577525.671284,
    "section": "major",
    "snippet": "",
@@ -333,7 +333,7 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock sets ground rules for future data centers as poll shows strong opposition - kark.com",
+   "title": "North Little Rock sets ground rules for future data centers as poll shows strong opposition - KARK",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1VKenFvUEMzNUJwdjRHbjhhTkk1YUt2S3JtRTFDYUxtb2hrWklMXzBuNS1pd0wtRG42YkpYeHkzZzcwd1FxVXlDeHF1dkgxTUM5cFU2aF9fOGZlRUpFUmRsd1MzVmw4U3M4ZENvMTl4NFhvdk9yejd5YzVkMEJvR25UNmRhOTAwLUhhblBDN2daR3lXOHZsSXNpYnlQQlVnUjNiM3JGS2hLa2dwXzh5M0UxQTh3U2ZIMXFmZ3dRT2RnWjgxcWZVbQ?oc=5",
    "source": "KARK",
    "published": 1789441601.0,
@@ -351,28 +351,6 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerocksetsgroundrulesforfuturedatacentersaspollshowsstrongoppositionkar"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Arkansas National Guard Hosts Minuteman Day 2026 at Camp Robinson [Image 11 of 17] - DVIDS",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVlmajVoYmpzNTN0dUh1STVaNnBSZS1VaExWS3JET3dRRzNkT3BMT2oybm04c3VtdmRnMEpjalJ2T2ZIZG9vV3hXbHdjVGI0cW52dVV3Y2VyT3JVRGw3RUlfVDNhd2ZpVnFXRWt1Sk5CT2JvWi1NNmZSem5JWGg2ZmRsY1Y0M0NZd1RGS3IyZmFBNHlCY1NLQTdYN3Q3MlR3azg0?oc=5",
-   "source": "DVIDS",
-   "published": 1789436580.0,
-   "first_seen": 1789458148.052389,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "DVIDS",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVlmajVoYmpzNTN0dUh1STVaNnBSZS1VaExWS3JET3dRRzNkT3BMT2oybm04c3VtdmRnMEpjalJ2T2ZIZG9vV3hXbHdjVGI0cW52dVV3Y2VyT3JVRGw3RUlfVDNhd2ZpVnFXRWt1Sk5CT2JvWi1NNmZSem5JWGg2ZmRsY1Y0M0NZd1RGS3IyZmFBNHlCY1NLQTdYN3Q3MlR3azg0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasnationalguardhostsminutemanday2026atcamprobinsonimage11of17dvids"
    ]
   },
   {
@@ -417,6 +395,28 @@
    "source_count": 1,
    "member_keys": [
     "arkansasnationalguardhostsminutemanday2026atcamprobinsonimage7of17dvids"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Arkansas National Guard Hosts Minuteman Day 2026 at Camp Robinson [Image 11 of 17] - DVIDS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVlmajVoYmpzNTN0dUh1STVaNnBSZS1VaExWS3JET3dRRzNkT3BMT2oybm04c3VtdmRnMEpjalJ2T2ZIZG9vV3hXbHdjVGI0cW52dVV3Y2VyT3JVRGw3RUlfVDNhd2ZpVnFXRWt1Sk5CT2JvWi1NNmZSem5JWGg2ZmRsY1Y0M0NZd1RGS3IyZmFBNHlCY1NLQTdYN3Q3MlR3azg0?oc=5",
+   "source": "DVIDS",
+   "published": 1789436580.0,
+   "first_seen": 1789458148.052389,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "DVIDS",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVlmajVoYmpzNTN0dUh1STVaNnBSZS1VaExWS3JET3dRRzNkT3BMT2oybm04c3VtdmRnMEpjalJ2T2ZIZG9vV3hXbHdjVGI0cW52dVV3Y2VyT3JVRGw3RUlfVDNhd2ZpVnFXRWt1Sk5CT2JvWi1NNmZSem5JWGg2ZmRsY1Y0M0NZd1RGS3IyZmFBNHlCY1NLQTdYN3Q3MlR3azg0?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansasnationalguardhostsminutemanday2026atcamprobinsonimage11of17dvids"
    ]
   },
   {
@@ -1403,6 +1403,28 @@
    "source_count": 1,
    "member_keys": [
     "imogeneelizabethpuckettobituary2026northlittlerockarsmithfamilyfuneralhomesnorth"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Little Rock Zoo welcomes brand new penguin chick - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGZRYkgzM0w0NkNMUVI4TjJ3bWFGdEdFN3dmeUJMZjc4UmlSYVNWbFhUZEZIUDZxSmFWazByenRiMGt3dzItVFg3cjdETFBRYUQ1VjhUQjFGaXpZODkwNks2ZmFPR2xJVEEydHM1NGZWaG5neGdQSHo5NnVDQlJIcDl3?oc=5",
+   "source": "KATV",
+   "published": 1789151415.0,
+   "first_seen": 1789599294.628923,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGZRYkgzM0w0NkNMUVI4TjJ3bWFGdEdFN3dmeUJMZjc4UmlSYVNWbFhUZEZIUDZxSmFWazByenRiMGt3dzItVFg3cjdETFBRYUQ1VjhUQjFGaXpZODkwNks2ZmFPR2xJVEEydHM1NGZWaG5neGdQSHo5NnVDQlJIcDl3?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockzoowelcomesbrandnewpenguinchickkatv"
    ]
   },
   {
@@ -2857,6 +2879,28 @@
    "source_count": 1,
    "member_keys": [
     "howarepublicschoolsinarkansasfundedusafacts"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "How are public schools in Arkansas funded? - usafacts.org",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
+   "source": "usafacts.org",
+   "published": 1788899335.0,
+   "first_seen": 1789599294.628923,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "usafacts.org",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "howarepublicschoolsinarkansasfundedusafactsorg"
    ]
   },
   {
