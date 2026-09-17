@@ -1,6 +1,28 @@
 {
- "updated": "2026-09-16T17:54:54.628923-05:00",
+ "updated": "2026-09-16T20:23:29.623104-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Little Rock Port Authority’s expenses outpacing revenue so far this year - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOThQVVd1MXJYSHZpTm12aXlKSEVib1lpc25PVTNxdnJFQzEyazIyUm0xREZOT1hGVnYxVy1TalJFUUdCWFhCWm1CMGZDeEV5VC03NFRtYmJET0Vzd2s3TENyMlB5N1JTTjFBZVhIanhGYVhxeUJvbDZXNDU2YS16XzF1dDlhZmQ5cFNkQnN5S3RGMDJ6MFlEMjQ4bw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789596000.0,
+   "first_seen": 1789608209.623104,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOThQVVd1MXJYSHZpTm12aXlKSEVib1lpc25PVTNxdnJFQzEyazIyUm0xREZOT1hGVnYxVy1TalJFUUdCWFhCWm1CMGZDeEV5VC03NFRtYmJET0Vzd2s3TENyMlB5N1JTTjFBZVhIanhGYVhxeUJvbDZXNDU2YS16XzF1dDlhZmQ5cFNkQnN5S3RGMDJ6MFlEMjQ4bw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockportauthoritysexpensesoutpacingrevenuesofarthisyearthearkansasdemocrat"
+   ]
+  },
   {
    "type": "article",
    "title": "Arrest made in connection to Sept. 9 Little Rock condo fire - The Arkansas Democrat-Gazette",
@@ -333,7 +355,7 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock sets ground rules for future data centers as poll shows strong opposition - KARK",
+   "title": "North Little Rock sets ground rules for future data centers as poll shows strong opposition - kark.com",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1VKenFvUEMzNUJwdjRHbjhhTkk1YUt2S3JtRTFDYUxtb2hrWklMXzBuNS1pd0wtRG42YkpYeHkzZzcwd1FxVXlDeHF1dkgxTUM5cFU2aF9fOGZlRUpFUmRsd1MzVmw4U3M4ZENvMTl4NFhvdk9yejd5YzVkMEJvR25UNmRhOTAwLUhhblBDN2daR3lXOHZsSXNpYnlQQlVnUjNiM3JGS2hLa2dwXzh5M0UxQTh3U2ZIMXFmZ3dRT2RnWjgxcWZVbQ?oc=5",
    "source": "KARK",
    "published": 1789441601.0,
@@ -351,28 +373,6 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerocksetsgroundrulesforfuturedatacentersaspollshowsstrongoppositionkar"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Arkansas National Guard Hosts Minuteman Day 2026 at Camp Robinson [Image 4 of 17] - DVIDS",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGU1M3hzV09Xb0FZYWhxNVQ1eHdjU2RkX0YwX0ptN2hxUThCdDZubnlHcklTbGxmem9STGdGV3kxdVpOdnE1dzI0MUZFYzR6R3hkUkJlZmhGQVBYQmJ3VHVsOGpKdkFHdlRUWndIWkkzdkM4eGpGaXdrNHNlcGNHXzg5VDBJNEowVEVrcHBCRnE2OFdzdkJjamF6Vk1SaFl6N0lB?oc=5",
-   "source": "DVIDS",
-   "published": 1789436580.0,
-   "first_seen": 1789558168.252716,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "DVIDS",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGU1M3hzV09Xb0FZYWhxNVQ1eHdjU2RkX0YwX0ptN2hxUThCdDZubnlHcklTbGxmem9STGdGV3kxdVpOdnE1dzI0MUZFYzR6R3hkUkJlZmhGQVBYQmJ3VHVsOGpKdkFHdlRUWndIWkkzdkM4eGpGaXdrNHNlcGNHXzg5VDBJNEowVEVrcHBCRnE2OFdzdkJjamF6Vk1SaFl6N0lB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasnationalguardhostsminutemanday2026atcamprobinsonimage4of17dvids"
    ]
   },
   {
@@ -417,6 +417,28 @@
    "source_count": 1,
    "member_keys": [
     "arkansasnationalguardhostsminutemanday2026atcamprobinsonimage11of17dvids"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Arkansas National Guard Hosts Minuteman Day 2026 at Camp Robinson [Image 4 of 17] - DVIDS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGU1M3hzV09Xb0FZYWhxNVQ1eHdjU2RkX0YwX0ptN2hxUThCdDZubnlHcklTbGxmem9STGdGV3kxdVpOdnE1dzI0MUZFYzR6R3hkUkJlZmhGQVBYQmJ3VHVsOGpKdkFHdlRUWndIWkkzdkM4eGpGaXdrNHNlcGNHXzg5VDBJNEowVEVrcHBCRnE2OFdzdkJjamF6Vk1SaFl6N0lB?oc=5",
+   "source": "DVIDS",
+   "published": 1789436580.0,
+   "first_seen": 1789558168.252716,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "DVIDS",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGU1M3hzV09Xb0FZYWhxNVQ1eHdjU2RkX0YwX0ptN2hxUThCdDZubnlHcklTbGxmem9STGdGV3kxdVpOdnE1dzI0MUZFYzR6R3hkUkJlZmhGQVBYQmJ3VHVsOGpKdkFHdlRUWndIWkkzdkM4eGpGaXdrNHNlcGNHXzg5VDBJNEowVEVrcHBCRnE2OFdzdkJjamF6Vk1SaFl6N0lB?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansasnationalguardhostsminutemanday2026atcamprobinsonimage4of17dvids"
    ]
   },
   {
@@ -2861,28 +2883,6 @@
   },
   {
    "type": "article",
-   "title": "How are public schools in Arkansas funded? - USAFacts",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
-   "source": "USAFacts",
-   "published": 1788899335.0,
-   "first_seen": 1789507104.776511,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "USAFacts",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "howarepublicschoolsinarkansasfundedusafacts"
-   ]
-  },
-  {
-   "type": "article",
    "title": "How are public schools in Arkansas funded? - usafacts.org",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
    "source": "usafacts.org",
@@ -2901,6 +2901,28 @@
    "source_count": 1,
    "member_keys": [
     "howarepublicschoolsinarkansasfundedusafactsorg"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "How are public schools in Arkansas funded? - USAFacts",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
+   "source": "USAFacts",
+   "published": 1788899335.0,
+   "first_seen": 1789507104.776511,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "USAFacts",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "howarepublicschoolsinarkansasfundedusafacts"
    ]
   },
   {
