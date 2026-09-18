@@ -1,27 +1,49 @@
 {
- "updated": "2026-09-18T04:44:00.123170-05:00",
+ "updated": "2026-09-18T09:30:37.641991-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "West Little Rock ‘micro-hospital’ gets ribbon-cutting ceremony - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObExjZEZFTy0xQi0xZlNXSGxSS0txYUxMcHBMWnQwclJDTW1uVW5qcHlqS3d3WmtKSEVXTnFrbFBFQW51aTZHTUc3QTI1V1dETDlVUWNETC1ncFRWTWU5Sk1KSjV4VWU2R1JxR1gtbFdySWdXblVpc184ZTFVV0kwd3NUSC1ubmhBT00tU3ZoZGUyalpEN0sw?oc=5",
+   "title": "Gentry mayor willing to stay on through February as council considers options for filling seat - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHBaRjhVUm5NS1dWRGlyLURCX0FXbnhoQXJlYzB5NXRNTzJRaF83Q2s2R3R0d2NneFlEUWg0ZWZCQTh0UGZlMUs0LXJGYnFxNUhhSzNrNVNnRlNzSnA5Q3lWM2taMFQyY1Zrc0Ntb3hTTS1GRm5Fc3JuQnBoYmJKVlo4SDNOVlBKbU84ZXVvWlhJUUxSWWRkOVpuYk1WZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789699500.0,
+   "published": 1789740900.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObExjZEZFTy0xQi0xZlNXSGxSS0txYUxMcHBMWnQwclJDTW1uVW5qcHlqS3d3WmtKSEVXTnFrbFBFQW51aTZHTUc3QTI1V1dETDlVUWNETC1ncFRWTWU5Sk1KSjV4VWU2R1JxR1gtbFdySWdXblVpc184ZTFVV0kwd3NUSC1ubmhBT00tU3ZoZGUyalpEN0sw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHBaRjhVUm5NS1dWRGlyLURCX0FXbnhoQXJlYzB5NXRNTzJRaF83Q2s2R3R0d2NneFlEUWg0ZWZCQTh0UGZlMUs0LXJGYnFxNUhhSzNrNVNnRlNzSnA5Q3lWM2taMFQyY1Zrc0Ntb3hTTS1GRm5Fc3JuQnBoYmJKVlo4SDNOVlBKbU84ZXVvWlhJUUxSWWRkOVpuYk1WZw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "westlittlerockmicrohospitalgetsribboncuttingceremonythearkansasdemocratgazette"
+    "gentrymayorwillingtostayonthroughfebruaryascouncilconsidersoptionsforfillingseat"
    ],
-   "first_seen": 1789706734.226808,
+   "first_seen": 1789741837.641991,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Construction of Little Rock’s West High on track to finish by March, principal says - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVQ5Umk2bEZtbE02SE00Q2tPX2IwVU4xWFYxQ2JySndXWWxweVFWY3dzRk01TFF4Mm5kclkxM3hJMEtmZ28xdWJMYXJiRTFCUFBhWTlTTFM0eGhUYzBWNUVPMzVpekhQRWNYOGFPSWZuVTE1aFpqZ0JVS1NwXzJrUDNsRUN6TEZ3a2FOdThGME5TRXNOQmxmbkFvWWg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789698600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVQ5Umk2bEZtbE02SE00Q2tPX2IwVU4xWFYxQ2JySndXWWxweVFWY3dzRk01TFF4Mm5kclkxM3hJMEtmZ28xdWJMYXJiRTFCUFBhWTlTTFM0eGhUYzBWNUVPMzVpekhQRWNYOGFPSWZuVTE1aFpqZ0JVS1NwXzJrUDNsRUN6TEZ3a2FOdThGME5TRXNOQmxmbkFvWWg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "constructionoflittlerockswesthighontracktofinishbymarchprincipalsaysthearkansasd"
+   ],
+   "first_seen": 1789741837.641991,
    "section": "major"
   },
   {
@@ -51,28 +73,6 @@
    ],
    "first_seen": 1789679982.583937,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas school districts’ performance improved in 2025-26, according to state letter grades - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelNOT0FIMG1IVzBjMnczZ0UyMmtBRFdmVmF5YlJlWU5HMkZOQTFtU2M4TnRELXNyYkpXQm1BVzNkM2plX1ZlMFlRdDEzSjlzNUJNR21aU0U5OS1tNEU2UkFKeXpqZ0l2WF93UDZDT1FMaENOQkh3aGpuSF9MT0ozNk9COXJQa0R2Rjc0bXlpVXZkcVJ3Y0M4NF82QWZMRzg?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789672020.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelNOT0FIMG1IVzBjMnczZ0UyMmtBRFdmVmF5YlJlWU5HMkZOQTFtU2M4TnRELXNyYkpXQm1BVzNkM2plX1ZlMFlRdDEzSjlzNUJNR21aU0U5OS1tNEU2UkFKeXpqZ0l2WF93UDZDT1FMaENOQkh3aGpuSF9MT0ozNk9COXJQa0R2Rjc0bXlpVXZkcVJ3Y0M4NF82QWZMRzg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasschooldistrictsperformanceimprovedin202526accordingtostatelettergradesth"
-   ],
-   "first_seen": 1789706734.226808,
-   "section": "major"
   },
   {
    "type": "article",
@@ -164,6 +164,28 @@
   },
   {
    "type": "article",
+   "title": "Vehicle crashes in Arkansas over 75-hour period kill 6 people, injure another - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0Y5M216elhxdTczTEVtQmVFcTJYaWNvR0hVdVphdnJVSkVVNHVKZHR3bWFqVC01MjhTVkNXSmN1cGVEbWNIbXQ2NDhibjZXMmJtcjNFS0h0Zm9GVUF6WmpHYlplS3E3Uks1UkVXb1Q4NWNVMEZieGM3MFM3aWc0UldFWXVkODhDNHBhMG9OaWpmOEhVQm5nbEJvOE4?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789613100.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0Y5M216elhxdTczTEVtQmVFcTJYaWNvR0hVdVphdnJVSkVVNHVKZHR3bWFqVC01MjhTVkNXSmN1cGVEbWNIbXQ2NDhibjZXMmJtcjNFS0h0Zm9GVUF6WmpHYlplS3E3Uks1UkVXb1Q4NWNVMEZieGM3MFM3aWc0UldFWXVkODhDNHBhMG9OaWpmOEhVQm5nbEJvOE4?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "vehiclecrashesinarkansasover75hourperiodkill6peopleinjureanotherthearkansasdemoc"
+   ],
+   "first_seen": 1789741837.641991,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "California couple sues Peppermint Hippo, says credit card was stolen, used to charge $52K - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdU43ZHRmUEIyVG1VLWlHbS05RjhtZEtrdjJBNEh4MU51aEplSElJTlZoeFZzVVp6eXBWal9GbGJEUU5GZkVxNThJNXRMZkJOVkFPdm53Tnk5bTZxMGtkX2s5RDh5WjVRdzR1TmM1bGZVSG9iTU1JOTZfSDNPUkg4N0x0dnlnTkQxRkVMNUZCaExUdllDT2ZXUw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -186,24 +208,24 @@
   },
   {
    "type": "article",
-   "title": "Four students detained after Sept. 4 fight at Little Rock Central High School, report said - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNjd3eUVsR2JaMnYyOGloXzlYTDBfTE1EWmppS3VoQWVpREdfb1lGS1BCSXM2U25FRFVxOWZnVHFjOEQtblM1c05id0Vnc0Q2ZlFPOHFQZll4VWRrWU1pRHZHOGJGNkJ4bkVMWERFZHlyOHVaS29ZblpvNEVnenlpeG9HejFjZzdfcy1oSmFGcUVFREEyWExkaExHM0RfdlNlZXc?oc=5",
+   "title": "Little Rock school’s dual language immersion program celebrated Hispanic Heritage Month - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlpWVnBONURtT3ltQXhyR2RzXzJJUUpFUVdVUzJJTDJvbTJJdjYwLWNDcFdEQk9OSHR0cTUyNHRQZDFLS21qVk1pVzJSNi1YUVlacDMyLUNtZkJpNWFGTER5YktZZ3AtVmRhNTczZjNTeEFmdUx2cUNGNHpFVGVGeEhoeUItdWdwY25neFZuMUx6Zjc4TUxz?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789530420.0,
+   "published": 1789523700.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNjd3eUVsR2JaMnYyOGloXzlYTDBfTE1EWmppS3VoQWVpREdfb1lGS1BCSXM2U25FRFVxOWZnVHFjOEQtblM1c05id0Vnc0Q2ZlFPOHFQZll4VWRrWU1pRHZHOGJGNkJ4bkVMWERFZHlyOHVaS29ZblpvNEVnenlpeG9HejFjZzdfcy1oSmFGcUVFREEyWExkaExHM0RfdlNlZXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlpWVnBONURtT3ltQXhyR2RzXzJJUUpFUVdVUzJJTDJvbTJJdjYwLWNDcFdEQk9OSHR0cTUyNHRQZDFLS21qVk1pVzJSNi1YUVlacDMyLUNtZkJpNWFGTER5YktZZ3AtVmRhNTczZjNTeEFmdUx2cUNGNHpFVGVGeEhoeUItdWdwY25neFZuMUx6Zjc4TUxz?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "fourstudentsdetainedaftersept4fightatlittlerockcentralhighschoolreportsaidtheark"
+    "littlerockschoolsduallanguageimmersionprogramcelebratedhispanicheritagemonththea"
    ],
-   "first_seen": 1789706734.226808,
+   "first_seen": 1789741837.641991,
    "section": "major"
   },
   {
@@ -274,50 +296,6 @@
   },
   {
    "type": "article",
-   "title": "Rex Nelson's high school football rankings: After three weeks - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMF9RWDMwb3dLLW1FZXlfMkp5MkwxOFhXajhvMy1JcFBzT2FXRzB6SkktbGdxVkJUMjRlQ2hzbFpOR2ZGTE55ajRCNnhiQmdISFlPa1lSNTc4ajA1bS1SMFlaU2toMHlsNDlBVDQwckdKVllrZFlCUHRPYzdVcFRYdUlsTWgxZll3aG8xS1VWdUVFOHZJdnh3Vk1GckVSbkRvbEl0RUVrYlZkdjRR?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789420080.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMF9RWDMwb3dLLW1FZXlfMkp5MkwxOFhXajhvMy1JcFBzT2FXRzB6SkktbGdxVkJUMjRlQ2hzbFpOR2ZGTE55ajRCNnhiQmdISFlPa1lSNTc4ajA1bS1SMFlaU2toMHlsNDlBVDQwckdKVllrZFlCUHRPYzdVcFRYdUlsTWgxZll3aG8xS1VWdUVFOHZJdnh3Vk1GckVSbkRvbEl0RUVrYlZkdjRR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "rexnelsonshighschoolfootballrankingsafterthreeweeksthearkansasdemocratgazette"
-   ],
-   "first_seen": 1789706734.226808,
-   "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Janis Whittiker Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - Westbrook - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUx0WVJiRUVvTFAyVnZCLWNBX256ZVJ4bDlfSkJXUlVYS2NaZnhZR2lOWGN2YWF5VjlrLWNpb1hlbTNhQzJwYWs1dUNReDVfN1NEZ1JXTEVuMUZYbHJKVDlOckdfcmFCb1hSQlJ1ZmttdVRraHdVNjNyT0JkUEZIYUpOems?oc=5",
-   "source": "Legacy obituary",
-   "published": 1789415661.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUx0WVJiRUVvTFAyVnZCLWNBX256ZVJ4bDlfSkJXUlVYS2NaZnhZR2lOWGN2YWF5VjlrLWNpb1hlbTNhQzJwYWs1dUNReDVfN1NEZ1JXTEVuMUZYbHJKVDlOckdfcmFCb1hSQlJ1ZmttdVRraHdVNjNyT0JkUEZIYUpOems?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "janiswhittikerobituary2026northlittlerockarsmithfamilyfuneralhomeswestbrooklegac"
-   ],
-   "first_seen": 1789679982.583937,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Potentially dangerous heat to continue through Friday, little to no chance of rain across Arkansas - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0w5VHZCaXZONlItN0NKV2FhTWRQbEhPYXh3YkJGang1WXRqeUc4ejlxUy1CMTlpOGxUZ1o4QUhhTzZjcnVRbDlGRVlmaDBMRENmQnNWeFhnblEyM3VsZ3JqM09YX3FFYmhWUUo3dm5NT0J3N2hZaTRpZmsybkhUZUpMS0tPS0FCTTNiN1pMcE1RaXBCaS1ocnlySQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -337,28 +315,6 @@
    ],
    "first_seen": 1789435569.002237,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Creed Michel Haigh Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMzJfbDRqVnNncXZIbERyV3AtUmY3ay1qZlVUQWxXSDk1SUNlbE1TeTRCV3h3ZFFsd3dXYzlvWUZkTEM1ZFBFUjFRQ0NBZ2Uwd1hCTVdQTjZDMjMyUFY3bnpPaEc4Wm5RVjFvWnFoWS1udVhkaUlTUVExLVkzZGc?oc=5",
-   "source": "Legacy obituary",
-   "published": 1789404773.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMzJfbDRqVnNncXZIbERyV3AtUmY3ay1qZlVUQWxXSDk1SUNlbE1TeTRCV3h3ZFFsd3dXYzlvWUZkTEM1ZFBFUjFRQ0NBZ2Uwd1hCTVdQTjZDMjMyUFY3bnpPaEc4Wm5RVjFvWnFoWS1udVhkaUlTUVExLVkzZGc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "creedmichelhaighobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittler"
-   ],
-   "first_seen": 1789630609.075982,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -404,6 +360,7 @@
    ],
    "source_count": 2,
    "member_keys": [
+    "northlittlerockapproveszoningregulationsfordatacentersnorthwestarkansasdemocratg",
     "northlittlerockapproveszoningregulationsfordatacentersthearkansasdemocratgazette",
     "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersnorthwestarkansas",
     "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersthearkansasdemocr"
@@ -429,28 +386,6 @@
    "source_count": 1,
    "member_keys": [
     "arkansaspolicereport19peoplekilledin18wrecksonstateroadsinfirstweekofseptemberth"
-   ],
-   "first_seen": 1789706734.226808,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Downtown LR chase ends in man’s arrest; Man, 28, charged with animal cruelty - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWVXYVNPeFdBa19xWmNFUnAzWV9tUl9tT2MxZ3U5UGVDcWZXRE5tdFU1YzJoak1faUYybHl2MHZyN2g4ZkRLVmJIVWpWZTk1dFJKMXpKNnhHODlrQlhhNTdtTmE5OVJ2c0NjWEFlZmppZjFfYTduVkFrQ1QxM1F5ZmJ4cEZKMFFLdDRLNHdXUnRjdkdUSmtGYQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789113180.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWVXYVNPeFdBa19xWmNFUnAzWV9tUl9tT2MxZ3U5UGVDcWZXRE5tdFU1YzJoak1faUYybHl2MHZyN2g4ZkRLVmJIVWpWZTk1dFJKMXpKNnhHODlrQlhhNTdtTmE5OVJ2c0NjWEFlZmppZjFfYTduVkFrQ1QxM1F5ZmJ4cEZKMFFLdDRLNHdXUnRjdkdUSmtGYQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "downtownlrchaseendsinmansarrestman28chargedwithanimalcrueltythearkansasdemocratg"
    ],
    "first_seen": 1789706734.226808,
    "section": "crime"
@@ -564,6 +499,34 @@
    ],
    "first_seen": 1789706734.226808,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police investigating deadly shooting at Circle K gas station - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5",
+   "source": "THV11",
+   "published": 1788764400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark",
+    "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com"
+   ],
+   "first_seen": 1789741837.641991,
+   "section": "crime"
   }
  ]
 }
