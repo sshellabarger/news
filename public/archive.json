@@ -1,6 +1,28 @@
 {
- "updated": "2026-09-20T11:02:46.219515-05:00",
+ "updated": "2026-09-20T13:45:52.044750-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Shooting in downtown Little Rock hurts at least one person - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzJxTWFoZXZ6bTBaTVMwdmZqV2JwS2QtWEZfby1hV1A3dEtBSHJUaGNOX2tUSjNnZDl1RVI1Y21Rb092cHpIeExfeHB6bEw1eHotLVh3SUNESmdlaVVBUnJjb2ZHOHlZTF8xaWF5aGxGR09KNTQ0NDRjc0RCQ2VzWEJiVkhGTjl2VURLY1gteG4wYnZFMlA4LWlyR1g?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789874700.0,
+   "first_seen": 1789929952.04475,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzJxTWFoZXZ6bTBaTVMwdmZqV2JwS2QtWEZfby1hV1A3dEtBSHJUaGNOX2tUSjNnZDl1RVI1Y21Rb092cHpIeExfeHB6bEw1eHotLVh3SUNESmdlaVVBUnJjb2ZHOHlZTF8xaWF5aGxGR09KNTQ0NDRjc0RCQ2VzWEJiVkhGTjl2VURLY1gteG4wYnZFMlA4LWlyR1g?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "shootingindowntownlittlerockhurtsatleastonepersonthearkansasdemocratgazette"
+   ]
+  },
   {
    "type": "article",
    "title": "David’s Burgers proposes meat processing facility at site outside Jacksonville - The Arkansas Democrat-Gazette",
@@ -509,28 +531,6 @@
   },
   {
    "type": "article",
-   "title": "Arkansas MBB Non-Conference Schedule Finalized - Arkansas Razorbacks",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5",
-   "source": "Arkansas Razorbacks",
-   "published": 1789675181.0,
-   "first_seen": 1789679982.583937,
-   "section": "sports",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "Arkansas Razorbacks",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbacks"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Arkansas MBB Non-Conference Schedule Finalized - arkansasrazorbacks.com",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5",
    "source": "arkansasrazorbacks.com",
@@ -549,6 +549,28 @@
    "source_count": 1,
    "member_keys": [
     "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbackscom"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Arkansas MBB Non-Conference Schedule Finalized - Arkansas Razorbacks",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5",
+   "source": "Arkansas Razorbacks",
+   "published": 1789675181.0,
+   "first_seen": 1789679982.583937,
+   "section": "sports",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Arkansas Razorbacks",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbacks"
    ]
   },
   {

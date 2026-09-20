@@ -1,7 +1,29 @@
 {
- "updated": "2026-09-20T11:02:46.219515-05:00",
+ "updated": "2026-09-20T13:45:52.044750-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Shooting in downtown Little Rock hurts at least one person - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzJxTWFoZXZ6bTBaTVMwdmZqV2JwS2QtWEZfby1hV1A3dEtBSHJUaGNOX2tUSjNnZDl1RVI1Y21Rb092cHpIeExfeHB6bEw1eHotLVh3SUNESmdlaVVBUnJjb2ZHOHlZTF8xaWF5aGxGR09KNTQ0NDRjc0RCQ2VzWEJiVkhGTjl2VURLY1gteG4wYnZFMlA4LWlyR1g?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789874700.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzJxTWFoZXZ6bTBaTVMwdmZqV2JwS2QtWEZfby1hV1A3dEtBSHJUaGNOX2tUSjNnZDl1RVI1Y21Rb092cHpIeExfeHB6bEw1eHotLVh3SUNESmdlaVVBUnJjb2ZHOHlZTF8xaWF5aGxGR09KNTQ0NDRjc0RCQ2VzWEJiVkhGTjl2VURLY1gteG4wYnZFMlA4LWlyR1g?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "shootingindowntownlittlerockhurtsatleastonepersonthearkansasdemocratgazette"
+   ],
+   "first_seen": 1789929952.04475,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "David’s Burgers proposes meat processing facility at site outside Jacksonville - The Arkansas Democrat-Gazette",
@@ -114,24 +136,24 @@
   },
   {
    "type": "article",
-   "title": "Arkansas MBB Non-Conference Schedule Finalized - arkansasrazorbacks.com",
+   "title": "Arkansas MBB Non-Conference Schedule Finalized - Arkansas Razorbacks",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5",
-   "source": "arkansasrazorbacks.com",
+   "source": "Arkansas Razorbacks",
    "published": 1789675181.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasrazorbacks.com",
+     "source": "Arkansas Razorbacks",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbackscom"
+    "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbacks"
    ],
-   "first_seen": 1789920166.219515,
+   "first_seen": 1789929952.04475,
    "section": "sports"
   },
   {
@@ -155,28 +177,6 @@
    ],
    "first_seen": 1789850228.459321,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Man killed in late night shooting Wednesday in Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpQTDZiQUtXak5jcF9vNlVDX3Z4VzRRVEVaS3kzYjRTUC1WQjdSZnMxUU9QUUdpTTlSQnctZ1ZsRGYzeHgxSmFDNHF0R2tpTnNyclFNSmNYRmVEdEl5MThEcng1MVhvT2c5cVlQdWZZU1NheEZYaXNBVldQVkZkR0N5Z18xcHc3QkZ1QW0zSmJPN2J3NEt1TFRXTQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789647600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpQTDZiQUtXak5jcF9vNlVDX3Z4VzRRVEVaS3kzYjRTUC1WQjdSZnMxUU9QUUdpTTlSQnctZ1ZsRGYzeHgxSmFDNHF0R2tpTnNyclFNSmNYRmVEdEl5MThEcng1MVhvT2c5cVlQdWZZU1NheEZYaXNBVldQVkZkR0N5Z18xcHc3QkZ1QW0zSmJPN2J3NEt1TFRXTQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "mankilledinlatenightshootingwednesdayinlittlerockthearkansasdemocratgazette"
-   ],
-   "first_seen": 1789884809.904781,
-   "section": "crime"
   },
   {
    "type": "article",
