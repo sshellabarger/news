@@ -1,7 +1,29 @@
 {
- "updated": "2026-09-21T12:01:46.059200-05:00",
+ "updated": "2026-09-21T16:02:47.382441-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Little Rock woman faces homicide charges after pedestrian dies in hit and run - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFFBcHpBRmE2WTZZakNuVV94Ums5dHd4RmVfMzdmU0l0a1pDNG9PZkxxNk5hYWpGbFB3WVIwREd4cjhySTJ5NUdyUGRnaTJ2NUhNSW82U3BaMTlCdTY2UGJSRnJwZkhFbFRkRkxTdzlfOHlycjFsOFc3U3ROQjZMbFo4SnhNYU5ieWtIbkVUMDkyUW1EU0RGa21qWQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790003400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVFFBcHpBRmE2WTZZakNuVV94Ums5dHd4RmVfMzdmU0l0a1pDNG9PZkxxNk5hYWpGbFB3WVIwREd4cjhySTJ5NUdyUGRnaTJ2NUhNSW82U3BaMTlCdTY2UGJSRnJwZkhFbFRkRkxTdzlfOHlycjFsOFc3U3ROQjZMbFo4SnhNYU5ieWtIbkVUMDkyUW1EU0RGa21qWQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockwomanfaceshomicidechargesafterpedestriandiesinhitandrunthearkansasdemo"
+   ],
+   "first_seen": 1790024567.382441,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "KWCK 99-9 Offers 2 Chances to Win Koe Wetzel Tickets, Including Facebook 4-Pack Giveaway - Arkansas Radio",
@@ -21,8 +43,7 @@
    "source_count": 1,
    "member_keys": [
     "kwck999offers2chancestowinkoewetzelticketsincludingfacebook4packgiveawayarkansas",
-    "thebull1057kbgboffers2chancestowinkoewetzelticketsincludingfacebook4packgiveaway",
-    "winkoewetzelticketslistenweekdaystogreggearyonkwck999arkansasradio"
+    "thebull1057kbgboffers2chancestowinkoewetzelticketsincludingfacebook4packgiveaway"
    ],
    "first_seen": 1790010106.0592,
    "section": "major"
@@ -51,7 +72,29 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police arrest man for stealing car without an engine - nwaonline.com",
+   "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789976160.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind"
+   ],
+   "first_seen": 1790024567.382441,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police arrest man for stealing car without an engine - Northwest Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTN4WjJkdy1UNC1QSU80aFZFdzBPQUZycGZDanVLOTQ2VGcycy02TEJwdThVM3dZckJtdGFNcUZ6SWZRY2pEdkdiN1RhVTg4d1JCX1hZX0dLZlBBUGhrS21NZGNTRDNTdEdNSTZxWWhNY3Fzd01UeGxrVk1BbmtVZ0dyeDdNcThUOVUyUUdjNExTMzlnaVJZ?oc=5",
    "source": "Northwest Arkansas Democrat-Gazette",
    "published": 1789976100.0,
@@ -66,9 +109,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpolicearrestmanforstealingcarwithoutanenginenwaonlinecom"
+    "northlittlerockpolicearrestmanforstealingcarwithoutanenginenorthwestarkansasdemo"
    ],
-   "first_seen": 1790010106.0592,
+   "first_seen": 1790024567.382441,
    "section": "crime"
   },
   {
@@ -293,72 +336,6 @@
   },
   {
    "type": "article",
-   "title": "Man killed in late night shooting Wednesday in Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpQTDZiQUtXak5jcF9vNlVDX3Z4VzRRVEVaS3kzYjRTUC1WQjdSZnMxUU9QUUdpTTlSQnctZ1ZsRGYzeHgxSmFDNHF0R2tpTnNyclFNSmNYRmVEdEl5MThEcng1MVhvT2c5cVlQdWZZU1NheEZYaXNBVldQVkZkR0N5Z18xcHc3QkZ1QW0zSmJPN2J3NEt1TFRXTQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789647600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpQTDZiQUtXak5jcF9vNlVDX3Z4VzRRVEVaS3kzYjRTUC1WQjdSZnMxUU9QUUdpTTlSQnctZ1ZsRGYzeHgxSmFDNHF0R2tpTnNyclFNSmNYRmVEdEl5MThEcng1MVhvT2c5cVlQdWZZU1NheEZYaXNBVldQVkZkR0N5Z18xcHc3QkZ1QW0zSmJPN2J3NEt1TFRXTQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "mankilledinlatenightshootingwednesdayinlittlerockthearkansasdemocratgazette"
-   ],
-   "first_seen": 1790010106.0592,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Vehicle crashes in Arkansas over 75-hour period kill 6 people, injure another - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0Y5M216elhxdTczTEVtQmVFcTJYaWNvR0hVdVphdnJVSkVVNHVKZHR3bWFqVC01MjhTVkNXSmN1cGVEbWNIbXQ2NDhibjZXMmJtcjNFS0h0Zm9GVUF6WmpHYlplS3E3Uks1UkVXb1Q4NWNVMEZieGM3MFM3aWc0UldFWXVkODhDNHBhMG9OaWpmOEhVQm5nbEJvOE4?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789613100.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0Y5M216elhxdTczTEVtQmVFcTJYaWNvR0hVdVphdnJVSkVVNHVKZHR3bWFqVC01MjhTVkNXSmN1cGVEbWNIbXQ2NDhibjZXMmJtcjNFS0h0Zm9GVUF6WmpHYlplS3E3Uks1UkVXb1Q4NWNVMEZieGM3MFM3aWc0UldFWXVkODhDNHBhMG9OaWpmOEhVQm5nbEJvOE4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "vehiclecrashesinarkansasover75hourperiodkill6peopleinjureanotherthearkansasdemoc"
-   ],
-   "first_seen": 1789987258.772552,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Polish Karnawal returns to North Little Rock for its 36th year of fun - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU2xIV2dUeDdrUUNPNXFiZE0yUEZ5a09zNEtfTmVxV1ZzWUFOWFNYTXJMOXlJQTczVnVKRFpXT3ZQME9lcmNnTG1kTmhCZ3RndVBLWkIyYmo4alZ5UmVOUnBJdGlTbUxnVTVxaDA1MWV6RXVGRFVUeklLbWVOdlpCTDlpWHAtSEtYT09mR1hCNWpmT1NMUWhxSU9rRk9saFhPbkExZ3BWR0tRNEN0YXRLYXpPOTJIS2NWWGNGek9NQ05FQjlWVW4zYl9Oekp0cFhwck9Hb3EtYU85V2R0b1AwVjR2Rkt4dXcxbDZJOTU3RkhUT21IdGg5eWlST01wOXI1Y09JVFZUUUY?oc=5",
-   "source": "KATV",
-   "published": 1789594698.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU2xIV2dUeDdrUUNPNXFiZE0yUEZ5a09zNEtfTmVxV1ZzWUFOWFNYTXJMOXlJQTczVnVKRFpXT3ZQME9lcmNnTG1kTmhCZ3RndVBLWkIyYmo4alZ5UmVOUnBJdGlTbUxnVTVxaDA1MWV6RXVGRFVUeklLbWVOdlpCTDlpWHAtSEtYT09mR1hCNWpmT1NMUWhxSU9rRk9saFhPbkExZ3BWR0tRNEN0YXRLYXpPOTJIS2NWWGNGek9NQ05FQjlWVW4zYl9Oekp0cFhwck9Hb3EtYU85V2R0b1AwVjR2Rkt4dXcxbDZJOTU3RkhUT21IdGg5eWlST01wOXI1Y09JVFZUUUY?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "polishkarnawalreturnstonorthlittlerockforits36thyearoffunkatv"
-   ],
-   "first_seen": 1789827834.279027,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock City Council sets new rules for data center campuses with amendment - KATV",
    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNM2dseEdfeDNJbzVUOVlKQ3dQU2FJdWExSHIyeUVVWkI5OVlFMzFUU193bnotZ0o5VnVQM2ZwZXpVeWkxVWFpUDVVanRPNklfcFhPc2pmdmExN3lPQ21mZnJkMVNOYXJjM3Z1NXRFM0dndlBPNHZVX2YxWlpZUEp1Z1FDdlcybWxJMjZYLTYyQmJKNzFsbmZvNmUwSEE1T2tKcGQxREtvbE40djVacTNWVzJ6SEhJdGZCeENSamExNFN1a1BLMkJyMzE0aXVfNDNGZmlzUnFMci1DNmZQNGxfR1EybkZlNWkwdU5lTk1VaVNFTUhDSXJUZjgzY3BjeTg5cVFqMXVzdm9PNnFzZ2tBV0dLY1pYNzhiQktSMk0yNlA4d1Z3MEJ6aTdmRXN3dER6bDgwTkxkZ1pCQQ?oc=5",
    "source": "KATV",
@@ -515,46 +492,74 @@
   },
   {
    "type": "article",
-   "title": "How are public schools in Arkansas funded? - usafacts.org",
+   "title": "How are public schools in Arkansas funded? - USAFacts",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
-   "source": "usafacts.org",
+   "source": "USAFacts",
    "published": 1788899335.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "usafacts.org",
+     "source": "USAFacts",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "howarepublicschoolsinarkansasfundedusafactsorg"
+    "howarepublicschoolsinarkansasfundedusafacts"
    ],
-   "first_seen": 1790010106.0592,
+   "first_seen": 1790024567.382441,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "North Little Rock police arrest 18-year-old in deadly gas station shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5",
-   "source": "KARK",
-   "published": 1788850800.0,
+   "title": "North Little Rock police investigating deadly shooting at Circle K gas station - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5",
+   "source": "THV11",
+   "published": 1788764400.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5"
+    },
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark"
+    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark",
+    "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com"
    ],
    "first_seen": 1789815327.805167,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police identify gas station homicide victim, search for suspect - Northwest Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
+   "published": 1788764400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectnorthwestar"
+   ],
+   "first_seen": 1790024567.382441,
    "section": "crime"
   }
  ]
