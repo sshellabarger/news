@@ -1,7 +1,32 @@
 {
- "updated": "2026-09-21T05:40:58.772552-05:00",
+ "updated": "2026-09-21T12:01:46.059200-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "KWCK 99-9 Offers 2 Chances to Win Koe Wetzel Tickets, Including Facebook 4-Pack Giveaway - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53bnYwRHNTSjM0d05aUWVweGpSbmNrRU8yTHFQZThSV0ZKeUdlVkxmb24wVG4yeEhXcDlQLXZzUTdGRTNra1JCNG04TXIxLUtnbGE4ZG5NdFBFSE1aOU5kdUxHR1FUSjZlbTBzN1NtWkJSVlliblJVVUE3Zw?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1789995655.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53bnYwRHNTSjM0d05aUWVweGpSbmNrRU8yTHFQZThSV0ZKeUdlVkxmb24wVG4yeEhXcDlQLXZzUTdGRTNra1JCNG04TXIxLUtnbGE4ZG5NdFBFSE1aOU5kdUxHR1FUSjZlbTBzN1NtWkJSVlliblJVVUE3Zw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "kwck999offers2chancestowinkoewetzelticketsincludingfacebook4packgiveawayarkansas",
+    "thebull1057kbgboffers2chancestowinkoewetzelticketsincludingfacebook4packgiveaway",
+    "winkoewetzelticketslistenweekdaystogreggearyonkwck999arkansasradio"
+   ],
+   "first_seen": 1790010106.0592,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Farmington chamber to host forum for candidates for mayor, City Council - The Arkansas Democrat-Gazette",
@@ -26,7 +51,7 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police arrest man for stealing car without an engine - Northwest Arkansas Democrat-Gazette",
+   "title": "North Little Rock police arrest man for stealing car without an engine - nwaonline.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTN4WjJkdy1UNC1QSU80aFZFdzBPQUZycGZDanVLOTQ2VGcycy02TEJwdThVM3dZckJtdGFNcUZ6SWZRY2pEdkdiN1RhVTg4d1JCX1hZX0dLZlBBUGhrS21NZGNTRDNTdEdNSTZxWWhNY3Fzd01UeGxrVk1BbmtVZ0dyeDdNcThUOVUyUUdjNExTMzlnaVJZ?oc=5",
    "source": "Northwest Arkansas Democrat-Gazette",
    "published": 1789976100.0,
@@ -41,10 +66,76 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpolicearrestmanforstealingcarwithoutanenginenorthwestarkansasdemo"
+    "northlittlerockpolicearrestmanforstealingcarwithoutanenginenwaonlinecom"
    ],
-   "first_seen": 1789987258.772552,
+   "first_seen": 1790010106.0592,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Mobile Home Park Sells for $7.1M (Real Deals) - Arkansas Business",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjZtZ3p6UzBQUFlDbHJnMkJzcVh4dDNTTXRybjZKNmdUUndtQkFqVzRxbFV3LTVpOFMwWUpjeEJMUkcwdWdmTTBiRXZ6c0RiQ1RZZE9LdUxHdHFDZkpTZmwxQVRUdXliQ2tuRXhMRUVscjlLcjFndFdhbEk2Y2Q5UXRtdTJ5aERac25ZRlg0Skktcms?oc=5",
+   "source": "Arkansas Business",
+   "published": 1789966842.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Business",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjZtZ3p6UzBQUFlDbHJnMkJzcVh4dDNTTXRybjZKNmdUUndtQkFqVzRxbFV3LTVpOFMwWUpjeEJMUkcwdWdmTTBiRXZ6c0RiQ1RZZE9LdUxHdHFDZkpTZmwxQVRUdXliQ2tuRXhMRUVscjlLcjFndFdhbEk2Y2Q5UXRtdTJ5aERac25ZRlg0Skktcms?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockmobilehomeparksellsfor71mrealdealsarkansasbusiness"
+   ],
+   "first_seen": 1790010106.0592,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock mayor responds to shooting in River Market - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789959600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockmayorrespondstoshootinginrivermarketthearkansasdemocratgazette"
+   ],
+   "first_seen": 1790010106.0592,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock’s Downtown Food Truck Festival draws crowd despite heat - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUZFbVNxZXZEMTJGWl9jMzFUejBkN1k1V1ZVUDA3LXV2aU10LUFScXFBaGxxYmZVb19DUWlPRThQOF8zSWRsaFdTeWlGZDV0Z1p0OXdFdVFETzVTdGhpZjVjUUZyTDJCZkpVOHFpR2JIR2RnWmsxLXdCcGd4Z3NTZUFxWF90SzNXRkJzWE14dkgtWTVaOVZFUVR4NnQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789949700.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUZFbVNxZXZEMTJGWl9jMzFUejBkN1k1V1ZVUDA3LXV2aU10LUFScXFBaGxxYmZVb19DUWlPRThQOF8zSWRsaFdTeWlGZDV0Z1p0OXdFdVFETzVTdGhpZjVjUUZyTDJCZkpVOHFpR2JIR2RnWmsxLXdCcGd4Z3NTZUFxWF90SzNXRkJzWE14dkgtWTVaOVZFUVR4NnQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerocksdowntownfoodtruckfestivaldrawscrowddespiteheatthearkansasdemocratgaze"
+   ],
+   "first_seen": 1790010106.0592,
+   "section": "major"
   },
   {
    "type": "article",
@@ -92,28 +183,6 @@
   },
   {
    "type": "article",
-   "title": "David’s Burgers proposes meat processing facility at site outside Jacksonville - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOC01blhwY1JaTnZ1S0Ftai15eTRzR05nQjVxX0VTNDZGWTA5elRsYWl4UDlHVzNGSE5VNnQ2dGtOSmwzNDhkVEZPV0ZfejlqR1F6QURoVjYzQWRRVVBQT0xKRC0yb3AtRkJabUNlRkpsMDFlZE5KNkVjSE9Rb1pXNlktNFFtYTFZeDFhb2dNNTM4TXplalhMeVNNRDZCdw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789866000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOC01blhwY1JaTnZ1S0Ftai15eTRzR05nQjVxX0VTNDZGWTA5elRsYWl4UDlHVzNGSE5VNnQ2dGtOSmwzNDhkVEZPV0ZfejlqR1F6QURoVjYzQWRRVVBQT0xKRC0yb3AtRkJabUNlRkpsMDFlZE5KNkVjSE9Rb1pXNlktNFFtYTFZeDFhb2dNNTM4TXplalhMeVNNRDZCdw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "davidsburgersproposesmeatprocessingfacilityatsiteoutsidejacksonvillethearkansasd"
-   ],
-   "first_seen": 1789987258.772552,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "One in every three Little Rock district schools raise state letter grades from 2024-25 - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVklPTFIyaDVGQnJCSUh3NXVzR1RacTFlQ1dweUV2QXN0YXZyanc2bVNpblZaVHdaNEtndjZDSXlDREQ1X1hPeU12WVcyTlZBaGlGckM2M0ZGSXRvOGJGMUs4WGYzVmctLUxQYzZiZ0pCeTRlOS1ZVFdaTFd3UVk2VDlHdmc3eFpKek9LdUdTVEhYS1RtemRQSl95Y0E?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -158,28 +227,6 @@
   },
   {
    "type": "article",
-   "title": "Pulaski County restaurant inspections: crawling insects by the sink; squid balls, eggs stored at unsafe temperatures - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXy1taVUtcUFnTzZFN0xoNkg3MWRSdkRXWElaWGRfMkRQNXFLZGhMSm9FbGwzcHdGcE5CX1NDOGJ3ZkF3aUZaTWxjYmxwMC1GbUpHMlJsOHZVVXdIQnlUcmdCOUF6SjNmeVpxVXFhdS1Gdk9vMm1HYzAyQUNFRU5JYW1QLUVqTzJmd3VZTVpBWjViVng5VWVnd2V2NA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789755816.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXy1taVUtcUFnTzZFN0xoNkg3MWRSdkRXWElaWGRfMkRQNXFLZGhMSm9FbGwzcHdGcE5CX1NDOGJ3ZkF3aUZaTWxjYmxwMC1GbUpHMlJsOHZVVXdIQnlUcmdCOUF6SjNmeVpxVXFhdS1Gdk9vMm1HYzAyQUNFRU5JYW1QLUVqTzJmd3VZTVpBWjViVng5VWVnd2V2NA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "pulaskicountyrestaurantinspectionscrawlinginsectsbythesinksquidballseggsstoredat"
-   ],
-   "first_seen": 1789797071.48116,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock High School (AR) JV Football - MaxPreps",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDRfeWFaT1prQm1XbnpudHVabUcwcUR3WTlLNHg1d1JOVFk2NTN5VDB3ZkhWb2kzNWZXaFB2WXYwVU9UQlUtYWNhMVJ6MjNKZEJpUXNQbTVoSW1ybk4wS2N0dDVKTDRTOURmQVMyZEVQcTZFME9TTWxZSVVoaXk0c2FiOGNsU0owTkJRbGc3OUhXaklBcVgzanlR?oc=5",
    "source": "MaxPreps",
@@ -202,28 +249,6 @@
   },
   {
    "type": "article",
-   "title": "Gentry mayor willing to stay on through February as council considers options for filling seat - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHBaRjhVUm5NS1dWRGlyLURCX0FXbnhoQXJlYzB5NXRNTzJRaF83Q2s2R3R0d2NneFlEUWg0ZWZCQTh0UGZlMUs0LXJGYnFxNUhhSzNrNVNnRlNzSnA5Q3lWM2taMFQyY1Zrc0Ntb3hTTS1GRm5Fc3JuQnBoYmJKVlo4SDNOVlBKbU84ZXVvWlhJUUxSWWRkOVpuYk1WZw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789740960.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHBaRjhVUm5NS1dWRGlyLURCX0FXbnhoQXJlYzB5NXRNTzJRaF83Q2s2R3R0d2NneFlEUWg0ZWZCQTh0UGZlMUs0LXJGYnFxNUhhSzNrNVNnRlNzSnA5Q3lWM2taMFQyY1Zrc0Ntb3hTTS1GRm5Fc3JuQnBoYmJKVlo4SDNOVlBKbU84ZXVvWlhJUUxSWWRkOVpuYk1WZw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "gentrymayorwillingtostayonthroughfebruaryascouncilconsidersoptionsforfillingseat"
-   ],
-   "first_seen": 1789939878.925483,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Arkansas MBB Non-Conference Schedule Finalized - Arkansas Razorbacks",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5",
    "source": "Arkansas Razorbacks",
@@ -231,21 +256,15 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "Arkansas Razorbacks",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1lxM2NKNlBPX1dzWmVUcUl2LWFpZm5BeF9JTnZWb1FuakFCY1BYMGdhTnFYb0xZaTRIeHl0YUFVR2JpY2I0amhubU0tYWZfNnpWcW91aWNoTHFENG1lMUo1bS1BdWU3YmJ5VXJKejNfN3IxVGIydUtKYVAwellJbUVIWDY?oc=5"
-    },
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGxkUGtNbWFJV1NCaVpzdGFmWFZDY3psTzBmWWl6blJHaXo3QWdQcTEyTUZNMXFmSlY2RUJLRDZLN0xKWkY4Y3p6WGtEUzJ0TnRRNHF4SEhVU08taTMzNFpUTlZjeTVJekRJTzJQUmdUZUluMzhPc0NmZ2ZDSnZza29lZFRWR09kQ3FSMUJGT0VIblVZN2k5VExsbU8wNVZ1emo3aDdscWdFcDhMbmRoVWdIUGl3dHhONXBGTUtMbWZJQQ?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbacks",
-    "hoophogsrevealnonconferenceschedulefor2627seasonreturntonorthlittlerockkark"
+    "arkansasmbbnonconferenceschedulefinalizedarkansasrazorbacks"
    ],
    "first_seen": 1789929952.04475,
    "section": "sports"
@@ -271,6 +290,28 @@
    ],
    "first_seen": 1789987258.772552,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Man killed in late night shooting Wednesday in Little Rock - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpQTDZiQUtXak5jcF9vNlVDX3Z4VzRRVEVaS3kzYjRTUC1WQjdSZnMxUU9QUUdpTTlSQnctZ1ZsRGYzeHgxSmFDNHF0R2tpTnNyclFNSmNYRmVEdEl5MThEcng1MVhvT2c5cVlQdWZZU1NheEZYaXNBVldQVkZkR0N5Z18xcHc3QkZ1QW0zSmJPN2J3NEt1TFRXTQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789647600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpQTDZiQUtXak5jcF9vNlVDX3Z4VzRRVEVaS3kzYjRTUC1WQjdSZnMxUU9QUUdpTTlSQnctZ1ZsRGYzeHgxSmFDNHF0R2tpTnNyclFNSmNYRmVEdEl5MThEcng1MVhvT2c5cVlQdWZZU1NheEZYaXNBVldQVkZkR0N5Z18xcHc3QkZ1QW0zSmJPN2J3NEt1TFRXTQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "mankilledinlatenightshootingwednesdayinlittlerockthearkansasdemocratgazette"
+   ],
+   "first_seen": 1790010106.0592,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -474,97 +515,47 @@
   },
   {
    "type": "article",
-   "title": "How are public schools in Arkansas funded? - USAFacts",
+   "title": "How are public schools in Arkansas funded? - usafacts.org",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
-   "source": "USAFacts",
+   "source": "usafacts.org",
    "published": 1788899335.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "USAFacts",
+     "source": "usafacts.org",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "howarepublicschoolsinarkansasfundedusafacts"
+    "howarepublicschoolsinarkansasfundedusafactsorg"
    ],
-   "first_seen": 1789850228.459321,
+   "first_seen": 1790010106.0592,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "North Little Rock police investigating deadly shooting at Circle K gas station - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5",
-   "source": "THV11",
-   "published": 1788764400.0,
+   "title": "North Little Rock police arrest 18-year-old in deadly gas station shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5",
+   "source": "KARK",
+   "published": 1788850800.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenAyNkJKeXJWRlBiR2FKRWtxN2c2VlBKRG5mMTJxdlVEdENhaEdXUzdxaTQ0X1lYUFNYZjZuOEVVTjlZSlB2MWdkbzM4LWtIbEM2Q3ZneGhiV202ckZjbDZKOTV5WlVJeFM0cU5FU3NVVHB3VF9sTU5FV2l6YXBZVXdaMU9JYk1nNmtqSW40ZzBDOTRuQTV0RHJtRG81MzkzR05SLWRXbWYyb0tEM0ZkYVRxNmV0cFJvRmdsamdNVU44MHB6MW1GR25xTFBHVi1C?oc=5"
-    },
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark",
-    "northlittlerockpoliceinvestigatingdeadlyshootingatcirclekgasstationthv11com"
+    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark"
    ],
    "first_seen": 1789815327.805167,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police identify gas station homicide victim, search for suspect - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1788764400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGxZYTFWUjNtSk9YazVZdmM1bHVRTTVLRlZURHF3WElveURXZEdIU0J6bDQ0RUI3Y1NXU29wcEVyeUxJVUZkNFI4dm1CXzA0OGZvNFNYV2tjblNVZ1B6ZW1mQnYxTmtrblRmeUo1aFhTQko0My1OZGtwU0dkZzd4M3ZrRl8ySnZjM2FMeDJn?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceidentifygasstationhomicidevictimsearchforsuspectnorthwestar"
-   ],
-   "first_seen": 1789966629.295487,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Jacksonville voters will decide whether to shift to ward-only City Council elections - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWcxeFZQcHBtaVVtY3pSeWV2U3l1d013Z2V2eHBIM3NkWDItYzIyVHJKbUdaZDFUeFpINUpibng0OU1uZWp0cW5nMTFMR3VwNHkzRmZBTk9uakhCektpdm5LYktQbXIyVUYtZl9ZVlRLN2FSTDNla2ppN1c1ci1xbXFOMmVpaFByYTBoZHNrN2U2QU9ZcEJUaUM3Q2pMdw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1788678000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWcxeFZQcHBtaVVtY3pSeWV2U3l1d013Z2V2eHBIM3NkWDItYzIyVHJKbUdaZDFUeFpINUpibng0OU1uZWp0cW5nMTFMR3VwNHkzRmZBTk9uakhCektpdm5LYktQbXIyVUYtZl9ZVlRLN2FSTDNla2ppN1c1ci1xbXFOMmVpaFByYTBoZHNrN2U2QU9ZcEJUaUM3Q2pMdw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "jacksonvillevoterswilldecidewhethertoshifttowardonlycitycouncilelectionsthearkan"
-   ],
-   "first_seen": 1789987258.772552,
-   "section": "major"
   }
  ]
 }
