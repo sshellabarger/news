@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T04:58:28.861607-05:00",
+ "updated": "2026-09-24T10:03:28.736749-05:00",
  "items": [
   {
    "type": "article",
@@ -47,29 +47,7 @@
   },
   {
    "type": "article",
-   "title": "Police report identifies man wounded in Little Rock River Market shooting; defendant in earlier case gets probation - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzIyNEhidjhGWWpYQkl3ekcwSG5JTTJ6NEVBZHd5MzNnNGtXRnpCQUlLMjhfenNoaWZib0pjUHJsOFhEX3NpZTdPS1dvQkJFZjlza0hRanhzYmZxT0FsZGRnZ1Fsc1BYdUx4ai1KSHN5bDFEUUFGOGJuSUExQlpIN28tQTBubTEtZmtERnZEc28tT3BTVVYwSk1Gdw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790207400.0,
-   "first_seen": 1789966629.295487,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzIyNEhidjhGWWpYQkl3ekcwSG5JTTJ6NEVBZHd5MzNnNGtXRnpCQUlLMjhfenNoaWZib0pjUHJsOFhEX3NpZTdPS1dvQkJFZjlza0hRanhzYmZxT0FsZGRnZ1Fsc1BYdUx4ai1KSHN5bDFEUUFGOGJuSUExQlpIN28tQTBubTEtZmtERnZEc28tT3BTVVYwSk1Gdw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "policereportidentifiesmanwoundedinlittlerockrivermarketshootingdefendantinearlie"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Little Rock homeless outreach nonprofit The Van ousts director; founder Reddin returns as ‘temporary place-holder’ - The Arkansas Democrat-Gazette",
+   "title": "Little Rock homeless outreach nonprofit The Van ousts director; founder Reddin returns as ‘temporary place-holder’ - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0RTUlV5WU52NkM4Q1dnYlAybTU3cHczSjVJUHJKWmxfOER5NnpxNklpMjBiMUpsd3RjaGQyNVZBQ2NUMGxBUVE2bFAybE11cmt0YUl4amYwSkRZM1Ruc3lHMDMxZmh4RmFoWVg5bEFUbU81RzFoRFVWbFVNd3poQXdMU2Y0bjUtdDJrZHlBUzYxVW92ZUttTGlCVmQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790206800.0,
@@ -109,6 +87,28 @@
    "source_count": 1,
    "member_keys": [
     "kaporcentertofacilitatestartupsinlittlerockthearkansasdemocratgazette"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Kapor Center to facilitate startups in Little Rock - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmowSVZOaERrdXlyNEV1T1VQSnVNN25yVUxEbnpHQlR3V3JMcHBPOU9DWXJwbHlEcDhxVjdJM2xldnI5MjFoeElUQTB6VEYtTmhjOXBvRExqcDJLbzlZTTMtUzRsX3NJY2VVck9OUWdOMkR0UDBkemJ6SFdlRnFyRkhzaTRGLTI2TXpoUnVxb0FrRldFNDM4?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790202360.0,
+   "first_seen": 1790262208.736749,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmowSVZOaERrdXlyNEV1T1VQSnVNN25yVUxEbnpHQlR3V3JMcHBPOU9DWXJwbHlEcDhxVjdJM2xldnI5MjFoeElUQTB6VEYtTmhjOXBvRExqcDJLbzlZTTMtUzRsX3NJY2VVck9OUWdOMkR0UDBkemJ6SFdlRnFyRkhzaTRGLTI2TXpoUnVxb0FrRldFNDM4?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "kaporcentertofacilitatestartupsinlittlerockarkansasonlinecom"
    ]
   },
   {
@@ -157,33 +157,11 @@
   },
   {
    "type": "article",
-   "title": "Pipe break in North Little Rock repaired; customers may see brief discoloration in tap water - arkansasonline.com",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTRzZ1o4a1h6SG4zRUhydmw1WjZFZUN0XzZIRUUwdjlLODF3MWtLRDlIa2tvbm9Lb0Fhd2xBU09oLXhtT2R4WHYwNWd3bHI0d0RBR2RzcmRjdUIyUC15dkpNQ3ZVelJ5Y0hUSktQQ1N2anpTcXQ0MjlrU3ZoYTMydnRhQkNuMlFFX01Xd2hJUWZoUXM?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790192880.0,
-   "first_seen": 1790194791.249068,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTRzZ1o4a1h6SG4zRUhydmw1WjZFZUN0XzZIRUUwdjlLODF3MWtLRDlIa2tvbm9Lb0Fhd2xBU09oLXhtT2R4WHYwNWd3bHI0d0RBR2RzcmRjdUIyUC15dkpNQ3ZVelJ5Y0hUSktQQ1N2anpTcXQ0MjlrU3ZoYTMydnRhQkNuMlFFX01Xd2hJUWZoUXM?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaterark"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Pipe break in North Little Rock repaired; customers may see brief discoloration in tap water - Northwest Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0ZNUXpJcHh4RUNJalF5MTlTVHVWbkptMXUyNndTX2pYMnJ2YVh1ZlNRNlJ6UDJpWHM2NFhTMGl4ZjZqUlVHVUt3X3lObWRFRTFaQ0U0SjN4Tnd5WXlJLVpVOFFHalN6V3EyYWN4dmdhNEVjVWplQjU3dHFXUnliUlg0cnA3ZUtHYTI1Mw?oc=5",
    "source": "Northwest Arkansas Democrat-Gazette",
    "published": 1790192880.0,
-   "first_seen": 1790206808.112286,
+   "first_seen": 1790194791.249068,
    "section": "major",
    "snippet": "",
    "discussion_url": "",
@@ -200,8 +178,8 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaternor",
-    "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaterthe"
+    "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaterark",
+    "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaternor"
    ]
   },
   {
@@ -359,13 +337,13 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "cliftonrodgerrodgerwoodsjrlegacyobituary",
-    "cliftonrodgerwoodsjrage65anaturalstatefuneralservice"
+    "cliftonrodgerwoodsjrage65anaturalstatefuneralservice",
+    "cliftonrodgerwoodsjrobituary2026northlittlerockaranaturalstatefuneralservicecrem"
    ]
   },
   {
    "type": "article",
-   "title": "Back from injury, Christain Reeves leading North Little Rock Charging Wildcats on and off field - The Arkansas Democrat-Gazette",
+   "title": "Back from injury, Christain Reeves leading North Little Rock Charging Wildcats on and off field - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWXIyUkExc3RWdmVRWVFIckZBUl9XNkJTbFpHcHB1a2M3YXBjZTZTSWlTZ1I5N3B0ZWJ5V1d5aFB3QXBHYW01T1VGVWw2VmI5S19TR0xxZ3NBLU84ZC1JV2ZGTldXMjZfcVQwalV1UFF4X05taVhiU2IyZlUxTmpSd0ROMGE4ZUh0UVhxNmdYeWczakxSRTEwMlYxTUEwTGlDcFotTUYzMVByaTVwNER5ZUlqOXVlQVNzNGhMLTZCa2JQNmpMRFEyUFBuYTlYMnpWVnpEa1FWMm14bjg?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790168340.0,
@@ -589,8 +567,8 @@
    "source_count": 3,
    "member_keys": [
     "womankilledinshootingatnorthlittlerockhomekark",
-    "womankilledinshootingatnorthlittlerockresidencetuesdaynorthwestarkansasdemocratg",
-    "womankilledinshootingatnorthlittlerockresidencetuesdaythearkansasdemocratgazette"
+    "womankilledinshootingatnorthlittlerockresidencetuesdayarkansasonlinecom",
+    "womankilledinshootingatnorthlittlerockresidencetuesdaynorthwestarkansasdemocratg"
    ]
   },
   {
@@ -666,6 +644,28 @@
   },
   {
    "type": "article",
+   "title": "Ronnie Lee Thompson - Legacy obituary",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMy0wWElMTGM2dkIwakVvd0ZNaHFnYWcwcWhxSjVpQ0QtQ29oVGFuZ3BiT3Q2dDVpTXJoMVBzbXg1ellNMUVYRGpqMXRrUkh2UzY3amtxZE51c1ppUjRpNWl1aTcxOGg1Rk1yNExpOThtb0NWN1dZbmVkNjZVY1JjaHF3dUo?oc=5",
+   "source": "Legacy obituary",
+   "published": 1790060400.0,
+   "first_seen": 1790262208.736749,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Legacy obituary",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMy0wWElMTGM2dkIwakVvd0ZNaHFnYWcwcWhxSjVpQ0QtQ29oVGFuZ3BiT3Q2dDVpTXJoMVBzbXg1ellNMUVYRGpqMXRrUkh2UzY3amtxZE51c1ppUjRpNWl1aTcxOGg1Rk1yNExpOThtb0NWN1dZbmVkNjZVY1JjaHF3dUo?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "ronnieleethompsonlegacyobituary"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Centerton City Council, commission briefed on wastewater infrastructure options - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW1XZHE2aGhVUXVibG5ES1VGcXZtTFpBLV9kbmVyUExVX0ljNVJUQ2h2N1pma3Q4dVpQVk5qd0ZVX3ZnU1N4ZGVIYklOMDZwMXFTYjMyd08xQ2lCdV9aT1gwTTk5VWVDMHNTMUVNR0tDc0xDbEFJbDQzdF9tbGVCSEs3RXR0N1EzTk4yMXJEVkVMYXN1dG9nMg?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -706,28 +706,6 @@
    "source_count": 1,
    "member_keys": [
     "centertoncitycouncilcommissionbriefedonwastewaterinfrastructureoptionsthearkansa"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Little Rock mayor directs increased police presence in River Market area following weekend shooting - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlNTclNsRnpxazVEZElIRklBd1lDbUJaNWNuazhnQTU3Um1IMlNxMmstTGMwYXlhQnQ2V0tvLVpLenlNaFpaQy1TMmcyVU01a0VmbUI3YjByNzd2OE0wTnZVYzdieGhIZ0RUMEVHQVVVY1BOZ0FwRGFUM0c3QnZzNWNIMEtZTjluTG1fU2pab1h6NEgxWFE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790034660.0,
-   "first_seen": 1790206808.112286,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlNTclNsRnpxazVEZElIRklBd1lDbUJaNWNuazhnQTU3Um1IMlNxMmstTGMwYXlhQnQ2V0tvLVpLenlNaFpaQy1TMmcyVU01a0VmbUI3YjByNzd2OE0wTnZVYzdieGhIZ0RUMEVHQVVVY1BOZ0FwRGFUM0c3QnZzNWNIMEtZTjluTG1fU2pab1h6NEgxWFE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockmayordirectsincreasedpolicepresenceinrivermarketareafollowingweekendsh"
    ]
   },
   {
@@ -820,7 +798,7 @@
   },
   {
    "type": "article",
-   "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - The Arkansas Democrat-Gazette",
+   "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1789976160.0,
@@ -833,18 +811,11 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPME1hOGlaMFVCU3VpVVg0aVFwalM0ZXVtRjh3RENIclMxUnlndjVQSXU5OXl5MThLRldkcU8wVnJ4YlpVWGdNMXNrQ3FMM0tOWjAzLXpMZWhId18xc3hPUFczS2FuQ3pGcmltU01Rcng2Rkhacm90c2cyZV9mVldFclpyOERXS2ZIXzRDM1QzTQ?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind",
-    "teenagerarrestedafterlittlerockcarjackingthearkansasdemocratgazette",
-    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestednorthwestarkans",
-    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
+    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind"
    ]
   },
   {
@@ -915,6 +886,30 @@
   },
   {
    "type": "article",
+   "title": "Little Rock mayor responds to shooting in River Market - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789959600.0,
+   "first_seen": 1789966629.295487,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockmayordirectsincreasedpolicepresenceinrivermarketareafollowingweekendsh",
+    "littlerockmayorrespondstoshootinginrivermarketarkansasonlinecom",
+    "policereportidentifiesmanwoundedinlittlerockrivermarketshootingdefendantinearlie"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Little Rock’s Downtown Food Truck Festival draws crowd despite heat - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUZFbVNxZXZEMTJGWl9jMzFUejBkN1k1V1ZVUDA3LXV2aU10LUFScXFBaGxxYmZVb19DUWlPRThQOF8zSWRsaFdTeWlGZDV0Z1p0OXdFdVFETzVTdGhpZjVjUUZyTDJCZkpVOHFpR2JIR2RnWmsxLXdCcGd4Z3NTZUFxWF90SzNXRkJzWE14dkgtWTVaOVZFUVR4NnQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -962,7 +957,7 @@
    "title": "Incumbent, three challengers compete in Sherwood mayor’s race - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnVlN3hzUnFSR2t5V2owSDN0TlN4dWV3N1VCRnFJODRKanY5S1BORmFlS1FPRWVWUVFIQ2pMRkpJVG1nakIzSFYxVFdzdGUwVzBKb2xaSk5uZ1BnclZrU1NBMXVjQ292MS1uTTM5RjFSWjZJVGFwTEZGbjZjS0xKR1pVUFUyR0g3VUpUVWtfa214bGJFRU5pZlZPRDA?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1789947900.0,
+   "published": 1789948260.0,
    "first_seen": 1789966629.295487,
    "section": "major",
    "snippet": "",
