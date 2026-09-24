@@ -1,35 +1,13 @@
 {
- "updated": "2026-09-23T18:40:08.112286-05:00",
+ "updated": "2026-09-23T23:46:22.320665-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
-  {
-   "type": "article",
-   "title": "Little Rock, Kapor Center to develop startup businesses - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmowSVZOaERrdXlyNEV1T1VQSnVNN25yVUxEbnpHQlR3V3JMcHBPOU9DWXJwbHlEcDhxVjdJM2xldnI5MjFoeElUQTB6VEYtTmhjOXBvRExqcDJLbzlZTTMtUzRsX3NJY2VVck9OUWdOMkR0UDBkemJ6SFdlRnFyRkhzaTRGLTI2TXpoUnVxb0FrRldFNDM4?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790201160.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmowSVZOaERrdXlyNEV1T1VQSnVNN25yVUxEbnpHQlR3V3JMcHBPOU9DWXJwbHlEcDhxVjdJM2xldnI5MjFoeElUQTB6VEYtTmhjOXBvRExqcDJLbzlZTTMtUzRsX3NJY2VVck9OUWdOMkR0UDBkemJ6SFdlRnFyRkhzaTRGLTI2TXpoUnVxb0FrRldFNDM4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockkaporcentertodevelopstartupbusinessesthearkansasdemocratgazette"
-   ],
-   "first_seen": 1790206808.112286,
-   "section": "major"
-  },
   {
    "type": "article",
    "title": "NLR husband charged with capital murder in connection to fatal shooting of wife - KATV",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG95aEFpUUFpdlJ1bDdDSUVyUnZieG1reFpfYzZIOVNzdTJ6Y3RfYzVPeFdDNC1zQ01BNGhOVTVSajUzcUFfLXJiN2cwZjVHTmIxSk9GbENRd21KRmVSUk5EZjlTeXo4QTVLOXBfcmRSMnVpdUE1cEpGMFhLQ1Z1VmNzNlNkUURnczlpQ2NKRDJyWlhxUE15OQ?oc=5",
    "source": "KATV",
-   "published": 1790199545.0,
+   "published": 1790224200.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -44,6 +22,72 @@
     "nlrhusbandchargedwithcapitalmurderinconnectiontofatalshootingofwifekatv"
    ],
    "first_seen": 1790194791.249068,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock homeless outreach nonprofit The Van ousts director; founder Reddin returns as ‘temporary place-holder’ - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0RTUlV5WU52NkM4Q1dnYlAybTU3cHczSjVJUHJKWmxfOER5NnpxNklpMjBiMUpsd3RjaGQyNVZBQ2NUMGxBUVE2bFAybE11cmt0YUl4amYwSkRZM1Ruc3lHMDMxZmh4RmFoWVg5bEFUbU81RzFoRFVWbFVNd3poQXdMU2Y0bjUtdDJrZHlBUzYxVW92ZUttTGlCVmQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790206800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0RTUlV5WU52NkM4Q1dnYlAybTU3cHczSjVJUHJKWmxfOER5NnpxNklpMjBiMUpsd3RjaGQyNVZBQ2NUMGxBUVE2bFAybE11cmt0YUl4amYwSkRZM1Ruc3lHMDMxZmh4RmFoWVg5bEFUbU81RzFoRFVWbFVNd3poQXdMU2Y0bjUtdDJrZHlBUzYxVW92ZUttTGlCVmQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockhomelessoutreachnonprofitthevanoustsdirectorfounderreddinreturnsastemp"
+   ],
+   "first_seen": 1790225182.320665,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Kapor Center to facilitate startups in Little Rock - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmowSVZOaERrdXlyNEV1T1VQSnVNN25yVUxEbnpHQlR3V3JMcHBPOU9DWXJwbHlEcDhxVjdJM2xldnI5MjFoeElUQTB6VEYtTmhjOXBvRExqcDJLbzlZTTMtUzRsX3NJY2VVck9OUWdOMkR0UDBkemJ6SFdlRnFyRkhzaTRGLTI2TXpoUnVxb0FrRldFNDM4?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790202360.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmowSVZOaERrdXlyNEV1T1VQSnVNN25yVUxEbnpHQlR3V3JMcHBPOU9DWXJwbHlEcDhxVjdJM2xldnI5MjFoeElUQTB6VEYtTmhjOXBvRExqcDJLbzlZTTMtUzRsX3NJY2VVck9OUWdOMkR0UDBkemJ6SFdlRnFyRkhzaTRGLTI2TXpoUnVxb0FrRldFNDM4?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "kaporcentertofacilitatestartupsinlittlerockthearkansasdemocratgazette"
+   ],
+   "first_seen": 1790225182.320665,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police release names of couple in Tuesday morning deadly shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBjbGVmbjdsb0tabEVlMTBqTDZMemhxdFlfSHpOcFowLU9sWVlzRkp5emd2TWl0M3RGTUNQUWJDYnRRUjZ5UE93VG1fUkt5dUtzUmNKRHBLa2ZpWmpsQzFXdEVxME1DWGJ5VWJLbXVmUVlqaTFBVzBzWWpCUXZCOGNqeXQxZGozZDRrVzZ5VkM0LUlDU3FnekdNc1hjWUExcXFvaU9XZXFEaEdBU2l2cA?oc=5",
+   "source": "KARK",
+   "published": 1790195712.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBjbGVmbjdsb0tabEVlMTBqTDZMemhxdFlfSHpOcFowLU9sWVlzRkp5emd2TWl0M3RGTUNQUWJDYnRRUjZ5UE93VG1fUkt5dUtzUmNKRHBLa2ZpWmpsQzFXdEVxME1DWGJ5VWJLbXVmUVlqaTFBVzBzWWpCUXZCOGNqeXQxZGozZDRrVzZ5VkM0LUlDU3FnekdNc1hjWUExcXFvaU9XZXFEaEdBU2l2cA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpolicereleasenamesofcoupleintuesdaymorningdeadlyshootingkark"
+   ],
+   "first_seen": 1790225182.320665,
    "section": "crime"
   },
   {
@@ -70,25 +114,47 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Police Install “No Thru Traffic” Signs - arkansasradio.com",
+   "title": "North Little Rock Police Install “No Thru Traffic” Signs - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaG9pbk5Yc3pYVXVEcWhZS3V2OGNHeFRvRFIxUXNWTDFXSU1RZF94M2h5UFZoYVNvbE1Xbk5Sc0RtRkNMc05yZDhmbEl4YWNiVUdTS1FBaE9YakpBNnNBZE1XQmdqREJCdDhEX19vTUdyTzlnODRKcnJjcHJDSkR1M0RVQ2h6bzNncllLVzNjeEpzSkU?oc=5",
-   "source": "arkansasradio.com",
+   "source": "Arkansas Radio",
    "published": 1790190935.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasradio.com",
+     "source": "Arkansas Radio",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaG9pbk5Yc3pYVXVEcWhZS3V2OGNHeFRvRFIxUXNWTDFXSU1RZF94M2h5UFZoYVNvbE1Xbk5Sc0RtRkNMc05yZDhmbEl4YWNiVUdTS1FBaE9YakpBNnNBZE1XQmdqREJCdDhEX19vTUdyTzlnODRKcnJjcHJDSkR1M0RVQ2h6bzNncllLVzNjeEpzSkU?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpoliceinstallnothrutrafficsignsarkansasradiocom"
+    "northlittlerockpoliceinstallnothrutrafficsignsarkansasradio"
    ],
-   "first_seen": 1790206808.112286,
+   "first_seen": 1790225182.320665,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Heber Springs Council Approves Higher Bridge Estimate and Additional Paving Funds - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelNNb2s3RzExaUQyOFQ4LTJwdVJFTm9TaDZfNlZ5UmxsMWpVamZzS2tJXzRtT0lieVBMWlJRTjFjcmE1R3RqQ3llUk9OQ1l5UEZqeWpLT3lrekhCVXI1aWhvZlBGNXRmTzVCc2JrWV9IZzlpUmdMT2M5Mm80eVNoNzdWQS1EN1Frb1lrNjRR?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1790190869.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelNNb2s3RzExaUQyOFQ4LTJwdVJFTm9TaDZfNlZ5UmxsMWpVamZzS2tJXzRtT0lieVBMWlJRTjFjcmE1R3RqQ3llUk9OQ1l5UEZqeWpLT3lrekhCVXI1aWhvZlBGNXRmTzVCc2JrWV9IZzlpUmdMT2M5Mm80eVNoNzdWQS1EN1Frb1lrNjRR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "heberspringscouncilapproveshigherbridgeestimateandadditionalpavingfundsarkansasr"
+   ],
+   "first_seen": 1790225182.320665,
+   "section": "major"
   },
   {
    "type": "article",
@@ -121,15 +187,21 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "A Natural State Funeral Service",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVJjMy1BQ1VZTWNBVjN5OW9YbWlJR1JzWlNYUHFhQ3NydVFzam5yNXd0X0N3RWZwd3hFLWwzbzladE12eEMwcUZZNVdpTmNubjRSLXlQRlJYam9BSG9sbGZDdDJxRGExUkpab05HU0tMbmxURXJiVXNJQUQxSGlzZVJaSUZfZw?oc=5"
+    },
+    {
+     "source": "Legacy obituary",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0Y3MVFoWUQ4WmJaZWJBRmV0ZDFWaWUySTVwcDE4bnp0a0hOX09jalRBMHByemJZOHdISlVIeUVHOG5jVXIxR3JJZVVSOW9rb0VjZVdVeG10cXFfdTE0bUNHam8zbU5rdTVkbG9YLW16VWw2UGdkX1dKRGJfaDZoWHRR?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "cliftonrodgerwoodsjrage65anaturalstatefuneralservice"
+    "cliftonrodgerwoodsjrage65anaturalstatefuneralservice",
+    "cliftonrodgerwoodsjrobituary2026northlittlerockaranaturalstatefuneralservicecrem"
    ],
    "first_seen": 1790182501.368998,
    "section": "obits"
@@ -202,46 +274,24 @@
   },
   {
    "type": "article",
-   "title": "Charlie James Smith Obituary (2026) - North Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmJ3MTdRRVpzdDd1T3ctQjhMUDkwMXJmYXZ1N1FqaGs1OUtzemVyX2JIMkNkWG15ZGJNMHY4UGxSUXFnN0lhb0w2cUhGOV9tZWVVZ196VVV0bUtXN3JYQXhReC1Qa2tmWG9Nd3VvZlpobndIendrVlNpWjFxc3VIdDhR?oc=5",
-   "source": "Legacy obituary",
-   "published": 1790110766.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmJ3MTdRRVpzdDd1T3ctQjhMUDkwMXJmYXZ1N1FqaGs1OUtzemVyX2JIMkNkWG15ZGJNMHY4UGxSUXFnN0lhb0w2cUhGOV9tZWVVZ196VVV0bUtXN3JYQXhReC1Qa2tmWG9Nd3VvZlpobndIendrVlNpWjFxc3VIdDhR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "charliejamessmithobituary2026northlittlerockarsuperiorfuneralservicesnorthlittle"
-   ],
-   "first_seen": 1790114803.901717,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Firefighters Assist Oak Grove to Contain \"Structure Fire\" - arkansasradio.com",
+   "title": "North Little Rock Firefighters Assist Oak Grove to Contain \"Structure Fire\" - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUVwZFJpaHhiQVJJYklUOXJvLU9UOXdrbUV0SEJsWkdHbzhaTDhxRXlsUHZjRmUyMFRTSHVoUHRpZ2QzT3NGQ0o5LU1oN0pHT1RvRWo4UkZ2OV9hTWR2NmNjVHhtOGozWHdLcjBleU1LQ0h0RVZldDZPbUUzcU00RkpuSExQZHk4X0lJSzFGam1JVXR1cDBaZ1d1dGpzbHJBZDZWVVl3SGdtaEd4?oc=5",
-   "source": "arkansasradio.com",
+   "source": "Arkansas Radio",
    "published": 1790108481.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasradio.com",
+     "source": "Arkansas Radio",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUVwZFJpaHhiQVJJYklUOXJvLU9UOXdrbUV0SEJsWkdHbzhaTDhxRXlsUHZjRmUyMFRTSHVoUHRpZ2QzT3NGQ0o5LU1oN0pHT1RvRWo4UkZ2OV9hTWR2NmNjVHhtOGozWHdLcjBleU1LQ0h0RVZldDZPbUUzcU00RkpuSExQZHk4X0lJSzFGam1JVXR1cDBaZ1d1dGpzbHJBZDZWVVl3SGdtaEd4?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockfirefightersassistoakgrovetocontainstructurefirearkansasradiocom"
+    "northlittlerockfirefightersassistoakgrovetocontainstructurefirearkansasradio"
    ],
-   "first_seen": 1790206808.112286,
+   "first_seen": 1790225182.320665,
    "section": "major"
   },
   {
@@ -264,6 +314,34 @@
     "northlittlerockmanwhoshothimselfinthefaceduringpolicestandoffgets10yearsentencet"
    ],
    "first_seen": 1790206808.112286,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Homicide investigation underway by North Little Rock police - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5",
+   "source": "THV11",
+   "published": 1790100420.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5"
+    },
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhFQ3lpS3I4WUJKMDhpVHp5NG5JRHBhZGNSSWR6VVhPeG1ZUG1OVUdpTGhEX1JGLVh1cFEyYmVoYXNPMTNvdm12czFuOW0tSHM4RnVFeDhad2UzNnFuSDFJV09pcUx3a1ZyMGNVR3J2R3NwY3lWVXdDOTVKcTIyVzEwRWNIdHoyREFJeG81Z1VlYy15ZlZfWjRjTHNtN1owRktxR2trRTRLb0hnMDY5cGpMSGp5RjlBanF6ekZ0dGx3NEtIOFU5VTFqa1RXS3FUVmhaYnk0eEJaVVRBU1dDTWNwckQ?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "homicideinvestigationunderwaybynorthlittlerockpolicethv11com",
+    "womanfoundfatallyshotatnorthlittlerockhomehomicideinvestigationunderwaykatv"
+   ],
+   "first_seen": 1790103168.84492,
    "section": "crime"
   },
   {
@@ -323,34 +401,6 @@
   },
   {
    "type": "article",
-   "title": "Woman found fatally shot at North Little Rock home; homicide investigation underway - KATV",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhFQ3lpS3I4WUJKMDhpVHp5NG5JRHBhZGNSSWR6VVhPeG1ZUG1OVUdpTGhEX1JGLVh1cFEyYmVoYXNPMTNvdm12czFuOW0tSHM4RnVFeDhad2UzNnFuSDFJV09pcUx3a1ZyMGNVR3J2R3NwY3lWVXdDOTVKcTIyVzEwRWNIdHoyREFJeG81Z1VlYy15ZlZfWjRjTHNtN1owRktxR2trRTRLb0hnMDY5cGpMSGp5RjlBanF6ekZ0dGx3NEtIOFU5VTFqa1RXS3FUVmhaYnk0eEJaVVRBU1dDTWNwckQ?oc=5",
-   "source": "KATV",
-   "published": 1790099638.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhFQ3lpS3I4WUJKMDhpVHp5NG5JRHBhZGNSSWR6VVhPeG1ZUG1OVUdpTGhEX1JGLVh1cFEyYmVoYXNPMTNvdm12czFuOW0tSHM4RnVFeDhad2UzNnFuSDFJV09pcUx3a1ZyMGNVR3J2R3NwY3lWVXdDOTVKcTIyVzEwRWNIdHoyREFJeG81Z1VlYy15ZlZfWjRjTHNtN1owRktxR2trRTRLb0hnMDY5cGpMSGp5RjlBanF6ekZ0dGx3NEtIOFU5VTFqa1RXS3FUVmhaYnk0eEJaVVRBU1dDTWNwckQ?oc=5"
-    },
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "homicideinvestigationunderwaybynorthlittlerockpolicethv11com",
-    "womanfoundfatallyshotatnorthlittlerockhomehomicideinvestigationunderwaykatv"
-   ],
-   "first_seen": 1790103168.84492,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -398,98 +448,28 @@
   },
   {
    "type": "article",
-   "title": "Little Rock police investigate shooting in downtown river market - KATV",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0Q0aGxnYWQ0d3lmdkZ0RFltRTl0S01PNGNnMHZKNUk2Tm9QTDVpU1BRSFJGN0FDYjVsdy13UFJsblZBdFhLeGZvSlplcUdwR3E4cHdrbWd4elhWM3o5VUl2STVrZ1JvY3BSX0IzWWU2STdrS29uejlDUmJ0MW5SaVY4dEtwd2hVUjh5V2lkLUJxZWUxaEhZ?oc=5",
-   "source": "KATV",
-   "published": 1789873702.0,
+   "title": "Little Rock mayor responds to shooting in River Market - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789959600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "num_comments": null,
    "sources": [
     {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0Q0aGxnYWQ0d3lmdkZ0RFltRTl0S01PNGNnMHZKNUk2Tm9QTDVpU1BRSFJGN0FDYjVsdy13UFJsblZBdFhLeGZvSlplcUdwR3E4cHdrbWd4elhWM3o5VUl2STVrZ1JvY3BSX0IzWWU2STdrS29uejlDUmJ0MW5SaVY4dEtwd2hVUjh5V2lkLUJxZWUxaEhZ?oc=5"
-    },
-    {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
     "littlerockmayordirectsincreasedpolicepresenceinrivermarketareafollowingweekendsh",
     "littlerockmayorrespondstoshootinginrivermarketthearkansasdemocratgazette",
-    "littlerockpoliceinvestigateshootingindowntownrivermarketkatv"
+    "policereportidentifiesmanwoundedinlittlerockrivermarketshootingdefendantinearlie"
    ],
    "first_seen": 1790206808.112286,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "David’s Burgers proposes meat processing facility at site outside Jacksonville - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOC01blhwY1JaTnZ1S0Ftai15eTRzR05nQjVxX0VTNDZGWTA5elRsYWl4UDlHVzNGSE5VNnQ2dGtOSmwzNDhkVEZPV0ZfejlqR1F6QURoVjYzQWRRVVBQT0xKRC0yb3AtRkJabUNlRkpsMDFlZE5KNkVjSE9Rb1pXNlktNFFtYTFZeDFhb2dNNTM4TXplalhMeVNNRDZCdw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789866000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOC01blhwY1JaTnZ1S0Ftai15eTRzR05nQjVxX0VTNDZGWTA5elRsYWl4UDlHVzNGSE5VNnQ2dGtOSmwzNDhkVEZPV0ZfejlqR1F6QURoVjYzQWRRVVBQT0xKRC0yb3AtRkJabUNlRkpsMDFlZE5KNkVjSE9Rb1pXNlktNFFtYTFZeDFhb2dNNTM4TXplalhMeVNNRDZCdw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "davidsburgersproposesmeatprocessingfacilityatsiteoutsidejacksonvillethearkansasd"
-   ],
-   "first_seen": 1790206808.112286,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "One in every three Little Rock district schools raise state letter grades from 2024-25 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVklPTFIyaDVGQnJCSUh3NXVzR1RacTFlQ1dweUV2QXN0YXZyanc2bVNpblZaVHdaNEtndjZDSXlDREQ1X1hPeU12WVcyTlZBaGlGckM2M0ZGSXRvOGJGMUs4WGYzVmctLUxQYzZiZ0pCeTRlOS1ZVFdaTFd3UVk2VDlHdmc3eFpKek9LdUdTVEhYS1RtemRQSl95Y0E?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789773600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVklPTFIyaDVGQnJCSUh3NXVzR1RacTFlQ1dweUV2QXN0YXZyanc2bVNpblZaVHdaNEtndjZDSXlDREQ1X1hPeU12WVcyTlZBaGlGckM2M0ZGSXRvOGJGMUs4WGYzVmctLUxQYzZiZ0pCeTRlOS1ZVFdaTFd3UVk2VDlHdmc3eFpKek9LdUdTVEhYS1RtemRQSl95Y0E?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "oneineverythreelittlerockdistrictschoolsraisestatelettergradesfrom202425thearkan"
-   ],
-   "first_seen": 1790206808.112286,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "N. Little Rock vs Away - Girls Middle School Volleyball 09/17/2026 | Watch Live & On Demand - NFHS Network",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0llQ2xZRFYxR0E2cEdqdjRQcnEtNnk1cmlqUk1qUDgwRWtwNjd4X1U0SWNub2tDWkRoTnZHdWtzR3l3aGRUSjEzWm1faldvYzZIWUMtVkNYZ3l0dUtrZUJvMURsbGktaEhKN0RhY2c1YjF6SFkzaWVrTF9SQVotR05rajFHazg4eWxFU0lIWmJ0R0Y5YzJhdlUwTGJCejho?oc=5",
-   "source": "NFHS Network",
-   "published": 1789465064.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "NFHS Network",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0llQ2xZRFYxR0E2cEdqdjRQcnEtNnk1cmlqUk1qUDgwRWtwNjd4X1U0SWNub2tDWkRoTnZHdWtzR3l3aGRUSjEzWm1faldvYzZIWUMtVkNYZ3l0dUtrZUJvMURsbGktaEhKN0RhY2c1YjF6SFkzaWVrTF9SQVotR05rajFHazg4eWxFU0lIWmJ0R0Y5YzJhdlUwTGJCejho?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "nlittlerockvsawaygirlsmiddleschoolvolleyball09172026watchliveondemandnfhsnetwork"
-   ],
-   "first_seen": 1790143012.147113,
-   "section": "sports"
   }
  ]
 }
