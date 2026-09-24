@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T14:07:46.043634-05:00",
+ "updated": "2026-09-24T17:22:06.646405-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -99,14 +99,20 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBjbGVmbjdsb0tabEVlMTBqTDZMemhxdFlfSHpOcFowLU9sWVlzRkp5emd2TWl0M3RGTUNQUWJDYnRRUjZ5UE93VG1fUkt5dUtzUmNKRHBLa2ZpWmpsQzFXdEVxME1DWGJ5VWJLbXVmUVlqaTFBVzBzWWpCUXZCOGNqeXQxZGozZDRrVzZ5VkM0LUlDU3FnekdNc1hjWUExcXFvaU9XZXFEaEdBU2l2cA?oc=5"
+    },
+    {
+     "source": "FOX16",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzl6NDhvOUtaaTdwdlRCcGg4ZmlDSVlmcU41bS1ucHJENTNtYTdTSEU0dHFEOVJOci16YU9hWERNMzdYaEFsZ1dGcE9ySlJZeGpQWnBnc3Awdk1KbGlmb1pXa1NzdXdPelFNYnVBQk9WNTZUR3NvTldpOXBvdHJnMk9pOVlrUFhadS1lMjJfQzJ3c3lYUEVNWVNOZmYxd0ZvVXNQV3ZaV2d1SWlPelh3VjZ30gG3AUFVX3lxTFBFY2NwdTk3Qm1feVJSTWxxZk9yeVRuekc5OE01S2x4NmZaWE02YVpjUVFwZ045LWxCakt1VjRVMmtDZ0xrRlhkTklaVzFJcWpfNUppbk42LTBqUXdlM3BNR256RWhtdWJUOHg2STc1YmFtV0Q1TFc0dXY2QTlZN0JPbWlZbXlnalQ4MDFjaHA5RVMydWwyRXlSZjRPYVlCWWpaMzhWQ1pLS2FKR2htVncyRm1XQkNIOA?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
+    "northlittlerockpolicereleasenamesofcoupleintuesdaymorningdeadlyshootingfox16com",
     "northlittlerockpolicereleasenamesofcoupleintuesdaymorningdeadlyshootingkark"
    ],
    "first_seen": 1790225182.320665,
@@ -160,28 +166,6 @@
     "northlittlerockpoliceinstallnothrutrafficsignsarkansasradio"
    ],
    "first_seen": 1790225182.320665,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Victim in fatal North Little Rock shooting identified as wife of man arrested - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnljSWFocVFXZlFiSmtaX2dnR09WSDNuNEZkMF9oSlBKYmZreUExWWIybXAyWWxIMlYtRTVwRmkyS0s1NDduN2ZiUGFkRmlFeHNzSGtQSDRnSkxqMnJGeERLeG1Bd3MxSWRDanRTeWxJTGxJa1N4VmFaQnpJNGREeWMzdUJHR1hZSWlvN1o1VlZzWFdxaVE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790190900.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnljSWFocVFXZlFiSmtaX2dnR09WSDNuNEZkMF9oSlBKYmZreUExWWIybXAyWWxIMlYtRTVwRmkyS0s1NDduN2ZiUGFkRmlFeHNzSGtQSDRnSkxqMnJGeERLeG1Bd3MxSWRDanRTeWxJTGxJa1N4VmFaQnpJNGREeWMzdUJHR1hZSWlvN1o1VlZzWFdxaVE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
-   ],
-   "first_seen": 1790276866.043634,
    "section": "crime"
   },
   {
@@ -392,6 +376,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -400,7 +385,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind"
+    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind",
+    "teenagerarrestedafterlittlerockcarjackingthearkansasdemocratgazette",
+    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
    ],
    "first_seen": 1790024567.382441,
    "section": "crime"
@@ -451,50 +438,6 @@
    ],
    "first_seen": 1790206808.112286,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Incumbent, three challengers compete in Sherwood mayor’s race - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnVlN3hzUnFSR2t5V2owSDN0TlN4dWV3N1VCRnFJODRKanY5S1BORmFlS1FPRWVWUVFIQ2pMRkpJVG1nakIzSFYxVFdzdGUwVzBKb2xaSk5uZ1BnclZrU1NBMXVjQ292MS1uTTM5RjFSWjZJVGFwTEZGbjZjS0xKR1pVUFUyR0g3VUpUVWtfa214bGJFRU5pZlZPRDA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789948260.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnVlN3hzUnFSR2t5V2owSDN0TlN4dWV3N1VCRnFJODRKanY5S1BORmFlS1FPRWVWUVFIQ2pMRkpJVG1nakIzSFYxVFdzdGUwVzBKb2xaSk5uZ1BnclZrU1NBMXVjQ292MS1uTTM5RjFSWjZJVGFwTEZGbjZjS0xKR1pVUFUyR0g3VUpUVWtfa214bGJFRU5pZlZPRDA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "incumbentthreechallengerscompeteinsherwoodmayorsracethearkansasdemocratgazette"
-   ],
-   "first_seen": 1790276866.043634,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "N. Little Rock vs Away - Girls Middle School Volleyball 09/17/2026 | Watch Live & On Demand - NFHS Network",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0llQ2xZRFYxR0E2cEdqdjRQcnEtNnk1cmlqUk1qUDgwRWtwNjd4X1U0SWNub2tDWkRoTnZHdWtzR3l3aGRUSjEzWm1faldvYzZIWUMtVkNYZ3l0dUtrZUJvMURsbGktaEhKN0RhY2c1YjF6SFkzaWVrTF9SQVotR05rajFHazg4eWxFU0lIWmJ0R0Y5YzJhdlUwTGJCejho?oc=5",
-   "source": "NFHS Network",
-   "published": 1789465064.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "NFHS Network",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0llQ2xZRFYxR0E2cEdqdjRQcnEtNnk1cmlqUk1qUDgwRWtwNjd4X1U0SWNub2tDWkRoTnZHdWtzR3l3aGRUSjEzWm1faldvYzZIWUMtVkNYZ3l0dUtrZUJvMURsbGktaEhKN0RhY2c1YjF6SFkzaWVrTF9SQVotR05rajFHazg4eWxFU0lIWmJ0R0Y5YzJhdlUwTGJCejho?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "nlittlerockvsawaygirlsmiddleschoolvolleyball09172026watchliveondemandnfhsnetwork"
-   ],
-   "first_seen": 1790262208.736749,
-   "section": "sports"
   }
  ]
 }

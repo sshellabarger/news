@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T14:07:46.043634-05:00",
+ "updated": "2026-09-24T17:22:06.646405-05:00",
  "items": [
   {
    "type": "article",
@@ -148,10 +148,15 @@
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBjbGVmbjdsb0tabEVlMTBqTDZMemhxdFlfSHpOcFowLU9sWVlzRkp5emd2TWl0M3RGTUNQUWJDYnRRUjZ5UE93VG1fUkt5dUtzUmNKRHBLa2ZpWmpsQzFXdEVxME1DWGJ5VWJLbXVmUVlqaTFBVzBzWWpCUXZCOGNqeXQxZGozZDRrVzZ5VkM0LUlDU3FnekdNc1hjWUExcXFvaU9XZXFEaEdBU2l2cA?oc=5"
+    },
+    {
+     "source": "FOX16",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzl6NDhvOUtaaTdwdlRCcGg4ZmlDSVlmcU41bS1ucHJENTNtYTdTSEU0dHFEOVJOci16YU9hWERNMzdYaEFsZ1dGcE9ySlJZeGpQWnBnc3Awdk1KbGlmb1pXa1NzdXdPelFNYnVBQk9WNTZUR3NvTldpOXBvdHJnMk9pOVlrUFhadS1lMjJfQzJ3c3lYUEVNWVNOZmYxd0ZvVXNQV3ZaV2d1SWlPelh3VjZ30gG3AUFVX3lxTFBFY2NwdTk3Qm1feVJSTWxxZk9yeVRuekc5OE01S2x4NmZaWE02YVpjUVFwZ045LWxCakt1VjRVMmtDZ0xrRlhkTklaVzFJcWpfNUppbk42LTBqUXdlM3BNR256RWhtdWJUOHg2STc1YmFtV0Q1TFc0dXY2QTlZN0JPbWlZbXlnalQ4MDFjaHA5RVMydWwyRXlSZjRPYVlCWWpaMzhWQ1pLS2FKR2htVncyRm1XQkNIOA?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
+    "northlittlerockpolicereleasenamesofcoupleintuesdaymorningdeadlyshootingfox16com",
     "northlittlerockpolicereleasenamesofcoupleintuesdaymorningdeadlyshootingkark"
    ]
   },
@@ -246,28 +251,6 @@
    "source_count": 1,
    "member_keys": [
     "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedarkansasonlinec"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Victim in fatal North Little Rock shooting identified as wife of man arrested - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnljSWFocVFXZlFiSmtaX2dnR09WSDNuNEZkMF9oSlBKYmZreUExWWIybXAyWWxIMlYtRTVwRmkyS0s1NDduN2ZiUGFkRmlFeHNzSGtQSDRnSkxqMnJGeERLeG1Bd3MxSWRDanRTeWxJTGxJa1N4VmFaQnpJNGREeWMzdUJHR1hZSWlvN1o1VlZzWFdxaVE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790190900.0,
-   "first_seen": 1790276866.043634,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnljSWFocVFXZlFiSmtaX2dnR09WSDNuNEZkMF9oSlBKYmZreUExWWIybXAyWWxIMlYtRTVwRmkyS0s1NDduN2ZiUGFkRmlFeHNzSGtQSDRnSkxqMnJGeERLeG1Bd3MxSWRDanRTeWxJTGxJa1N4VmFaQnpJNGREeWMzdUJHR1hZSWlvN1o1VlZzWFdxaVE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
    ]
   },
   {
@@ -859,7 +842,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind"
+    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind",
+    "teenagerarrestedafterlittlerockcarjackingthearkansasdemocratgazette",
+    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
    ]
   },
   {
