@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T23:46:22.320665-05:00",
+ "updated": "2026-09-24T04:58:28.861607-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -7,7 +7,7 @@
    "title": "NLR husband charged with capital murder in connection to fatal shooting of wife - KATV",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG95aEFpUUFpdlJ1bDdDSUVyUnZieG1reFpfYzZIOVNzdTJ6Y3RfYzVPeFdDNC1zQ01BNGhOVTVSajUzcUFfLXJiN2cwZjVHTmIxSk9GbENRd21KRmVSUk5EZjlTeXo4QTVLOXBfcmRSMnVpdUE1cEpGMFhLQ1Z1VmNzNlNkUURnczlpQ2NKRDJyWlhxUE15OQ?oc=5",
    "source": "KATV",
-   "published": 1790224200.0,
+   "published": 1790231825.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -22,6 +22,50 @@
     "nlrhusbandchargedwithcapitalmurderinconnectiontofatalshootingofwifekatv"
    ],
    "first_seen": 1790194791.249068,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Suspect connected to Sept. 2025 shooting arrested in Little Rock by fugitive task force - KATV",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOa0xUenJVTkpCUzFGMEZTMk05V2szMEpLWl9XRklOV2NCOGtISm9PSWIxTVRSc25UWVl6SDNOUnFPelF3am9yTVZTN3I3WktGZFhxbjdCcUdkSGFoR1lKcFZBdHlSd1VDbXE0TDRVQV9adFhzY1Rra0JHaDdYLVlWb1RXVHpnUzhNeHhaSldvN2R5Q0N5SEZRTlJocDJodnJNNmI4WjZ2aEpXaHNrSzB6dHhWWnl4QjBqVlBQUERVc19oWHdCam5mSDRZTEY5NnNHdVNCRkUxS2V1LWR5MnpZSWtZSjVaNjJMMmc?oc=5",
+   "source": "KATV",
+   "published": 1790230239.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOa0xUenJVTkpCUzFGMEZTMk05V2szMEpLWl9XRklOV2NCOGtISm9PSWIxTVRSc25UWVl6SDNOUnFPelF3am9yTVZTN3I3WktGZFhxbjdCcUdkSGFoR1lKcFZBdHlSd1VDbXE0TDRVQV9adFhzY1Rra0JHaDdYLVlWb1RXVHpnUzhNeHhaSldvN2R5Q0N5SEZRTlJocDJodnJNNmI4WjZ2aEpXaHNrSzB6dHhWWnl4QjBqVlBQUERVc19oWHdCam5mSDRZTEY5NnNHdVNCRkUxS2V1LWR5MnpZSWtZSjVaNjJMMmc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "suspectconnectedtosept2025shootingarrestedinlittlerockbyfugitivetaskforcekatv"
+   ],
+   "first_seen": 1790243908.861607,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Police report identifies man wounded in Little Rock River Market shooting; defendant in earlier case gets probation - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzIyNEhidjhGWWpYQkl3ekcwSG5JTTJ6NEVBZHd5MzNnNGtXRnpCQUlLMjhfenNoaWZib0pjUHJsOFhEX3NpZTdPS1dvQkJFZjlza0hRanhzYmZxT0FsZGRnZ1Fsc1BYdUx4ai1KSHN5bDFEUUFGOGJuSUExQlpIN28tQTBubTEtZmtERnZEc28tT3BTVVYwSk1Gdw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790207400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzIyNEhidjhGWWpYQkl3ekcwSG5JTTJ6NEVBZHd5MzNnNGtXRnpCQUlLMjhfenNoaWZib0pjUHJsOFhEX3NpZTdPS1dvQkJFZjlza0hRanhzYmZxT0FsZGRnZ1Fsc1BYdUx4ai1KSHN5bDFEUUFGOGJuSUExQlpIN28tQTBubTEtZmtERnZEc28tT3BTVVYwSk1Gdw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policereportidentifiesmanwoundedinlittlerockrivermarketshootingdefendantinearlie"
+   ],
+   "first_seen": 1790206808.112286,
    "section": "crime"
   },
   {
@@ -92,21 +136,27 @@
   },
   {
    "type": "article",
-   "title": "Pipe break in North Little Rock repaired; customers may see brief discoloration in tap water - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTRzZ1o4a1h6SG4zRUhydmw1WjZFZUN0XzZIRUUwdjlLODF3MWtLRDlIa2tvbm9Lb0Fhd2xBU09oLXhtT2R4WHYwNWd3bHI0d0RBR2RzcmRjdUIyUC15dkpNQ3ZVelJ5Y0hUSktQQ1N2anpTcXQ0MjlrU3ZoYTMydnRhQkNuMlFFX01Xd2hJUWZoUXM?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
+   "title": "Pipe break in North Little Rock repaired; customers may see brief discoloration in tap water - Northwest Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0ZNUXpJcHh4RUNJalF5MTlTVHVWbkptMXUyNndTX2pYMnJ2YVh1ZlNRNlJ6UDJpWHM2NFhTMGl4ZjZqUlVHVUt3X3lObWRFRTFaQ0U0SjN4Tnd5WXlJLVpVOFFHalN6V3EyYWN4dmdhNEVjVWplQjU3dHFXUnliUlg0cnA3ZUtHYTI1Mw?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
    "published": 1790192880.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0ZNUXpJcHh4RUNJalF5MTlTVHVWbkptMXUyNndTX2pYMnJ2YVh1ZlNRNlJ6UDJpWHM2NFhTMGl4ZjZqUlVHVUt3X3lObWRFRTFaQ0U0SjN4Tnd5WXlJLVpVOFFHalN6V3EyYWN4dmdhNEVjVWplQjU3dHFXUnliUlg0cnA3ZUtHYTI1Mw?oc=5"
+    },
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTRzZ1o4a1h6SG4zRUhydmw1WjZFZUN0XzZIRUUwdjlLODF3MWtLRDlIa2tvbm9Lb0Fhd2xBU09oLXhtT2R4WHYwNWd3bHI0d0RBR2RzcmRjdUIyUC15dkpNQ3ZVelJ5Y0hUSktQQ1N2anpTcXQ0MjlrU3ZoYTMydnRhQkNuMlFFX01Xd2hJUWZoUXM?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
+    "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaternor",
     "pipebreakinnorthlittlerockrepairedcustomersmayseebriefdiscolorationintapwaterthe"
    ],
    "first_seen": 1790206808.112286,
@@ -200,8 +250,8 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "cliftonrodgerwoodsjrage65anaturalstatefuneralservice",
-    "cliftonrodgerwoodsjrobituary2026northlittlerockaranaturalstatefuneralservicecrem"
+    "cliftonrodgerrodgerwoodsjrlegacyobituary",
+    "cliftonrodgerwoodsjrage65anaturalstatefuneralservice"
    ],
    "first_seen": 1790182501.368998,
    "section": "obits"
@@ -274,78 +324,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Firefighters Assist Oak Grove to Contain \"Structure Fire\" - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUVwZFJpaHhiQVJJYklUOXJvLU9UOXdrbUV0SEJsWkdHbzhaTDhxRXlsUHZjRmUyMFRTSHVoUHRpZ2QzT3NGQ0o5LU1oN0pHT1RvRWo4UkZ2OV9hTWR2NmNjVHhtOGozWHdLcjBleU1LQ0h0RVZldDZPbUUzcU00RkpuSExQZHk4X0lJSzFGam1JVXR1cDBaZ1d1dGpzbHJBZDZWVVl3SGdtaEd4?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1790108481.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUVwZFJpaHhiQVJJYklUOXJvLU9UOXdrbUV0SEJsWkdHbzhaTDhxRXlsUHZjRmUyMFRTSHVoUHRpZ2QzT3NGQ0o5LU1oN0pHT1RvRWo4UkZ2OV9hTWR2NmNjVHhtOGozWHdLcjBleU1LQ0h0RVZldDZPbUUzcU00RkpuSExQZHk4X0lJSzFGam1JVXR1cDBaZ1d1dGpzbHJBZDZWVVl3SGdtaEd4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockfirefightersassistoakgrovetocontainstructurefirearkansasradio"
-   ],
-   "first_seen": 1790225182.320665,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock man who shot himself in the face during police standoff gets 10-year sentence - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0p4Q2Y1eXNkZzE3N21NZFNQbTVaNjdnUXhrVDAwU1lwYWRjbFB0OVNuQ01PVmlSQUdsMi02QnlCMmdfdnNGdWFYbmFfM0tDQjdmazZpcTJERDEyNVNxVEwxWjZYVThrcU04bG42N1FwUFRHdlVDTjBVN0ZiNHdiRlNKZE5WWmlERlFuWE0zUEZaWVF1ekVidjlB?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790108400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0p4Q2Y1eXNkZzE3N21NZFNQbTVaNjdnUXhrVDAwU1lwYWRjbFB0OVNuQ01PVmlSQUdsMi02QnlCMmdfdnNGdWFYbmFfM0tDQjdmazZpcTJERDEyNVNxVEwxWjZYVThrcU04bG42N1FwUFRHdlVDTjBVN0ZiNHdiRlNKZE5WWmlERlFuWE0zUEZaWVF1ekVidjlB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockmanwhoshothimselfinthefaceduringpolicestandoffgets10yearsentencet"
-   ],
-   "first_seen": 1790206808.112286,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Homicide investigation underway by North Little Rock police - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5",
-   "source": "THV11",
-   "published": 1790100420.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhFQ3lpS3I4WUJKMDhpVHp5NG5JRHBhZGNSSWR6VVhPeG1ZUG1OVUdpTGhEX1JGLVh1cFEyYmVoYXNPMTNvdm12czFuOW0tSHM4RnVFeDhad2UzNnFuSDFJV09pcUx3a1ZyMGNVR3J2R3NwY3lWVXdDOTVKcTIyVzEwRWNIdHoyREFJeG81Z1VlYy15ZlZfWjRjTHNtN1owRktxR2trRTRLb0hnMDY5cGpMSGp5RjlBanF6ekZ0dGx3NEtIOFU5VTFqa1RXS3FUVmhaYnk0eEJaVVRBU1dDTWNwckQ?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "homicideinvestigationunderwaybynorthlittlerockpolicethv11com",
-    "womanfoundfatallyshotatnorthlittlerockhomehomicideinvestigationunderwaykatv"
-   ],
-   "first_seen": 1790103168.84492,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "Woman killed in shooting at North Little Rock home - KARK",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGtQcVNSWmNuT2VVWHZ6VDBUUWdSZzQ3aWpNLWQ5UUlHOEx5SnJOWDUzTi1NcjhYV2FZZEZlM0JzNThaMmtNaVBKRzJaSFZZSzFxaFhiWEFhRXNIQ0JYQWVUMjZnTEJqbnJWQ3NkQmQxdUlVbmVQUEFZNDR3TS0yUTVteUQ?oc=5",
    "source": "KARK",
@@ -401,6 +379,56 @@
   },
   {
    "type": "article",
+   "title": "Woman found fatally shot at North Little Rock home; homicide investigation underway - KATV",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhFQ3lpS3I4WUJKMDhpVHp5NG5JRHBhZGNSSWR6VVhPeG1ZUG1OVUdpTGhEX1JGLVh1cFEyYmVoYXNPMTNvdm12czFuOW0tSHM4RnVFeDhad2UzNnFuSDFJV09pcUx3a1ZyMGNVR3J2R3NwY3lWVXdDOTVKcTIyVzEwRWNIdHoyREFJeG81Z1VlYy15ZlZfWjRjTHNtN1owRktxR2trRTRLb0hnMDY5cGpMSGp5RjlBanF6ekZ0dGx3NEtIOFU5VTFqa1RXS3FUVmhaYnk0eEJaVVRBU1dDTWNwckQ?oc=5",
+   "source": "KATV",
+   "published": 1790099638.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhFQ3lpS3I4WUJKMDhpVHp5NG5JRHBhZGNSSWR6VVhPeG1ZUG1OVUdpTGhEX1JGLVh1cFEyYmVoYXNPMTNvdm12czFuOW0tSHM4RnVFeDhad2UzNnFuSDFJV09pcUx3a1ZyMGNVR3J2R3NwY3lWVXdDOTVKcTIyVzEwRWNIdHoyREFJeG81Z1VlYy15ZlZfWjRjTHNtN1owRktxR2trRTRLb0hnMDY5cGpMSGp5RjlBanF6ekZ0dGx3NEtIOFU5VTFqa1RXS3FUVmhaYnk0eEJaVVRBU1dDTWNwckQ?oc=5"
+    },
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "homicideinvestigationunderwaybynorthlittlerockpolicethv11com",
+    "womanfoundfatallyshotatnorthlittlerockhomehomicideinvestigationunderwaykatv"
+   ],
+   "first_seen": 1790103168.84492,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock mayor directs increased police presence in River Market area following weekend shooting - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlNTclNsRnpxazVEZElIRklBd1lDbUJaNWNuazhnQTU3Um1IMlNxMmstTGMwYXlhQnQ2V0tvLVpLenlNaFpaQy1TMmcyVU01a0VmbUI3YjByNzd2OE0wTnZVYzdieGhIZ0RUMEVHQVVVY1BOZ0FwRGFUM0c3QnZzNWNIMEtZTjluTG1fU2pab1h6NEgxWFE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790034660.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlNTclNsRnpxazVEZElIRklBd1lDbUJaNWNuazhnQTU3Um1IMlNxMmstTGMwYXlhQnQ2V0tvLVpLenlNaFpaQy1TMmcyVU01a0VmbUI3YjByNzd2OE0wTnZVYzdieGhIZ0RUMEVHQVVVY1BOZ0FwRGFUM0c3QnZzNWNIMEtZTjluTG1fU2pab1h6NEgxWFE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockmayordirectsincreasedpolicepresenceinrivermarketareafollowingweekendsh"
+   ],
+   "first_seen": 1790206808.112286,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -413,12 +441,17 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPME1hOGlaMFVCU3VpVVg0aVFwalM0ZXVtRjh3RENIclMxUnlndjVQSXU5OXl5MThLRldkcU8wVnJ4YlpVWGdNMXNrQ3FMM0tOWjAzLXpMZWhId18xc3hPUFczS2FuQ3pGcmltU01Rcng2Rkhacm90c2cyZV9mVldFclpyOERXS2ZIXzRDM1QzTQ?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
     "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind",
     "teenagerarrestedafterlittlerockcarjackingthearkansasdemocratgazette",
+    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestednorthwestarkans",
     "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
    ],
    "first_seen": 1790024567.382441,
@@ -444,31 +477,6 @@
     "northlittlerockpolicearrestmanforstealingcarwithoutanenginenorthwestarkansasdemo"
    ],
    "first_seen": 1790163117.323838,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock mayor responds to shooting in River Market - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1789959600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHNIVXoycEJXcFhXQmR6TUo0VElRZUttdW9wRzBjVFRsMEFlNkMzQm10WjFrM0FDcERXbWNla3F0UVJjRC11OGVSeVMxazBJM3k1SVJZNG44TXJ4SXR5UVJMWGYwWWxQV3hIWFcxZVV4N2xGMHRVZXlJVzR1Z0xkQlhxUC04WFJINnN1cFFqNDl5dS1nbUZscElCV2s?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockmayordirectsincreasedpolicepresenceinrivermarketareafollowingweekendsh",
-    "littlerockmayorrespondstoshootinginrivermarketthearkansasdemocratgazette",
-    "policereportidentifiesmanwoundedinlittlerockrivermarketshootingdefendantinearlie"
-   ],
-   "first_seen": 1790206808.112286,
    "section": "crime"
   }
  ]
