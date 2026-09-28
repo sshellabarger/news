@@ -1,7 +1,29 @@
 {
- "updated": "2026-09-28T01:50:48.644338-05:00",
+ "updated": "2026-09-28T10:24:45.169295-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Fayetteville City Council candidates discuss development code, NDAs, aquatics center - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUt3NzJXaXB6NnZwUlpnZzBYaW9YM0llN3hkeUtoaDBCOS11NGVWSWc2ZVBXR3ltZmpjSUtLWGZVZlRYWjJJLWZFNnFzR0NrSm9DM2hieHVvMktweWdvWDhEem0xRFEtbHptYjF4WkVGUHpSWUkyd0dUSU82VjZ2T21WTlU3OWNkY0Z6ZzVSejJQeUhLMkIzYg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790586060.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUt3NzJXaXB6NnZwUlpnZzBYaW9YM0llN3hkeUtoaDBCOS11NGVWSWc2ZVBXR3ltZmpjSUtLWGZVZlRYWjJJLWZFNnFzR0NrSm9DM2hieHVvMktweWdvWDhEem0xRFEtbHptYjF4WkVGUHpSWUkyd0dUSU82VjZ2T21WTlU3OWNkY0Z6ZzVSejJQeUhLMkIzYg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "fayettevillecitycouncilcandidatesdiscussdevelopmentcodendasaquaticscenterthearka"
+   ],
+   "first_seen": 1790609085.169295,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Holladay, Renshaw face rematch in race for Arkansas House District 70 in North Little Rock, Sherwood - The Arkansas Democrat-Gazette",
@@ -50,47 +72,25 @@
   },
   {
    "type": "article",
-   "title": "Medical emergencies force officials to stop Cabot football game and cancel homecoming dance - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790452200.0,
+   "title": "Arkansas Highway Police seize cocaine, other drugs and stolen UTV in I-40 traffic stops - KATV",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODg5VU5idmRjMXRXSXllSE5yenliOVNHSmh1WFRkck5lbXVIT1Zka1FjYnFNcnJuNWVwemw0blBwUldzZ2VuSjZOZUJlc0VJdUllLVZTRVQ3NmxzM3I1ekdIdzJwc1JaVUdqUkhsckZhdE1TNzVnLURDeklNSVR3OGxCdXZmSGpsNk10QWxuREdWVEwybGsxT2k5TVhnM0lJV25FaG9vMW1EZmN5SW5GYm5kQl8?oc=5",
+   "source": "KATV",
+   "published": 1790436930.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5"
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODg5VU5idmRjMXRXSXllSE5yenliOVNHSmh1WFRkck5lbXVIT1Zka1FjYnFNcnJuNWVwemw0blBwUldzZ2VuSjZOZUJlc0VJdUllLVZTRVQ3NmxzM3I1ekdIdzJwc1JaVUdqUkhsckZhdE1TNzVnLURDeklNSVR3OGxCdXZmSGpsNk10QWxuREdWVEwybGsxT2k5TVhnM0lJV25FaG9vMW1EZmN5SW5GYm5kQl8?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "medicalemergenciesforceofficialstostopcabotfootballgameandcancelhomecomingdancet"
+    "arkansashighwaypoliceseizecocaineotherdrugsandstolenutvini40trafficstopskatv"
    ],
-   "first_seen": 1790496395.963054,
-   "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "ENTERTAINMENT: Fantasies, folk songs on Festival of the Senses program - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONklHLVFIY1pVa1FMQjFYQ0ZkeVd6ZFpIbkM3U09nam5TemVGcUJPbjNuMHJ4WDMtNWhPT3NpUXZsempJQzBrYmRQT3FkdEhudGdTbVFnZzFCdkRsbHFjc2lVMTdHMElBU1hoU0dvUmZMTDdKZ0Z0aXZLS1Q2c1pJMHhCcXhhdXhMWDJDaGlSWmplSmNlNkxocUNCOWo3YzNFWjlBT0FCNFlGZjRIZ3lick1tXzR3d2cy?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790442000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONklHLVFIY1pVa1FMQjFYQ0ZkeVd6ZFpIbkM3U09nam5TemVGcUJPbjNuMHJ4WDMtNWhPT3NpUXZsempJQzBrYmRQT3FkdEhudGdTbVFnZzFCdkRsbHFjc2lVMTdHMElBU1hoU0dvUmZMTDdKZ0Z0aXZLS1Q2c1pJMHhCcXhhdXhMWDJDaGlSWmplSmNlNkxocUNCOWo3YzNFWjlBT0FCNFlGZjRIZ3lick1tXzR3d2cy?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "entertainmentfantasiesfolksongsonfestivalofthesensesprogramthearkansasdemocratga"
-   ],
-   "first_seen": 1790496395.963054,
-   "section": "major"
+   "first_seen": 1790609085.169295,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -138,28 +138,6 @@
   },
   {
    "type": "article",
-   "title": "Donald \"DJ\" Jones Obituary (2026) - North Little Rock, AR - Relerford Funeral Home - Stuttgart - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1d3UVhOZ2VydGtwVlcxOWozM0VySDNTNEpwc20wRWlqcnBma2RSR3YyUTg3dnhFVEZZQ0lCUmVkVTYyMG9yVFRhUDA3Snhuc2ZpY0kxWTVXeVh0UFRtd3V2QlQwVDM1Z3VIYjhtbHhPdVc0MzBqQ2lmV1dfeFYyZw?oc=5",
-   "source": "Legacy obituary",
-   "published": 1790396843.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1d3UVhOZ2VydGtwVlcxOWozM0VySDNTNEpwc20wRWlqcnBma2RSR3YyUTg3dnhFVEZZQ0lCUmVkVTYyMG9yVFRhUDA3Snhuc2ZpY0kxWTVXeVh0UFRtd3V2QlQwVDM1Z3VIYjhtbHhPdVc0MzBqQ2lmV1dfeFYyZw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "donalddjjonesobituary2026northlittlerockarrelerfordfuneralhomestuttgartlegacyobi"
-   ],
-   "first_seen": 1790517370.689254,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Points aplenty, but 99-yard touchdown return wins it for North Little Rock - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXNwVTZVZ3dCdVpsUXVuUXZHaUoyNDRlTjF5WHZQWjEtUGZkbUxQVHBMUzB1OFRITERGMEZNbHpDT0xEZi0xYkpLWkl0alhqMFhRdUNzQlFUcE44dFEtLWRtY2FkQ1lpOVRyQUtZY1docjFZeXpiOUdfYjM4RzFWSTJwLWxEU2VOcGFHSl9YZU1FVVZaX25DTmhWY25UUQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -198,6 +176,34 @@
    "source_count": 1,
    "member_keys": [
     "littlerockninemembersreflectonnation69yearsaftercentralhighthearkansasdemocratga"
+   ],
+   "first_seen": 1790496395.963054,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Cabot Vs. Little Rock Christian game cancelled after three separate medical emergencies - KATV",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanVRUGoxMUdpTTVIYXY2UFhiMElNNVRNbkFjY1JNRUx3ZWN4Ri1vM1o0ZlhwaFU2R2NVWEhPVmVocU11cW1XUFlabnpHQnhQM3FneFAzcV95NVM0T1VQQ1QxUDRUTHZ1eGdVc3h3VklMNHA0d2E3QV94Wld3aE1VdENpUy1USHNzZC11bVVxLU9ZWVh2MHpVaEhjckZZb2dUMV9SOVJvRFZSS192dUVWY082ZnRlbnlfUEduTVhwLUd5aXNaMDhQb2dRS1A5Z21DZXF2MG9NLUEwZzhRaWV4bGR6cE0tQnlMWlJCamR0SjVLTzJCbjREWXlKbFRMS0FralZB?oc=5",
+   "source": "KATV",
+   "published": 1790387443.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanVRUGoxMUdpTTVIYXY2UFhiMElNNVRNbkFjY1JNRUx3ZWN4Ri1vM1o0ZlhwaFU2R2NVWEhPVmVocU11cW1XUFlabnpHQnhQM3FneFAzcV95NVM0T1VQQ1QxUDRUTHZ1eGdVc3h3VklMNHA0d2E3QV94Wld3aE1VdENpUy1USHNzZC11bVVxLU9ZWVh2MHpVaEhjckZZb2dUMV9SOVJvRFZSS192dUVWY082ZnRlbnlfUEduTVhwLUd5aXNaMDhQb2dRS1A5Z21DZXF2MG9NLUEwZzhRaWV4bGR6cE0tQnlMWlJCamR0SjVLTzJCbjREWXlKbFRMS0FralZB?oc=5"
+    },
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "cabotvslittlerockchristiangamecancelledafterthreeseparatemedicalemergencieskatv",
+    "medicalemergenciesforceofficialstostopcabotfootballgameandcancelhomecomingdancet"
    ],
    "first_seen": 1790496395.963054,
    "section": "major"
@@ -269,7 +275,7 @@
    "source_count": 2,
    "member_keys": [
     "northlittlerockexpandsargentaentertainmentdistrictyahoo",
-    "northlittlerocksargentadistrictexpandsthv11"
+    "northlittlerocksargentadistrictexpandsthv11com"
    ],
    "first_seen": 1790472300.630064,
    "section": "major"
@@ -294,50 +300,6 @@
     "pulaskicountyrestaurantinspectionsrodentschewingthroughfoodpackagingfoodstoredne"
    ],
    "first_seen": 1790361298.751901,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Robert Allen Barnes Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlJMUXM0bFUyZ0lZN3RrdmJqSFFpVVVXc3plenhMalFEenhSS25GOWpVLUIwcXV0TGdMS1FQd3F0Ql9jaTQ5ZmYxdEFVUUNUd1N0aGJDcVFmOVlBQlFFemZyVXBKdkdTalBYdlBuNFNIMFE3Y3VBaDd4WnpHRHA0enlR?oc=5",
-   "source": "Legacy obituary",
-   "published": 1790354943.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlJMUXM0bFUyZ0lZN3RrdmJqSFFpVVVXc3plenhMalFEenhSS25GOWpVLUIwcXV0TGdMS1FQd3F0Ql9jaTQ5ZmYxdEFVUUNUd1N0aGJDcVFmOVlBQlFFemZyVXBKdkdTalBYdlBuNFNIMFE3Y3VBaDd4WnpHRHA0enlR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "robertallenbarnesobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittle"
-   ],
-   "first_seen": 1790361298.751901,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Metropolitan professionals moving to Central Arkansas for affordability, job opportunities, chamber report says - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1pBWTYwSllMZkx6eTBtMUtPcl8zSXU5VEprc1c5TmRBbGJMMGVnSnBpSC1NYWhGemJHYndTamRuRFAtSEJlLXNvTWlFbktWNU1LeHNwT2prZjh5bkZnRjZiaTdQMzhUenlRLS1OU0N0UnpLLXo2TTQyRzNFQ0xPamdZMmtqVnJtSkVnUFR1V3hZY2RBcWI0OQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790289900.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1pBWTYwSllMZkx6eTBtMUtPcl8zSXU5VEprc1c5TmRBbGJMMGVnSnBpSC1NYWhGemJHYndTamRuRFAtSEJlLXNvTWlFbktWNU1LeHNwT2prZjh5bkZnRjZiaTdQMzhUenlRLS1OU0N0UnpLLXo2TTQyRzNFQ0xPamdZMmtqVnJtSkVnUFR1V3hZY2RBcWI0OQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "metropolitanprofessionalsmovingtocentralarkansasforaffordabilityjobopportunities"
-   ],
-   "first_seen": 1790496395.963054,
    "section": "major"
   },
   {
@@ -459,7 +421,7 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "homicideinvestigationunderwaybynorthlittlerockpolicethv11",
+    "homicideinvestigationunderwaybynorthlittlerockpolicethv11com",
     "womanfoundfatallyshotatnorthlittlerockhomehomicideinvestigationunderwaykatv"
    ],
    "first_seen": 1790556203.738005,
@@ -488,6 +450,28 @@
    ],
    "first_seen": 1790386285.37747,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock approves zoning regulations for data centers - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSURKVnhGQjNLRUl6Ymo1WFJEeGs1SlRwQlBQYi1wdzFKY19kVEFfRFZOWXhGZ1dTLXNkSGVDSTUxalpLT0drcDJ4bloxcXh1aDRCNFd2TWRIU3FYc1NuM3FDNlpCM0NHVHExbDdZNlN0QjYwV3ZIN28wdzN6akt3Qkt1YlpIOVk5cG5IWkRaM0FKU1ZCWTFqLU5wdmRQWjA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789369200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSURKVnhGQjNLRUl6Ymo1WFJEeGs1SlRwQlBQYi1wdzFKY19kVEFfRFZOWXhGZ1dTLXNkSGVDSTUxalpLT0drcDJ4bloxcXh1aDRCNFd2TWRIU3FYc1NuM3FDNlpCM0NHVHExbDdZNlN0QjYwV3ZIN28wdzN6akt3Qkt1YlpIOVk5cG5IWkRaM0FKU1ZCWTFqLU5wdmRQWjA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockapproveszoningregulationsfordatacentersthearkansasdemocratgazette"
+   ],
+   "first_seen": 1790609085.169295,
+   "section": "major"
   }
  ]
 }
