@@ -1,7 +1,51 @@
 {
- "updated": "2026-09-29T03:26:39.453919-05:00",
+ "updated": "2026-09-29T10:48:50.333031-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Algal bloom advisory lifted for Lake Sophia in Garland, Saline counties - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFZsMTZES1BmT1NIaXFJUWc1SDhpcS0tOTRvUW53VjRNTE0tc3N0SFFFWnFkcF96TmRyOFpKZDcwcUg1ekE2cFlkd2RWdTJQMHNjQkRNS0NjSnAwbU4tQWNDOHdtSG1zMzVuY3lfcEZWcl93MjdoRkFsQWlIWXJISDYyUGotb21yVGRhemdlUTNHSS1CZkRmZGpHQQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790670300.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFZsMTZES1BmT1NIaXFJUWc1SDhpcS0tOTRvUW53VjRNTE0tc3N0SFFFWnFkcF96TmRyOFpKZDcwcUg1ekE2cFlkd2RWdTJQMHNjQkRNS0NjSnAwbU4tQWNDOHdtSG1zMzVuY3lfcEZWcl93MjdoRkFsQWlIWXJISDYyUGotb21yVGRhemdlUTNHSS1CZkRmZGpHQQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "algalbloomadvisoryliftedforlakesophiaingarlandsalinecountiesthearkansasdemocratg"
+   ],
+   "first_seen": 1790696930.333031,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock Touchdown Club: Ex-Razorback Jason Peters returns to Arkansas following lengthy, productive NFL career - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQW1HRW5qcHhYUlgxUThzOVJaLURIRjdobW9jNVpPZDgtNkFESF8wUXdwRjNiLVRnRVhESHNOOThpTEZrT0M2NFE5SmJsanRXSFlLckRYdDJhQm14U2hsLTd5MEJqNjk0MnA0LWdoc2RDOUxwWGNkQWVNb1RfWTNnSW1oN0tFWjQwbjhlZ0s5bDRWai13RDZXWEdR?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790670000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQW1HRW5qcHhYUlgxUThzOVJaLURIRjdobW9jNVpPZDgtNkFESF8wUXdwRjNiLVRnRVhESHNOOThpTEZrT0M2NFE5SmJsanRXSFlLckRYdDJhQm14U2hsLTd5MEJqNjk0MnA0LWdoc2RDOUxwWGNkQWVNb1RfWTNnSW1oN0tFWjQwbjhlZ0s5bDRWai13RDZXWEdR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerocktouchdownclubexrazorbackjasonpetersreturnstoarkansasfollowinglengthypr"
+   ],
+   "first_seen": 1790696930.333031,
+   "section": "sports"
+  },
   {
    "type": "article",
    "title": "North Little Rock city council approves measures for bonds for factory, AI policy - The Arkansas Democrat-Gazette",
@@ -158,7 +202,7 @@
   },
   {
    "type": "article",
-   "title": "Harlem Globetrotters coming to North Little Rock this spring - thv11.com",
+   "title": "Harlem Globetrotters coming to North Little Rock this spring - THV11",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3V1MG5Sd1JPV1BNdVV1LTdEMjZpdFBvSHM3TTlFWGdGcUNab3oxWk1MUEcwVEZwY3Bpd1JsMVZSZXk2ejVxMW9kRV83SGlyd2ZhUUJSR0NrekpOQ2F4bGc5ZTJ2TmJYR2Z5cDhyTXR6X0c1Sl9lSGh2M21wX0haRW9XN21CMy13bmM4VzQ0TjViNmVCVUFFRXMxS0RCcUtMMmdUeDB2UFpSTkVnRWtzc0NaRnlwOEpoSS1COVVFZDVtOGh4UTJUZg?oc=5",
    "source": "THV11",
    "published": 1790609340.0,
@@ -173,9 +217,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "harlemglobetrotterscomingtonorthlittlerockthisspringthv11com"
+    "harlemglobetrotterscomingtonorthlittlerockthisspringthv11"
    ],
-   "first_seen": 1790646921.020677,
+   "first_seen": 1790696930.333031,
    "section": "major"
   },
   {
@@ -224,30 +268,6 @@
   },
   {
    "type": "article",
-   "title": "Holladay, Renshaw face rematch in race for Arkansas House District 70 in North Little Rock, Sherwood - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0psa0lscjZTZTZNTW1rTTRZRWE5dGxiS3h4MjB3RFFMcGJlLTFtVTRSR1pObS0tY2dUcTcxenhTWVdJVWVzWUdtaFp3bWRCUkhseUFETnlkR1lHNVRPSDRIV2FQQldfbVFLX1R4MEdjMFFIS1lWYUtTMzJyVlc0V1FwRTJtY2MxMjlwVFFhVGNwNHpkWloxQjh6V2ZFcTFsQ0E?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790556300.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0psa0lscjZTZTZNTW1rTTRZRWE5dGxiS3h4MjB3RFFMcGJlLTFtVTRSR1pObS0tY2dUcTcxenhTWVdJVWVzWUdtaFp3bWRCUkhseUFETnlkR1lHNVRPSDRIV2FQQldfbVFLX1R4MEdjMFFIS1lWYUtTMzJyVlc0V1FwRTJtY2MxMjlwVFFhVGNwNHpkWloxQjh6V2ZFcTFsQ0E?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "holladayrenshawfacerematchinraceforarkansashousedistrict70innorthlittlerocksherw",
-    "northlittlerockfiredamageshousevehiclethearkansasdemocratgazette"
-   ],
-   "first_seen": 1790578248.644338,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Sherwood High teacher charged with DWI following minor crash; man arrested in stabbing - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGNUNXFVeWotc1M1TFQtRDhNdzkzZVAyUVp3V2Ffd3diOFdKQjItWVJOd1dkb3MtQzRGUC1zWU9GTXVvQjNHMjZlamljUnA5RmtIbnNmRU5CWE15b1ZLdDkyeGUxUlJObzZyZHBVQXlCY1RlekI3cDhCMEcyd05ZZDc3aHc4czJsTWRPRG1BNzMydVRleWk4OTF5Mkh3UQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -267,6 +287,28 @@
    ],
    "first_seen": 1790632711.038094,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Medical emergencies force officials to stop Cabot football game and cancel homecoming dance - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790452200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "medicalemergenciesforceofficialstostopcabotfootballgameandcancelhomecomingdancet"
+   ],
+   "first_seen": 1790496395.963054,
+   "section": "sports"
   },
   {
    "type": "article",
@@ -308,34 +350,6 @@
    "source_count": 1,
    "member_keys": [
     "littlerockninemembersreflectonnation69yearsaftercentralhighthearkansasdemocratga"
-   ],
-   "first_seen": 1790496395.963054,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Cabot Vs. Little Rock Christian game cancelled after three separate medical emergencies - KATV",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanVRUGoxMUdpTTVIYXY2UFhiMElNNVRNbkFjY1JNRUx3ZWN4Ri1vM1o0ZlhwaFU2R2NVWEhPVmVocU11cW1XUFlabnpHQnhQM3FneFAzcV95NVM0T1VQQ1QxUDRUTHZ1eGdVc3h3VklMNHA0d2E3QV94Wld3aE1VdENpUy1USHNzZC11bVVxLU9ZWVh2MHpVaEhjckZZb2dUMV9SOVJvRFZSS192dUVWY082ZnRlbnlfUEduTVhwLUd5aXNaMDhQb2dRS1A5Z21DZXF2MG9NLUEwZzhRaWV4bGR6cE0tQnlMWlJCamR0SjVLTzJCbjREWXlKbFRMS0FralZB?oc=5",
-   "source": "KATV",
-   "published": 1790387443.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanVRUGoxMUdpTTVIYXY2UFhiMElNNVRNbkFjY1JNRUx3ZWN4Ri1vM1o0ZlhwaFU2R2NVWEhPVmVocU11cW1XUFlabnpHQnhQM3FneFAzcV95NVM0T1VQQ1QxUDRUTHZ1eGdVc3h3VklMNHA0d2E3QV94Wld3aE1VdENpUy1USHNzZC11bVVxLU9ZWVh2MHpVaEhjckZZb2dUMV9SOVJvRFZSS192dUVWY082ZnRlbnlfUEduTVhwLUd5aXNaMDhQb2dRS1A5Z21DZXF2MG9NLUEwZzhRaWV4bGR6cE0tQnlMWlJCamR0SjVLTzJCbjREWXlKbFRMS0FralZB?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "cabotvslittlerockchristiangamecancelledafterthreeseparatemedicalemergencieskatv",
-    "medicalemergenciesforceofficialstostopcabotfootballgameandcancelhomecomingdancet"
    ],
    "first_seen": 1790496395.963054,
    "section": "major"
@@ -385,7 +399,7 @@
    "source_count": 2,
    "member_keys": [
     "northlittlerockexpandsargentaentertainmentdistrictkark",
-    "northlittlerocksargentadistrictexpandsthv11com"
+    "northlittlerocksargentadistrictexpandsthv11"
    ],
    "first_seen": 1790632711.038094,
    "section": "major"
@@ -411,28 +425,6 @@
    ],
    "first_seen": 1790670399.453919,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Family mourns North Little Rock woman killed in Tuesday shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5",
-   "source": "KARK",
-   "published": 1790288960.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "familymournsnorthlittlerockwomankilledintuesdayshootingkark"
-   ],
-   "first_seen": 1790103168.84492,
-   "section": "crime"
   },
   {
    "type": "article",
@@ -504,6 +496,28 @@
   },
   {
    "type": "article",
+   "title": "NLR husband charged with capital murder in connection to fatal shooting of wife - KATV",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG95aEFpUUFpdlJ1bDdDSUVyUnZieG1reFpfYzZIOVNzdTJ6Y3RfYzVPeFdDNC1zQ01BNGhOVTVSajUzcUFfLXJiN2cwZjVHTmIxSk9GbENRd21KRmVSUk5EZjlTeXo4QTVLOXBfcmRSMnVpdUE1cEpGMFhLQ1Z1VmNzNlNkUURnczlpQ2NKRDJyWlhxUE15OQ?oc=5",
+   "source": "KATV",
+   "published": 1790189153.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG95aEFpUUFpdlJ1bDdDSUVyUnZieG1reFpfYzZIOVNzdTJ6Y3RfYzVPeFdDNC1zQ01BNGhOVTVSajUzcUFfLXJiN2cwZjVHTmIxSk9GbENRd21KRmVSUk5EZjlTeXo4QTVLOXBfcmRSMnVpdUE1cEpGMFhLQ1Z1VmNzNlNkUURnczlpQ2NKRDJyWlhxUE15OQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "nlrhusbandchargedwithcapitalmurderinconnectiontofatalshootingofwifekatv"
+   ],
+   "first_seen": 1790696930.333031,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "Back from injury, Christain Reeves leading North Little Rock Charging Wildcats on and off field - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWXIyUkExc3RWdmVRWVFIckZBUl9XNkJTbFpHcHB1a2M3YXBjZTZTSWlTZ1I5N3B0ZWJ5V1d5aFB3QXBHYW01T1VGVWw2VmI5S19TR0xxZ3NBLU84ZC1JV2ZGTldXMjZfcVQwalV1UFF4X05taVhiU2IyZlUxTmpSd0ROMGE4ZUh0UVhxNmdYeWczakxSRTEwMlYxTUEwTGlDcFotTUYzMVByaTVwNER5ZUlqOXVlQVNzNGhMLTZCa2JQNmpMRFEyUFBuYTlYMnpWVnpEa1FWMm14bjg?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -526,7 +540,7 @@
   },
   {
    "type": "article",
-   "title": "Homicide investigation underway by North Little Rock police - thv11.com",
+   "title": "Homicide investigation underway by North Little Rock police - THV11",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2NDUEVKOW9QazFXZzg1NzI2c2N0Nkx0WTY4OWN3VEtzMTFnanZiamd1aVV4OHhfeTdtVU9TR2VUcUVXMnU2eU0wNmJxOE1kSDYxSFQwN2I4VGxhRF9hV1huZzBVNXJYeEt5bVJ1WDRoekh4S1M1TmNMcTZabTR5dTZsUWlsMk41THBlb1BjWl8xRXdXX3pTc1JXc1NNRUxHOWRmd0N4aXVGU0NFOWd4LUt2YUdhenNkWE5NM2ZKUmNQWG41c2w0?oc=5",
    "source": "THV11",
    "published": 1790100420.0,
@@ -541,9 +555,31 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "homicideinvestigationunderwaybynorthlittlerockpolicethv11com"
+    "homicideinvestigationunderwaybynorthlittlerockpolicethv11"
    ],
-   "first_seen": 1790670399.453919,
+   "first_seen": 1790696930.333031,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Woman killed in shooting at North Little Rock residence Tuesday - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVZ2dTRkZDd4QVNOSTg5Vy1pWFlHTmQ2SmhQcHlfTEdwVUNBME01ZDNIcmRFcmp5cVgtY0dJT0pJR1hjcFJrUlNTY1NwX3hET081NVkwaTNfRWdCVm1nNXJtb1NRRmhFbGZqM01QcWFXVUdOM2lzcUFVbVYwallyRUFjRHdpbjVhaE1IM3NpeG56ZGNvTTdWaXFB?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790100360.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVZ2dTRkZDd4QVNOSTg5Vy1pWFlHTmQ2SmhQcHlfTEdwVUNBME01ZDNIcmRFcmp5cVgtY0dJT0pJR1hjcFJrUlNTY1NwX3hET081NVkwaTNfRWdCVm1nNXJtb1NRRmhFbGZqM01QcWFXVUdOM2lzcUFVbVYwallyRUFjRHdpbjVhaE1IM3NpeG56ZGNvTTdWaXFB?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "womankilledinshootingatnorthlittlerockresidencetuesdaythearkansasdemocratgazette"
+   ],
+   "first_seen": 1790696930.333031,
    "section": "crime"
   }
  ]
