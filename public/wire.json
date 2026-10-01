@@ -1,7 +1,29 @@
 {
- "updated": "2026-09-30T18:46:36.148163-05:00",
+ "updated": "2026-10-01T00:48:07.649558-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Judge says she can’t rule on Conway police officer’s firing because city panel didn’t follow Arkansas law - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHhvVE1aMGRpc0g1SWpUVzctZG5kQlppVzJaQlh2REx1bHJrOF9RaHRpNHVhUFpDNFJmUjFDWFhLTlVFcUJWWHZwTlRsS1RLUDFlMVFnRkMzNllpTU1oaXV2M09EZ2pCVDVvckVRcFBWRGEtb1dLRUNPMGJaUUoxYkVFaFRUeUQ4Q1RDWnZQTjBSeTdD?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790811600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHhvVE1aMGRpc0g1SWpUVzctZG5kQlppVzJaQlh2REx1bHJrOF9RaHRpNHVhUFpDNFJmUjFDWFhLTlVFcUJWWHZwTlRsS1RLUDFlMVFnRkMzNllpTU1oaXV2M09EZ2pCVDVvckVRcFBWRGEtb1dLRUNPMGJaUUoxYkVFaFRUeUQ4Q1RDWnZQTjBSeTdD?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "judgesaysshecantruleonconwaypoliceofficersfiringbecausecitypaneldidntfollowarkan"
+   ],
+   "first_seen": 1790833687.649558,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "North Little Rock School District responds after $12K was put into the wrong bank account - THV11",
@@ -48,28 +70,6 @@
   },
   {
    "type": "article",
-   "title": "Arkansas Postcard Past: Malvern in 1959 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVpVMDRhdHp0TTJtVWUyYUR5Z01FTHBuMlV3d0FLYjlBbjZpc2hvSXltT0U4MjZjM1RlZzhJdTByOE1ZOW4wUU5lckVQRExNN1ZUTjR0OURJU2ZSQlM5Z2hZS0xkZ002bFdXMUxLa3hfNUNLTVNVa1lQYWdNRlZ5WWlfUVBlMVhJQjB6eVUyUDI?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790803800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVpVMDRhdHp0TTJtVWUyYUR5Z01FTHBuMlV3d0FLYjlBbjZpc2hvSXltT0U4MjZjM1RlZzhJdTByOE1ZOW4wUU5lckVQRExNN1ZUTjR0OURJU2ZSQlM5Z2hZS0xkZ002bFdXMUxLa3hfNUNLTVNVa1lQYWdNRlZ5WWlfUVBlMVhJQjB6eVUyUDI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansaspostcardpastmalvernin1959thearkansasdemocratgazette"
-   ],
-   "first_seen": 1790811996.148163,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock woman with history of schizophrenia cleared of wrongdoing in fatal shooting of landlord - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUd3UlNYME9HYXJNZmI2bXlPTXFsVVFoRWUxWVdBM3JLbEw3cjZnQkMwQV9rTW5jNDcxNG9xRzM3TS01Z0czcHZTVmJKZDZBckxxMEEzSjdpTHg2b1dyRmhOV2pXWHE3WFpaZ1JjX3ZJUnE5RjVmODVyTFdrLVRPdjhmdkl3ay11ampYamU5cXQzdw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -92,7 +92,7 @@
   },
   {
    "type": "article",
-   "title": "Donna Lois Couch Obituary (2026) - Sherwood, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
+   "title": "Donna Lois Couch Obituary (2026) - Sherwood, AR - Smith Family Funeral Homes - North Little Rock - legacy.com",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNDVWMUIxM1VzcDlHaVdMLS1NMmIxX19seV9VTjB3b093cElmajgtVFFBSGt4YjN4RWhIZkpqb3FrM01vOE93Wlo4Vm85c1hOMVJQa0M1eWozRU1OMlhreDA3Yk9ndDJUQ1lKeC05Q2Uwckx2S21fanZkZ1FQcW8?oc=5",
    "source": "Legacy obituary",
    "published": 1790801537.0,
@@ -111,28 +111,6 @@
    ],
    "first_seen": 1790811996.148163,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock community centers to close in honor of longtime basketball coach - KARK",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHZ3TXI4MHJ4OVhRMmJwSmFHMk8xN0gyNExFREdybHBVN3FwbjdfN2I3OXFZVF80dnI4emRNTFpRMjVrZFlMdEFseHdqQ3k1ekdCbkRoRVRQVnZnSlJTZlVUc2wxalF0b08wdzlZb2o5Z1cwNW82Y2pyRXJOZHJMWkt5THNyRjJHaTJrQXhTUGJoRW5vOHo3N1o3eEtVRzZiZUJUcGZJMVEzVFdaMnlFWGR5c2J5M2ZWdW1CXw?oc=5",
-   "source": "KARK",
-   "published": 1790794869.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHZ3TXI4MHJ4OVhRMmJwSmFHMk8xN0gyNExFREdybHBVN3FwbjdfN2I3OXFZVF80dnI4emRNTFpRMjVrZFlMdEFseHdqQ3k1ekdCbkRoRVRQVnZnSlJTZlVUc2wxalF0b08wdzlZb2o5Z1cwNW82Y2pyRXJOZHJMWkt5THNyRjJHaTJrQXhTUGJoRW5vOHo3N1o3eEtVRzZiZUJUcGZJMVEzVFdaMnlFWGR5c2J5M2ZWdW1CXw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockcommunitycenterstocloseinhonoroflongtimebasketballcoachkark"
-   ],
-   "first_seen": 1790811996.148163,
-   "section": "sports"
   },
   {
    "type": "article",
@@ -158,27 +136,21 @@
   },
   {
    "type": "article",
-   "title": "Globetrotters bring new Rivalry Tour to North Little Rock arena in March - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0FnbzhHc1BWVlpmQ0Y4VFJweWZJWXVEaEdKQUxFbkxURnZuNmhGc3F1dk8wYk9xbGtQbUMyY1UzNlpKT0F2MmlWVTR1eFlIVV9FcEhSaDhSODlHZ3dqLVdKSUtDWmZWREJ0eHExcWR6cDNWdVRwSTUyM1JYNGRQYko0bzh3blV4dlY2b2l5RGg2X0U?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
+   "title": "Globetrotters bring new Rivalry Tour to North Little Rock arena in March - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1RqU256UHhDTXlIVV95dHdjWU9FMUdLY25vdG9DRVdsalNXYTlDdXk1MFExVUFXZjZiTTQ5U1J5WHptblRneGZkWXZqelp6WjZQbmlmbkx6MVZwNnNMS2pDY3ZGUXNLSkxWYXdhWktFT1VBVTdicWRRRU5xVFJxWk9SMzdWNWVzV1U4YU1uNTJlTUt5aTJpM1B3?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
    "published": 1790788320.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0FnbzhHc1BWVlpmQ0Y4VFJweWZJWXVEaEdKQUxFbkxURnZuNmhGc3F1dk8wYk9xbGtQbUMyY1UzNlpKT0F2MmlWVTR1eFlIVV9FcEhSaDhSODlHZ3dqLVdKSUtDWmZWREJ0eHExcWR6cDNWdVRwSTUyM1JYNGRQYko0bzh3blV4dlY2b2l5RGg2X0U?oc=5"
-    },
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1RqU256UHhDTXlIVV95dHdjWU9FMUdLY25vdG9DRVdsalNXYTlDdXk1MFExVUFXZjZiTTQ5U1J5WHptblRneGZkWXZqelp6WjZQbmlmbkx6MVZwNnNMS2pDY3ZGUXNLSkxWYXdhWktFT1VBVTdicWRRRU5xVFJxWk9SMzdWNWVzV1U4YU1uNTJlTUt5aTJpM1B3?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "globetrottersbringnewrivalrytourtonorthlittlerockarenainmarchnorthwestarkansasde",
     "globetrottersbringnewrivalrytourtonorthlittlerockarenainmarchthearkansasdemocrat"
    ],
    "first_seen": 1790795830.496639,
@@ -186,47 +158,25 @@
   },
   {
    "type": "article",
-   "title": "Tomona Latrica Hagood-Walters, age 49 - A Natural State Funeral Service",
+   "title": "Tomona Latrica Hagood-Walters, age 49 - anaturalstatefuneralservice.com",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXNxT2tiZlBxcG5mWm9GNUxnNmFud2k5ajdwSGpjZ3dFYU9GSjVqdDdpeGJoVjRmTEk3TnRERjNaRlZMSE4wMWowYmhGTFZxcG1SejdCbTg0OE9jSzUyX0dPVndjc04weXFtVmhFb0xCNG93eVFSMFJwWGVzaVlKVXowWi1Gc3Jna3FWbUV3?oc=5",
-   "source": "A Natural State Funeral Service",
+   "source": "anaturalstatefuneralservice.com",
    "published": 1790778608.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "A Natural State Funeral Service",
+     "source": "anaturalstatefuneralservice.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXNxT2tiZlBxcG5mWm9GNUxnNmFud2k5ajdwSGpjZ3dFYU9GSjVqdDdpeGJoVjRmTEk3TnRERjNaRlZMSE4wMWowYmhGTFZxcG1SejdCbTg0OE9jSzUyX0dPVndjc04weXFtVmhFb0xCNG93eVFSMFJwWGVzaVlKVXowWi1Gc3Jna3FWbUV3?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "tomonalatricahagoodwaltersage49anaturalstatefuneralservice"
+    "tomonalatricahagoodwaltersage49anaturalstatefuneralservicecom"
    ],
-   "first_seen": 1790795830.496639,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Rita Izekor Obituary (2026) - Little Rock, AR - Superior Funeral Services - North Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNk0ycDFXYjVrVXVycFJNenhwY0dwV3czR3RjZkRDcnozZzAycERLaE81M1loOExNN3NQNE9LV3lYNDRva18tX0NNOWFjeG9ETFlhdzhOTDFsY1h0N3NfVHpNTGI5dUUzOEFtcGJseVJrZzJxM1REYUFXQ3BDSzg?oc=5",
-   "source": "Legacy obituary",
-   "published": 1790744776.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNk0ycDFXYjVrVXVycFJNenhwY0dwV3czR3RjZkRDcnozZzAycERLaE81M1loOExNN3NQNE9LV3lYNDRva18tX0NNOWFjeG9ETFlhdzhOTDFsY1h0N3NfVHpNTGI5dUUzOEFtcGJseVJrZzJxM1REYUFXQ3BDSzg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "ritaizekorobituary2026littlerockarsuperiorfuneralservicesnorthlittlerocklegacyob"
-   ],
-   "first_seen": 1790811996.148163,
-   "section": "obits"
+   "first_seen": 1790833687.649558,
+   "section": "major"
   },
   {
    "type": "article",
@@ -270,72 +220,6 @@
     "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatv"
    ],
    "first_seen": 1790714700.88864,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Ernest G. Ybarbo Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - Little Rock - Legacy obituary",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGRoUTVySHN3ajJvY25uTWs1YUxsWUVNdFNCbFNmdkRzbDN5b25fdTQ5Skg3RXRwelM4ckJHWllFc0lfeGF3SGVpQ2N4N1hpbTkzRGZ4ZVd0YmgxcmhBdHdJaEI4MnAzRktqVjg2bkVmYW8zZDZuWWNtV0QwWmtYOWlB?oc=5",
-   "source": "Legacy obituary",
-   "published": 1790707712.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy obituary",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGRoUTVySHN3ajJvY25uTWs1YUxsWUVNdFNCbFNmdkRzbDN5b25fdTQ5Skg3RXRwelM4ckJHWllFc0lfeGF3SGVpQ2N4N1hpbTkzRGZ4ZVd0YmgxcmhBdHdJaEI4MnAzRktqVjg2bkVmYW8zZDZuWWNtV0QwWmtYOWlB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "ernestgybarboobituary2026northlittlerockarsmithfamilyfuneralhomeslittlerocklegac"
-   ],
-   "first_seen": 1790811996.148163,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Police Department K9 Vaughan dies - KARK",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3RWbXJzdS1TSVJyQ0lPcUNueWtJUXlSU1NQd0M1ejJydFZCRWpXc0JTYklBNEkzNzVzNDZQTlFvbFYxQ2VYTlNManNXREp6U1FRSXozRTRmX1JsQklkS2diU0lMRTR2dExPNWpna1VpNHRsSVRVNU0tX0N3ejN4ZE1FMzU0R1JGbHB0a1AtbVRWelU?oc=5",
-   "source": "KARK",
-   "published": 1790696346.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3RWbXJzdS1TSVJyQ0lPcUNueWtJUXlSU1NQd0M1ejJydFZCRWpXc0JTYklBNEkzNzVzNDZQTlFvbFYxQ2VYTlNManNXREp6U1FRSXozRTRmX1JsQklkS2diU0lMRTR2dExPNWpna1VpNHRsSVRVNU0tX0N3ejN4ZE1FMzU0R1JGbHB0a1AtbVRWelU?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpolicedepartmentk9vaughandieskark"
-   ],
-   "first_seen": 1790811996.148163,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "5906 Karen Dr, North Little Rock, AR 72118 - Realtor.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0NqTUxfTi1rOEhObGNXbURrV1dnM2dkdFdzMXo4RUJ2RGRHR2pjbmgxcmNic2h1WDNDWTd0TWJsczdqYUlFdlhGTHg1R3Q2d2xJR1o1aDJfYmFYNU11SFJOOTNfb2JXSkRVQm54andQYjFQMkNIc0dNRWxudEJrS1VCMk8zeE5aNHQxRnN4Qk9JajZHTEdGQg?oc=5",
-   "source": "Realtor.com",
-   "published": 1790694215.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Realtor.com",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0NqTUxfTi1rOEhObGNXbURrV1dnM2dkdFdzMXo4RUJ2RGRHR2pjbmgxcmNic2h1WDNDWTd0TWJsczdqYUlFdlhGTHg1R3Q2d2xJR1o1aDJfYmFYNU11SFJOOTNfb2JXSkRVQm54andQYjFQMkNIc0dNRWxudEJrS1VCMk8zeE5aNHQxRnN4Qk9JajZHTEdGQg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "5906karendrnorthlittlerockar72118realtorcom"
-   ],
-   "first_seen": 1790727894.241622,
    "section": "major"
   },
   {
@@ -452,28 +336,6 @@
   },
   {
    "type": "article",
-   "title": "AJ Gary, director of Arkansas Division of Emergency Management, will retire Nov. 1 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU9UTWRsS2NyRHpFeHZFQXB2MG9DemxYMTJVZ1podHRCZmlrdHE2bUtFTjFvQWI3MS1VMTZka2dleFRpWVp1cjZKLXQ2WWduenJyLWhacVlQTXhYU1dhWkNGNGM0NVM2cGhkMV9FUGhwaTh3WENkYl9CVDFEaDZBWHFkTTJxMVdsLUNLVlJqNHF5RkRtdlVidVM4MU4?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790602440.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU9UTWRsS2NyRHpFeHZFQXB2MG9DemxYMTJVZ1podHRCZmlrdHE2bUtFTjFvQWI3MS1VMTZka2dleFRpWVp1cjZKLXQ2WWduenJyLWhacVlQTXhYU1dhWkNGNGM0NVM2cGhkMV9FUGhwaTh3WENkYl9CVDFEaDZBWHFkTTJxMVdsLUNLVlJqNHF5RkRtdlVidVM4MU4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "ajgarydirectorofarkansasdivisionofemergencymanagementwillretirenov1thearkansasde"
-   ],
-   "first_seen": 1790775628.081955,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock fire damages house, vehicle - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3NoNFM1TFFiQXp0MWZKdzBPczlpeTFOSHdlX01iVFE3VG9kZVYwV2dLa2UxRHRTcW5nY2tIbUdxeGJuZnd6OXRTdDJBbzNqZE9Hb2xsTnBPWFRaZVFvWnZZNEVURGtHeDFYTFA5RXl6bDA2UE1Uejd1XzVBSzBCcTdrNmVLaFdCU3VjbHpFZV83ZlJEQU8yUQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -514,28 +376,6 @@
     "lonokecountywillchoosenewsheriffaftercandidatesmurdercasedrewnationalattentionth"
    ],
    "first_seen": 1790811996.148163,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock man arrested, faces charges in September 2025 North Little Rock shooting that wounded two people - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0RjMFYteXJXdnJiWHJRQXA3VW5yRGV1bEcxSy15RVcyWDc2UFo4cl9haGJHRGdPMDVZOHlTdldRYXNJaWJLdHN6aHVlQ3pLM3NyUXJNdkNiOUtBS0p1UWUyNERkR3hHTUhWQV9hR0FZdkZVbURrWlN4OUNmM0pCbmNHa2ZubTdXdTdOTkpR?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1790555400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0RjMFYteXJXdnJiWHJRQXA3VW5yRGV1bEcxSy15RVcyWDc2UFo4cl9haGJHRGdPMDVZOHlTdldRYXNJaWJLdHN6aHVlQ3pLM3NyUXJNdkNiOUtBS0p1UWUyNERkR3hHTUhWQV9hR0FZdkZVbURrWlN4OUNmM0pCbmNHa2ZubTdXdTdOTkpR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockmanarrestedfaceschargesinseptember2025northlittlerockshootingthatwound"
-   ],
-   "first_seen": 1790496395.963054,
    "section": "crime"
   },
   {
@@ -581,6 +421,129 @@
    ],
    "first_seen": 1790632711.038094,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Medical emergencies force officials to stop Cabot football game and cancel homecoming dance - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790452200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk40VElRX3BlTE04OUlMamdpMzNhRVItVmlxaFRzODVEWTRmYlVMM2tpbXBSeFp5MEhveG9scldhOXVSQWNUbGQwNG9zNGVKRnBkNlBoQ09XeXVpQTNMd1lwX1Rpc2ViOFhEV0c2ZDRWOEtlQWt1UnhSY3c4Mms0dU9HbWcydFFmQnkzMEdkS2VUMWlxZ3JWMDVUMnZhdnc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "medicalemergenciesforceofficialstostopcabotfootballgameandcancelhomecomingdancet"
+   ],
+   "first_seen": 1790833687.649558,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police release names of couple in Tuesday morning deadly shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBjbGVmbjdsb0tabEVlMTBqTDZMemhxdFlfSHpOcFowLU9sWVlzRkp5emd2TWl0M3RGTUNQUWJDYnRRUjZ5UE93VG1fUkt5dUtzUmNKRHBLa2ZpWmpsQzFXdEVxME1DWGJ5VWJLbXVmUVlqaTFBVzBzWWpCUXZCOGNqeXQxZGozZDRrVzZ5VkM0LUlDU3FnekdNc1hjWUExcXFvaU9XZXFEaEdBU2l2cA?oc=5",
+   "source": "KARK",
+   "published": 1790195712.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBjbGVmbjdsb0tabEVlMTBqTDZMemhxdFlfSHpOcFowLU9sWVlzRkp5emd2TWl0M3RGTUNQUWJDYnRRUjZ5UE93VG1fUkt5dUtzUmNKRHBLa2ZpWmpsQzFXdEVxME1DWGJ5VWJLbXVmUVlqaTFBVzBzWWpCUXZCOGNqeXQxZGozZDRrVzZ5VkM0LUlDU3FnekdNc1hjWUExcXFvaU9XZXFEaEdBU2l2cA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpolicereleasenamesofcoupleintuesdaymorningdeadlyshootingkark"
+   ],
+   "first_seen": 1790833687.649558,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Victim in fatal North Little Rock shooting identified as wife of man arrested - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnljSWFocVFXZlFiSmtaX2dnR09WSDNuNEZkMF9oSlBKYmZreUExWWIybXAyWWxIMlYtRTVwRmkyS0s1NDduN2ZiUGFkRmlFeHNzSGtQSDRnSkxqMnJGeERLeG1Bd3MxSWRDanRTeWxJTGxJa1N4VmFaQnpJNGREeWMzdUJHR1hZSWlvN1o1VlZzWFdxaVE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790190900.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnljSWFocVFXZlFiSmtaX2dnR09WSDNuNEZkMF9oSlBKYmZreUExWWIybXAyWWxIMlYtRTVwRmkyS0s1NDduN2ZiUGFkRmlFeHNzSGtQSDRnSkxqMnJGeERLeG1Bd3MxSWRDanRTeWxJTGxJa1N4VmFaQnpJNGREeWMzdUJHR1hZSWlvN1o1VlZzWFdxaVE?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPME1hOGlaMFVCU3VpVVg0aVFwalM0ZXVtRjh3RENIclMxUnlndjVQSXU5OXl5MThLRldkcU8wVnJ4YlpVWGdNMXNrQ3FMM0tOWjAzLXpMZWhId18xc3hPUFczS2FuQ3pGcmltU01Rcng2Rkhacm90c2cyZV9mVldFclpyOERXS2ZIXzRDM1QzTQ?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "littlerockmanarrestedfaceschargesinseptember2025northlittlerockshootingthatwound",
+    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestednorthwestarkans",
+    "victiminfatalnorthlittlerockshootingidentifiedaswifeofmanarrestedthearkansasdemo"
+   ],
+   "first_seen": 1790496395.963054,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Back from injury, Christain Reeves leading North Little Rock Charging Wildcats on and off field - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWXIyUkExc3RWdmVRWVFIckZBUl9XNkJTbFpHcHB1a2M3YXBjZTZTSWlTZ1I5N3B0ZWJ5V1d5aFB3QXBHYW01T1VGVWw2VmI5S19TR0xxZ3NBLU84ZC1JV2ZGTldXMjZfcVQwalV1UFF4X05taVhiU2IyZlUxTmpSd0ROMGE4ZUh0UVhxNmdYeWczakxSRTEwMlYxTUEwTGlDcFotTUYzMVByaTVwNER5ZUlqOXVlQVNzNGhMLTZCa2JQNmpMRFEyUFBuYTlYMnpWVnpEa1FWMm14bjg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790168340.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWXIyUkExc3RWdmVRWVFIckZBUl9XNkJTbFpHcHB1a2M3YXBjZTZTSWlTZ1I5N3B0ZWJ5V1d5aFB3QXBHYW01T1VGVWw2VmI5S19TR0xxZ3NBLU84ZC1JV2ZGTldXMjZfcVQwalV1UFF4X05taVhiU2IyZlUxTmpSd0ROMGE4ZUh0UVhxNmdYeWczakxSRTEwMlYxTUEwTGlDcFotTUYzMVByaTVwNER5ZUlqOXVlQVNzNGhMLTZCa2JQNmpMRFEyUFBuYTlYMnpWVnpEa1FWMm14bjg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "backfrominjurychristainreevesleadingnorthlittlerockchargingwildcatsonandofffield"
+   ],
+   "first_seen": 1790833687.649558,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Woman killed in shooting at North Little Rock home - KARK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGtQcVNSWmNuT2VVWHZ6VDBUUWdSZzQ3aWpNLWQ5UUlHOEx5SnJOWDUzTi1NcjhYV2FZZEZlM0JzNThaMmtNaVBKRzJaSFZZSzFxaFhiWEFhRXNIQ0JYQWVUMjZnTEJqbnJWQ3NkQmQxdUlVbmVQUEFZNDR3TS0yUTVteUQ?oc=5",
+   "source": "KARK",
+   "published": 1790060400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGtQcVNSWmNuT2VVWHZ6VDBUUWdSZzQ3aWpNLWQ5UUlHOEx5SnJOWDUzTi1NcjhYV2FZZEZlM0JzNThaMmtNaVBKRzJaSFZZSzFxaFhiWEFhRXNIQ0JYQWVUMjZnTEJqbnJWQ3NkQmQxdUlVbmVQUEFZNDR3TS0yUTVteUQ?oc=5"
+    },
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVZ2dTRkZDd4QVNOSTg5Vy1pWFlHTmQ2SmhQcHlfTEdwVUNBME01ZDNIcmRFcmp5cVgtY0dJT0pJR1hjcFJrUlNTY1NwX3hET081NVkwaTNfRWdCVm1nNXJtb1NRRmhFbGZqM01QcWFXVUdOM2lzcUFVbVYwallyRUFjRHdpbjVhaE1IM3NpeG56ZGNvTTdWaXFB?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "womankilledinshootingatnorthlittlerockhomekark",
+    "womankilledinshootingatnorthlittlerockresidencetuesdaythearkansasdemocratgazette"
+   ],
+   "first_seen": 1790833687.649558,
+   "section": "crime"
   }
  ]
 }
