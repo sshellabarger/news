@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T18:01:34.018547-05:00",
+ "updated": "2026-10-03T21:36:15.850702-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -26,7 +26,7 @@
   },
   {
    "type": "article",
-   "title": "ARKANSAS A-Z: Broadway Bridge spans time, travail - The Arkansas Democrat-Gazette",
+   "title": "ARKANSAS A-Z: Broadway Bridge spans time, travail - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1UzX09kNlhHSE9rbktpbEVzVGxSTDQ4RzEwbFJ3WW1qM01ldDZiTTdBLWJtLWptNG0xRWZmWWVFYjRxc3ZrVWUzSUxLVmJZVWR5VzJCS1VFQWNzaGJsd3QwX1cwTnRwbEktYkpCbkhHdzFQZ0Fmdl9VRlhrZ3k4SVdQSUQyTFY1MHB3LVllU2swX05OZWlfNGpHajI?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1791032400.0,
@@ -41,9 +41,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "arkansasazbroadwaybridgespanstimetravailthearkansasdemocratgazette"
+    "arkansasazbroadwaybridgespanstimetravailarkansasonlinecom"
    ],
-   "first_seen": 1791047692.256061,
+   "first_seen": 1791081375.850702,
    "section": "major"
   },
   {
@@ -68,8 +68,8 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "northlittlerocksuessherwoodsaysneighbortonorthhasfailedtomaintainsewerlinesnorth",
-    "northlittlerocksuessherwoodsaysneighbortonorthhasfailedtomaintainsewerlinesthear"
+    "northlittlerocksuessherwoodsaysneighbortonorthhasfailedtomaintainsewerlinesarkan",
+    "northlittlerocksuessherwoodsaysneighbortonorthhasfailedtomaintainsewerlinesnorth"
    ],
    "first_seen": 1791009011.191426,
    "section": "major"
@@ -98,7 +98,7 @@
   },
   {
    "type": "article",
-   "title": "Lyon College Pipe Band plays for services at Second Presbyterian Church in Little Rock - The Arkansas Democrat-Gazette",
+   "title": "Lyon College Pipe Band plays for services at Second Presbyterian Church in Little Rock - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTRlcElBOFc2c1BfRUdTX3ZBMkVMR3gxb0NTZEU2MW5xS054LWFvX05MZU9PX2ZWS0lNSDlBdU5uM3kxSUZvWHFic0REa0tUek5HcUpQeG52aXNQZmVPUkhrWnNsTG1LRmdPTElWMVZJRDJqQUw3Y3ZMbTEtY1pxM01nN0ZkMUs0LTVuMF9ta2xUUmNzWGt0ZQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790994600.0,
@@ -113,9 +113,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "lyoncollegepipebandplaysforservicesatsecondpresbyterianchurchinlittlerockthearka"
+    "lyoncollegepipebandplaysforservicesatsecondpresbyterianchurchinlittlerockarkansa"
    ],
-   "first_seen": 1791047692.256061,
+   "first_seen": 1791081375.850702,
    "section": "major"
   },
   {
@@ -127,14 +127,25 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTVA0NldYTVFMc1ZJOExaWHdGbDBSbjlVcXhVZVpTZ2VwVmNVVEpwOTdtUTVKdHhsbkIzVGNYRXZwQzV5Q0FyTC1wTGF2N0ZGQUoyYzdzWnIwUHp3WGczdTZncW0yZ3dXa0x6bS1aYnlMQW8wNTBmNkZxckx2VWFrbm1KMUl0Zm1TY2NNVlJ6YkZXVDJ1RlhOeUhiWjR5YVRaNTNPV3A1RGRoTG02SkswR3I5Q0pNZmZ2cEVCeUxGRXQxOVJrdGk2V1pidmxmZw?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS2FKR2tIYkUxdVV1N2R5b1RNMEZWWEdaTklaNTk4U0pyalI3MTVaR1ozdlJQQTlkTkNjVDlWeUJFVS1FSW14a1RTRHctU2c4WG1OZVNvRXlYd3BHN0poWEFNMzBTMFFvdHRWSDEwcnotblRReGVMSzZCVVdPalU0VkZUUnhDZDFNZXhVOXBacw?oc=5"
+    },
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUdFOGMxaWVVVlBrVHlNTUhWQlk2ZHpyaHZ3TTk3NFRtYjUtbTZyUEZqTkRmSlJoZDJua0ZLZFpFZGlnNGZOaG5vOW1UNTNDcTFleGRoMS1nSEhqSS1zcnZWMXRQZEltOHdWVmtNeWtVejlobU1RTlVCSlRNU1BERkxtY0JWZE5FVk1iQTV4ZG5KMUNid3c?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 3,
    "member_keys": [
+    "northlittlerocksfirstblackfirefighterrememberedasmentortrailblazerarkansasonline",
+    "northlittlerocksfirstblackfirefighterrememberedasmentortrailblazernorthwestarkan",
     "northlittlerocksfirstblackfirefighterrememberedforserviceandfamilythv11com"
    ],
    "first_seen": 1791047692.256061,
@@ -142,24 +153,24 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock squirrel attack sends bloodied grandmother and mom to the ER - Arkansas Times",
+   "title": "North Little Rock squirrel attack sends bloodied grandmother and mom to the ER - arktimes.com",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5",
-   "source": "Arkansas Times",
+   "source": "arktimes.com",
    "published": 1790976585.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Arkansas Times",
+     "source": "arktimes.com",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerocksquirrelattacksendsbloodiedgrandmotherandmomtotheerarkansastimes"
+    "northlittlerocksquirrelattacksendsbloodiedgrandmotherandmomtotheerarktimescom"
    ],
-   "first_seen": 1791047692.256061,
+   "first_seen": 1791081375.850702,
    "section": "major"
   },
   {
@@ -186,7 +197,7 @@
   },
   {
    "type": "article",
-   "title": "Gravette City Council appoints Benzick as new city prosecutor - The Arkansas Democrat-Gazette",
+   "title": "Gravette City Council appoints Benzick as new city prosecutor - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDU0cnd4ek1CSXQyUnNOM0gxNWJSZGVoU3kwc0VWMjYyaHdjWUt2T2cteTVVaWtOQzRsY2w0YTNKWlZMZHNQaDNRaXlnZGF4RmkzcFB3X0wyOFdscEUwODVEREgxbE1fQml6cExLeXBSbW9iTlp6QWlZa0dfNlBNbTQyd3Nyci1fMGZ5c2NyaWFBdUFyWEg4dl9R?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790958300.0,
@@ -201,9 +212,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "gravettecitycouncilappointsbenzickasnewcityprosecutorthearkansasdemocratgazette"
+    "gravettecitycouncilappointsbenzickasnewcityprosecutorarkansasonlinecom"
    ],
-   "first_seen": 1791009011.191426,
+   "first_seen": 1791081375.850702,
    "section": "major"
   },
   {
@@ -236,38 +247,16 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Airshow returns for 2026 - KARK",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU01TQVVaV0dNYXZsMWxKemREMnRoaFExdEx1cHZhRTlqeGpWaEJzak4yT1JyVEhrR0xSaTdfUk1ZWU1GOThRbWJFdGRyUHMza0RFNHo2Y3dUTWhsTk95bndXOW5YcXU3cUwwN0ZCU3FzRHFUbkQ4bWRpNnVzQ29xUVpOaVpwUQ?oc=5",
-   "source": "KARK",
-   "published": 1790946511.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU01TQVVaV0dNYXZsMWxKemREMnRoaFExdEx1cHZhRTlqeGpWaEJzak4yT1JyVEhrR0xSaTdfUk1ZWU1GOThRbWJFdGRyUHMza0RFNHo2Y3dUTWhsTk95bndXOW5YcXU3cUwwN0ZCU3FzRHFUbkQ4bWRpNnVzQ29xUVpOaVpwUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockairshowreturnsfor2026kark"
-   ],
-   "first_seen": 1790955996.880746,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Kentucky governor rallies Arkansas Democrats, says party can compete and win in South - arkansasadvocate.com",
+   "title": "Kentucky governor rallies Arkansas Democrats, says party can compete and win in South - Arkansas Advocate",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1dPNlUzdU1mcDV5NWJNeVRtQ1FXSUJNZXBCQ0c1bDBKTmRQbFZQTHlKTnFEdXcxdjJnMG1VRlI4R1kxNEpWdWtTZ0VyZG54bDFfdkNfSHRwQ2d6cEtOREg5ak1DcW5aNWUtSVpEQ1V5QmdsYy16cGdjRnpJWVA4OGxtcXlfNlFTdTZXSkNjMG5yVFd6emI2TUwzUjF1bzhYQnBLdlo2RFhpb2dIbFhHV0NQUnA4RDNGS0N1UGFrQlpiUlk?oc=5",
-   "source": "arkansasadvocate.com",
+   "source": "Arkansas Advocate",
    "published": 1790913284.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "arkansasadvocate.com",
+     "source": "Arkansas Advocate",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1dPNlUzdU1mcDV5NWJNeVRtQ1FXSUJNZXBCQ0c1bDBKTmRQbFZQTHlKTnFEdXcxdjJnMG1VRlI4R1kxNEpWdWtTZ0VyZG54bDFfdkNfSHRwQ2d6cEtOREg5ak1DcW5aNWUtSVpEQ1V5QmdsYy16cGdjRnpJWVA4OGxtcXlfNlFTdTZXSkNjMG5yVFd6emI2TUwzUjF1bzhYQnBLdlo2RFhpb2dIbFhHV0NQUnA4RDNGS0N1UGFrQlpiUlk?oc=5"
     }
    ],
@@ -280,29 +269,7 @@
   },
   {
    "type": "article",
-   "title": "Man, 22, faces capital murder charge in ’21 North Little Rock shooting - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0N1V2VPOS1vYVZhaG85MnU3TFRqU1AyeThTejFvZ19ON0hVNDI4U1hFanZPTW56YjRHdW5wZklCMG85S2RXLTZ4dlpSb0hvbjh4U0pYaUhRRjdhNVFtX2M0OGJMVHgyZ1Q5akw0TGtfcnd3LUZkeG5JQXo4ZThfOTJmV0swSE14dDBWeGxWUDE2WlNwczV0ZEFKQQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790911800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0N1V2VPOS1vYVZhaG85MnU3TFRqU1AyeThTejFvZ19ON0hVNDI4U1hFanZPTW56YjRHdW5wZklCMG85S2RXLTZ4dlpSb0hvbjh4U0pYaUhRRjdhNVFtX2M0OGJMVHgyZ1Q5akw0TGtfcnd3LUZkeG5JQXo4ZThfOTJmV0swSE14dDBWeGxWUDE2WlNwczV0ZEFKQQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "man22facescapitalmurderchargein21northlittlerockshootingthearkansasdemocratgazet"
-   ],
-   "first_seen": 1790496395.963054,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Investigation concludes that Union Pacific broke law when it fired North Little Rock employee - The Arkansas Democrat-Gazette",
+   "title": "Investigation concludes that Union Pacific broke law when it fired North Little Rock employee - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUN5MTBDOV85RFpMX3YycTBOMi11NXFSZ3JXQ3BqenN6cXVnTHJsa2hFU1FFUkhZdTdLUWVwNW9zNmRLOVRibjJtRGRZQ3JSSVZmUVVUbEZJbkdtblFpOTI4ZmowOUt5S0ZsNVBuSi1CS1pXanh0aGFVLTFRbG9KMzIwMnpvbVdiZnhSN3ZDNkZZUzBtNUxjdjJDaG1oUQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790910900.0,
@@ -324,51 +291,7 @@
   },
   {
    "type": "article",
-   "title": "Suspect wanted in fatal September 2021 shooting held without bond on capital murder charge - KATV",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOOUlWMURiT0JIYk5DNjVTQ1FrbF9wamVrc0tzbWRtUGl2MW1ZQS1QV0tCUzF5MmZmXzBEal9OTU54cnYtVm1IZmFxNW9JV2FWOUk5blFNQy15ZHhJUjZocHN2WkcxaWtrUnEyOGdZT1BzZ1k1UXNhWDY3WXhadzdwTFphSml6WVkxaUo0d2RVY3RBVF9QSVVZSEQtWXJiX29UZkRDNy11ZFdnYnZEM0Fydkd3Zk55RjllSjluZFhCSUZmbG45V3pYMjA0WHNOanMzT1NsRDdWaHp4SEh4YW95SzFPbmgweWdvXzJmN2JSeFB3TlV0eFFnLW5CaGFQTGFPNm93RDVYMWFTRUdEZE1OTWZFS1JUX2R6RXhRcmdXbnRtUHA3ZFh3dkpuZ1A?oc=5",
-   "source": "KATV",
-   "published": 1790909076.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOOUlWMURiT0JIYk5DNjVTQ1FrbF9wamVrc0tzbWRtUGl2MW1ZQS1QV0tCUzF5MmZmXzBEal9OTU54cnYtVm1IZmFxNW9JV2FWOUk5blFNQy15ZHhJUjZocHN2WkcxaWtrUnEyOGdZT1BzZ1k1UXNhWDY3WXhadzdwTFphSml6WVkxaUo0d2RVY3RBVF9QSVVZSEQtWXJiX29UZkRDNy11ZFdnYnZEM0Fydkd3Zk55RjllSjluZFhCSUZmbG45V3pYMjA0WHNOanMzT1NsRDdWaHp4SEh4YW95SzFPbmgweWdvXzJmN2JSeFB3TlV0eFFnLW5CaGFQTGFPNm93RDVYMWFTRUdEZE1OTWZFS1JUX2R6RXhRcmdXbnRtUHA3ZFh3dkpuZ1A?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "suspectwantedinfatalseptember2021shootingheldwithoutbondoncapitalmurderchargekat"
-   ],
-   "first_seen": 1790955996.880746,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Third arrest made in North Little Rock cold case - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFJNdE51LUZxR1ZGY2ZvbWNrRHpfZHlzUk1xdjBhdmJUUTVPOGtTZXBJdGlCcDVtdWtFdHBYM2tjTkJwTEZ5dEtDS0ZOcDNjd2F4OGZpdkc2TjdIT05sYnZxZGZ3SmhRUkxkdWdfU19qYXY2YWhzVUhWZDJsS2RlVjFkQ1FVZ3p2WTg3QWl0eW5JMFhoMldnTkljS0JIXzlqNHozR3FNU25Ea0F0d2FQZG9qUzVQRVUxdFlmT3VB?oc=5",
-   "source": "THV11",
-   "published": 1790901840.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFJNdE51LUZxR1ZGY2ZvbWNrRHpfZHlzUk1xdjBhdmJUUTVPOGtTZXBJdGlCcDVtdWtFdHBYM2tjTkJwTEZ5dEtDS0ZOcDNjd2F4OGZpdkc2TjdIT05sYnZxZGZ3SmhRUkxkdWdfU19qYXY2YWhzVUhWZDJsS2RlVjFkQ1FVZ3p2WTg3QWl0eW5JMFhoMldnTkljS0JIXzlqNHozR3FNU25Ea0F0d2FQZG9qUzVQRVUxdFlmT3VB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "thirdarrestmadeinnorthlittlerockcoldcasethv11com"
-   ],
-   "first_seen": 1790907218.286878,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Kentucky Gov. Andy Beshear and Razorbacks coach John Calipari talk politics and basketball during appearance in Little Rock - The Arkansas Democrat-Gazette",
+   "title": "Kentucky Gov. Andy Beshear and Razorbacks coach John Calipari talk politics and basketball during appearance in Little Rock - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHFuRkZBSTd1SjBIM25reUlGOUlDaDMwd0ppUkhHUkRSU1NrN2ltQ0JKMEZMejFPczlZUXUzMVgyajNRMklHUDNGZUl2TmtoaWxITkVMcmU4eFY2d1B1R21ESVZxSDJhYi0wNVJrZE9MYWRjb3RINjhTNkJaYURmeVYtYnBDUWhTS3NfZUtXLWx4Z0ViWTlOeklvRQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790888400.0,
@@ -431,28 +354,6 @@
    ],
    "first_seen": 1790896245.687921,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock man seeks compensation after police officer held gun to his head inside gas station - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dEUFBVZEZVQ0xFNmRNZUZqUG9IRWMxNHZ4VERvZGxSNE9GMVdiOVNjbDFqak90UEs0RExvSkNsMTdtZmRWendxV2I0T2VfQUxadmp6ZVhSb1hvS2ZuSmVHRlhlbjVUT2cxU2Q3S2x2VldTMnFDeDdkTkhNVko3QzBXZzVuRl8zTHdpblVzOFBFcE9qZEl3SU4yWXI?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790876820.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dEUFBVZEZVQ0xFNmRNZUZqUG9IRWMxNHZ4VERvZGxSNE9GMVdiOVNjbDFqak90UEs0RExvSkNsMTdtZmRWendxV2I0T2VfQUxadmp6ZVhSb1hvS2ZuSmVHRlhlbjVUT2cxU2Q3S2x2VldTMnFDeDdkTkhNVko3QzBXZzVuRl8zTHdpblVzOFBFcE9qZEl3SU4yWXI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockmanseekscompensationafterpoliceofficerheldguntohisheadinsidegasstation"
-   ],
-   "first_seen": 1790907218.286878,
-   "section": "crime"
   },
   {
    "type": "article",
@@ -522,7 +423,7 @@
   },
   {
    "type": "article",
-   "title": "Globetrotters bring new Rivalry Tour to North Little Rock arena in March - The Arkansas Democrat-Gazette",
+   "title": "Globetrotters bring new Rivalry Tour to North Little Rock arena in March - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1RqU256UHhDTXlIVV95dHdjWU9FMUdLY25vdG9DRVdsalNXYTlDdXk1MFExVUFXZjZiTTQ5U1J5WHptblRneGZkWXZqelp6WjZQbmlmbkx6MVZwNnNMS2pDY3ZGUXNLSkxWYXdhWktFT1VBVTdicWRRRU5xVFJxWk9SMzdWNWVzV1U4YU1uNTJlTUt5aTJpM1B3?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1790788320.0,
@@ -537,32 +438,10 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "globetrottersbringnewrivalrytourtonorthlittlerockarenainmarchthearkansasdemocrat"
+    "globetrottersbringnewrivalrytourtonorthlittlerockarenainmarcharkansasonlinecom"
    ],
-   "first_seen": 1791068494.018547,
+   "first_seen": 1791081375.850702,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Jack Pedigo Obituary - North Little Rock, AR - Dignity Memorial",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnRsR2NudmVick9jdzBGemR0dTYxY1I2eHpEeUJPcnZ5blEtTXQ0anFPNEdOOUU1Vkdsd3l3V1RUZEJSVTJkWkUtWFYzZjBRWTg1RldpbzllXzM2YXRRWjNxY0FBUGJBRW95X0Y2dWsyY3lMVFNzSzNYUS1OTW44bkJvdTBJX01CWHFZbg?oc=5",
-   "source": "Dignity Memorial",
-   "published": 1790751600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Dignity Memorial",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnRsR2NudmVick9jdzBGemR0dTYxY1I2eHpEeUJPcnZ5blEtTXQ0anFPNEdOOUU1Vkdsd3l3V1RUZEJSVTJkWkUtWFYzZjBRWTg1RldpbzllXzM2YXRRWjNxY0FBUGJBRW95X0Y2dWsyY3lMVFNzSzNYUS1OTW44bkJvdTBJX01CWHFZbg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "jackpedigoobituarynorthlittlerockardignitymemorial"
-   ],
-   "first_seen": 1791068494.018547,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -584,6 +463,94 @@
     "firethermalcamerasrevealdetailsinnorthlittlerockarkansasarkansasradio"
    ],
    "first_seen": 1791068494.018547,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Air Show returns, bringing high-flying fun to Arkansas skies - KATV",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5",
+   "source": "KATV",
+   "published": 1790714279.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatv"
+   ],
+   "first_seen": 1791081375.850702,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock city council approves bond measures for Eaton factory, AI policy - arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790648220.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilapprovesbondmeasuresforeatonfactoryaipolicyarkansasonl"
+   ],
+   "first_seen": 1791081375.850702,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "5008 Allen St, North Little Rock, AR 72118 - Realtor.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNy03S2JENnJMakZ0Zll2MjVCYzQ3UUdMbEVhd20weGtBNDhoNXlLT0lRd1JxekZNT2JtUkhTY1JaVFdWdEZxTURtaWh6WDJKVVpCLTJ3R0Qwc05CNUlScTlqRFktQ3ZrUHp6U1JsUTM5dkhmYmN4b1F4a3JGSWppcXpkbHZZR1VDN3BacllSQW5IVGV0eENmQg?oc=5",
+   "source": "Realtor.com",
+   "published": 1790626013.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Realtor.com",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNy03S2JENnJMakZ0Zll2MjVCYzQ3UUdMbEVhd20weGtBNDhoNXlLT0lRd1JxekZNT2JtUkhTY1JaVFdWdEZxTURtaWh6WDJKVVpCLTJ3R0Qwc05CNUlScTlqRFktQ3ZrUHp6U1JsUTM5dkhmYmN4b1F4a3JGSWppcXpkbHZZR1VDN3BacllSQW5IVGV0eENmQg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "5008allenstnorthlittlerockar72118realtorcom"
+   ],
+   "first_seen": 1791081375.850702,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock holds off PA, 64-50 - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1h5QUpRWUtBX3lXNUxoc1I1WUFIWHpZblBfZXJVMWI3RDQxWHRMT28zX09NVUhGdlZNNFZkLU5qTEF2MmtpWnc5UXpSQXVnSU5WcjZtS0ZDSWMxRkJkMzlQZWpRZzBITUx1WkJ4Y1ZjRGc4NWdwQUVSR2Fhd0tKeEloQ2J5aU5aUEJwQW1zV21aZ0M3RzlfeFBHTGFWamRxbDY2WmRObmg2eUotRkFxTlptNGxOLXlNVS03QWtsbTBYQlcyLU4tR3poQWZtRlE?oc=5",
+   "source": "THV11",
+   "published": 1790449800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1h5QUpRWUtBX3lXNUxoc1I1WUFIWHpZblBfZXJVMWI3RDQxWHRMT28zX09NVUhGdlZNNFZkLU5qTEF2MmtpWnc5UXpSQXVnSU5WcjZtS0ZDSWMxRkJkMzlQZWpRZzBITUx1WkJ4Y1ZjRGc4NWdwQUVSR2Fhd0tKeEloQ2J5aU5aUEJwQW1zV21aZ0M3RzlfeFBHTGFWamRxbDY2WmRObmg2eUotRkFxTlptNGxOLXlNVS03QWtsbTBYQlcyLU4tR3poQWZtRlE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockholdsoffpa6450thv11com"
+   ],
+   "first_seen": 1791081375.850702,
    "section": "major"
   }
  ]
