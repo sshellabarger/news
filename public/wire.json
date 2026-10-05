@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-04T20:58:35.273364-05:00",
+ "updated": "2026-10-05T04:00:15.035008-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Community comes together for North Little Rock Airshow - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQmxySEZUV1BpOXcxb25YVWxqNVJMZ1FMQ21yMFRDVWwxX1dxZTlSOFJIeDBJWnRMWDNEZzE0alp6X2NTVTltUDVBU29TZm1xNVZFcWpUaHQ3T1FsY0d3MnBMTzA3OTU5T3Q4OXh2QlVfNVRscnA5bTFJZ0RlWERvVzFlMlhxZXFTVVFTRjBqX3BIWkU4X1E1QWxudTFCcDlSRnUtMVd0V2lBN1pNNXhSMUJ3d09KeXpPUGdJREFkOGdkaGlxV0JyMGZLaXpETUtUNW52X0dxeDZxN05LVEs4Vi1TbEQ2Zw?oc=5",
+   "source": "THV11",
+   "published": 1791173100.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQmxySEZUV1BpOXcxb25YVWxqNVJMZ1FMQ21yMFRDVWwxX1dxZTlSOFJIeDBJWnRMWDNEZzE0alp6X2NTVTltUDVBU29TZm1xNVZFcWpUaHQ3T1FsY0d3MnBMTzA3OTU5T3Q4OXh2QlVfNVRscnA5bTFJZ0RlWERvVzFlMlhxZXFTVVFTRjBqX3BIWkU4X1E1QWxudTFCcDlSRnUtMVd0V2lBN1pNNXhSMUJ3d09KeXpPUGdJREFkOGdkaGlxV0JyMGZLaXpETUtUNW52X0dxeDZxN05LVEs4Vi1TbEQ2Zw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "communitycomestogetherfornorthlittlerockairshowthv11com"
+   ],
+   "first_seen": 1791190815.035008,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Airshow draws crowds for aerobatics, supercars - katv.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlR3MEloNWRMSHl2Tjc0NzlSbnZTaFF4NFpNenc5Sk9Fak1KaWo5YXdNZlZfVDg0dU9jdmVEb0VCSzVtZWxSZVUydC1qY08tdnVvWjg4ZjVKdHE4MFFsbXRheEE4c1prVjhlbFBydGY0QWM0b3VrbDRTV09rcHNCWHVfWm5KeXdtZjF5WThGR01GRXREVnc?oc=5",
+   "source": "KATV",
+   "published": 1791165825.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlR3MEloNWRMSHl2Tjc0NzlSbnZTaFF4NFpNenc5Sk9Fak1KaWo5YXdNZlZfVDg0dU9jdmVEb0VCSzVtZWxSZVUydC1qY08tdnVvWjg4ZjVKdHE4MFFsbXRheEE4c1prVjhlbFBydGY0QWM0b3VrbDRTV09rcHNCWHVfWm5KeXdtZjF5WThGR01GRXREVnc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockairshowdrawscrowdsforaerobaticssupercarskatvcom"
+   ],
+   "first_seen": 1791190815.035008,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "University of Arkansas at Little Rock will create AI center to train students in real-world scenarios - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkNTbzBHTVc2WWxHQUtUTVBUX0hndy1BRkYyZ3ZXWV9qcWRNcE1YdWtHNXUtVFpPb3E0ZkpVaExNUkxyZHZXQk9xMm5ua2R4Z3hTZEZ1V1pGUC1TcHNfVFV4cEdPeVNGdjExRDBLVmhnYUhXQl9Od003cVpFZlFTYmdFTXpjWXZ2MlBvSVl3am50dEtaZFVBV0VQbUY?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791161100.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkNTbzBHTVc2WWxHQUtUTVBUX0hndy1BRkYyZ3ZXWV9qcWRNcE1YdWtHNXUtVFpPb3E0ZkpVaExNUkxyZHZXQk9xMm5ua2R4Z3hTZEZ1V1pGUC1TcHNfVFV4cEdPeVNGdjExRDBLVmhnYUhXQl9Od003cVpFZlFTYmdFTXpjWXZ2MlBvSVl3am50dEtaZFVBV0VQbUY?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "universityofarkansasatlittlerockwillcreateaicentertotrainstudentsinrealworldscen"
+   ],
+   "first_seen": 1791190815.035008,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Pulaski County records four homicides in September; total for 2026 remains below recent years - The Arkansas Democrat-Gazette",
@@ -67,28 +133,6 @@
    ],
    "first_seen": 1791127248.950444,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "ARKANSAS A-Z: Broadway Bridge spans time, travail - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1UzX09kNlhHSE9rbktpbEVzVGxSTDQ4RzEwbFJ3WW1qM01ldDZiTTdBLWJtLWptNG0xRWZmWWVFYjRxc3ZrVWUzSUxLVmJZVWR5VzJCS1VFQWNzaGJsd3QwX1cwTnRwbEktYkpCbkhHdzFQZ0Fmdl9VRlhrZ3k4SVdQSUQyTFY1MHB3LVllU2swX05OZWlfNGpHajI?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791032400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1UzX09kNlhHSE9rbktpbEVzVGxSTDQ4RzEwbFJ3WW1qM01ldDZiTTdBLWJtLWptNG0xRWZmWWVFYjRxc3ZrVWUzSUxLVmJZVWR5VzJCS1VFQWNzaGJsd3QwX1cwTnRwbEktYkpCbkhHdzFQZ0Fmdl9VRlhrZ3k4SVdQSUQyTFY1MHB3LVllU2swX05OZWlfNGpHajI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasazbroadwaybridgespanstimetravailthearkansasdemocratgazette"
-   ],
-   "first_seen": 1791107051.843211,
-   "section": "major"
   },
   {
    "type": "article",
@@ -164,46 +208,24 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Fire Department honors first African American firefighter - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGRWYjA1X3dlb2FkVTZjRzJFdUZvRFoxemcyV2VSd2ExdDV5NjNUbGFRS0hlU3g4UFhsVlVoaHFjcnRUUnQxdDFqdVVNamg4QThRcmtiOGR6VDlUWlFyY2ExTXZSb1hhcUhQYWxwLUZrU3I4OGNKalNIanFvUm5UalRtUzhxc2lXMExvUFFIVVZLcDJHUndsRHdJNkJLQ1VjVlJaRmlzU1dWWE5XbFdJdVQ1Uk5GWGtCT3lfYk1hTW1zUzRrN21ZV3dteTB6TFdKTU0xT09leDkwN2o0SDc5bmNmRVIzdzJCY1E?oc=5",
-   "source": "THV11",
-   "published": 1790976300.0,
+   "title": "North Little Rock Airshow returns for 2026 - KARK",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU01TQVVaV0dNYXZsMWxKemREMnRoaFExdEx1cHZhRTlqeGpWaEJzak4yT1JyVEhrR0xSaTdfUk1ZWU1GOThRbWJFdGRyUHMza0RFNHo2Y3dUTWhsTk95bndXOW5YcXU3cUwwN0ZCU3FzRHFUbkQ4bWRpNnVzQ29xUVpOaVpwUQ?oc=5",
+   "source": "KARK",
+   "published": 1790946511.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGRWYjA1X3dlb2FkVTZjRzJFdUZvRFoxemcyV2VSd2ExdDV5NjNUbGFRS0hlU3g4UFhsVlVoaHFjcnRUUnQxdDFqdVVNamg4QThRcmtiOGR6VDlUWlFyY2ExTXZSb1hhcUhQYWxwLUZrU3I4OGNKalNIanFvUm5UalRtUzhxc2lXMExvUFFIVVZLcDJHUndsRHdJNkJLQ1VjVlJaRmlzU1dWWE5XbFdJdVQ1Uk5GWGtCT3lfYk1hTW1zUzRrN21ZV3dteTB6TFdKTU0xT09leDkwN2o0SDc5bmNmRVIzdzJCY1E?oc=5"
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU01TQVVaV0dNYXZsMWxKemREMnRoaFExdEx1cHZhRTlqeGpWaEJzak4yT1JyVEhrR0xSaTdfUk1ZWU1GOThRbWJFdGRyUHMza0RFNHo2Y3dUTWhsTk95bndXOW5YcXU3cUwwN0ZCU3FzRHFUbkQ4bWRpNnVzQ29xUVpOaVpwUQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockfiredepartmenthonorsfirstafricanamericanfirefighterthv11com"
+    "northlittlerockairshowreturnsfor2026kark"
    ],
-   "first_seen": 1791165515.273364,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock set for 2026 National Night Out events Oct. 3 & 6 - FOX16.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjJGRHVubHg0aEdLbzJURm00UGVFZ0hnZTBPZUdVYlNOb0JfWEZxTHY2X0t1Y1pnX25iNU4yZzdQODc4NTUxbXluYkZ1NlM5Qk1renV1SUUtTmZPOHNHdjR5Qm1fTC1Xb3NOWFFVQTVMX1gta1duSUVKMHh6amZsRFFHbENUcTg5TG4xMWt2RTBBSHpaWHMwZUxIb3JlQmFMWHNMU192Vkl5NWVPTHJR0gGvAUFVX3lxTFBWMkZEdW5seDRoR0tvMlRGbTRQZUVnSGdlME9lR1ViU05vQl9YRnFMdjZfS3VjWmdfbmI1TjJnN1A4Nzg1NTFteW5iRnU2UzlCTWt6dXVJRS1OZk84c0d2NHlCbV9MLVdvc05YUVVBNUxfWC1rV25JRUoweHpqZmxEUUdsQ1RxODlMbjExa3ZFMEFIelpYczBlTEhvcmVCYUxYc0xTX3ZWSXk1ZU9MclE?oc=5",
-   "source": "FOX16",
-   "published": 1790955728.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "FOX16",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjJGRHVubHg0aEdLbzJURm00UGVFZ0hnZTBPZUdVYlNOb0JfWEZxTHY2X0t1Y1pnX25iNU4yZzdQODc4NTUxbXluYkZ1NlM5Qk1renV1SUUtTmZPOHNHdjR5Qm1fTC1Xb3NOWFFVQTVMX1gta1duSUVKMHh6amZsRFFHbENUcTg5TG4xMWt2RTBBSHpaWHMwZUxIb3JlQmFMWHNMU192Vkl5NWVPTHJR0gGvAUFVX3lxTFBWMkZEdW5seDRoR0tvMlRGbTRQZUVnSGdlME9lR1ViU05vQl9YRnFMdjZfS3VjWmdfbmI1TjJnN1A4Nzg1NTFteW5iRnU2UzlCTWt6dXVJRS1OZk84c0d2NHlCbV9MLVdvc05YUVVBNUxfWC1rV25JRUoweHpqZmxEUUdsQ1RxODlMbjExa3ZFMEFIelpYczBlTEhvcmVCYUxYc0xTX3ZWSXk1ZU9MclE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerocksetfor2026nationalnightouteventsoct36fox16com"
-   ],
-   "first_seen": 1790987298.098696,
+   "first_seen": 1791190815.035008,
    "section": "major"
   },
   {
@@ -274,7 +296,7 @@
   },
   {
    "type": "article",
-   "title": "Suspect wanted in fatal September 2021 shooting held without bond on capital murder charge - KATV",
+   "title": "Suspect wanted in fatal September 2021 shooting held without bond on capital murder charge - katv.com",
    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOOUlWMURiT0JIYk5DNjVTQ1FrbF9wamVrc0tzbWRtUGl2MW1ZQS1QV0tCUzF5MmZmXzBEal9OTU54cnYtVm1IZmFxNW9JV2FWOUk5blFNQy15ZHhJUjZocHN2WkcxaWtrUnEyOGdZT1BzZ1k1UXNhWDY3WXhadzdwTFphSml6WVkxaUo0d2RVY3RBVF9QSVVZSEQtWXJiX29UZkRDNy11ZFdnYnZEM0Fydkd3Zk55RjllSjluZFhCSUZmbG45V3pYMjA0WHNOanMzT1NsRDdWaHp4SEh4YW95SzFPbmgweWdvXzJmN2JSeFB3TlV0eFFnLW5CaGFQTGFPNm93RDVYMWFTRUdEZE1OTWZFS1JUX2R6RXhRcmdXbnRtUHA3ZFh3dkpuZ1A?oc=5",
    "source": "KATV",
    "published": 1790909076.0,
@@ -315,28 +337,6 @@
    ],
    "first_seen": 1791165515.273364,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Kentucky Gov. Andy Beshear and Razorbacks coach John Calipari talk politics and basketball during appearance in Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHFuRkZBSTd1SjBIM25reUlGOUlDaDMwd0ppUkhHUkRSU1NrN2ltQ0JKMEZMejFPczlZUXUzMVgyajNRMklHUDNGZUl2TmtoaWxITkVMcmU4eFY2d1B1R21ESVZxSDJhYi0wNVJrZE9MYWRjb3RINjhTNkJaYURmeVYtYnBDUWhTS3NfZUtXLWx4Z0ViWTlOeklvRQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1790888400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHFuRkZBSTd1SjBIM25reUlGOUlDaDMwd0ppUkhHUkRSU1NrN2ltQ0JKMEZMejFPczlZUXUzMVgyajNRMklHUDNGZUl2TmtoaWxITkVMcmU4eFY2d1B1R21ESVZxSDJhYi0wNVJrZE9MYWRjb3RINjhTNkJaYURmeVYtYnBDUWhTS3NfZUtXLWx4Z0ViWTlOeklvRQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "kentuckygovandybeshearandrazorbackscoachjohncaliparitalkpoliticsandbasketballdur"
-   ],
-   "first_seen": 1790955996.880746,
-   "section": "sports"
   },
   {
    "type": "article",
@@ -430,46 +430,46 @@
   },
   {
    "type": "article",
-   "title": "How are public schools in Arkansas funded? - USAFacts",
+   "title": "How are public schools in Arkansas funded? - usafacts.org",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
-   "source": "USAFacts",
+   "source": "usafacts.org",
    "published": 1790799003.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "USAFacts",
+     "source": "usafacts.org",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "howarepublicschoolsinarkansasfundedusafacts"
+    "howarepublicschoolsinarkansasfundedusafactsorg"
    ],
-   "first_seen": 1791155236.494772,
+   "first_seen": 1791190815.035008,
    "section": "major"
   },
   {
    "type": "article",
-   "title": "Jack Pedigo Obituary - North Little Rock, AR - Dignity Memorial",
+   "title": "Jack Pedigo Obituary - North Little Rock, AR - dignitymemorial.com",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnRsR2NudmVick9jdzBGemR0dTYxY1I2eHpEeUJPcnZ5blEtTXQ0anFPNEdOOUU1Vkdsd3l3V1RUZEJSVTJkWkUtWFYzZjBRWTg1RldpbzllXzM2YXRRWjNxY0FBUGJBRW95X0Y2dWsyY3lMVFNzSzNYUS1OTW44bkJvdTBJX01CWHFZbg?oc=5",
-   "source": "Dignity Memorial",
+   "source": "dignitymemorial.com",
    "published": 1790751600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Dignity Memorial",
+     "source": "dignitymemorial.com",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnRsR2NudmVick9jdzBGemR0dTYxY1I2eHpEeUJPcnZ5blEtTXQ0anFPNEdOOUU1Vkdsd3l3V1RUZEJSVTJkWkUtWFYzZjBRWTg1RldpbzllXzM2YXRRWjNxY0FBUGJBRW95X0Y2dWsyY3lMVFNzSzNYUS1OTW44bkJvdTBJX01CWHFZbg?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "jackpedigoobituarynorthlittlerockardignitymemorial"
+    "jackpedigoobituarynorthlittlerockardignitymemorialcom"
    ],
-   "first_seen": 1791165515.273364,
+   "first_seen": 1791190815.035008,
    "section": "obits"
   },
   {
@@ -496,7 +496,7 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Air Show returns, bringing high-flying fun to Arkansas skies - KATV",
+   "title": "North Little Rock Air Show returns, bringing high-flying fun to Arkansas skies - katv.com",
    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5",
    "source": "KATV",
    "published": 1790714279.0,
@@ -511,9 +511,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatv"
+    "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatvcom"
    ],
-   "first_seen": 1791127248.950444,
+   "first_seen": 1791190815.035008,
    "section": "major"
   },
   {
