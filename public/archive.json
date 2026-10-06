@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-06T15:17:03.328295-05:00",
+ "updated": "2026-10-06T18:51:15.910026-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "YMCA to close Little Rock, North Little Rock Early Learning Centers - KARK",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd25UdUJrM0dhUmcxeDJaWGRQRU1kLUo0a1U4VGpvRHFFNmp0WVlvTFY5bF9LU09RYzNzN0l6VE85ZTEtcE96aEJRNEMtNUR1X2NsUzlXaUhid19RZGtFRWJPY0ZKb3N5MXpBcmpPZG9uSnB6dkFGVUFhWVQtMkdGZFZGN2k2dVJ1U2RiNjJiTUROMmZ2LU9UU0V2bFdxYzA0R3hNSUxhVQ?oc=5",
+   "source": "KARK",
+   "published": 1791324841.0,
+   "first_seen": 1791330675.910026,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd25UdUJrM0dhUmcxeDJaWGRQRU1kLUo0a1U4VGpvRHFFNmp0WVlvTFY5bF9LU09RYzNzN0l6VE85ZTEtcE96aEJRNEMtNUR1X2NsUzlXaUhid19RZGtFRWJPY0ZKb3N5MXpBcmpPZG9uSnB6dkFGVUFhWVQtMkdGZFZGN2k2dVJ1U2RiNjJiTUROMmZ2LU9UU0V2bFdxYzA0R3hNSUxhVQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "ymcatocloselittlerocknorthlittlerockearlylearningcenterskark"
+   ]
+  },
   {
    "type": "article",
    "title": "West Little Rock Fazoli’s closed - The Arkansas Democrat-Gazette",
@@ -20,7 +42,8 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "westlittlerockfazolisclosedthearkansasdemocratgazette"
+    "westlittlerockfazolisclosedthearkansasdemocratgazette",
+    "westmemphismayorsaysgoogledatacentercouldgenerate20millioninnewannualtaxrevenuef"
    ]
   },
   {
@@ -433,17 +456,12 @@
     {
      "source": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXc3c0FZT3BZSWRDVTB3ZWV3Vno5T2JvTU1IQ1dZcDlHb0VvdW5vUENKX3ZidmNkRDRVSU95WEVFRWg3VllJUy1qc0ZKM08yMFhSQldIOTNwQi0tQlpIUVotYWw5QjZzUHBkUDVTVGstcy1LX1hIYkVOb3kyUi00Y3BwZG1qcTRZXzN4RTVB?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXEtbjdYWUEtRlNwdWtSeXRmeGhkcTMtbVVrcFdzVmhNTVdpNkRadzRTRnZ3WGl2OFdPcV9TNlN1NlpNNFpudktyaTBrNzlLN1dnSU52dW1MaGphTEN2QXhsMU9HbDdBZENIRjNZTGxuNHFjVVptZ0FlNEd3QWkyeW40QUg0aGM3cmQ4ZWkxeEVLcjZfMTQ1WDJVanZTMHFvdmtWQ01fSzZYQUl6dndZdFZsYTZKTHc?oc=5"
     }
    ],
-   "source_count": 6,
+   "source_count": 5,
    "member_keys": [
     "northlittlerockmanallegedlycommitted245000plusinmedicaidfraudkark",
     "northlittlerockmanallegedlycommitted245000plusinmedicaidfraudyahoo",
-    "northlittlerockmanarrestedaftermedicaidfraudprobealleges245401infalseclaimskatv",
     "northlittlerockmanarrestedformedicaidfraudover245000inclaimsthearkansasdemocratg",
     "northlittlerockmanarrestedformedicaidfraudthv11com",
     "northlittlerockmanchargedwithmedicaidfraudover245000inclaimskjnbtvcom"
@@ -857,9 +875,9 @@
   },
   {
    "type": "article",
-   "title": "Robert \"Doc\" Holladay Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy obituary",
+   "title": "Robert \"Doc\" Holladay Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1FqNDlmM3BkR1RrZkFRUm41dWlLVU9GQk1VR0hWeE9ubkp5SUdsNEp6dnBncHhQY3AxalRFUk05QjNscTA2VV95ZldQVWJFb0d3ZGVyNVBsYkJVSXBXQm9XQWRfcGVudGhzSDdwTG85SWNxaWVhLXFjNTdVWTJvR3ZuN3g?oc=5",
-   "source": "Legacy obituary",
+   "source": "Legacy | Obituary",
    "published": 1791010800.0,
    "first_seen": 1791247642.982437,
    "section": "obits",
@@ -868,7 +886,7 @@
    "num_comments": null,
    "sources": [
     {
-     "source": "Legacy obituary",
+     "source": "Legacy | Obituary",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1FqNDlmM3BkR1RrZkFRUm41dWlLVU9GQk1VR0hWeE9ubkp5SUdsNEp6dnBncHhQY3AxalRFUk05QjNscTA2VV95ZldQVWJFb0d3ZGVyNVBsYkJVSXBXQm9XQWRfcGVudGhzSDdwTG85SWNxaWVhLXFjNTdVWTJvR3ZuN3g?oc=5"
     }
    ],
