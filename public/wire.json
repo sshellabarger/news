@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-08T08:25:01.975820-05:00",
+ "updated": "2026-10-08T14:55:56.280545-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Def Leppard, Goo Goo Dolls set April 16 show at North Little Rock’s Simmons Bank Arena - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXhJV055YlZzNFkzOENYY2ZSdVliOE5ZSDNNNzNmUEI5SERCN3g0QUsyWS1ncHBabjkyLTZ0QVpJd3pqaTlqbmpSZjhJdzFNWGZfTDV3OG44VnRyZXFJZHktX2xEelhUeVFXTzJDc2tOWDV1UlRwUmhkcXBhcUhkVWxtOUtOQUlsdlZfM1pFbU9rLS1vY1VIaWpzRQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791473400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXhJV055YlZzNFkzOENYY2ZSdVliOE5ZSDNNNzNmUEI5SERCN3g0QUsyWS1ncHBabjkyLTZ0QVpJd3pqaTlqbmpSZjhJdzFNWGZfTDV3OG44VnRyZXFJZHktX2xEelhUeVFXTzJDc2tOWDV1UlRwUmhkcXBhcUhkVWxtOUtOQUlsdlZfM1pFbU9rLS1vY1VIaWpzRQ?oc=5"
+    },
+    {
+     "source": "Jonesboro Right Now",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXBZb19XMlhyUjFVcnpubTk4Ylg1TnJXMFN5Mk9ISkY2X3Ryb0F3YXZTckhYYU9aY1pUVkE4UGxuYVhxTEppNzkyNVluZmc4S1E4bzB0WmJ6OU1yN2oyTWplZ2p2c3lSallhYTJ0bFBzYzlFdDFxX0cwenJidHFLRHVUTzlTLVBBSTNXUnFORExoSE10Q3Rpai01dG9pYWpRcnp4bVhRWS1Vak5uWVhhdENtOEpMUQ?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "defleppardgoogoodollsandthestrutscomingtonorthlittlerockin2027jonesbororightnow",
+    "defleppardgoogoodollssetapril16showatnorthlittlerockssimmonsbankarenathearkansas"
+   ],
+   "first_seen": 1791489356.280545,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Four candidates look to fill North Little Rock Ward 2 seat as Linda Robinson retires - The Arkansas Democrat-Gazette",
@@ -11,20 +39,14 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDNyNDlBeWlzQ3h3VDcxOUVNcmV5WW5qbjlRV3BFY1lLeHlabEg1cUpIMnlINUtYMnF1WGU0dFBFdkNmUkgzNnlkTFE4WnpIWVQyMkZmTGVEZW5FNmFhTEpCR0pCLVJ3NldWX3NKa2x0c25YWFN0ZV9hdTNSOEpzSmtHTEFvUjBxMFdua1pURDExamVr?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "fourcandidateslooktofillnorthlittlerockward2seataslindarobinsonretiresnorthwesta",
     "fourcandidateslooktofillnorthlittlerockward2seataslindarobinsonretiresthearkansa"
    ],
    "first_seen": 1791439175.939766,
@@ -51,6 +73,28 @@
    ],
    "first_seen": 1791418266.742898,
    "section": "obits"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Man Faces Class A Felony Over $245,401 in Medicaid Claims for Services Allegedly Never Provided - Medical Daily",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVotOGxLVjVYWmdzZnJHdkhwekVta19FRnI5R0p2M2Z2V2FzOThELWF3YXhrM19tRFdFZzlfVHlSZnMyZV95a1N3UTl6MDNQdWYxSGw2a1FTRnJ3MnllTl9wMi1hcVZGZXhPTDJITjhkVHRmdXNkcVUxME1fcWNxcFQyd2N5d1RlWkE?oc=5",
+   "source": "Medical Daily",
+   "published": 1791403245.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Medical Daily",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVotOGxLVjVYWmdzZnJHdkhwekVta19FRnI5R0p2M2Z2V2FzOThELWF3YXhrM19tRFdFZzlfVHlSZnMyZV95a1N3UTl6MDNQdWYxSGw2a1FTRnJ3MnllTl9wMi1hcVZGZXhPTDJITjhkVHRmdXNkcVUxME1fcWNxcFQyd2N5d1RlWkE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockmanfacesclassafelonyover245401inmedicaidclaimsforservicesallegedl"
+   ],
+   "first_seen": 1791224684.489035,
+   "section": "major"
   },
   {
    "type": "article",
@@ -164,28 +208,6 @@
   },
   {
    "type": "article",
-   "title": "Live look at smoke from west Little Rock house fire | Arkansas Storm Team LIVE - KARK",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0g3REJvc21BeXlaQ1ZSWkJ5SnpBaUF5clBLQTJod2xUOGJLbi13ZUktZFZlaXdfR0E0aXp5YVhnejBDMDRyM21YUkFGMGtMT3dtV2ZtQlhhdHV4OHZoZy1sU3dxOHh4U2EyZ3pjLWVGWVBqb01tWllPeDlvRVhPMmtCci1oSTVlZWlWcFBDU1BDWnQ2WmJlTEIyQW9pcWR2NVpVWG05OTY2X3BfMmxYM19HYw?oc=5",
-   "source": "KARK",
-   "published": 1791319844.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0g3REJvc21BeXlaQ1ZSWkJ5SnpBaUF5clBLQTJod2xUOGJLbi13ZUktZFZlaXdfR0E0aXp5YVhnejBDMDRyM21YUkFGMGtMT3dtV2ZtQlhhdHV4OHZoZy1sU3dxOHh4U2EyZ3pjLWVGWVBqb01tWllPeDlvRVhPMmtCci1oSTVlZWlWcFBDU1BDWnQ2WmJlTEIyQW9pcWR2NVpVWG05OTY2X3BfMmxYM19HYw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "livelookatsmokefromwestlittlerockhousefirearkansasstormteamlivekark"
-   ],
-   "first_seen": 1791403094.917284,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "State seeks receiver for historic Haven of Rest cemetery in Little Rock - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUJiMEtCN1Z3ODVfaU9tUjh0OGp3WXM1cElOemxlMWpoNEdBT3NDMkQ4Nk1vY2Y2RW5qSnRzeHYwb1E2T1dmSEo2eng0d2h2TElRRlFQWU03Y0NJTWFfNGh5NGh5ekRER3BZekZ5WDZIXy1UazlTWF9tRlB5ZDZvcWJ5X1piN0FDZ2ZmVWdkLXFKamx6eVlzam1EQUo?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -235,50 +257,22 @@
    "title": "Derrell Hartwick Steps Down as North Little Rock Chamber CEO - Arkansas Business",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHFIa0x0OS1IaE1reUFsajZ5TzF2QnB6QTlOdUFrNHJWNk40eUs3OWpIWENOQ2hnYkE2MGI1eVlnQkxfVFA2bHA1cWRCT0ZtWENISk9yRXp4Z096YURZdnJvdk4zWjVqQTQzUTBZcnd1ZDludDhIRnNPTGFVZG5KTmlabGViQ2duUWc?oc=5",
    "source": "Arkansas Business",
-   "published": 1791300741.0,
+   "published": 1791300619.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "Arkansas Business",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHFIa0x0OS1IaE1reUFsajZ5TzF2QnB6QTlOdUFrNHJWNk40eUs3OWpIWENOQ2hnYkE2MGI1eVlnQkxfVFA2bHA1cWRCT0ZtWENISk9yRXp4Z096YURZdnJvdk4zWjVqQTQzUTBZcnd1ZDludDhIRnNPTGFVZG5KTmlabGViQ2duUWc?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVpfek51ZmlJak1XazFRcjVKM2UyYUhtcHpYekk1XzBNdHl3RGU5SXo1YUR3aElrM2I4VzQyQkZIaktmTzhlV2xqbFZ4S2lZNjZReGJxVWVTRVRDT2txZDFtMWxUeE5DMHZRcTBZbjMxRG0xTjhOb01mYkV6WWpCN3QxSjVWS2s1NldWakM3Rmg1Z2xwbkVMOHhGWQ?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "derrellhartwickheadofthenorthlittlerockchamberofcommercedepartingafterfiveyearst",
-    "derrellhartwickstepsdownasnorthlittlerockchamberceoarkansasbusiness"
-   ],
-   "first_seen": 1791317823.328295,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Stanley J. Goldberg Obituary (2026) - Little Rock, AR - Ruebel Funeral Home - Little Rock - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHpsY3FXY0kyclVQa1NqcWlRandJTF9NZFdodkJpMWxpU2sybFV0Nmd1U0tWbi1LOWZXZUtmMHpKVU5WU0NmSVVFSnhRSENWdFRZeTd6R0JtSXBqMHdZOWt0X0NFMEpHWGdQdHhvX1VMM2taWnJ6dU01QTI5OFBoSW5RMkpxQQ?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1791271921.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHpsY3FXY0kyclVQa1NqcWlRandJTF9NZFdodkJpMWxpU2sybFV0Nmd1U0tWbi1LOWZXZUtmMHpKVU5WU0NmSVVFSnhRSENWdFRZeTd6R0JtSXBqMHdZOWt0X0NFMEpHWGdQdHhvX1VMM2taWnJ6dU01QTI5OFBoSW5RMkpxQQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "stanleyjgoldbergobituary2026littlerockarruebelfuneralhomelittlerocklegacyobituar"
+    "derrellhartwickstepsdownasnorthlittlerockchamberceoarkansasbusiness"
    ],
-   "first_seen": 1791299305.455538,
-   "section": "obits"
+   "first_seen": 1791317823.328295,
+   "section": "major"
   },
   {
    "type": "article",
@@ -340,29 +334,19 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDZ6aE1fc3k5dGt0VEZEZzU3c3VHWUJCMU90UUtSYnRpSUFkU1d1enctR0hocTlDZGl1ek5wNkxVUEFwQzV0RVFveXgxNFlla0x0akN2djBrVjlDclZjWFE5bDRPTm9aOGF2R1V5cHdvWmlEMS1QQVBWYk1IRkZOS2lYOGV4S2ctQW9hZnJ0SkZSTjVOMS1fdnZYTTcyN2dxWDU2eWNuaGxJbFFFcGhXQkxCTkNCQ19FTko0SzBTb2dIdw?oc=5"
     },
     {
-     "source": "kjnbtv.com",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVHBMQVoyWVl0c3J5UUxPRFpDU2t0Z2FzZ2J0VU9SZk14OVFSRXpTdl9OVlBZckY5RUl5c05OMmhBa2RmbHpZd0dhb1hVQmNmVGtEOHhwMVJZdG1wWW9XbXRUXzRKZ1lRcEdjd2QyZmVKUF9OZjg5Q1BtLTJuSDRkdGxqZEZRVXVsX2VqT2VrYUltNlVaWnVGZXBmNWxORWdTV0ZPMlJUVzBZcnFmRHdQMy1lR3RpV05pVHdDYmFlWk5hM016QldfVjUyQVMxMEIwSl83OG5SSW5EejNFaEdKRHEtUHF2QnV4bkU0MQ?oc=5"
-    },
-    {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjNTSnRSbmMtUlhob2dGc1lvaDVuS19fTGVNdFM1QTA3LXYwOWtPUTBQalhzbnFrbFFHYy15NkpuV3hEYjdiTFgzTGRLZDB4clVUUV80R1Y3SElMYWdhY1FEQ21lM3NCMVlVZ1B6WUpwV0JMUzlKM1RwUlV6RFdxd1BfbllqNnNrcS1JdmQzeVVYSTVpLVViSmFLX090TW8?oc=5"
     },
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWtLWGgxc0U2RFhCZFlTVGFQamVVU0VQcmZiMXZ1eEM4eFFIY2oyOGJSOWU1OWVydFlpTHFKcmlQUTRvVEFMNUFnSUlrOThoWWhNWTViVi1wSUVTVFhzRm1aYTRhdERFMHhWRTJVN1puN1JfNU04LW1FUWd2TXFOcXJoNUgzb2dMN2V6TnpOOGZCOEtLT094NzN5X0ZPeFRw?oc=5"
-    },
-    {
-     "source": "Medical Daily",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVotOGxLVjVYWmdzZnJHdkhwekVta19FRnI5R0p2M2Z2V2FzOThELWF3YXhrM19tRFdFZzlfVHlSZnMyZV95a1N3UTl6MDNQdWYxSGw2a1FTRnJ3MnllTl9wMi1hcVZGZXhPTDJITjhkVHRmdXNkcVUxME1fcWNxcFQyd2N5d1RlWkE?oc=5"
     }
    ],
-   "source_count": 5,
+   "source_count": 3,
    "member_keys": [
     "northlittlerockmanallegedlycommitted245000plusinmedicaidfraudkark",
     "northlittlerockmanarrestedformedicaidfraudover245000inclaimsthearkansasdemocratg",
-    "northlittlerockmanarrestedformedicaidfraudthv11com",
-    "northlittlerockmanchargedwithmedicaidfraudover245000inclaimskjnbtvcom",
-    "northlittlerockmanfacesclassafelonyover245401inmedicaidclaimsforservicesallegedl"
+    "northlittlerockmanarrestedformedicaidfraudthv11com"
    ],
    "first_seen": 1791224684.489035,
    "section": "crime"
@@ -419,28 +403,6 @@
   },
   {
    "type": "article",
-   "title": "Conway beats North Little Rock, 49-20 - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTQzaVhuSG9BM0JaV05wZnNvcHFHWkFkWjJBNXNLV1VOLTVfSDZnVXE4SVFqTk5WdU1TVVJJS25tX3ZsRGRfUUk0c2FGLXl1V3lYMUo4VTJ1aHd4akd0TlhNRjBsMXFiV21mRW9ucUxERjRNVGYtQW9JNGxELVkzcTUxWUZfSjVtQ21RRUw2QVVRUWZjckNqYVVJVVFIUzVHdmtjSWVqblhDTXlVMHNSSFMtc3hUQVE3SFpSSnVndFFfT1ZWSnNvLTBYOThLN05k?oc=5",
-   "source": "THV11",
-   "published": 1791001500.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTQzaVhuSG9BM0JaV05wZnNvcHFHWkFkWjJBNXNLV1VOLTVfSDZnVXE4SVFqTk5WdU1TVVJJS25tX3ZsRGRfUUk0c2FGLXl1V3lYMUo4VTJ1aHd4akd0TlhNRjBsMXFiV21mRW9ucUxERjRNVGYtQW9JNGxELVkzcTUxWUZfSjVtQ21RRUw2QVVRUWZjckNqYVVJVVFIUzVHdmtjSWVqblhDTXlVMHNSSFMtc3hUQVE3SFpSSnVndFFfT1ZWSnNvLTBYOThLN05k?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "conwaybeatsnorthlittlerock4920thv11com"
-   ],
-   "first_seen": 1791439175.939766,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock squirrel attack sends bloodied grandmother and mom to the ER - Arkansas Times",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5",
    "source": "Arkansas Times",
@@ -482,6 +444,94 @@
    ],
    "first_seen": 1791439175.939766,
    "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "How are public schools in Arkansas funded? - USAFacts",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5",
+   "source": "USAFacts",
+   "published": 1790799003.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "USAFacts",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlpWS0NVQVIzNGZfcm50cXNhZ1did0w4Uk1qaTVpdE9fMW81N01FY0tMcUdyQmJER21hX2dlcUJnMllCWkxEY0h5eURyYXJscXJsSlI5MDVWODBlTWtjQnlUdE9xbDhVQlRiMnRJX2JGZGRUV1VicG43ZVRLa29XWld6Z0JwYVVLVjByMw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "howarepublicschoolsinarkansasfundedusafacts"
+   ],
+   "first_seen": 1791489356.280545,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "FIRE: Thermal Cameras Reveal Details In North Little Rock, Arkansas - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGxIZ2FHTmpjSmw5eVIyUEppZGMyUl9CXzRZUy1qaEllTU5qRmJGSXV5Y2lHaUJjTk91U0x4bXJ4TjFVNVR5NlNZbEc4M3Joa196eUJpTFZ2UEhRRk1SWDkyREZpQTBQVks3N1VGYzN6MTdCdjh4LThRU0duSXVDdjVMNV92ZERmcHQ2ZEJVR0lJUVQxSjFLOThXYUpoZExQQTItb3hIc1RQaDZRQXJmVUhHS2E1ODg?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1790718770.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGxIZ2FHTmpjSmw5eVIyUEppZGMyUl9CXzRZUy1qaEllTU5qRmJGSXV5Y2lHaUJjTk91U0x4bXJ4TjFVNVR5NlNZbEc4M3Joa196eUJpTFZ2UEhRRk1SWDkyREZpQTBQVks3N1VGYzN6MTdCdjh4LThRU0duSXVDdjVMNV92ZERmcHQ2ZEJVR0lJUVQxSjFLOThXYUpoZExQQTItb3hIc1RQaDZRQXJmVUhHS2E1ODg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "firethermalcamerasrevealdetailsinnorthlittlerockarkansasarkansasradio"
+   ],
+   "first_seen": 1791489356.280545,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock city council approves bond measures for Eaton factory, AI policy - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790578800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilapprovesbondmeasuresforeatonfactoryaipolicythearkansas"
+   ],
+   "first_seen": 1791489356.280545,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock fire damages house, vehicle - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3NoNFM1TFFiQXp0MWZKdzBPczlpeTFOSHdlX01iVFE3VG9kZVYwV2dLa2UxRHRTcW5nY2tIbUdxeGJuZnd6OXRTdDJBbzNqZE9Hb2xsTnBPWFRaZVFvWnZZNEVURGtHeDFYTFA5RXl6bDA2UE1Uejd1XzVBSzBCcTdrNmVLaFdCU3VjbHpFZV83ZlJEQU8yUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790492400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3NoNFM1TFFiQXp0MWZKdzBPczlpeTFOSHdlX01iVFE3VG9kZVYwV2dLa2UxRHRTcW5nY2tIbUdxeGJuZnd6OXRTdDJBbzNqZE9Hb2xsTnBPWFRaZVFvWnZZNEVURGtHeDFYTFA5RXl6bDA2UE1Uejd1XzVBSzBCcTdrNmVLaFdCU3VjbHpFZV83ZlJEQU8yUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockfiredamageshousevehiclethearkansasdemocratgazette"
+   ],
+   "first_seen": 1791489356.280545,
+   "section": "major"
   }
  ]
 }
