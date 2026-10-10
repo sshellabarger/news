@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-10T00:48:39.001720-05:00",
+ "updated": "2026-10-10T07:28:11.527324-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Columbus Day closings - Northwest Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSlg0S3hPc3VlRUVzTTZTYmREUWtJYkgzWXZjWnc4SW9FSU1NR085QkIyMmtJUVdJVWR3MmZzTDF3VW5zWVpUSDVab19HcEdYTlBQZFpMSHd6dkZyVjdYQnhuTXVuOXFNaVVTdTNzNTMtVGM?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
+   "published": 1791620040.0,
+   "first_seen": 1791635291.527324,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSlg0S3hPc3VlRUVzTTZTYmREUWtJYkgzWXZjWnc4SW9FSU1NR085QkIyMmtJUVdJVWR3MmZzTDF3VW5zWVpUSDVab19HcEdYTlBQZFpMSHd6dkZyVjdYQnhuTXVuOXFNaVVTdTNzNTMtVGM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "columbusdayclosingsnorthwestarkansasdemocratgazette"
+   ]
+  },
   {
    "type": "article",
    "title": "Dozens of Navy training planes arrive in Little Rock, leaving Florida before Hurricane Isaias - The Arkansas Democrat-Gazette",
@@ -135,28 +157,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock set for Arkansas government job fair - KARK",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzdDaU4xaHc5QzNiLW5COWE2cldPTGJiZ1R6U1lmWUcwR09WcGY1eHZNNlJjeTdzUlVDU2dDamE1QURqRTRCS2ZxdjVveWFMM29lUDZNWWpreDF0N0s4Qm1mb3VHSkQ0QnhjYUg5d0dtcXhYRzRteFVqdVF2NjV1SnRWcmhqUzNWZXNQNkRwdWpLMnM5?oc=5",
-   "source": "KARK",
-   "published": 1791498425.0,
-   "first_seen": 1791505277.646788,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzdDaU4xaHc5QzNiLW5COWE2cldPTGJiZ1R6U1lmWUcwR09WcGY1eHZNNlJjeTdzUlVDU2dDamE1QURqRTRCS2ZxdjVveWFMM29lUDZNWWpreDF0N0s4Qm1mb3VHSkQ0QnhjYUg5d0dtcXhYRzRteFVqdVF2NjV1SnRWcmhqUzNWZXNQNkRwdWpLMnM5?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerocksetforarkansasgovernmentjobfairkark"
-   ]
-  },
-  {
-   "type": "article",
    "title": "North Little Rock set for Arkansas government job fair - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm1TbG9ocW11TXdLSW9HUGtGRW9YeGREd3g1X0ZGQVRMUFRWT3VTM2NfSHhGNk9FZnNzOEVCalIxQnZmWW5uRzc3UGxrY3hSRXZUT3l2cU90anZFQU5BdXh6VHJuRDUtZFgzTUpiSjVSelpyaXNuSko1NldWbTlLMWEzTm5WTm56VndYbQ?oc=5",
    "source": "Yahoo",
@@ -175,6 +175,28 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerocksetforarkansasgovernmentjobfairyahoo"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock set for Arkansas government job fair - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzdDaU4xaHc5QzNiLW5COWE2cldPTGJiZ1R6U1lmWUcwR09WcGY1eHZNNlJjeTdzUlVDU2dDamE1QURqRTRCS2ZxdjVveWFMM29lUDZNWWpreDF0N0s4Qm1mb3VHSkQ0QnhjYUg5d0dtcXhYRzRteFVqdVF2NjV1SnRWcmhqUzNWZXNQNkRwdWpLMnM5?oc=5",
+   "source": "KARK",
+   "published": 1791498425.0,
+   "first_seen": 1791505277.646788,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzdDaU4xaHc5QzNiLW5COWE2cldPTGJiZ1R6U1lmWUcwR09WcGY1eHZNNlJjeTdzUlVDU2dDamE1QURqRTRCS2ZxdjVveWFMM29lUDZNWWpreDF0N0s4Qm1mb3VHSkQ0QnhjYUg5d0dtcXhYRzRteFVqdVF2NjV1SnRWcmhqUzNWZXNQNkRwdWpLMnM5?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerocksetforarkansasgovernmentjobfairkark"
    ]
   },
   {
@@ -1612,28 +1634,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock squirrel attack sends bloodied grandmother and mom to the ER - Arkansas Times",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5",
-   "source": "Arkansas Times",
-   "published": 1790976585.0,
-   "first_seen": 1790987298.098696,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "Arkansas Times",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerocksquirrelattacksendsbloodiedgrandmotherandmomtotheerarkansastimes"
-   ]
-  },
-  {
-   "type": "article",
    "title": "North Little Rock Fire Department honors first African American firefighter - THV11",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGRWYjA1X3dlb2FkVTZjRzJFdUZvRFoxemcyV2VSd2ExdDV5NjNUbGFRS0hlU3g4UFhsVlVoaHFjcnRUUnQxdDFqdVVNamg4QThRcmtiOGR6VDlUWlFyY2ExTXZSb1hhcUhQYWxwLUZrU3I4OGNKalNIanFvUm5UalRtUzhxc2lXMExvUFFIVVZLcDJHUndsRHdJNkJLQ1VjVlJaRmlzU1dWWE5XbFdJdVQ1Uk5GWGtCT3lfYk1hTW1zUzRrN21ZV3dteTB6TFdKTU0xT09leDkwN2o0SDc5bmNmRVIzdzJCY1E?oc=5",
    "source": "THV11",
@@ -1806,6 +1806,28 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerockairshowreturnsfor2026kark"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock squirrel attack sends bloodied grandmother and mom to the ER - Arkansas Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5",
+   "source": "Arkansas Times",
+   "published": 1790924400.0,
+   "first_seen": 1790987298.098696,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Arkansas Times",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUxXMnhxQldMcm1rV2ZTNmswdkxrdXVVd0hJbzZLTmVJLXpEU0IxUTZrTmJIWXJRdG02dUQ2c3BhaFYwNXJXdmwwei1XZ1QwSDFLdXRJak5teVN3X2o4c0hMSVRtcGRfWHJ2UEdNcXBsck1OUUxDSmM1bGpSN1dWR08tb2xtcFp4bTZTSFRFRnlUWk1uOTVmWkYzeEc2V2ViNFNHaWtnTnRqa1dxM2s3YTBLODNRVGtpOTZ5am9oOVlWQQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerocksquirrelattacksendsbloodiedgrandmotherandmomtotheerarkansastimes"
    ]
   },
   {
