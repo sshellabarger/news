@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-10T12:50:44.302850-05:00",
+ "updated": "2026-10-10T16:41:15.154969-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "North Little Rock police investigate infant's death - THV11",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5",
+   "source": "THV11",
+   "published": 1791665520.0,
+   "first_seen": 1791668475.154969,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpoliceinvestigateinfantsdeaththv11"
+   ]
+  },
   {
    "type": "article",
    "title": "Columbus Day closings - Northwest Arkansas Democrat-Gazette",
@@ -219,6 +241,28 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerocksetforarkansasgovernmentjobfairkark"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Little Rock Weekend Guide: Oct. 8-11 - Little Rock Soiree",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZFlidl9wTHcyeWFJbi1rRGYzQzNxVUFNWGZjRnZUak51ZXF6U2Vib2VuRXQ0cmdFT3lOUWhtRGVzR0ZnQkNlM1BYV2VtZUZxTkFRcVhnczcxRm5rY1JESVMycjJqYy1mSHpxN2hvbF9fSzVLYUVF?oc=5",
+   "source": "Little Rock Soiree",
+   "published": 1791475035.0,
+   "first_seen": 1791668475.154969,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Little Rock Soiree",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZFlidl9wTHcyeWFJbi1rRGYzQzNxVUFNWGZjRnZUak51ZXF6U2Vib2VuRXQ0cmdFT3lOUWhtRGVzR0ZnQkNlM1BYV2VtZUZxTkFRcVhnczcxRm5rY1JESVMycjJqYy1mSHpxN2hvbF9fSzVLYUVF?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockweekendguideoct811littlerocksoiree"
    ]
   },
   {
