@@ -1,50 +1,39 @@
 {
- "updated": "2026-10-10T19:59:32.089985-05:00",
+ "updated": "2026-10-11T02:10:12.635164-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "North Little Rock police investigate infant's death - THV11",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5",
-   "source": "THV11",
-   "published": 1791665520.0,
+   "title": "North Little Rock police investigating death of infant - KARK",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWtqcU9aZG15eEdJclRfU2c4QUF5M2xQalRDLS10dnJtbmNNVHRUdWxydk4xRkZINEhaUkpjSlhDTUxIWHp0M1h4T29kV2FpQXptUXFrenp2QVN0VWt4LVpPeEZ4QlIzYU9CeFYxdE1YNzRPdTRLYnB4d0xNX2RCOU1EcjQ0QVhqR2c?oc=5",
+   "source": "KARK",
+   "published": 1791665162.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWtqcU9aZG15eEdJclRfU2c4QUF5M2xQalRDLS10dnJtbmNNVHRUdWxydk4xRkZINEhaUkpjSlhDTUxIWHp0M1h4T29kV2FpQXptUXFrenp2QVN0VWt4LVpPeEZ4QlIzYU9CeFYxdE1YNzRPdTRLYnB4d0xNX2RCOU1EcjQ0QVhqR2c?oc=5"
+    },
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNISzllTlBpSGZqWFpKSDF3WTFPX0N2YlJXNWUtTnNSeWQ4Umc5c3A1TGxwUHdVMlBjVjBiZzB4Z2pORi01TmhUejB6N0JkZ2VqakJYVncxM1BXUlJHVUs0U094SFVlZkdCZ19QRXd1WHpadFRIUkJJZXY5dURhbE9KMzQteUI1aERlcF9CUnl1NHp3Tnc?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 3,
    "member_keys": [
-    "northlittlerockpoliceinvestigateinfantsdeaththv11"
+    "northlittlerockpoliceinvestigateinfantsdeaththv11",
+    "northlittlerockpoliceinvestigatingdeathofinfantkark",
+    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette"
    ],
    "first_seen": 1791668475.154969,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Columbus Day closings - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSlg0S3hPc3VlRUVzTTZTYmREUWtJYkgzWXZjWnc4SW9FSU1NR085QkIyMmtJUVdJVWR3MmZzTDF3VW5zWVpUSDVab19HcEdYTlBQZFpMSHd6dkZyVjdYQnhuTXVuOXFNaVVTdTNzNTMtVGM?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1791620040.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSlg0S3hPc3VlRUVzTTZTYmREUWtJYkgzWXZjWnc4SW9FSU1NR085QkIyMmtJUVdJVWR3MmZzTDF3VW5zWVpUSDVab19HcEdYTlBQZFpMSHd6dkZyVjdYQnhuTXVuOXFNaVVTdTNzNTMtVGM?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "columbusdayclosingsnorthwestarkansasdemocratgazette"
-   ],
-   "first_seen": 1791635291.527324,
-   "section": "major"
   },
   {
    "type": "article",
@@ -55,6 +44,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -63,7 +53,8 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "maumellepoliceofficerinvolvedincrashtwopeoplereportedinjuredthearkansasdemocratg"
+    "maumellepoliceofficerinvolvedincrashtwopeoplereportedinjuredthearkansasdemocratg",
+    "northlittlerockpoliceinvestigatingdeathofinfantthearkansasdemocratgazette"
    ],
    "first_seen": 1791654644.30285,
    "section": "crime"
@@ -89,6 +80,28 @@
    ],
    "first_seen": 1791590518.142056,
    "section": "obits"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Community Service Awards to be held Saturday - KARK",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXy1uLS1oYWFlM2drNk1OLU1CUDM2QVdvT3hkWWRBSExFcjdocHdkeHhXam9yNnFUa3lob0NtNnZXSFpMcmk3TWF4NDR3bFo4LTFQc3B2QzE2cU0yWU9mdUFXTlhXVk9EeGhyU1o0LXpRem9Vb2NYYzcwUEtaQXhoTHRGdVlpSExoTmprcFJWR2ZKMTV5YVVVZ1Ztb3lyY3o2?oc=5",
+   "source": "KARK",
+   "published": 1791568380.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXy1uLS1oYWFlM2drNk1OLU1CUDM2QVdvT3hkWWRBSExFcjdocHdkeHhXam9yNnFUa3lob0NtNnZXSFpMcmk3TWF4NDR3bFo4LTFQc3B2QzE2cU0yWU9mdUFXTlhXVk9EeGhyU1o0LXpRem9Vb2NYYzcwUEtaQXhoTHRGdVlpSExoTmprcFJWR2ZKMTV5YVVVZ1Ztb3lyY3o2?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcommunityserviceawardstobeheldsaturdaykark"
+   ],
+   "first_seen": 1791702612.635164,
+   "section": "major"
   },
   {
    "type": "article",
@@ -176,28 +189,6 @@
     "northlittlerocksetforarkansasgovernmentjobfairkark"
    ],
    "first_seen": 1791635291.527324,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Willy D’s Sets Opening for New Argenta Home - Arkansas Business",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGhaSG1Ma2NNd09TUC0xc0ZTVjdtelhtNjZwWnFtU1I5amQ0cFJDMFJxMm80ajRDTjdreXRVX1FKM21hYVB0YWRCaXB6UXZNUnhMQVdkU2FVRUgzUWRXdDJPbjVLbkt2STd4VkVSWmNjN0RtSXNaeTZnbGJ6MG05N1JxU3A5SjMxcGRYbg?oc=5",
-   "source": "Arkansas Business",
-   "published": 1791473555.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Business",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGhaSG1Ma2NNd09TUC0xc0ZTVjdtelhtNjZwWnFtU1I5amQ0cFJDMFJxMm80ajRDTjdreXRVX1FKM21hYVB0YWRCaXB6UXZNUnhMQVdkU2FVRUgzUWRXdDJPbjVLbkt2STd4VkVSWmNjN0RtSXNaeTZnbGJ6MG05N1JxU3A5SjMxcGRYbg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "willydssetsopeningfornewargentahomearkansasbusiness"
-   ],
-   "first_seen": 1791505277.646788,
    "section": "major"
   },
   {
@@ -296,28 +287,6 @@
   },
   {
    "type": "article",
-   "title": "Judge says law firm that represented the Arkansas Board of Corrections can seek legal fees in suit against governor’s office - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWdCTGZUZkROOGFNY1BtMFRLc05Kd1Z6RUZHSnRnV29Wc2c0OTA1OFNKaGpUQVFUdUdvUlBwT3pWZGpJd3N3RHlqTHE1dkJTT1Z0MHVzN0lLSlp6cnczdDh4N04wQl9najJsUU1NLUZXUzZnbmlDOVRrUHJnX2h6TUx1bFFSbEc2S1ZEVlFfcFVydU1rUkRPRjl1RmtIc3M?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791397500.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWdCTGZUZkROOGFNY1BtMFRLc05Kd1Z6RUZHSnRnV29Wc2c0OTA1OFNKaGpUQVFUdUdvUlBwT3pWZGpJd3N3RHlqTHE1dkJTT1Z0MHVzN0lLSlp6cnczdDh4N04wQl9najJsUU1NLUZXUzZnbmlDOVRrUHJnX2h6TUx1bFFSbEc2S1ZEVlFfcFVydU1rUkRPRjl1RmtIc3M?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "judgesayslawfirmthatrepresentedthearkansasboardofcorrectionscanseeklegalfeesinsu"
-   ],
-   "first_seen": 1791505277.646788,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Dancing with the Stars: Live! tour includes Feb. 25 show at North Little Rock arena - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnZhSzVsV0NFRFZhMllsQkNNMTdPZno2SEpoVUdnVXVwbFdvRG1kamNxZEpCakNZMERDNDlYeUlBNFpGY0N3MzZVZzJpWEMtaVdGUGRzVG1KTUZQSGxzMko5cGxOWkJ5T2Y2SnY4ZFN1cUd6a2FVenczRExtNnRUcnoxcWxmNXJiRktqdVlkeFAtWnhwdlRTRHJOT2RCdw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -336,50 +305,6 @@
     "dancingwiththestarslivetourincludesfeb25showatnorthlittlerockarenathearkansasdem"
    ],
    "first_seen": 1791439175.939766,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Stephen King’s ‘Misery’ Opens Oct. 14 at Argenta Contemporary Theatre - Little Rock Soiree",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFhVT1Y2YnZCSU8wazR1dWstdVExX3ZrTkZYSmNlTHplZXVtWTVkU3dlVkRqWVdrM2dldThacnl6TFhuekpvVkNUNzVfVUlBWmxYSVlyTktUTlZFbGlsUVdlZ19IaFFMWjRPWG1YNndvenpiV25RaHpCdW92WnFXbktKcERQSHY2UHVOc3pXOU81TXhMenJSZ3pQZk9FZE9C?oc=5",
-   "source": "Little Rock Soiree",
-   "published": 1791385802.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Little Rock Soiree",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFhVT1Y2YnZCSU8wazR1dWstdVExX3ZrTkZYSmNlTHplZXVtWTVkU3dlVkRqWVdrM2dldThacnl6TFhuekpvVkNUNzVfVUlBWmxYSVlyTktUTlZFbGlsUVdlZ19IaFFMWjRPWG1YNndvenpiV25RaHpCdW92WnFXbktKcERQSHY2UHVOc3pXOU81TXhMenJSZ3pQZk9FZE9C?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "stephenkingsmiseryopensoct14atargentacontemporarytheatrelittlerocksoiree"
-   ],
-   "first_seen": 1791403094.917284,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock & North Little Rock host annual National Night Out events - KARK",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEMtVGJ4M3VtWVRwdGM3cDhJVldfWnZHVEk0WnRuaFNYWF9fUWtrVzYyM0tPWkxIZ0lsdklybkZQNlY5YVFCZm04Q2diWERfQ1dUM2V0enNic2NzUlI4YTlyYkp2SWplanUwUFBKeXVYUmNpdkU3YzhyME5vd2JMYTV1M01BZk40OUcydnNnSUlrVjhOdkFWaXZKYXVmNk15a2xoSkNjN04?oc=5",
-   "source": "KARK",
-   "published": 1791342529.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEMtVGJ4M3VtWVRwdGM3cDhJVldfWnZHVEk0WnRuaFNYWF9fUWtrVzYyM0tPWkxIZ0lsdklybkZQNlY5YVFCZm04Q2diWERfQ1dUM2V0enNic2NzUlI4YTlyYkp2SWplanUwUFBKeXVYUmNpdkU3YzhyME5vd2JMYTV1M01BZk40OUcydnNnSUlrVjhOdkFWaXZKYXVmNk15a2xoSkNjN04?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerocknorthlittlerockhostannualnationalnightouteventskark"
-   ],
-   "first_seen": 1791576474.904963,
    "section": "major"
   },
   {
@@ -428,28 +353,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock man arrested for Medicaid fraud - THV11",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDZ6aE1fc3k5dGt0VEZEZzU3c3VHWUJCMU90UUtSYnRpSUFkU1d1enctR0hocTlDZGl1ek5wNkxVUEFwQzV0RVFveXgxNFlla0x0akN2djBrVjlDclZjWFE5bDRPTm9aOGF2R1V5cHdvWmlEMS1QQVBWYk1IRkZOS2lYOGV4S2ctQW9hZnJ0SkZSTjVOMS1fdnZYTTcyN2dxWDU2eWNuaGxJbFFFcGhXQkxCTkNCQ19FTko0SzBTb2dIdw?oc=5",
-   "source": "THV11",
-   "published": 1791220560.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDZ6aE1fc3k5dGt0VEZEZzU3c3VHWUJCMU90UUtSYnRpSUFkU1d1enctR0hocTlDZGl1ek5wNkxVUEFwQzV0RVFveXgxNFlla0x0akN2djBrVjlDclZjWFE5bDRPTm9aOGF2R1V5cHdvWmlEMS1QQVBWYk1IRkZOS2lYOGV4S2ctQW9hZnJ0SkZSTjVOMS1fdnZYTTcyN2dxWDU2eWNuaGxJbFFFcGhXQkxCTkNCQ19FTko0SzBTb2dIdw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockmanarrestedformedicaidfraudthv11"
-   ],
-   "first_seen": 1791224684.489035,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock police investigate after fatal accident on Broadway Street - KATV",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2huc3NUelQtdDA1aXpGamlMWE43X0I3dW5zVS04UFdNU1ZvZ1ZjZFptaXN4MUtNTFI4d2YwMmJIdTEzRmVyWDZNcXgzZXAzeFh5cEZsSUdzOHFCcy14VEM3cHlPNjlFamN1UkNIaEVUSVJKWlN3VGpUaHNhbnhUME5lOWFKeDdBVTdrLUJwaEpoTUxWckRaU0Y3YU8xcWprT1BxNzR5MA?oc=5",
    "source": "KATV",
@@ -488,17 +391,13 @@
     {
      "source": "Northwest Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw3WUdfV19vOUFnNXJfLXdDeW41SEhCbm51WlZMN2dwVkk4am9DZ0RaNDdVX2ptc3pHZ2IzVDA5T2EtRUFnVHQ2TFFjOFVaYlRPdVZNcjcycERoZGFyWlBPZ29LVlluYUx1YVk1UVhsWjhBYWJIdGhHWHp4NGYyNnpJRnlhRnR6Z1ZRUG91WnFvMnc?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjB1MWxjRDBITEc4eHhyUkpQcVRVSkxFLVVUTEVmaU1OWVZzMWpsX28yVDdqYVBBZlNlVmlUc254YWkzWUVFeFpBQ3RCalN5Q1pReU5xMXZBQzRmS2t6TDFOZ2lzN1R3QXlkS3NaUVRER1hqUk9NdGxRUDdUaUFqTW80Z0ZUa3BJMEJ0ME1DQWprYXljZlcyMHZR?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
+    "columbusdayclosingsnorthwestarkansasdemocratgazette",
     "northlittlerockpoliceinvestigatingfatalmotorcyclecrashkark",
-    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistnorthwestarka",
-    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistthearkansasde"
+    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistnorthwestarka"
    ],
    "first_seen": 1791224684.489035,
    "section": "crime"
@@ -567,6 +466,50 @@
     "howarepublicschoolsinarkansasfundedusafacts"
    ],
    "first_seen": 1791680372.089985,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Air Show returns, bringing high-flying fun to Arkansas skies - KATV",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5",
+   "source": "KATV",
+   "published": 1790665200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatv"
+   ],
+   "first_seen": 1791702612.635164,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock city council approves bond measures for Eaton factory, AI policy - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790578800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilapprovesbondmeasuresforeatonfactoryaipolicythearkansas"
+   ],
+   "first_seen": 1791702612.635164,
    "section": "major"
   }
  ]

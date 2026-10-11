@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-10T19:59:32.089985-05:00",
+ "updated": "2026-10-11T02:10:12.635164-05:00",
  "items": [
   {
    "type": "article",
-   "title": "North Little Rock police investigate infant's death - THV11",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5",
-   "source": "THV11",
-   "published": 1791665520.0,
+   "title": "North Little Rock police investigating death of infant - KARK",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWtqcU9aZG15eEdJclRfU2c4QUF5M2xQalRDLS10dnJtbmNNVHRUdWxydk4xRkZINEhaUkpjSlhDTUxIWHp0M1h4T29kV2FpQXptUXFrenp2QVN0VWt4LVpPeEZ4QlIzYU9CeFYxdE1YNzRPdTRLYnB4d0xNX2RCOU1EcjQ0QVhqR2c?oc=5",
+   "source": "KARK",
+   "published": 1791665162.0,
    "first_seen": 1791668475.154969,
    "section": "crime",
    "snippet": "",
@@ -14,35 +14,23 @@
    "num_comments": null,
    "sources": [
     {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWtqcU9aZG15eEdJclRfU2c4QUF5M2xQalRDLS10dnJtbmNNVHRUdWxydk4xRkZINEhaUkpjSlhDTUxIWHp0M1h4T29kV2FpQXptUXFrenp2QVN0VWt4LVpPeEZ4QlIzYU9CeFYxdE1YNzRPdTRLYnB4d0xNX2RCOU1EcjQ0QVhqR2c?oc=5"
+    },
+    {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceinvestigateinfantsdeaththv11"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Columbus Day closings - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSlg0S3hPc3VlRUVzTTZTYmREUWtJYkgzWXZjWnc4SW9FSU1NR085QkIyMmtJUVdJVWR3MmZzTDF3VW5zWVpUSDVab19HcEdYTlBQZFpMSHd6dkZyVjdYQnhuTXVuOXFNaVVTdTNzNTMtVGM?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1791620040.0,
-   "first_seen": 1791635291.527324,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
+    },
     {
      "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSlg0S3hPc3VlRUVzTTZTYmREUWtJYkgzWXZjWnc4SW9FSU1NR085QkIyMmtJUVdJVWR3MmZzTDF3VW5zWVpUSDVab19HcEdYTlBQZFpMSHd6dkZyVjdYQnhuTXVuOXFNaVVTdTNzNTMtVGM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNISzllTlBpSGZqWFpKSDF3WTFPX0N2YlJXNWUtTnNSeWQ4Umc5c3A1TGxwUHdVMlBjVjBiZzB4Z2pORi01TmhUejB6N0JkZ2VqakJYVncxM1BXUlJHVUs0U094SFVlZkdCZ19QRXd1WHpadFRIUkJJZXY5dURhbE9KMzQteUI1aERlcF9CUnl1NHp3Tnc?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 3,
    "member_keys": [
-    "columbusdayclosingsnorthwestarkansasdemocratgazette"
+    "northlittlerockpoliceinvestigateinfantsdeaththv11",
+    "northlittlerockpoliceinvestigatingdeathofinfantkark",
+    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette"
    ]
   },
   {
@@ -64,7 +52,8 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "maumellepoliceofficerinvolvedincrashtwopeoplereportedinjuredthearkansasdemocratg"
+    "maumellepoliceofficerinvolvedincrashtwopeoplereportedinjuredthearkansasdemocratg",
+    "northlittlerockpoliceinvestigatingdeathofinfantthearkansasdemocratgazette"
    ]
   },
   {
@@ -109,6 +98,28 @@
    "source_count": 1,
    "member_keys": [
     "charlesrobertcrittendenobituary2026northlittlerockarsmithfamilyfuneralhomessherw"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Community Service Awards to be held Saturday - KARK",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXy1uLS1oYWFlM2drNk1OLU1CUDM2QVdvT3hkWWRBSExFcjdocHdkeHhXam9yNnFUa3lob0NtNnZXSFpMcmk3TWF4NDR3bFo4LTFQc3B2QzE2cU0yWU9mdUFXTlhXVk9EeGhyU1o0LXpRem9Vb2NYYzcwUEtaQXhoTHRGdVlpSExoTmprcFJWR2ZKMTV5YVVVZ1Ztb3lyY3o2?oc=5",
+   "source": "KARK",
+   "published": 1791568380.0,
+   "first_seen": 1791702612.635164,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXy1uLS1oYWFlM2drNk1OLU1CUDM2QVdvT3hkWWRBSExFcjdocHdkeHhXam9yNnFUa3lob0NtNnZXSFpMcmk3TWF4NDR3bFo4LTFQc3B2QzE2cU0yWU9mdUFXTlhXVk9EeGhyU1o0LXpRem9Vb2NYYzcwUEtaQXhoTHRGdVlpSExoTmprcFJWR2ZKMTV5YVVVZ1Ztb3lyY3o2?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcommunityserviceawardstobeheldsaturdaykark"
    ]
   },
   {
@@ -1174,17 +1185,13 @@
     {
      "source": "Northwest Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw3WUdfV19vOUFnNXJfLXdDeW41SEhCbm51WlZMN2dwVkk4am9DZ0RaNDdVX2ptc3pHZ2IzVDA5T2EtRUFnVHQ2TFFjOFVaYlRPdVZNcjcycERoZGFyWlBPZ29LVlluYUx1YVk1UVhsWjhBYWJIdGhHWHp4NGYyNnpJRnlhRnR6Z1ZRUG91WnFvMnc?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjB1MWxjRDBITEc4eHhyUkpQcVRVSkxFLVVUTEVmaU1OWVZzMWpsX28yVDdqYVBBZlNlVmlUc254YWkzWUVFeFpBQ3RCalN5Q1pReU5xMXZBQzRmS2t6TDFOZ2lzN1R3QXlkS3NaUVRER1hqUk9NdGxRUDdUaUFqTW80Z0ZUa3BJMEJ0ME1DQWprYXljZlcyMHZR?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
+    "columbusdayclosingsnorthwestarkansasdemocratgazette",
     "northlittlerockpoliceinvestigatingfatalmotorcyclecrashkark",
-    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistnorthwestarka",
-    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistthearkansasde"
+    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistnorthwestarka"
    ]
   },
   {
@@ -3067,28 +3074,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Air Show returns, bringing high-flying fun to Arkansas skies - KATV",
-   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5",
-   "source": "KATV",
-   "published": 1790714279.0,
-   "first_seen": 1790714700.88864,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatv"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Little Rock seeking assets of barge company to settle $4.4 million judgment over bridge damage - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnZJUjN1MDdwZzlrbi1BbmQ4UDFzYUpNc1p6dm1QQWpMY01BM0NzN0NHZTFSdm40YjFfaERyR3d2U0RFU0VzYVM5bkdkeWtIVzB4RkxscG5qMFJYbV91WU16aEdwcTJ1M2YyZUExWFZhNmlJZ0o4eHJGal84SENIT0dHZmI3NkRPR2Vnd3BvbS1hcExjZU43LWZUOA?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -3239,6 +3224,28 @@
    "source_count": 1,
    "member_keys": [
     "littlerocktouchdownclubexrazorbackjasonpetersreturnstoarkansasfollowinglengthypr"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Air Show returns, bringing high-flying fun to Arkansas skies - KATV",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5",
+   "source": "KATV",
+   "published": 1790665200.0,
+   "first_seen": 1790714700.88864,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZVFnTVk5ZzN5YjcwcUIyVnUxZ05XVDRBU3ZfME9MUEhzVDA0NFZBU0pObUo5MjR2OG03Sk5hdlF4RmY2X1hqSXBPYXhCZ29LM2pKMEhQYWZNRlNDNk5XLWV1allMN2dCLVRNS0dUd245bTVpenZjRVhUZEs1RjNqR0RXX29jcnlVYjlrcEdfTm1Td2tsY3pad0F2bWxDRE1NMzlBV2VQZFZPTmVLVUdWbHFkOG11MlR3SkFmdTI2SFdDTHhBV0F6aEI4RC1IWmFiOTNpc1FXQXJnYkpjRThZU1Rma3FQQTVVbmJBb2ZsTjJlRDhsbS1ZSDlPVVNXV3E1TS1PUTFvWm1RSC0zektDV2NZcXppVG85dG5ackJGckpRY19ZbHgxNXpMZElCSklZYmc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockairshowreturnsbringinghighflyingfuntoarkansasskieskatv"
    ]
   },
   {
