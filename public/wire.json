@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-11T02:10:12.635164-05:00",
+ "updated": "2026-10-11T09:01:14.648872-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Power of the purse - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KaEtZMk5zVEtMX09xYlNSS0JjczZSTjBjSDV4ZGlxRHJ1M2YwT01vQUp4ekh3bDV2enVUYVROU0c4ckk2Nkl2czZiVHd4VmlobUtBVjR1SUhuSnJFeDA2NmhELWdicW1CbVl5Q2Q1czNRcjQ0Q1E?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791702720.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KaEtZMk5zVEtMX09xYlNSS0JjczZSTjBjSDV4ZGlxRHJ1M2YwT01vQUp4ekh3bDV2enVUYVROU0c4ckk2Nkl2czZiVHd4VmlobUtBVjR1SUhuSnJFeDA2NmhELWdicW1CbVl5Q2Q1czNRcjQ0Q1E?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "powerofthepursethearkansasdemocratgazette"
+   ],
+   "first_seen": 1791727274.648872,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "North Little Rock police investigating death of infant - KARK",
@@ -20,17 +42,12 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNISzllTlBpSGZqWFpKSDF3WTFPX0N2YlJXNWUtTnNSeWQ4Umc5c3A1TGxwUHdVMlBjVjBiZzB4Z2pORi01TmhUejB6N0JkZ2VqakJYVncxM1BXUlJHVUs0U094SFVlZkdCZ19QRXd1WHpadFRIUkJJZXY5dURhbE9KMzQteUI1aERlcF9CUnl1NHp3Tnc?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
     "northlittlerockpoliceinvestigateinfantsdeaththv11",
-    "northlittlerockpoliceinvestigatingdeathofinfantkark",
-    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette"
+    "northlittlerockpoliceinvestigatingdeathofinfantkark"
    ],
    "first_seen": 1791668475.154969,
    "section": "crime"
@@ -309,72 +326,6 @@
   },
   {
    "type": "article",
-   "title": "YMCA to close Little Rock, North Little Rock Early Learning Centers - KARK",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd25UdUJrM0dhUmcxeDJaWGRQRU1kLUo0a1U4VGpvRHFFNmp0WVlvTFY5bF9LU09RYzNzN0l6VE85ZTEtcE96aEJRNEMtNUR1X2NsUzlXaUhid19RZGtFRWJPY0ZKb3N5MXpBcmpPZG9uSnB6dkFGVUFhWVQtMkdGZFZGN2k2dVJ1U2RiNjJiTUROMmZ2LU9UU0V2bFdxYzA0R3hNSUxhVQ?oc=5",
-   "source": "KARK",
-   "published": 1791324841.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd25UdUJrM0dhUmcxeDJaWGRQRU1kLUo0a1U4VGpvRHFFNmp0WVlvTFY5bF9LU09RYzNzN0l6VE85ZTEtcE96aEJRNEMtNUR1X2NsUzlXaUhid19RZGtFRWJPY0ZKb3N5MXpBcmpPZG9uSnB6dkFGVUFhWVQtMkdGZFZGN2k2dVJ1U2RiNjJiTUROMmZ2LU9UU0V2bFdxYzA0R3hNSUxhVQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "ymcatocloselittlerocknorthlittlerockearlylearningcenterskark"
-   ],
-   "first_seen": 1791330675.910026,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Eason Lane Clay Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqLTRKb0s2SXlIMWFZblZRVGhoUGJ2SXNjc1J1RG9tVHVjb2FxRm50ZGxYY19KdTg3aW1ET1IwaFVnMUszT2FhcFJIZ191RnhYdGJJdEw1amRndW1tY3ZSRnI1YmplSWV3NTFCWHhyWGZ1N1gtcUdZOEdDY1pLUQ?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1791245953.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqLTRKb0s2SXlIMWFZblZRVGhoUGJ2SXNjc1J1RG9tVHVjb2FxRm50ZGxYY19KdTg3aW1ET1IwaFVnMUszT2FhcFJIZ191RnhYdGJJdEw1amRndW1tY3ZSRnI1YmplSWV3NTFCWHhyWGZ1N1gtcUdZOEdDY1pLUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "easonlaneclayobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittlerock"
-   ],
-   "first_seen": 1791635291.527324,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police investigate after fatal accident on Broadway Street - KATV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2huc3NUelQtdDA1aXpGamlMWE43X0I3dW5zVS04UFdNU1ZvZ1ZjZFptaXN4MUtNTFI4d2YwMmJIdTEzRmVyWDZNcXgzZXAzeFh5cEZsSUdzOHFCcy14VEM3cHlPNjlFamN1UkNIaEVUSVJKWlN3VGpUaHNhbnhUME5lOWFKeDdBVTdrLUJwaEpoTUxWckRaU0Y3YU8xcWprT1BxNzR5MA?oc=5",
-   "source": "KATV",
-   "published": 1791204113.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2huc3NUelQtdDA1aXpGamlMWE43X0I3dW5zVS04UFdNU1ZvZ1ZjZFptaXN4MUtNTFI4d2YwMmJIdTEzRmVyWDZNcXgzZXAzeFh5cEZsSUdzOHFCcy14VEM3cHlPNjlFamN1UkNIaEVUSVJKWlN3VGpUaHNhbnhUME5lOWFKeDdBVTdrLUJwaEpoTUxWckRaU0Y3YU8xcWprT1BxNzR5MA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceinvestigateafterfatalaccidentonbroadwaystreetkatv"
-   ],
-   "first_seen": 1791611319.00172,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock police investigating fatal motorcycle crash - KARK",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkdMZWxOd3BXbjlYb1hval9lNEJQeGpGUFlfZTJtNGpROGwzaFF1M2ExMEJFczV0OFpCdUladnFweEswdXBuX1NJQ3V4cFN3dF83a3JyYkdPd2pydld5dFJwYXYxQTExQVhQNDFuQUlFR015aDZZNjR1VWpUa1JpMUx3LXZCdFR3WjhUQnEtaGkyMHhQZzNPWlNCQVdFQlZa?oc=5",
    "source": "KARK",
@@ -511,6 +462,72 @@
    ],
    "first_seen": 1791702612.635164,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock fire damages house, vehicle - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3NoNFM1TFFiQXp0MWZKdzBPczlpeTFOSHdlX01iVFE3VG9kZVYwV2dLa2UxRHRTcW5nY2tIbUdxeGJuZnd6OXRTdDJBbzNqZE9Hb2xsTnBPWFRaZVFvWnZZNEVURGtHeDFYTFA5RXl6bDA2UE1Uejd1XzVBSzBCcTdrNmVLaFdCU3VjbHpFZV83ZlJEQU8yUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790492400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3NoNFM1TFFiQXp0MWZKdzBPczlpeTFOSHdlX01iVFE3VG9kZVYwV2dLa2UxRHRTcW5nY2tIbUdxeGJuZnd6OXRTdDJBbzNqZE9Hb2xsTnBPWFRaZVFvWnZZNEVURGtHeDFYTFA5RXl6bDA2UE1Uejd1XzVBSzBCcTdrNmVLaFdCU3VjbHpFZV83ZlJEQU8yUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockfiredamageshousevehiclethearkansasdemocratgazette"
+   ],
+   "first_seen": 1791727274.648872,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock community holds balloon release to honor longtime basketball coach and mentor following death - KARK",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5",
+   "source": "KARK",
+   "published": 1790319600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcommunityholdsballoonreleasetohonorlongtimebasketballcoachandment"
+   ],
+   "first_seen": 1791727274.648872,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Family mourns North Little Rock woman killed in Tuesday shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5",
+   "source": "KARK",
+   "published": 1790233200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "familymournsnorthlittlerockwomankilledintuesdayshootingkark"
+   ],
+   "first_seen": 1791727274.648872,
+   "section": "crime"
   }
  ]
 }

@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-11T02:10:12.635164-05:00",
+ "updated": "2026-10-11T09:01:14.648872-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Power of the purse - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KaEtZMk5zVEtMX09xYlNSS0JjczZSTjBjSDV4ZGlxRHJ1M2YwT01vQUp4ekh3bDV2enVUYVROU0c4ckk2Nkl2czZiVHd4VmlobUtBVjR1SUhuSnJFeDA2NmhELWdicW1CbVl5Q2Q1czNRcjQ0Q1E?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791702720.0,
+   "first_seen": 1791727274.648872,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KaEtZMk5zVEtMX09xYlNSS0JjczZSTjBjSDV4ZGlxRHJ1M2YwT01vQUp4ekh3bDV2enVUYVROU0c4ckk2Nkl2czZiVHd4VmlobUtBVjR1SUhuSnJFeDA2NmhELWdicW1CbVl5Q2Q1czNRcjQ0Q1E?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "powerofthepursethearkansasdemocratgazette"
+   ]
+  },
   {
    "type": "article",
    "title": "North Little Rock police investigating death of infant - KARK",
@@ -20,17 +42,12 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNISzllTlBpSGZqWFpKSDF3WTFPX0N2YlJXNWUtTnNSeWQ4Umc5c3A1TGxwUHdVMlBjVjBiZzB4Z2pORi01TmhUejB6N0JkZ2VqakJYVncxM1BXUlJHVUs0U094SFVlZkdCZ19QRXd1WHpadFRIUkJJZXY5dURhbE9KMzQteUI1aERlcF9CUnl1NHp3Tnc?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
     "northlittlerockpoliceinvestigateinfantsdeaththv11",
-    "northlittlerockpoliceinvestigatingdeathofinfantkark",
-    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette"
+    "northlittlerockpoliceinvestigatingdeathofinfantkark"
    ]
   },
   {
@@ -4064,28 +4081,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock community holds balloon release to honor longtime basketball coach and mentor following death - kark.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5",
-   "source": "KARK",
-   "published": 1790397451.0,
-   "first_seen": 1790556203.738005,
-   "section": "sports",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockcommunityholdsballoonreleasetohonorlongtimebasketballcoachandment"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Donald \"DJ\" Jones Obituary (2026) - North Little Rock, AR - Relerford Funeral Home - Stuttgart - Legacy obituary",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1d3UVhOZ2VydGtwVlcxOWozM0VySDNTNEpwc20wRWlqcnBma2RSR3YyUTg3dnhFVEZZQ0lCUmVkVTYyMG9yVFRhUDA3Snhuc2ZpY0kxWTVXeVh0UFRtd3V2QlQwVDM1Z3VIYjhtbHhPdVc0MzBqQ2lmV1dfeFYyZw?oc=5",
    "source": "Legacy obituary",
@@ -4372,6 +4367,28 @@
   },
   {
    "type": "article",
+   "title": "North Little Rock community holds balloon release to honor longtime basketball coach and mentor following death - KARK",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5",
+   "source": "KARK",
+   "published": 1790319600.0,
+   "first_seen": 1790556203.738005,
+   "section": "sports",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcommunityholdsballoonreleasetohonorlongtimebasketballcoachandment"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Supporters of Little Rock’s Watson Elementary urge school board to keep it open as district faces budget cuts - arkansasonline.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXzNTNXV4bW9uWjFzSzNoUkFMaUtTb00yMkd5bTNZNG45VHAxVVE0VGN2b3hCVlU0QVRtQkJ4QU1mOF9FOWUycDFUN2ZmYThmQy1xOFFtZkE3bHJTanFLUzdGRWdCRkZlUENkTUZlSXhhbGdzMWNHbkVwWGI1SUU0bTJqZEtscDlSREdJTkdPbjhBeDhUTC1femdLNWstckU?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -4434,28 +4451,6 @@
    "source_count": 1,
    "member_keys": [
     "metropolitanprofessionalsmovingtocentralarkansasforaffordabilityjobopportunities"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Family mourns North Little Rock woman killed in Tuesday shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5",
-   "source": "KARK",
-   "published": 1790288960.0,
-   "first_seen": 1790103168.84492,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "familymournsnorthlittlerockwomankilledintuesdayshootingkark"
    ]
   },
   {
@@ -4544,6 +4539,28 @@
    "source_count": 1,
    "member_keys": [
     "cliftonrodgerwoodsjrobituary2026northlittlerockaranaturalstatefuneralservicecrem"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Family mourns North Little Rock woman killed in Tuesday shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5",
+   "source": "KARK",
+   "published": 1790233200.0,
+   "first_seen": 1790103168.84492,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmdOTnhndjFFMmFWNmNlVDBLck9TWi1mLXJ1aHdad1VOQU1SSFpib3BWRTBKRzdMcGllWUpIVXdJaC1SQ2dmRDlYRWg2c3pvUm43YXdZallsOGlEU1RnNkxNWlY3MXNhakJBZGFjN1BSckY1SWEyakNKVzN0NGZFSHFwc1NXZEV3dzd6Y0RxMWJ3LUI2VVJR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "familymournsnorthlittlerockwomankilledintuesdayshootingkark"
    ]
   },
   {
