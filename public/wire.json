@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:52:33.344162-05:00",
+ "updated": "2026-10-11T21:22:21.493330-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -77,6 +77,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -85,7 +86,8 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "manwantedin2024fatallittlerockshootingarrestedingeorgiathearkansasdemocratgazett"
+    "manwantedin2024fatallittlerockshootingarrestedingeorgiathearkansasdemocratgazett",
+    "womankilledinnorthlittlerockshootingwoundedmanhospitalizedthearkansasdemocratgaz"
    ],
    "first_seen": 1791744762.663712,
    "section": "crime"
@@ -364,28 +366,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police investigate after fatal accident on Broadway Street - KATV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2huc3NUelQtdDA1aXpGamlMWE43X0I3dW5zVS04UFdNU1ZvZ1ZjZFptaXN4MUtNTFI4d2YwMmJIdTEzRmVyWDZNcXgzZXAzeFh5cEZsSUdzOHFCcy14VEM3cHlPNjlFamN1UkNIaEVUSVJKWlN3VGpUaHNhbnhUME5lOWFKeDdBVTdrLUJwaEpoTUxWckRaU0Y3YU8xcWprT1BxNzR5MA?oc=5",
-   "source": "KATV",
-   "published": 1791204113.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2huc3NUelQtdDA1aXpGamlMWE43X0I3dW5zVS04UFdNU1ZvZ1ZjZFptaXN4MUtNTFI4d2YwMmJIdTEzRmVyWDZNcXgzZXAzeFh5cEZsSUdzOHFCcy14VEM3cHlPNjlFamN1UkNIaEVUSVJKWlN3VGpUaHNhbnhUME5lOWFKeDdBVTdrLUJwaEpoTUxWckRaU0Y3YU8xcWprT1BxNzR5MA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceinvestigateafterfatalaccidentonbroadwaystreetkatv"
-   ],
-   "first_seen": 1791744762.663712,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock police investigating fatal motorcycle crash - KARK",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkdMZWxOd3BXbjlYb1hval9lNEJQeGpGUFlfZTJtNGpROGwzaFF1M2ExMEJFczV0OFpCdUladnFweEswdXBuX1NJQ3V4cFN3dF83a3JyYkdPd2pydld5dFJwYXYxQTExQVhQNDFuQUlFR015aDZZNjR1VWpUa1JpMUx3LXZCdFR3WjhUQnEtaGkyMHhQZzNPWlNCQVdFQlZa?oc=5",
    "source": "KARK",
@@ -411,6 +391,28 @@
    ],
    "first_seen": 1791224684.489035,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Community comes together for North Little Rock Airshow - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQmxySEZUV1BpOXcxb25YVWxqNVJMZ1FMQ21yMFRDVWwxX1dxZTlSOFJIeDBJWnRMWDNEZzE0alp6X2NTVTltUDVBU29TZm1xNVZFcWpUaHQ3T1FsY0d3MnBMTzA3OTU5T3Q4OXh2QlVfNVRscnA5bTFJZ0RlWERvVzFlMlhxZXFTVVFTRjBqX3BIWkU4X1E1QWxudTFCcDlSRnUtMVd0V2lBN1pNNXhSMUJ3d09KeXpPUGdJREFkOGdkaGlxV0JyMGZLaXpETUtUNW52X0dxeDZxN05LVEs4Vi1TbEQ2Zw?oc=5",
+   "source": "THV11",
+   "published": 1791173100.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQmxySEZUV1BpOXcxb25YVWxqNVJMZ1FMQ21yMFRDVWwxX1dxZTlSOFJIeDBJWnRMWDNEZzE0alp6X2NTVTltUDVBU29TZm1xNVZFcWpUaHQ3T1FsY0d3MnBMTzA3OTU5T3Q4OXh2QlVfNVRscnA5bTFJZ0RlWERvVzFlMlhxZXFTVVFTRjBqX3BIWkU4X1E1QWxudTFCcDlSRnUtMVd0V2lBN1pNNXhSMUJ3d09KeXpPUGdJREFkOGdkaGlxV0JyMGZLaXpETUtUNW52X0dxeDZxN05LVEs4Vi1TbEQ2Zw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "communitycomestogetherfornorthlittlerockairshowthv11com"
+   ],
+   "first_seen": 1791771741.49333,
+   "section": "major"
   },
   {
    "type": "article",
@@ -543,28 +545,6 @@
    ],
    "first_seen": 1791759153.344162,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock community holds balloon release to honor longtime basketball coach and mentor following death - KARK",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5",
-   "source": "KARK",
-   "published": 1790319600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5KcmtQSWxXUWdoS1VfVUpnWVpsUWpiNy1LOThBMElQMjdQUlZnNkMycEdVaE85YWRTOEp2WlkwcnVraUJ1NDZtNER1SW5LNUotbTBpX1FvaU1RMkZTa3d3NTkyNl9PQ3J0Um01bWhjRG9ZZ1FpSWo3TDB2U2gwQXZLYzE4VnJhMEVhblctcmM2UjVONDR0aEljTlRILXZ3UFYyblQ5ZUFjTHVUSWZJZVZzNjJsT2RDR0J4MjVkdlliMDRFVHhiQ1BjVmJoZEMzengzTkpTZmVNbmtUc016ekNuWQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockcommunityholdsballoonreleasetohonorlongtimebasketballcoachandment"
-   ],
-   "first_seen": 1791759153.344162,
-   "section": "sports"
   }
  ]
 }
