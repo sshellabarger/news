@@ -1,25 +1,97 @@
 {
- "updated": "2026-10-12T15:16:54.515313-05:00",
+ "updated": "2026-10-12T21:02:48.938547-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Gene and Jerry Jones Family annouce $10 million gift to Clinton Foundation - KTLO",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGRVQlN2ZjAtT096WE51cktMSFFCeEtZM2xXOFRRd2JGbnhEdTRQRk41enpVZEpGUmNOVnlsSjh3UWhHWVBhaVFHd3dLTk5Sbmw0cU9tb3ZyU1ZVdk5XYUhCTnpWSURKcE9HdW1UY3BXNEswMG94THA0UjJ1ZjJtR0dXa3IzWTRibUQ0XzBGc1Z2aEdJcmFMcFQ0QkxZdGhqS1hLeXBZdHRudw?oc=5",
-   "source": "KTLO",
-   "published": 1791832998.0,
+   "title": "Sherwood seeks to dismiss or arbitrate North Little Rock sewer lawsuit - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzNJamNHMnBTSHY3VFVoN2hfMWhoWGNqc0FCelNhMzBvbGEwWmxyTy1zZlNhbVVOTXZqX2tUeWN0bGpuVVN5Zzl0M2xOUllZdjVZaHNWcXMweXRFMXllRGpFZ0tGVXYyQWo1NWdBSUZ3SzN5WFkxZjNEZFhjTVhLUnQxQWVwSEpYSWIwMkFFOWFiWHAwdVNVUg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791848400.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "KTLO",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGRVQlN2ZjAtT096WE51cktMSFFCeEtZM2xXOFRRd2JGbnhEdTRQRk41enpVZEpGUmNOVnlsSjh3UWhHWVBhaVFHd3dLTk5Sbmw0cU9tb3ZyU1ZVdk5XYUhCTnpWSURKcE9HdW1UY3BXNEswMG94THA0UjJ1ZjJtR0dXa3IzWTRibUQ0XzBGc1Z2aEdJcmFMcFQ0QkxZdGhqS1hLeXBZdHRudw?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzNJamNHMnBTSHY3VFVoN2hfMWhoWGNqc0FCelNhMzBvbGEwWmxyTy1zZlNhbVVOTXZqX2tUeWN0bGpuVVN5Zzl0M2xOUllZdjVZaHNWcXMweXRFMXllRGpFZ0tGVXYyQWo1NWdBSUZ3SzN5WFkxZjNEZFhjTVhLUnQxQWVwSEpYSWIwMkFFOWFiWHAwdVNVUg?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "geneandjerryjonesfamilyannouce10milliongifttoclintonfoundationktlo"
+    "sherwoodseekstodismissorarbitratenorthlittlerocksewerlawsuitthearkansasdemocratg"
+   ],
+   "first_seen": 1791856968.938547,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police identify woman that died in weekend shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5",
+   "source": "KARK",
+   "published": 1791840276.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
+   ],
+   "first_seen": 1791856968.938547,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock School District files suit to recover money sent to wrong bank account - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXBvVFJHWlZsTUktZjhUT2owdGRCZTJoelBWVkVURXREdExaMEtiMHU2cnZpVXdxbTdDYXA1SVJoZlJCTm9KN0MtdllrVDlhZnFPNmVFTjFEbTVKWm82MGdXejh6VHRXVHlXa1EwLVRiS0VTQ191M19ocWVEYXdQTy11UUtaN1N3dVpaN0ZCRjRDdHJZQTFXRHh5ZVE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791838320.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXBvVFJHWlZsTUktZjhUT2owdGRCZTJoelBWVkVURXREdExaMEtiMHU2cnZpVXdxbTdDYXA1SVJoZlJCTm9KN0MtdllrVDlhZnFPNmVFTjFEbTVKWm82MGdXejh6VHRXVHlXa1EwLVRiS0VTQ191M19ocWVEYXdQTy11UUtaN1N3dVpaN0ZCRjRDdHJZQTFXRHh5ZVE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockschooldistrictfilessuittorecovermoneysenttowrongbankaccounttheark"
+   ],
+   "first_seen": 1791856968.938547,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Jerry Jones donates $10 million to renovate Clinton Presidential Center in Little Rock - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGVvNUZyV3laZzluREpMUzBpQUNGREprZWNueXpseU01NWRqdDVYRGJaOGZCRGYwc0JDX3c1Mk41WlpHNG9qQno1dlFYYjhMbzlJS2V6ZU54SzdoNlBtclhaYjByWWpLUXFrRVZTN3N2TnIwS3E1U0RPbVBVYm5ucnNGeTZvUXA3M3ozY3dhOWZoMG9mREdOaVBMTmNZTlNvc1FiVnVBS2lWa0JXY1ZBS0cyOTlJRG5lTlhaS2JidURITjZYRTE1U3pEcUhRYzJCdy1tdDBEYndoSWdrMGJISUdKQnJLWHhheGdJ?oc=5",
+   "source": "THV11",
+   "published": 1791838140.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGVvNUZyV3laZzluREpMUzBpQUNGREprZWNueXpseU01NWRqdDVYRGJaOGZCRGYwc0JDX3c1Mk41WlpHNG9qQno1dlFYYjhMbzlJS2V6ZU54SzdoNlBtclhaYjByWWpLUXFrRVZTN3N2TnIwS3E1U0RPbVBVYm5ucnNGeTZvUXA3M3ozY3dhOWZoMG9mREdOaVBMTmNZTlNvc1FiVnVBS2lWa0JXY1ZBS0cyOTlJRG5lTlhaS2JidURITjZYRTE1U3pEcUhRYzJCdy1tdDBEYndoSWdrMGJISUdKQnJLWHhheGdJ?oc=5"
+    },
+    {
+     "source": "KTLO",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGRVQlN2ZjAtT096WE51cktMSFFCeEtZM2xXOFRRd2JGbnhEdTRQRk41enpVZEpGUmNOVnlsSjh3UWhHWVBhaVFHd3dLTk5Sbmw0cU9tb3ZyU1ZVdk5XYUhCTnpWSURKcE9HdW1UY3BXNEswMG94THA0UjJ1ZjJtR0dXa3IzWTRibUQ0XzBGc1Z2aEdJcmFMcFQ0QkxZdGhqS1hLeXBZdHRudw?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "geneandjerryjonesfamilyannouce10milliongifttoclintonfoundationktlo",
+    "jerryjonesdonates10milliontorenovateclintonpresidentialcenterinlittlerockthv11co"
    ],
    "first_seen": 1791836214.515313,
    "section": "major"
@@ -200,7 +272,7 @@
    ],
    "source_count": 2,
    "member_keys": [
-    "northlittlerockpoliceinvestigateshootingthatleftonedeadoneinjuredthv11",
+    "northlittlerockpoliceinvestigateshootingthatleftonedeadoneinjuredthv11com",
     "police1dead1injuredinnorthlittlerocksundaymorningshootingkark"
    ],
    "first_seen": 1791744762.663712,
@@ -245,13 +317,14 @@
     },
     {
      "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0ljUzY4NTZrYjN3WGpHWENTanpFRDNuVHJ4Qm1JNk1UMUU3TlMwaGFoNnFGWkNxd1RRZk9mQ0JBSTJoMUN5OVM2b1ZuNHIyczRwLVdzMFNBQm4wTmt1ck9KSmN5aW5OaWM2dW53M2hTSVkwWGNleklCdHMyd1lZcGg1WnRRZlNFSGtveVMzRQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmRoTlBHTE9PdWdQajJleFpPdngxaHROZndLMk8zWm1MZGczcGQxcE5IbTZHV2Z6am9DOG9ydzBYZUFwU1RwNGNuS2thZURrUjNOM3hqVmF0OXZOanF3a1dtU0VIdXhZbEFPSGpoTzVlbjJlb0Y0MUtweVVLekV5WkZVLVgtYTJyVWVjeDJZTm9CU2dO?oc=5"
     }
    ],
    "source_count": 2,
    "member_keys": [
     "manwantedin2024fatallittlerockshootingarrestedingeorgiathearkansasdemocratgazett",
-    "womankilledinnorthlittlerockshootingwoundedmanhospitalizednorthwestarkansasdemoc",
+    "womanidentifiedinnorthlittlerockshootinghomicidenorthwestarkansasdemocratgazette",
+    "womanidentifiedinnorthlittlerockshootinghomicidethearkansasdemocratgazette",
     "womankilledinnorthlittlerockshootingwoundedmanhospitalizedthearkansasdemocratgaz"
    ],
    "first_seen": 1791744762.663712,
@@ -275,12 +348,17 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNISzllTlBpSGZqWFpKSDF3WTFPX0N2YlJXNWUtTnNSeWQ4Umc5c3A1TGxwUHdVMlBjVjBiZzB4Z2pORi01TmhUejB6N0JkZ2VqakJYVncxM1BXUlJHVUs0U094SFVlZkdCZ19QRXd1WHpadFRIUkJJZXY5dURhbE9KMzQteUI1aERlcF9CUnl1NHp3Tnc?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 3,
    "member_keys": [
-    "northlittlerockpoliceinvestigateinfantsdeaththv11",
-    "northlittlerockpoliceinvestigatingdeathofinfantkark"
+    "northlittlerockpoliceinvestigateinfantsdeaththv11com",
+    "northlittlerockpoliceinvestigatingdeathofinfantkark",
+    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette"
    ],
    "first_seen": 1791801862.418221,
    "section": "crime"
@@ -360,7 +438,6 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -369,8 +446,7 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "documentsshowfiredlittlerockpoliceofficermisusedflocksystemtosearchgirlfriendsli",
-    "northlittlerockpoliceinvestigatingdeathofinfantthearkansasdemocratgazette"
+    "documentsshowfiredlittlerockpoliceofficermisusedflocksystemtosearchgirlfriendsli"
    ],
    "first_seen": 1791654644.30285,
    "section": "crime"
@@ -399,119 +475,25 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock set for Arkansas government job fair - KARK",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzdDaU4xaHc5QzNiLW5COWE2cldPTGJiZ1R6U1lmWUcwR09WcGY1eHZNNlJjeTdzUlVDU2dDamE1QURqRTRCS2ZxdjVveWFMM29lUDZNWWpreDF0N0s4Qm1mb3VHSkQ0QnhjYUg5d0dtcXhYRzRteFVqdVF2NjV1SnRWcmhqUzNWZXNQNkRwdWpLMnM5?oc=5",
-   "source": "KARK",
-   "published": 1791498425.0,
+   "title": "Cyclist injured in North Little Rock accident urges safety measures on Arkansas River Trail - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTUVPZzRCcjdWNHkyWVlqS2NUNW4zdkZVQjhEa3JoVnJ0cUE1NVZuak5RT3ozc1NZT0VpMF9ZRVVjWWF4WGZJd3plb214b0RrcWtXc1pyU0hzOGVISENHTVhPTXY3ZGlHTG5wanZBZDBPeFExUEtSaDFoZ3M3YWdzVFNYdS1CQ2hkc1N1WVU4MzE0aUJKSUZvMGFzS3k5SUxoaFN2S3loMXVtWGZ1OXhLQ3MyTFBXYkM5N3hSNGxaRHJycUZYRFpaSWpKTEZBNWRUV2VoQ1dtckhpcGQtNF9QbVhUUlBydHZKR05VeGpTZEJNd1hWcVprOXVsOUlmbUk?oc=5",
+   "source": "THV11",
+   "published": 1791517560.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzdDaU4xaHc5QzNiLW5COWE2cldPTGJiZ1R6U1lmWUcwR09WcGY1eHZNNlJjeTdzUlVDU2dDamE1QURqRTRCS2ZxdjVveWFMM29lUDZNWWpreDF0N0s4Qm1mb3VHSkQ0QnhjYUg5d0dtcXhYRzRteFVqdVF2NjV1SnRWcmhqUzNWZXNQNkRwdWpLMnM5?oc=5"
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTUVPZzRCcjdWNHkyWVlqS2NUNW4zdkZVQjhEa3JoVnJ0cUE1NVZuak5RT3ozc1NZT0VpMF9ZRVVjWWF4WGZJd3plb214b0RrcWtXc1pyU0hzOGVISENHTVhPTXY3ZGlHTG5wanZBZDBPeFExUEtSaDFoZ3M3YWdzVFNYdS1CQ2hkc1N1WVU4MzE0aUJKSUZvMGFzS3k5SUxoaFN2S3loMXVtWGZ1OXhLQ3MyTFBXYkM5N3hSNGxaRHJycUZYRFpaSWpKTEZBNWRUV2VoQ1dtckhpcGQtNF9QbVhUUlBydHZKR05VeGpTZEJNd1hWcVprOXVsOUlmbUk?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerocksetforarkansasgovernmentjobfairkark"
+    "cyclistinjuredinnorthlittlerockaccidenturgessafetymeasuresonarkansasrivertrailth"
    ],
-   "first_seen": 1791836214.515313,
+   "first_seen": 1791856968.938547,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Def Leppard, Goo Goo Dolls set April 16 show at North Little Rock’s Simmons Bank Arena - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXhJV055YlZzNFkzOENYY2ZSdVliOE5ZSDNNNzNmUEI5SERCN3g0QUsyWS1ncHBabjkyLTZ0QVpJd3pqaTlqbmpSZjhJdzFNWGZfTDV3OG44VnRyZXFJZHktX2xEelhUeVFXTzJDc2tOWDV1UlRwUmhkcXBhcUhkVWxtOUtOQUlsdlZfM1pFbU9rLS1vY1VIaWpzRQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791473400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXhJV055YlZzNFkzOENYY2ZSdVliOE5ZSDNNNzNmUEI5SERCN3g0QUsyWS1ncHBabjkyLTZ0QVpJd3pqaTlqbmpSZjhJdzFNWGZfTDV3OG44VnRyZXFJZHktX2xEelhUeVFXTzJDc2tOWDV1UlRwUmhkcXBhcUhkVWxtOUtOQUlsdlZfM1pFbU9rLS1vY1VIaWpzRQ?oc=5"
-    },
-    {
-     "source": "Jonesboro Right Now",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXBZb19XMlhyUjFVcnpubTk4Ylg1TnJXMFN5Mk9ISkY2X3Ryb0F3YXZTckhYYU9aY1pUVkE4UGxuYVhxTEppNzkyNVluZmc4S1E4bzB0WmJ6OU1yN2oyTWplZ2p2c3lSallhYTJ0bFBzYzlFdDFxX0cwenJidHFLRHVUTzlTLVBBSTNXUnFORExoSE10Q3Rpai01dG9pYWpRcnp4bVhRWS1Vak5uWVhhdENtOEpMUQ?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "defleppardgoogoodollsandthestrutscomingtonorthlittlerockin2027jonesbororightnow",
-    "defleppardgoogoodollssetapril16showatnorthlittlerockssimmonsbankarenathearkansas"
-   ],
-   "first_seen": 1791836214.515313,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Four candidates look to fill North Little Rock Ward 2 seat as Linda Robinson retires - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791428400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "fourcandidateslooktofillnorthlittlerockward2seataslindarobinsonretiresthearkansa"
-   ],
-   "first_seen": 1791439175.939766,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "4314 Edgemere St, North Little Rock, AR 72116 - Realtor.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFlYYzBqZnZwaXJOa3JSay1JV2lYMHlxZGJ2Ulp2Q0loX1BmNFlyV29OMjZ3UC1waUZGaFNIWGd2eTd1WkpkcDRQdUhqXzR5cVV5SFJPMlVGdUNGOUdoQnNxNHpqQXlGNVRGeXlaQTRjNHBIRXZacG5TOXZHQk9oUkJfVW15VnIyNDJ3RnNxM1VZcmR3SV90blFMZG4?oc=5",
-   "source": "Realtor.com",
-   "published": 1791427150.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Realtor.com",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFlYYzBqZnZwaXJOa3JSay1JV2lYMHlxZGJ2Ulp2Q0loX1BmNFlyV29OMjZ3UC1waUZGaFNIWGd2eTd1WkpkcDRQdUhqXzR5cVV5SFJPMlVGdUNGOUdoQnNxNHpqQXlGNVRGeXlaQTRjNHBIRXZacG5TOXZHQk9oUkJfVW15VnIyNDJ3RnNxM1VZcmR3SV90blFMZG4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "4314edgemerestnorthlittlerockar72116realtorcom"
-   ],
-   "first_seen": 1791836214.515313,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police investigating Sunday crash that killed motorcyclist - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw3WUdfV19vOUFnNXJfLXdDeW41SEhCbm51WlZMN2dwVkk4am9DZ0RaNDdVX2ptc3pHZ2IzVDA5T2EtRUFnVHQ2TFFjOFVaYlRPdVZNcjcycERoZGFyWlBPZ29LVlluYUx1YVk1UVhsWjhBYWJIdGhHWHp4NGYyNnpJRnlhRnR6Z1ZRUG91WnFvMnc?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1791204960.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw3WUdfV19vOUFnNXJfLXdDeW41SEhCbm51WlZMN2dwVkk4am9DZ0RaNDdVX2ptc3pHZ2IzVDA5T2EtRUFnVHQ2TFFjOFVaYlRPdVZNcjcycERoZGFyWlBPZ29LVlluYUx1YVk1UVhsWjhBYWJIdGhHWHp4NGYyNnpJRnlhRnR6Z1ZRUG91WnFvMnc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceinvestigatingsundaycrashthatkilledmotorcyclistnorthwestarka"
-   ],
-   "first_seen": 1791224684.489035,
-   "section": "crime"
   }
  ]
 }
