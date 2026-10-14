@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T13:35:51.628660-05:00",
+ "updated": "2026-10-14T17:16:53.359705-05:00",
  "items": [
   {
    "type": "article",
@@ -65,6 +65,28 @@
    "source_count": 1,
    "member_keys": [
     "arkansaspolicedepartmentutilizingdronesincrashresponsesthetruckercom"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "OPINION | JOHN BRUMMETT: Noon-hour at the Little Rock oasis with Clinton, Jones - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUYweEc4ZDhGYWttT1RCd3pVNnRqTjBCZC1JV1paTzJLRlRLTDF3d0RiYTQwNkRSRzZhRmtiMElGUkZZVTB4UWdVYThUc0lRZUJ5aEs4ZVpHS3g4LWl2bjkweXVlTXZRR0JzZmlXaXNNQVE2VDVMUUd0dnhSRWNNdVlpR01XeGZ3NHd3dEE4UXF2RmFBbDFQZ3dGYlc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791969420.0,
+   "first_seen": 1792016213.359705,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUYweEc4ZDhGYWttT1RCd3pVNnRqTjBCZC1JV1paTzJLRlRLTDF3d0RiYTQwNkRSRzZhRmtiMElGUkZZVTB4UWdVYThUc0lRZUJ5aEs4ZVpHS3g4LWl2bjkweXVlTXZRR0JzZmlXaXNNQVE2VDVMUUd0dnhSRWNNdVlpR01XeGZ3NHd3dEE4UXF2RmFBbDFQZ3dGYlc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "opinionjohnbrummettnoonhouratthelittlerockoasiswithclintonjonesthearkansasdemocr"
    ]
   },
   {
@@ -470,6 +492,28 @@
   },
   {
    "type": "article",
+   "title": "Traffic cleared following accident involving overturned tractor trailer on I-30 in North Little Rock - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVDBWZDBCRV8yR1FXOFUzRHhtV0dSbU5YVldVVUVqUFJYMnAwbE5xNHFPcE9WOXlBSzZhcW9qLWtTVTBWcE1EVWtDY1BiUVpGSjFTZ2Q4VzVlb3MyQ1RHdDFiNU9iU0JwaTdtaUFVcElQYU82bkYtMXZuTlN6Y09yc2VVMWJpYzF4WWJmNFQxVE04SXdkdGI4QnZmQURGTF8zMnQ2eVpqZFR6ODZiUUFoTXIwbTFZYk56ZVp0QkZjSDhJcENjZ2JfX216akJuUWRQc3RramtHTlQ0SWpvdDQwTVUzWVM?oc=5",
+   "source": "THV11",
+   "published": 1791898140.0,
+   "first_seen": 1792016213.359705,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVDBWZDBCRV8yR1FXOFUzRHhtV0dSbU5YVldVVUVqUFJYMnAwbE5xNHFPcE9WOXlBSzZhcW9qLWtTVTBWcE1EVWtDY1BiUVpGSjFTZ2Q4VzVlb3MyQ1RHdDFiNU9iU0JwaTdtaUFVcElQYU82bkYtMXZuTlN6Y09yc2VVMWJpYzF4WWJmNFQxVE04SXdkdGI4QnZmQURGTF8zMnQ2eVpqZFR6ODZiUUFoTXIwbTFZYk56ZVp0QkZjSDhJcENjZ2JfX216akJuUWRQc3RramtHTlQ0SWpvdDQwTVUzWVM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "trafficclearedfollowingaccidentinvolvingoverturnedtractortraileroni30innorthlitt"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Prairie Grove considers fences, maintenance along U.S. 62 - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlo1UmwtZDR5UGxpT2JhNEhEd2hwOU92OWFuWUx1Vnh2b2dRelVWT3pBZ0VTYW1sN012MWhEMVpZOHQtbjNGTXNfMUh2dnBLOTA1VjA5MlNheHgwUlhEazJLUnpCaEJ2Q1NYaEtvUEpUeTFXU1RielFZVUViVlNSeUhCTlBFVzI5VkhtVHVBSF9SdUdGbHphLVJVNXNEQQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -703,15 +747,10 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGVvNUZyV3laZzluREpMUzBpQUNGREprZWNueXpseU01NWRqdDVYRGJaOGZCRGYwc0JDX3c1Mk41WlpHNG9qQno1dlFYYjhMbzlJS2V6ZU54SzdoNlBtclhaYjByWWpLUXFrRVZTN3N2TnIwS3E1U0RPbVBVYm5ucnNGeTZvUXA3M3ozY3dhOWZoMG9mREdOaVBMTmNZTlNvc1FiVnVBS2lWa0JXY1ZBS0cyOTlJRG5lTlhaS2JidURITjZYRTE1U3pEcUhRYzJCdy1tdDBEYndoSWdrMGJISUdKQnJLWHhheGdJ?oc=5"
-    },
-    {
-     "source": "KTLO",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGRVQlN2ZjAtT096WE51cktMSFFCeEtZM2xXOFRRd2JGbnhEdTRQRk41enpVZEpGUmNOVnlsSjh3UWhHWVBhaVFHd3dLTk5Sbmw0cU9tb3ZyU1ZVdk5XYUhCTnpWSURKcE9HdW1UY3BXNEswMG94THA0UjJ1ZjJtR0dXa3IzWTRibUQ0XzBGc1Z2aEdJcmFMcFQ0QkxZdGhqS1hLeXBZdHRudw?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "geneandjerryjonesfamilyannouce10milliongifttoclintonfoundationktlo",
     "jerryjonesdonates10milliontorenovateclintonpresidentialcenterinlittlerockthv11co"
    ]
   },
