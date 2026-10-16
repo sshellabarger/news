@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-15T18:40:39.745177-05:00",
+ "updated": "2026-10-15T23:27:55.408201-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Shooting at Little Rock convenience store kills two people, critically injures three others - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDRUWnhUQVZnX2hINFc1OFVVRW95RTU1QlRzZnVkZWI2eHJpMl85Qno3eU1Xc1Z0dzBKRkQ5MV9HTkxBNVhmb1dPWXB5X2FQV3lmLWd4THduSmtsNVd0c25jaU5CQWFwV3k0dDlzNm9TOUs3bDhQcHd5TzFNdThzZXFvUDZZc2l2akVxTmRnbVZDNnYzWE9RR2lKNk4?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792111200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDRUWnhUQVZnX2hINFc1OFVVRW95RTU1QlRzZnVkZWI2eHJpMl85Qno3eU1Xc1Z0dzBKRkQ5MV9HTkxBNVhmb1dPWXB5X2FQV3lmLWd4THduSmtsNVd0c25jaU5CQWFwV3k0dDlzNm9TOUs3bDhQcHd5TzFNdThzZXFvUDZZc2l2akVxTmRnbVZDNnYzWE9RR2lKNk4?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "shootingatlittlerockconveniencestorekillstwopeoplecriticallyinjuresthreeothersth"
+   ],
+   "first_seen": 1792124875.408201,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "Arkansas State Police will increase presence at State Fair, patrol with Pulaski County deputies and Little Rock officers - The Arkansas Democrat-Gazette",
@@ -51,7 +73,7 @@
    "title": "North Little Rock Police asking for information on 2023 cold case - KATV",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlVYT1VlTTdPOW54M3M5N2pRdHhwM2V6azJIalNIVV9fWFhET1d5LWtPbXZyWmlfS3cyc2tKN3hNV0V5bEJYUG9RcUtibzA4MU5kNnBLSUdnc2VNUGpZZnZqZkMwNFQ0VE53VTk1TWJLWkxqN0M3d0pvam5Gc3hVVHlETi14VWVhM3ZxVTVHVXZTZmdKQmZIRg?oc=5",
    "source": "KATV",
-   "published": 1792087404.0,
+   "published": 1792096486.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -114,6 +136,28 @@
   },
   {
    "type": "article",
+   "title": "In sewer lawsuit, Sherwood says North Little Rock claims about not communicating ‘untrue’ - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0pfRkxhVUNpanRVaVVMbDBxeXM0R2Jtb0xIUnBoNUh0c2l0Wk5ESl9nemxOXzVpdnY2bTVKbE1ibE9aWUY2VmdTWkw3WXg0d2FqQS0weTV0TENPUkZsNlRzU3Q4UHBmUUxmY1REa1FCVVd3d3p0bzlmMENuendCUE9qSk1KRjZRbkV4cFZsX1YycTVVdTRjOFE5VmptZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792002060.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0pfRkxhVUNpanRVaVVMbDBxeXM0R2Jtb0xIUnBoNUh0c2l0Wk5ESl9nemxOXzVpdnY2bTVKbE1ibE9aWUY2VmdTWkw3WXg0d2FqQS0weTV0TENPUkZsNlRzU3Q4UHBmUUxmY1REa1FCVVd3d3p0bzlmMENuendCUE9qSk1KRjZRbkV4cFZsX1YycTVVdTRjOFE5VmptZw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "insewerlawsuitsherwoodsaysnorthlittlerockclaimsaboutnotcommunicatinguntruetheark"
+   ],
+   "first_seen": 1791856968.938547,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "Nine people killed, five others injured in car accidents across Arkansas over six days - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnU5QW9UcjhraEt4NklrX3BjN1JUeVdqVXYyXy1hOEY2eFlKbmVMblU0aVYxQ3pxMWhrNkpYd2htMDE5M2oxX3hzZjN2RUlqYXR3S2dHSnZSUW9SVlhrVDZacHdYRDdkMnJ4UWhCbnAySDl2M25FZ090NTR6aExLMzNyRXlINVA5WUUxSFZqWHkwR1VrR05ESjNR?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -132,50 +176,6 @@
     "ninepeoplekilledfiveothersinjuredincaraccidentsacrossarkansasoversixdaysthearkan"
    ],
    "first_seen": 1792063481.855898,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Michelle Ramona Vasquez, age 59 - A Natural State Funeral Service",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVExrUjhkd2RiQ010TDd6NWYwWVVHUkJEUS0yWmlENDBlWEF0eDNRQldmRmRYM1JYajFscTk1eWcxRVVKYVdDVUdMT2ktQWVCUTZ3UWNOT3FDOU1mdnhKS0gwdGJQUTdzN01wLW5raGlUUUVidGEzOWU5QW1uc044Z0dmMThNQQ?oc=5",
-   "source": "A Natural State Funeral Service",
-   "published": 1791995143.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "A Natural State Funeral Service",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVExrUjhkd2RiQ010TDd6NWYwWVVHUkJEUS0yWmlENDBlWEF0eDNRQldmRmRYM1JYajFscTk1eWcxRVVKYVdDVUdMT2ktQWVCUTZ3UWNOT3FDOU1mdnhKS0gwdGJQUTdzN01wLW5raGlUUUVidGEzOWU5QW1uc044Z0dmMThNQQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "michelleramonavasquezage59anaturalstatefuneralservice"
-   ],
-   "first_seen": 1792095594.05073,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Baby Reportedly Dies In North Little Rock After Medical Emergency - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2VvRUNzSzZXbWticjItWmpETV9IQ0FtODFzMVdjY21XcWxOaE0xc29tNWJKSmNWLWRYc0VWZnlMSVplT0tON0RvNFJTQnhVRkVGZWxuRnpXYno2cnBLVGRic2N3eVBLOUZCNmVtZW9hYjJsdWdPSm9yS1RZcXFnbVk1TVB2cEx1bkRnZGdmMmZWcnJ6S2NoS2VxZzlwQ3l2Unc?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1791992704.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2VvRUNzSzZXbWticjItWmpETV9IQ0FtODFzMVdjY21XcWxOaE0xc29tNWJKSmNWLWRYc0VWZnlMSVplT0tON0RvNFJTQnhVRkVGZWxuRnpXYno2cnBLVGRic2N3eVBLOUZCNmVtZW9hYjJsdWdPSm9yS1RZcXFnbVk1TVB2cEx1bkRnZGdmMmZWcnJ6S2NoS2VxZzlwQ3l2Unc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "babyreportedlydiesinnorthlittlerockaftermedicalemergencyarkansasradio"
-   ],
-   "first_seen": 1792002951.62866,
    "section": "major"
   },
   {
@@ -242,28 +242,6 @@
     "northlittlerockgirlswin6astatedoublestitleinfinalmatchaspartnersthearkansasdemoc"
    ],
    "first_seen": 1792002951.62866,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock sues Sherwood over sewer line repairs - The Arkansas Leader",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT1hFY3RsUEN2MjB4S1o1cThuckVsbTZQVE5FMHdjUGhqcng1NDZXeGZ4c3E3VWVTbUViSEl2WlAxRUhYclBPelg2UXRqTnJEVFo3ZXB2SVBKOUY1RENmbTZHSlNTdHp0amxMYmt0Ym9vOVlQRTk5cTRJNW9qaWh5MzgzakZaeEliMVE?oc=5",
-   "source": "The Arkansas Leader",
-   "published": 1791958698.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Leader",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT1hFY3RsUEN2MjB4S1o1cThuckVsbTZQVE5FMHdjUGhqcng1NDZXeGZ4c3E3VWVTbUViSEl2WlAxRUhYclBPelg2UXRqTnJEVFo3ZXB2SVBKOUY1RENmbTZHSlNTdHp0amxMYmt0Ym9vOVlQRTk5cTRJNW9qaWh5MzgzakZaeEliMVE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerocksuessherwoodoversewerlinerepairsthearkansasleader"
-   ],
-   "first_seen": 1791985297.315746,
    "section": "major"
   },
   {
@@ -444,74 +422,6 @@
   },
   {
    "type": "article",
-   "title": "Meauxmentum Opens 50th Wingstop in North Little Rock - Food & Beverage Magazine",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWhnUzZadFNLcmxneWNMRVZaVF90RkZfdy11aFU0R2tmbmZSdWIyRzY2VDJHNl9rcl9ISlJ1Mmhyd01wbnctVExmZjk2c1U4VXhVeXRnWVlJODRZRjNGSXVuRjJndXlxbFZHTUVJSzhMcTJPOEJDVU5laXhuel9PSQ?oc=5",
-   "source": "Food & Beverage Magazine",
-   "published": 1791851223.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Food & Beverage Magazine",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWhnUzZadFNLcmxneWNMRVZaVF90RkZfdy11aFU0R2tmbmZSdWIyRzY2VDJHNl9rcl9ISlJ1Mmhyd01wbnctVExmZjk2c1U4VXhVeXRnWVlJODRZRjNGSXVuRjJndXlxbFZHTUVJSzhMcTJPOEJDVU5laXhuel9PSQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "meauxmentumopens50thwingstopinnorthlittlerockfoodbeveragemagazine"
-   ],
-   "first_seen": 1792043603.952076,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Sherwood seeks to dismiss or arbitrate North Little Rock sewer lawsuit - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzNJamNHMnBTSHY3VFVoN2hfMWhoWGNqc0FCelNhMzBvbGEwWmxyTy1zZlNhbVVOTXZqX2tUeWN0bGpuVVN5Zzl0M2xOUllZdjVZaHNWcXMweXRFMXllRGpFZ0tGVXYyQWo1NWdBSUZ3SzN5WFkxZjNEZFhjTVhLUnQxQWVwSEpYSWIwMkFFOWFiWHAwdVNVUg?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791848460.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzNJamNHMnBTSHY3VFVoN2hfMWhoWGNqc0FCelNhMzBvbGEwWmxyTy1zZlNhbVVOTXZqX2tUeWN0bGpuVVN5Zzl0M2xOUllZdjVZaHNWcXMweXRFMXllRGpFZ0tGVXYyQWo1NWdBSUZ3SzN5WFkxZjNEZFhjTVhLUnQxQWVwSEpYSWIwMkFFOWFiWHAwdVNVUg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "insewerlawsuitsherwoodsaysnorthlittlerockclaimsaboutnotcommunicatinguntruetheark",
-    "sherwoodseekstodismissorarbitratenorthlittlerocksewerlawsuitthearkansasdemocratg"
-   ],
-   "first_seen": 1791856968.938547,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Woman identified in North Little Rock shooting homicide - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW1HRVRHM0cyT2VTb3c3NGpjVDlRMFpzSmZFS2RUck5uZEhYMkQwTXBfM0VFNGM1cHlhejdjVEJPTTEzQjJkSVF6UGRsbkJ4eHBnLTBFX0tUZ28tUEx3MUV4Uy03M3NjdHZwNVVLV09yNVA1TG5oank4RkhseVVuR3YxcUx5ZVczZE5LRW5RWkNjb2dhZjRLUDM5NA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791847800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW1HRVRHM0cyT2VTb3c3NGpjVDlRMFpzSmZFS2RUck5uZEhYMkQwTXBfM0VFNGM1cHlhejdjVEJPTTEzQjJkSVF6UGRsbkJ4eHBnLTBFX0tUZ28tUEx3MUV4Uy03M3NjdHZwNVVLV09yNVA1TG5oank4RkhseVVuR3YxcUx5ZVczZE5LRW5RWkNjb2dhZjRLUDM5NA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "womanidentifiedinnorthlittlerockshootinghomicidethearkansasdemocratgazette"
-   ],
-   "first_seen": 1791744762.663712,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "President Clinton and Cowboys owner Jerry Jones headline Little Rock Touchdown Club - KATV",
    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0gzRnpZYTdpLWtSMXpuVnVmMmdwaHl2eEpQaE5tNjNWaFEtTDJNWnRrdi1nYmhqV2xyZ3ZmTEVQaThDTEJ2Z3JVdkE4N1l4YWRZUjl5TGR5ZjF4Y3l5Tjl4NTFmcmpnQW9uUVlFUGY0c0c5WGNUQmZIbElOcFRudWR6VE0xWGxVWmNpQ0R6czJJdlJtM0dfcENqWU5NLS03bW1zZC13MlRKTjhpaXpISU83bWF5bVVGVWlkSWwybFhvcDdOenFtZjJUREJwaDBlTnhiM0FraGRGb1NGbzQ3VjFWbUVKWTFLREVxU2J2aXdiQ1BhMVdQSFZuTEpPM3VLWGh5TnpNbWZMYjVCZzhuUWE5UmUtX08wMENiWHlzQ3AzLV9GbkNqZVNqdnlRME51eDd1RjdmMA?oc=5",
    "source": "KATV",
@@ -534,28 +444,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police identify woman that died in weekend shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5",
-   "source": "KARK",
-   "published": 1791840276.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
-   ],
-   "first_seen": 1792083465.977196,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock School District files suit to recover money sent to wrong bank account - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXBvVFJHWlZsTUktZjhUT2owdGRCZTJoelBWVkVURXREdExaMEtiMHU2cnZpVXdxbTdDYXA1SVJoZlJCTm9KN0MtdllrVDlhZnFPNmVFTjFEbTVKWm82MGdXejh6VHRXVHlXa1EwLVRiS0VTQ191M19ocWVEYXdQTy11UUtaN1N3dVpaN0ZCRjRDdHJZQTFXRHh5ZVE?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -563,6 +451,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -571,6 +460,7 @@
    ],
    "source_count": 1,
    "member_keys": [
+    "littlerockschooldistricttoclosethreeelementaryschoolsthearkansasdemocratgazette",
     "northlittlerockschooldistrictfilessuittorecovermoneysenttowrongbankaccounttheark"
    ],
    "first_seen": 1792083465.977196,
@@ -596,6 +486,100 @@
     "jerryjonesdonates10milliontorenovateclintonpresidentialcenterinlittlerockthv11co"
    ],
    "first_seen": 1792083465.977196,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police identify 39-year-old woman as victim in fatal shooting - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5",
+   "source": "KATV",
+   "published": 1791836158.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "northlittlerockpoliceidentify39yearoldwomanasvictiminfatalshootingkatv",
+    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
+   ],
+   "first_seen": 1792083465.977196,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Centerton City Council members Henson and Thompson talk infrastructure, residents in race for mayor seat - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEUzMF9zVEYyclNCc0xwZzZIWU1SZUNYbmRLWEhEZGQyd1pnajB5SGdzb2JJck83a3k3SkNqb0M0VHJaMUlIT3p2T1l2OW01ZFY4RE1qS1BzZzBsYm80M1lsOS1mMFVON2VOYU5uRXpQSW1IZ21aVmtIU0JrdE9vb3BNcU9UbHJkYnZQNjRPd1V0dVFy?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791784800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEUzMF9zVEYyclNCc0xwZzZIWU1SZUNYbmRLWEhEZGQyd1pnajB5SGdzb2JJck83a3k3SkNqb0M0VHJaMUlIT3p2T1l2OW01ZFY4RE1qS1BzZzBsYm80M1lsOS1mMFVON2VOYU5uRXpQSW1IZ21aVmtIU0JrdE9vb3BNcU9UbHJkYnZQNjRPd1V0dVFy?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "centertoncitycouncilmembershensonandthompsontalkinfrastructureresidentsinracefor"
+   ],
+   "first_seen": 1792124875.408201,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police investigate shooting that left one dead, one injured - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0RxZ2UyMnhUZnEzTVBmQnlGcGNkR1hXQVdaWFBxcUtkWjdaNjc5NXc4NXFlUmo5OE04MXpZMWJjV19hdExBV2hoYXR0cE5XdWlnbjc3Tk9IOGpxbFhGQWNuVGZpc3E2eUZnS2VybUU1R1BqNklFM2VBRFNEUE1sdi1fQ1NwTDhzbE1kdU5fbHE2NUYyUnZhOEdPUmF0UDdZOUlFVmx0R0xqYlo4UUN6bzBrRjlxblBVZFVvWmJ1VXo1cGFwLXdXM2VIemRJdw?oc=5",
+   "source": "THV11",
+   "published": 1791748740.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0RxZ2UyMnhUZnEzTVBmQnlGcGNkR1hXQVdaWFBxcUtkWjdaNjc5NXc4NXFlUmo5OE04MXpZMWJjV19hdExBV2hoYXR0cE5XdWlnbjc3Tk9IOGpxbFhGQWNuVGZpc3E2eUZnS2VybUU1R1BqNklFM2VBRFNEUE1sdi1fQ1NwTDhzbE1kdU5fbHE2NUYyUnZhOEdPUmF0UDdZOUlFVmx0R0xqYlo4UUN6bzBrRjlxblBVZFVvWmJ1VXo1cGFwLXdXM2VIemRJdw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpoliceinvestigateshootingthatleftonedeadoneinjuredthv11com"
+   ],
+   "first_seen": 1792124875.408201,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Gunshots Confirmed In North Little Rock As Details Released By Law Enforcement - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmJocnRFT3VsRDBwcW5UQVctTllqUEwwdjR1RFRjbS1XQ05rMF8yQlkxRWNOSlRkNE5pZDk1cF9hamdtTGplcWFiUFdMZWRXWWlNV1REdnBVcTQ5dGF6UUhzeHB2YnhFZ08yNUQxM1FPdDFhWDFlUEdqdUJqX2FGQWZYVDhiQ0FHZkZjSjd4WU5VQkRMQVZtRQ?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1791736522.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmJocnRFT3VsRDBwcW5UQVctTllqUEwwdjR1RFRjbS1XQ05rMF8yQlkxRWNOSlRkNE5pZDk1cF9hamdtTGplcWFiUFdMZWRXWWlNV1REdnBVcTQ5dGF6UUhzeHB2YnhFZ08yNUQxM1FPdDFhWDFlUEdqdUJqX2FGQWZYVDhiQ0FHZkZjSjd4WU5VQkRMQVZtRQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "gunshotsconfirmedinnorthlittlerockasdetailsreleasedbylawenforcementarkansasradio"
+   ],
+   "first_seen": 1792124875.408201,
    "section": "major"
   }
  ]
