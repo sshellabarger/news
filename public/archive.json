@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-16T04:46:15.680524-05:00",
+ "updated": "2026-10-16T09:49:48.455498-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Lane closures scheduled on I-30 Arkansas River Bridge - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMl9xVWFTOU55M3dMNzFVRUp0OFU0NWRqVEhmUEg3dFNjcHB5Z2hhM0E5bjBfTF9FWG1uOTZjSGhTbFI1OTcxamhpZ2JrM1NtcGFTNDJQYlJSSTFYVHI0R25qRDhReUl6TFg4OGZpUzNERmUxUUxQTENEWUZ1dnltYTlfTlFqcXdZbWU1Z1Z0d3MxTkFaNzNVLTUxMjQ5ZzlDSGhXRldEeTh1LTR1UWRuYTctR3lXVTdaU1E?oc=5",
+   "source": "THV11",
+   "published": 1792158000.0,
+   "first_seen": 1792162188.455498,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMl9xVWFTOU55M3dMNzFVRUp0OFU0NWRqVEhmUEg3dFNjcHB5Z2hhM0E5bjBfTF9FWG1uOTZjSGhTbFI1OTcxamhpZ2JrM1NtcGFTNDJQYlJSSTFYVHI0R25qRDhReUl6TFg4OGZpUzNERmUxUUxQTENEWUZ1dnltYTlfTlFqcXdZbWU1Z1Z0d3MxTkFaNzNVLTUxMjQ5ZzlDSGhXRldEeTh1LTR1UWRuYTctR3lXVTdaU1E?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "laneclosuresscheduledoni30arkansasriverbridgethv11com"
+   ]
+  },
   {
    "type": "article",
    "title": "Lakewood Elementary's Shae Escovedo named KATV Teacher of the Month - KATV",
@@ -1020,28 +1042,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police identify woman that died in weekend shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5",
-   "source": "KARK",
-   "published": 1791840276.0,
-   "first_seen": 1791836214.515313,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
-   ]
-  },
-  {
-   "type": "article",
    "title": "North Little Rock School District files suit to recover money sent to wrong bank account - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXBvVFJHWlZsTUktZjhUT2owdGRCZTJoelBWVkVURXREdExaMEtiMHU2cnZpVXdxbTdDYXA1SVJoZlJCTm9KN0MtdllrVDlhZnFPNmVFTjFEbTVKWm82MGdXejh6VHRXVHlXa1EwLVRiS0VTQ191M19ocWVEYXdQTy11UUtaN1N3dVpaN0ZCRjRDdHJZQTFXRHh5ZVE?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -1059,7 +1059,6 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockschooldistricttoclosethreeelementaryschoolsthearkansasdemocratgazette",
     "northlittlerockschooldistrictfilessuittorecovermoneysenttowrongbankaccounttheark"
    ]
   },
@@ -1109,6 +1108,33 @@
   },
   {
    "type": "article",
+   "title": "North Little Rock police identify 39-year-old woman as victim in fatal shooting - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5",
+   "source": "KATV",
+   "published": 1791836158.0,
+   "first_seen": 1791836214.515313,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "northlittlerockpoliceidentify39yearoldwomanasvictiminfatalshootingkatv",
+    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Disney on Ice skating into North Little Rock - FOX16.com",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUdxQ3R3TzVzYk9uR2NtUy1HTnBxajF1RE01NFlnZjB6c3d6QWtaQ3dLNThvMllUTWZTN2RYYlA2emtVYWVFTE5IQWpfOE1YN0xuNi1YbTg3bFAwajBIRnp4Y1haajhFUVV4a0RHc0MtRWVBdzJRTTAyMEduTGZQNTBwb256V3RkLU5XOVBGVdIBlAFBVV95cUxNQ1Z2OHZtQ0k5aHBzOWNWTjc3UkVjR2p6T0YwYTh3Q2xSenl5ajhOX0xWUmNvOUNWU3JXbDRQYld3bXhJcEQyNGE5TmVlU2hrRlYybXpma1k5RzVmNjBfNWxPN245ZHZGclhxY3JwUWF2NVhkQi0tQ3JBb3dCMDJFUFdmLThYMS1WY2hQRFBsWl9UZU42?oc=5",
    "source": "FOX16",
@@ -1149,6 +1175,28 @@
    "source_count": 1,
    "member_keys": [
     "election2026arkansastvdebatesussenatethearkansasdemocratgazette"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Audrey Ann Burtrum- Stanley Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQThIQXlFV0NWY3JIZmxHU1VhT0ZEMXpWb21xYjFZMV9BUVo1bGhiXzRudXlzbUQ3UjV3SzhMQ1BEcl82dkdfOWJCSzBsNkNvQmVrbkE2cXJtLUxOcE9XOU1paXVXT3JoOVdMWjFpbE9KV203R0ItcFJqa1pRU2xaN0UtWTk3bjAxdklvT0hR?oc=5",
+   "source": "Legacy | Obituary",
+   "published": 1791788400.0,
+   "first_seen": 1792162188.455498,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQThIQXlFV0NWY3JIZmxHU1VhT0ZEMXpWb21xYjFZMV9BUVo1bGhiXzRudXlzbUQ3UjV3SzhMQ1BEcl82dkdfOWJCSzBsNkNvQmVrbkE2cXJtLUxOcE9XOU1paXVXT3JoOVdMWjFpbE9KV203R0ItcFJqa1pRU2xaN0UtWTk3bjAxdklvT0hR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "audreyannburtrumstanleyobituary2026northlittlerockarsmithfamilyfuneralhomesnorth"
    ]
   },
   {
