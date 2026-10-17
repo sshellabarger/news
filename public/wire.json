@@ -1,28 +1,50 @@
 {
- "updated": "2026-10-17T00:34:22.829336-05:00",
+ "updated": "2026-10-17T05:39:37.545847-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Little Rock police name 44-year-old man killed in neighborhood shooting - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lrdDdqMTJYZmxCV21DTDZENjBwNDNObExjX3Q1VlJKV2xKVEFZZlRSWXBDLUxYdTVEV2FHUlkzRkJfc01lT3NQeEQ0V0NkYml6UlNxcE8yRzZWcWdBcGRhYTI3QVdMckpxSzc1OXJGSWRKTE5iSGprcDc3TDc4UFRKT3hJYXZfelhPNHJvX01ST0hoMGpRNTk1Y29CemM?oc=5",
+   "title": "North Little Rock capitalizes on 5 interceptions in victory over Little Rock Christian - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW8tZ1cyVmVUY205TmlEM3phaUpqWkEzTEQxYzNmSGstbndOWWFEY0xxY0hQNGdWVnNmbkVYN2hKSUx5aGxpX2JSb2hMN3JTSDM0bzhFM1FYaTZmeXVuRlpiU2Z1SE52RDFDT1l6V2phQmRzYVU2YWNDVHNzWkdJX0cxblJZTVVVb201RDRya2JsVjJWdS1yNWFFVHJHdw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1792207800.0,
+   "published": 1792220880.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lrdDdqMTJYZmxCV21DTDZENjBwNDNObExjX3Q1VlJKV2xKVEFZZlRSWXBDLUxYdTVEV2FHUlkzRkJfc01lT3NQeEQ0V0NkYml6UlNxcE8yRzZWcWdBcGRhYTI3QVdMckpxSzc1OXJGSWRKTE5iSGprcDc3TDc4UFRKT3hJYXZfelhPNHJvX01ST0hoMGpRNTk1Y29CemM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdW8tZ1cyVmVUY205TmlEM3phaUpqWkEzTEQxYzNmSGstbndOWWFEY0xxY0hQNGdWVnNmbkVYN2hKSUx5aGxpX2JSb2hMN3JTSDM0bzhFM1FYaTZmeXVuRlpiU2Z1SE52RDFDT1l6V2phQmRzYVU2YWNDVHNzWkdJX0cxblJZTVVVb201RDRya2JsVjJWdS1yNWFFVHJHdw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockpolicename44yearoldmankilledinneighborhoodshootingthearkansasdemocratg"
+    "northlittlerockcapitalizeson5interceptionsinvictoryoverlittlerockchristiantheark"
    ],
-   "first_seen": 1792215262.829336,
-   "section": "crime"
+   "first_seen": 1792233577.545847,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "GAME OF THE WEEK: Despite mistakes, Robinson still undefeated after thriller win over Little Rock Parkview - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVNLamtydGh5Wkd1bjc5SFU4eEpES2VhR1hZajY5QzRzQVkzWmZhZTZwbDRBY21kTFVnQW9QUGplbWtBWkMyMERJS0VQN25rLWM4dVhtRUU2RDVBQnV4aEswNDMtN21wQ1YxUE53MUVsN3lPTHdiSi1tQ1dMLW84UklBZnVlVHZQdGtjQk44Zlo4a0dZUERr?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792207200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVNLamtydGh5Wkd1bjc5SFU4eEpES2VhR1hZajY5QzRzQVkzWmZhZTZwbDRBY21kTFVnQW9QUGplbWtBWkMyMERJS0VQN25rLWM4dVhtRUU2RDVBQnV4aEswNDMtN21wQ1YxUE53MUVsN3lPTHdiSi1tQ1dMLW84UklBZnVlVHZQdGtjQk44Zlo4a0dZUERr?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "gameoftheweekdespitemistakesrobinsonstillundefeatedafterthrillerwinoverlittleroc"
+   ],
+   "first_seen": 1792233577.545847,
+   "section": "major"
   },
   {
    "type": "article",
@@ -165,6 +187,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -173,6 +196,8 @@
    ],
    "source_count": 1,
    "member_keys": [
+    "littlerockpolicename44yearoldmankilledinneighborhoodshootingthearkansasdemocratg",
+    "policearrest19yearoldonmurderchargeinshootingthatkilledtwoatlittlerockconvenienc",
     "shootingatlittlerockconveniencestorekillstwopeoplecriticallyinjuresthreeothersth"
    ],
    "first_seen": 1792215262.829336,
@@ -209,6 +234,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -217,6 +243,7 @@
    ],
    "source_count": 1,
    "member_keys": [
+    "littlerockdistrictclosingpublicschoolsasenrollmentfallsshiftingdemographicsschoo",
     "littlerockschooldistricttoclosethreeelementaryschoolsthearkansasdemocratgazette"
    ],
    "first_seen": 1792188281.746507,
@@ -496,94 +523,6 @@
     "northlittlerockschooldistrictsuesspringdaleteenwhoreceivedmorethan12000inapayrol"
    ],
    "first_seen": 1791931332.331525,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Woman identified in North Little Rock shooting homicide - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmRoTlBHTE9PdWdQajJleFpPdngxaHROZndLMk8zWm1MZGczcGQxcE5IbTZHV2Z6am9DOG9ydzBYZUFwU1RwNGNuS2thZURrUjNOM3hqVmF0OXZOanF3a1dtU0VIdXhZbEFPSGpoTzVlbjJlb0Y0MUtweVVLekV5WkZVLVgtYTJyVWVjeDJZTm9CU2dO?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1791847800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmRoTlBHTE9PdWdQajJleFpPdngxaHROZndLMk8zWm1MZGczcGQxcE5IbTZHV2Z6am9DOG9ydzBYZUFwU1RwNGNuS2thZURrUjNOM3hqVmF0OXZOanF3a1dtU0VIdXhZbEFPSGpoTzVlbjJlb0Y0MUtweVVLekV5WkZVLVgtYTJyVWVjeDJZTm9CU2dO?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "womanidentifiedinnorthlittlerockshootinghomicidenorthwestarkansasdemocratgazette"
-   ],
-   "first_seen": 1792215262.829336,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "City of Sherwood files response to NLRWU lawsuit - KATV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHR2OVhRNUhTbE9ESzVRb0JWRTlBaVNkWHp0amNCWlJRbl9zazBpOEZMUXhGQkpRTFR3aDloUUdqaUhMTGFOUGZacjBJSjRzSzZBOHRkQVpUcnd4WW9sVUhWSEljV21LeDJVUnZXNW90R0t3VTBKeEMtcnVMSUNXOE1OZFVfRUtycGZZc1p2ajQ3cXBvM1NyRkdkQ3E5UF9Kb2hSeWxTR0hzSTQ3X3hDZFRobEw3QQ?oc=5",
-   "source": "KATV",
-   "published": 1791842467.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHR2OVhRNUhTbE9ESzVRb0JWRTlBaVNkWHp0amNCWlJRbl9zazBpOEZMUXhGQkpRTFR3aDloUUdqaUhMTGFOUGZacjBJSjRzSzZBOHRkQVpUcnd4WW9sVUhWSEljV21LeDJVUnZXNW90R0t3VTBKeEMtcnVMSUNXOE1OZFVfRUtycGZZc1p2ajQ3cXBvM1NyRkdkQ3E5UF9Kb2hSeWxTR0hzSTQ3X3hDZFRobEw3QQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "cityofsherwoodfilesresponsetonlrwulawsuitkatv"
-   ],
-   "first_seen": 1792196828.255769,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police identify woman that died in weekend shooting - KARK",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5",
-   "source": "KARK",
-   "published": 1791840276.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
-   ],
-   "first_seen": 1792196828.255769,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Gunshots Confirmed In North Little Rock As Details Released By Law Enforcement - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmJocnRFT3VsRDBwcW5UQVctTllqUEwwdjR1RFRjbS1XQ05rMF8yQlkxRWNOSlRkNE5pZDk1cF9hamdtTGplcWFiUFdMZWRXWWlNV1REdnBVcTQ5dGF6UUhzeHB2YnhFZ08yNUQxM1FPdDFhWDFlUEdqdUJqX2FGQWZYVDhiQ0FHZkZjSjd4WU5VQkRMQVZtRQ?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1791736522.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmJocnRFT3VsRDBwcW5UQVctTllqUEwwdjR1RFRjbS1XQ05rMF8yQlkxRWNOSlRkNE5pZDk1cF9hamdtTGplcWFiUFdMZWRXWWlNV1REdnBVcTQ5dGF6UUhzeHB2YnhFZ08yNUQxM1FPdDFhWDFlUEdqdUJqX2FGQWZYVDhiQ0FHZkZjSjd4WU5VQkRMQVZtRQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "gunshotsconfirmedinnorthlittlerockasdetailsreleasedbylawenforcementarkansasradio"
-   ],
-   "first_seen": 1792215262.829336,
    "section": "major"
   }
  ]
