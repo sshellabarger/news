@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:39:37.545847-05:00",
+ "updated": "2026-10-17T09:11:55.608875-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -23,6 +23,28 @@
    ],
    "first_seen": 1792233577.545847,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock police name 44-year-old man killed in neighborhood shooting - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lrdDdqMTJYZmxCV21DTDZENjBwNDNObExjX3Q1VlJKV2xKVEFZZlRSWXBDLUxYdTVEV2FHUlkzRkJfc01lT3NQeEQ0V0NkYml6UlNxcE8yRzZWcWdBcGRhYTI3QVdMckpxSzc1OXJGSWRKTE5iSGprcDc3TDc4UFRKT3hJYXZfelhPNHJvX01ST0hoMGpRNTk1Y29CemM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792207800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lrdDdqMTJYZmxCV21DTDZENjBwNDNObExjX3Q1VlJKV2xKVEFZZlRSWXBDLUxYdTVEV2FHUlkzRkJfc01lT3NQeEQ0V0NkYml6UlNxcE8yRzZWcWdBcGRhYTI3QVdMckpxSzc1OXJGSWRKTE5iSGprcDc3TDc4UFRKT3hJYXZfelhPNHJvX01ST0hoMGpRNTk1Y29CemM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpolicename44yearoldmankilledinneighborhoodshootingthearkansasdemocratg"
+   ],
+   "first_seen": 1792215262.829336,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -187,7 +209,6 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -196,8 +217,6 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockpolicename44yearoldmankilledinneighborhoodshootingthearkansasdemocratg",
-    "policearrest19yearoldonmurderchargeinshootingthatkilledtwoatlittlerockconvenienc",
     "shootingatlittlerockconveniencestorekillstwopeoplecriticallyinjuresthreeothersth"
    ],
    "first_seen": 1792215262.829336,
@@ -524,6 +543,28 @@
    ],
    "first_seen": 1791931332.331525,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Woman identified in North Little Rock shooting homicide - Northwest Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmRoTlBHTE9PdWdQajJleFpPdngxaHROZndLMk8zWm1MZGczcGQxcE5IbTZHV2Z6am9DOG9ydzBYZUFwU1RwNGNuS2thZURrUjNOM3hqVmF0OXZOanF3a1dtU0VIdXhZbEFPSGpoTzVlbjJlb0Y0MUtweVVLekV5WkZVLVgtYTJyVWVjeDJZTm9CU2dO?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
+   "published": 1791847800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmRoTlBHTE9PdWdQajJleFpPdngxaHROZndLMk8zWm1MZGczcGQxcE5IbTZHV2Z6am9DOG9ydzBYZUFwU1RwNGNuS2thZURrUjNOM3hqVmF0OXZOanF3a1dtU0VIdXhZbEFPSGpoTzVlbjJlb0Y0MUtweVVLekV5WkZVLVgtYTJyVWVjeDJZTm9CU2dO?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "womanidentifiedinnorthlittlerockshootinghomicidenorthwestarkansasdemocratgazette"
+   ],
+   "first_seen": 1792246315.608875,
+   "section": "crime"
   }
  ]
 }

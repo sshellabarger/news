@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:39:37.545847-05:00",
+ "updated": "2026-10-17T09:11:55.608875-05:00",
  "items": [
   {
    "type": "article",
@@ -21,6 +21,28 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerockcapitalizeson5interceptionsinvictoryoverlittlerockchristiantheark"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Little Rock police name 44-year-old man killed in neighborhood shooting - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lrdDdqMTJYZmxCV21DTDZENjBwNDNObExjX3Q1VlJKV2xKVEFZZlRSWXBDLUxYdTVEV2FHUlkzRkJfc01lT3NQeEQ0V0NkYml6UlNxcE8yRzZWcWdBcGRhYTI3QVdMckpxSzc1OXJGSWRKTE5iSGprcDc3TDc4UFRKT3hJYXZfelhPNHJvX01ST0hoMGpRNTk1Y29CemM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792207800.0,
+   "first_seen": 1792124875.408201,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lrdDdqMTJYZmxCV21DTDZENjBwNDNObExjX3Q1VlJKV2xKVEFZZlRSWXBDLUxYdTVEV2FHUlkzRkJfc01lT3NQeEQ0V0NkYml6UlNxcE8yRzZWcWdBcGRhYTI3QVdMckpxSzc1OXJGSWRKTE5iSGprcDc3TDc4UFRKT3hJYXZfelhPNHJvX01ST0hoMGpRNTk1Y29CemM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpolicename44yearoldmankilledinneighborhoodshootingthearkansasdemocratg"
    ]
   },
   {
@@ -249,7 +271,7 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDRUWnhUQVZnX2hINFc1OFVVRW95RTU1QlRzZnVkZWI2eHJpMl85Qno3eU1Xc1Z0dzBKRkQ5MV9HTkxBNVhmb1dPWXB5X2FQV3lmLWd4THduSmtsNVd0c25jaU5CQWFwV3k0dDlzNm9TOUs3bDhQcHd5TzFNdThzZXFvUDZZc2l2akVxTmRnbVZDNnYzWE9RR2lKNk4?oc=5",
    "source": "The Arkansas Democrat-Gazette",
    "published": 1792123560.0,
-   "first_seen": 1792124875.408201,
+   "first_seen": 1792215262.829336,
    "section": "crime",
    "snippet": "",
    "discussion_url": "",
@@ -262,8 +284,6 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockpolicename44yearoldmankilledinneighborhoodshootingthearkansasdemocratg",
-    "policearrest19yearoldonmurderchargeinshootingthatkilledtwoatlittlerockconvenienc",
     "shootingatlittlerockconveniencestorekillstwopeoplecriticallyinjuresthreeothersth"
    ]
   },
