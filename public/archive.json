@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:04:41.746507-05:00",
+ "updated": "2026-10-16T19:27:08.255769-05:00",
  "items": [
   {
    "type": "article",
@@ -43,28 +43,6 @@
    "source_count": 1,
    "member_keys": [
     "gladarayhillobituary2026northlittlerockarhubblefuneralhomenorthlittlerocklegacyo"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Police arrest 19-year-old on murder charge in shooting that killed two at Little Rock convenience store - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1792179480.0,
-   "first_seen": 1792188281.746507,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "policearrest19yearoldonmurderchargeinshootingthatkilledtwoatlittlerockconvenienc"
    ]
   },
   {
@@ -131,6 +109,50 @@
    "source_count": 1,
    "member_keys": [
     "laneclosuresscheduledoni30arkansasriverbridgethv11com"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Lane closures scheduled on I-30 Arkansas River Bridge - THV11",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMl9xVWFTOU55M3dMNzFVRUp0OFU0NWRqVEhmUEg3dFNjcHB5Z2hhM0E5bjBfTF9FWG1uOTZjSGhTbFI1OTcxamhpZ2JrM1NtcGFTNDJQYlJSSTFYVHI0R25qRDhReUl6TFg4OGZpUzNERmUxUUxQTENEWUZ1dnltYTlfTlFqcXdZbWU1Z1Z0d3MxTkFaNzNVLTUxMjQ5ZzlDSGhXRldEeTh1LTR1UWRuYTctR3lXVTdaU1E?oc=5",
+   "source": "THV11",
+   "published": 1792158000.0,
+   "first_seen": 1792196828.255769,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMl9xVWFTOU55M3dMNzFVRUp0OFU0NWRqVEhmUEg3dFNjcHB5Z2hhM0E5bjBfTF9FWG1uOTZjSGhTbFI1OTcxamhpZ2JrM1NtcGFTNDJQYlJSSTFYVHI0R25qRDhReUl6TFg4OGZpUzNERmUxUUxQTENEWUZ1dnltYTlfTlFqcXdZbWU1Z1Z0d3MxTkFaNzNVLTUxMjQ5ZzlDSGhXRldEeTh1LTR1UWRuYTctR3lXVTdaU1E?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "laneclosuresscheduledoni30arkansasriverbridgethv11"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Police arrest 19-year-old on murder charge in shooting that killed two at Little Rock convenience store - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792156140.0,
+   "first_seen": 1792188281.746507,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policearrest19yearoldonmurderchargeinshootingthatkilledtwoatlittlerockconvenienc"
    ]
   },
   {
@@ -593,33 +615,16 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS2Y1TFVDTEIxX2szQk5acXd3Zy1uUnlnNFJGNW43OUlEXzhZYVdtRlF5TzBaYXRkNXdybE5RbGVpcy1qN2VWaC1TUnFsaDk5bFFDS0MwYWZSX3pSc0lVSllaUUVhZFA3bG5jZXVEcm5GWWh6MnkzaUpqOXFPdUNSdnZMNkg0THVwaUp0TjV3N1N4ZElBVTh5XzgwZS0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "driversuffersminorinjuriesaftercarcrashesintonorthlittlerockgymthearkansasdemocr"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Driver suffers minor injuries after car crashes into North Little Rock gym - Northwest Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3FFZnU2dHdGNlZCZUVCbFBxclpzSHhOcVk1ZE9CaTROcmVBaGI1bFR1Tno5amJjalQybW1JQ2Vtdk8xNDJXX3puQlBWQ0xmV1Jic0NiaUl0SzZNOFlySFRBSlRLS21tUlZVY1RJc0RSRTJZV2tWazJKYUc4S2lwMndaNmtqRnZsLUtzWGQ5X1FKdDZ5YUE?oc=5",
-   "source": "Northwest Arkansas Democrat-Gazette",
-   "published": 1791964920.0,
-   "first_seen": 1792176459.277075,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
+    },
     {
      "source": "Northwest Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3FFZnU2dHdGNlZCZUVCbFBxclpzSHhOcVk1ZE9CaTROcmVBaGI1bFR1Tno5amJjalQybW1JQ2Vtdk8xNDJXX3puQlBWQ0xmV1Jic0NiaUl0SzZNOFlySFRBSlRLS21tUlZVY1RJc0RSRTJZV2tWazJKYUc4S2lwMndaNmtqRnZsLUtzWGQ5X1FKdDZ5YUE?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "driversuffersminorinjuriesaftercarcrashesintonorthlittlerockgymnorthwestarkansas"
+    "driversuffersminorinjuriesaftercarcrashesintonorthlittlerockgymnorthwestarkansas",
+    "driversuffersminorinjuriesaftercarcrashesintonorthlittlerockgymthearkansasdemocr"
    ]
   },
   {
@@ -1218,6 +1223,50 @@
   },
   {
    "type": "article",
+   "title": "City of Sherwood files response to NLRWU lawsuit - KATV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHR2OVhRNUhTbE9ESzVRb0JWRTlBaVNkWHp0amNCWlJRbl9zazBpOEZMUXhGQkpRTFR3aDloUUdqaUhMTGFOUGZacjBJSjRzSzZBOHRkQVpUcnd4WW9sVUhWSEljV21LeDJVUnZXNW90R0t3VTBKeEMtcnVMSUNXOE1OZFVfRUtycGZZc1p2ajQ3cXBvM1NyRkdkQ3E5UF9Kb2hSeWxTR0hzSTQ3X3hDZFRobEw3QQ?oc=5",
+   "source": "KATV",
+   "published": 1791842467.0,
+   "first_seen": 1792196828.255769,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHR2OVhRNUhTbE9ESzVRb0JWRTlBaVNkWHp0amNCWlJRbl9zazBpOEZMUXhGQkpRTFR3aDloUUdqaUhMTGFOUGZacjBJSjRzSzZBOHRkQVpUcnd4WW9sVUhWSEljV21LeDJVUnZXNW90R0t3VTBKeEMtcnVMSUNXOE1OZFVfRUtycGZZc1p2ajQ3cXBvM1NyRkdkQ3E5UF9Kb2hSeWxTR0hzSTQ3X3hDZFRobEw3QQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "cityofsherwoodfilesresponsetonlrwulawsuitkatv"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police identify woman that died in weekend shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5",
+   "source": "KARK",
+   "published": 1791840276.0,
+   "first_seen": 1791836214.515313,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
+   ]
+  },
+  {
+   "type": "article",
    "title": "North Little Rock School District files suit to recover money sent to wrong bank account - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXBvVFJHWlZsTUktZjhUT2owdGRCZTJoelBWVkVURXREdExaMEtiMHU2cnZpVXdxbTdDYXA1SVJoZlJCTm9KN0MtdllrVDlhZnFPNmVFTjFEbTVKWm82MGdXejh6VHRXVHlXa1EwLVRiS0VTQ191M19ocWVEYXdQTy11UUtaN1N3dVpaN0ZCRjRDdHJZQTFXRHh5ZVE?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -1280,33 +1329,6 @@
    "source_count": 1,
    "member_keys": [
     "patriciajoypaisleyobituary2026northlittlerockaranaturalstatefuneralservicecremat"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock police identify 39-year-old woman as victim in fatal shooting - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5",
-   "source": "KATV",
-   "published": 1791836158.0,
-   "first_seen": 1791836214.515313,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5"
-    },
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "northlittlerockpoliceidentify39yearoldwomanasvictiminfatalshootingkatv",
-    "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
    ]
   },
   {
