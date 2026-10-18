@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-18T12:20:27.727391-05:00",
+ "updated": "2026-10-18T15:38:47.365740-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "North Little Rock police begin homicide investigation after Sunday morning shooting - thv11.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1NhYkExVE5DcHhSMXpzWC1sYnQwMjdUSjU2TjJOR25IT3kzYXEwbE9CUy1pTzZFekJBdHhqMmhNV05uS1E4cVUzMl9GT25FQUpuekhuampNdElNSHQ3dWcwV21EZW9PN0JCYVBUaG1GeFZtVjVqTmQzWHdObXhvRHBBS1R2b3RoV2lJOHJKbGhIVVdPZFAwbGpFMFk4ZFlGeHNUUnEyVDBnTURoLXNIcHlaS0pPYURDVmstN1o5SlBheGtybVd6SmhxYkNWUnZxZFZlbzFkZnFUV2RZbDJyTDBKRXBiTW5vbDJ3?oc=5",
+   "source": "THV11",
+   "published": 1792351620.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1NhYkExVE5DcHhSMXpzWC1sYnQwMjdUSjU2TjJOR25IT3kzYXEwbE9CUy1pTzZFekJBdHhqMmhNV05uS1E4cVUzMl9GT25FQUpuekhuampNdElNSHQ3dWcwV21EZW9PN0JCYVBUaG1GeFZtVjVqTmQzWHdObXhvRHBBS1R2b3RoV2lJOHJKbGhIVVdPZFAwbGpFMFk4ZFlGeHNUUnEyVDBnTURoLXNIcHlaS0pPYURDVmstN1o5SlBheGtybVd6SmhxYkNWUnZxZFZlbzFkZnFUV2RZbDJyTDBKRXBiTW5vbDJ3?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpolicebeginhomicideinvestigationaftersundaymorningshootingthv11co"
+   ],
+   "first_seen": 1792355927.36574,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "HIGH PROFILE: Calvin White Jr., Little Rock native, now Arkansas State University’s first Black chancellor - The Arkansas Democrat-Gazette",
@@ -111,6 +133,28 @@
    ],
    "first_seen": 1792188281.746507,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Review: STEPHEN KING'S MISERY at Argenta Contemporary Theatre in North Little Rock - BroadwayWorld",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmhvMUtEdnIxejZkS1FwOTVfMEk0aDlDMzBNSVNTeTQ2UkFFNURQQmZaclZFaG94R0ZvV2hvOW1jakxtcVh0SUxSMWphRzFQaUZFeFhzbERfbWZFV0wtX3g2a1BiN1dKQWd4WDZXNUE1YVRlR3ptem1qMWQtTXVZT3lfY2ZybHFXT18ydllwNDR2X0xVVWVkWVEyU2tkenJ3Q0dxTFFXcWFIb0xLWHdmQjhtZ1Nhb2xDZnlxRGwyQWdocEFHWFFHQ0FKZGZfZWxRejVVVWtn?oc=5",
+   "source": "BroadwayWorld",
+   "published": 1792164178.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmhvMUtEdnIxejZkS1FwOTVfMEk0aDlDMzBNSVNTeTQ2UkFFNURQQmZaclZFaG94R0ZvV2hvOW1jakxtcVh0SUxSMWphRzFQaUZFeFhzbERfbWZFV0wtX3g2a1BiN1dKQWd4WDZXNUE1YVRlR3ptem1qMWQtTXVZT3lfY2ZybHFXT18ydllwNDR2X0xVVWVkWVEyU2tkenJ3Q0dxTFFXcWFIb0xLWHdmQjhtZ1Nhb2xDZnlxRGwyQWdocEFHWFFHQ0FKZGZfZWxRejVVVWtn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "reviewstephenkingsmiseryatargentacontemporarytheatreinnorthlittlerockbroadwaywor"
+   ],
+   "first_seen": 1792355927.36574,
+   "section": "major"
   },
   {
    "type": "article",
@@ -392,28 +436,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock Police suspends three officers with pay for misuse of license plate reader system - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791934020.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockpolicesuspendsthreeofficerswithpayformisuseoflicenseplatereadersystemt"
-   ],
-   "first_seen": 1792063481.855898,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "N. Little Rock vs Away - Girls Middle School Volleyball 10/15/2026 | Watch Live & On Demand - NFHS Network",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUh6Z25kQVFtaG1WUkdWa0VRa1FtMWcyOHl0MkpkY0tKZGJFcjhKZGxUeDFUdk1SRFZHU3psWU9UT0FHWjE4NHdSZ3RmczFwU3UzZnExMzY1RGZqb0NULWR2REZjSG5BalN5ZVMtS1Jtc0FwUTR1XzdPaVAtaGI0Y1pqajZmSnJITC1XMHpKV1o2MHFZMGh3d0hiYVh6N2Vo?oc=5",
    "source": "NFHS Network",
@@ -523,28 +545,6 @@
    ],
    "first_seen": 1792344027.727391,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Police Probe Infant Death on Alta Vista Dr - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5",
-   "source": "Hoodline",
-   "published": 1791731627.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceprobeinfantdeathonaltavistadrhoodline"
-   ],
-   "first_seen": 1792344027.727391,
-   "section": "crime"
   }
  ]
 }
