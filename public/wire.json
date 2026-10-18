@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-17T23:28:11.745311-05:00",
+ "updated": "2026-10-18T04:34:34.735032-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Solid turnout forecast for early voting in Arkansas, with total participation estimated at 50% - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVZ1QjA1V2llTy10MFpXaDVCaWFZMXc5X3JyaFpsRHFud2lSVF9XcGlNVkFrQUZoMTdyX1dzS0htUzEzdGpBWTVrNmpYM0hFR2lIazVJS05tT1MtbG9lZ0l5UEVJMy00V3R3TmJxUnYyd1JqUks1dXdmVUhLdTQzNjFsOGhodFc1MDFZSF92MGJLU0F1M2c?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792298700.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVZ1QjA1V2llTy10MFpXaDVCaWFZMXc5X3JyaFpsRHFud2lSVF9XcGlNVkFrQUZoMTdyX1dzS0htUzEzdGpBWTVrNmpYM0hFR2lIazVJS05tT1MtbG9lZ0l5UEVJMy00V3R3TmJxUnYyd1JqUks1dXdmVUhLdTQzNjFsOGhodFc1MDFZSF92MGJLU0F1M2c?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "solidturnoutforecastforearlyvotinginarkansaswithtotalparticipationestimatedat50t"
+   ],
+   "first_seen": 1792316074.735032,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Second man arrested in fatal shootings at Little Rock convenience store; suspect was among four people wounded - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg0dXR6SHNqZWFPUXhhNzlTNFhhdV9uZnd2V0oyUTF0d08ybmZsZF8tRXJzaDh4dTVnQzRXZkczSW1NOVFKTmN0RkNMNnA0cEx2eW1FRzBZVHZGNko3RXRha3U0MDdkTHl2T1o1eU1vZEhuOHFUZ1czM0FZZkFQRE9MN2ZVNkF4Y1EtRVAyTzlxcmhSZzRRc25PRk9MQQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792290600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg0dXR6SHNqZWFPUXhhNzlTNFhhdV9uZnd2V0oyUTF0d08ybmZsZF8tRXJzaDh4dTVnQzRXZkczSW1NOVFKTmN0RkNMNnA0cEx2eW1FRzBZVHZGNko3RXRha3U0MDdkTHl2T1o1eU1vZEhuOHFUZ1czM0FZZkFQRE9MN2ZVNkF4Y1EtRVAyTzlxcmhSZzRRc25PRk9MQQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "secondmanarrestedinfatalshootingsatlittlerockconveniencestoresuspectwasamongfour"
+   ],
+   "first_seen": 1792316074.735032,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "North Little Rock capitalizes on 5 interceptions in victory over Little Rock Christian - The Arkansas Democrat-Gazette",
@@ -70,7 +114,7 @@
   },
   {
    "type": "article",
-   "title": "Lane closures scheduled on I-30 Arkansas River Bridge - thv11.com",
+   "title": "Lane closures scheduled on I-30 Arkansas River Bridge - THV11",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMl9xVWFTOU55M3dMNzFVRUp0OFU0NWRqVEhmUEg3dFNjcHB5Z2hhM0E5bjBfTF9FWG1uOTZjSGhTbFI1OTcxamhpZ2JrM1NtcGFTNDJQYlJSSTFYVHI0R25qRDhReUl6TFg4OGZpUzNERmUxUUxQTENEWUZ1dnltYTlfTlFqcXdZbWU1Z1Z0d3MxTkFaNzNVLTUxMjQ5ZzlDSGhXRldEeTh1LTR1UWRuYTctR3lXVTdaU1E?oc=5",
    "source": "THV11",
    "published": 1792158000.0,
@@ -85,9 +129,9 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "laneclosuresscheduledoni30arkansasriverbridgethv11com"
+    "laneclosuresscheduledoni30arkansasriverbridgethv11"
    ],
-   "first_seen": 1792215262.829336,
+   "first_seen": 1792316074.735032,
    "section": "major"
   },
   {
@@ -370,25 +414,25 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock girls win 6A State doubles title in final match as partners - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW9XcUF4MVVNWlZOamY2VXRMSTlac09DODY4RGhTU2RPRFFuVm11cUd6WlVrbWdZT1ZMYUxSRU56UTYzczQ1YnMyMk13ZEZkTVV1VUVLLUZoc2ItWk5tS21mTl9QRjJLTHNBRXRMTHY4TllkX0JKUjdRWjhHbkk1TXp0Skh2X3FweS1QSWFMOS1ZV0V6RHRWUQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791964080.0,
+   "title": "Wesley Hall Obituary - North Little Rock, AR - Dignity Memorial",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEkwUXlDY3p4LXpqazBhdzNMY3VpV0NUVTQxRzVZdjdBVUpkbjMtYnowOHl3bmpKSzRwalJMQzNubjBwcUpyUF9mLURtLXFMT2pfU2xtUUVjLWZJWVR1RWJBaG0wUVF5SURqYmxSV1YwcWdWdnA0RDAzbmJlcmQ2VUthazV2VUVrRTBGWA?oc=5",
+   "source": "Dignity Memorial",
+   "published": 1791961200.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW9XcUF4MVVNWlZOamY2VXRMSTlac09DODY4RGhTU2RPRFFuVm11cUd6WlVrbWdZT1ZMYUxSRU56UTYzczQ1YnMyMk13ZEZkTVV1VUVLLUZoc2ItWk5tS21mTl9QRjJLTHNBRXRMTHY4TllkX0JKUjdRWjhHbkk1TXp0Skh2X3FweS1QSWFMOS1ZV0V6RHRWUQ?oc=5"
+     "source": "Dignity Memorial",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEkwUXlDY3p4LXpqazBhdzNMY3VpV0NUVTQxRzVZdjdBVUpkbjMtYnowOHl3bmpKSzRwalJMQzNubjBwcUpyUF9mLURtLXFMT2pfU2xtUUVjLWZJWVR1RWJBaG0wUVF5SURqYmxSV1YwcWdWdnA0RDAzbmJlcmQ2VUthazV2VUVrRTBGWA?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockgirlswin6astatedoublestitleinfinalmatchaspartnersthearkansasdemoc"
+    "wesleyhallobituarynorthlittlerockardignitymemorial"
    ],
-   "first_seen": 1792002951.62866,
-   "section": "major"
+   "first_seen": 1792316074.735032,
+   "section": "obits"
   },
   {
    "type": "article",
@@ -500,50 +544,6 @@
     "policeidentifytwovictimskilledinlittlerockgasstationshootingconfirmfourinjuredka"
    ],
    "first_seen": 1792256907.083816,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Gunshots Confirmed In North Little Rock As Details Released By Law Enforcement - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmJocnRFT3VsRDBwcW5UQVctTllqUEwwdjR1RFRjbS1XQ05rMF8yQlkxRWNOSlRkNE5pZDk1cF9hamdtTGplcWFiUFdMZWRXWWlNV1REdnBVcTQ5dGF6UUhzeHB2YnhFZ08yNUQxM1FPdDFhWDFlUEdqdUJqX2FGQWZYVDhiQ0FHZkZjSjd4WU5VQkRMQVZtRQ?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1791736522.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmJocnRFT3VsRDBwcW5UQVctTllqUEwwdjR1RFRjbS1XQ05rMF8yQlkxRWNOSlRkNE5pZDk1cF9hamdtTGplcWFiUFdMZWRXWWlNV1REdnBVcTQ5dGF6UUhzeHB2YnhFZ08yNUQxM1FPdDFhWDFlUEdqdUJqX2FGQWZYVDhiQ0FHZkZjSjd4WU5VQkRMQVZtRQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "gunshotsconfirmedinnorthlittlerockasdetailsreleasedbylawenforcementarkansasradio"
-   ],
-   "first_seen": 1792275378.354572,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Police Probe Infant Death on Alta Vista Dr - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5",
-   "source": "Hoodline",
-   "published": 1791731627.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockpoliceprobeinfantdeathonaltavistadrhoodline"
-   ],
-   "first_seen": 1792297691.745311,
    "section": "crime"
   }
  ]
