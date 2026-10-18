@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:04:16.125278-05:00",
+ "updated": "2026-10-17T23:28:11.745311-05:00",
  "items": [
   {
    "type": "article",
@@ -201,24 +201,24 @@
   },
   {
    "type": "article",
-   "title": "Lakewood Elementary's Shae Escovedo named KATV Teacher of the Month - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDBvNmhvOEsyWjRaa1Q3OVFWeXduT0M2RkFCZWJTVmthNEpJR1YyX1ZLc0M2TXpxR3FybXZKcFBtZmpZRVRFSEY4TEZ2em9ULXNKajNNMUZUYlZIcEtiT01kVE56ODdVM09mTmNFM1hpNmJ0dUt5Sm5zZDFGbHc2Zm1DU3Q3c1VCQ0pCRG5LcEROUlJWX1RhUFB6NFMyZG9ZMlE?oc=5",
-   "source": "KATV",
-   "published": 1792141825.0,
-   "first_seen": 1792143975.680524,
-   "section": "major",
+   "title": "Little Rock police say at least four people were involved in deadly Circle K shooting - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792156140.0,
+   "first_seen": 1792297691.745311,
+   "section": "crime",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null,
    "sources": [
     {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDBvNmhvOEsyWjRaa1Q3OVFWeXduT0M2RkFCZWJTVmthNEpJR1YyX1ZLc0M2TXpxR3FybXZKcFBtZmpZRVRFSEY4TEZ2em9ULXNKajNNMUZUYlZIcEtiT01kVE56ODdVM09mTmNFM1hpNmJ0dUt5Sm5zZDFGbHc2Zm1DU3Q3c1VCQ0pCRG5LcEROUlJWX1RhUFB6NFMyZG9ZMlE?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "lakewoodelementarysshaeescovedonamedkatvteacherofthemonthkatv"
+    "littlerockpolicesayatleastfourpeoplewereinvolvedindeadlycirclekshootingthearkans"
    ]
   },
   {
@@ -423,6 +423,28 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerockpoliceaskingforinformationon2023coldcasekatv"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Lakewood Elementary's Shae Escovedo named KATV Teacher of the Month - KATV",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1dHZFI1dk5Edk9WaGxwRUVadEZUUjNIM1JJaWRCUXFRMVRMN2E0ZGVieVVZeG1iYjJWUVpQSThOb1lGdlFDRTRGY3l0WE1zNTFNbzhrRF9RaVhXdWs3NWdBNTUtNVNyUnFoNnR1cGpCYWNlSlU0X2NjOXhHcUV5OGNzRmdQcG9LMW1ITU9sUEp6NlpqRTdEaGJrXzdCRkJxTHREeVdYeDIzUTVJMF95VUxNZDc?oc=5",
+   "source": "KATV",
+   "published": 1792068563.0,
+   "first_seen": 1792143975.680524,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1dHZFI1dk5Edk9WaGxwRUVadEZUUjNIM1JJaWRCUXFRMVRMN2E0ZGVieVVZeG1iYjJWUVpQSThOb1lGdlFDRTRGY3l0WE1zNTFNbzhrRF9RaVhXdWs3NWdBNTUtNVNyUnFoNnR1cGpCYWNlSlU0X2NjOXhHcUV5OGNzRmdQcG9LMW1ITU9sUEp6NlpqRTdEaGJrXzdCRkJxTHREeVdYeDIzUTVJMF95VUxNZDc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "lakewoodelementarysshaeescovedonamedkatvteacherofthemonthkatv"
    ]
   },
   {
@@ -1617,6 +1639,28 @@
    "source_count": 1,
    "member_keys": [
     "gunshotsconfirmedinnorthlittlerockasdetailsreleasedbylawenforcementarkansasradio"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Police Probe Infant Death on Alta Vista Dr - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5",
+   "source": "Hoodline",
+   "published": 1791731627.0,
+   "first_seen": 1792297691.745311,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpoliceprobeinfantdeathonaltavistadrhoodline"
    ]
   },
   {
