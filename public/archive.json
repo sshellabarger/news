@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:38:47.365740-05:00",
+ "updated": "2026-10-18T18:09:18.969974-05:00",
  "items": [
   {
    "type": "article",
@@ -346,16 +346,11 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVJRS3J0a0JfTGZLMGVBakZuLWhoSXVGbzhGQlJBR1BnQVVwVEtES01FQ0tsUzhiUkgwQkdZeWxWZVhndEJISG1Id2VXZDJDSVhldGxFVGpKcWxBWWVYdG1FTXVudmo0QlY4Qmo4d0lzS1ptZFMwbmNtbUYwbUV3SjZ2QTFWZEp1eWtDdGVHZw?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "littlerockpolicesayatleastfourpeoplewereinvolvedindeadlycirclekshootingthearkans",
-    "northlittlerockpoliceinvestigatefatalshootingnorthwestarkansasdemocratgazette"
+    "littlerockpolicesayatleastfourpeoplewereinvolvedindeadlycirclekshootingthearkans"
    ]
   },
   {
@@ -421,6 +416,7 @@
    ],
    "source_count": 1,
    "member_keys": [
+    "northlittlerockpoliceinvestigatefatalshootingthearkansasdemocratgazette",
     "shootingatlittlerockconveniencestorekillstwopeoplecriticallyinjuresthreeothersth"
    ]
   },

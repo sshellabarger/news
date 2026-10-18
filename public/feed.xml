@@ -6,7 +6,7 @@
     <atom:link href="https://dirtydogtown.news/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The Wire: North Little Rock, Arkansas news and public discussion, gathered hourly by dirtydogtown.news. Every item links to its source.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:38:47 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:09:18 -0500</lastBuildDate>
     <item>
       <title>North Little Rock police begin homicide investigation after Sunday morning shooting - thv11.com</title>
       <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1NhYkExVE5DcHhSMXpzWC1sYnQwMjdUSjU2TjJOR25IT3kzYXEwbE9CUy1pTzZFekJBdHhqMmhNV05uS1E4cVUzMl9GT25FQUpuekhuampNdElNSHQ3dWcwV21EZW9PN0JCYVBUaG1GeFZtVjVqTmQzWHdObXhvRHBBS1R2b3RoV2lJOHJKbGhIVVdPZFAwbGpFMFk4ZFlGeHNUUnEyVDBnTURoLXNIcHlaS0pPYURDVmstN1o5SlBheGtybVd6SmhxYkNWUnZxZFZlbzFkZnFUV2RZbDJyTDBKRXBiTW5vbDJ3?oc=5</link>
@@ -77,7 +77,7 @@
       <guid isPermaLink="false">dogtown-littlerockpolicesayatleastfourpeoplewereinvolvedindeadlycirclekshootingthearkans</guid>
       <pubDate>Fri, 16 Oct 2026 13:09:00 +0000</pubDate>
       <category>Crime &amp; Safety</category>
-      <description>Sources: The Arkansas Democrat-Gazette, Northwest Arkansas Democrat-Gazette</description>
+      <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
       <title>Here&#x27;s how you can go Bananas in North Little Rock this spring - thv11.com</title>
@@ -136,14 +136,6 @@
       <description>Source: KATV</description>
     </item>
     <item>
-      <title>Lakewood Elementary&#x27;s Shae Escovedo named KATV Teacher of the Month - KATV</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1dHZFI1dk5Edk9WaGxwRUVadEZUUjNIM1JJaWRCUXFRMVRMN2E0ZGVieVVZeG1iYjJWUVpQSThOb1lGdlFDRTRGY3l0WE1zNTFNbzhrRF9RaVhXdWs3NWdBNTUtNVNyUnFoNnR1cGpCYWNlSlU0X2NjOXhHcUV5OGNzRmdQcG9LMW1ITU9sUEp6NlpqRTdEaGJrXzdCRkJxTHREeVdYeDIzUTVJMF95VUxNZDc?oc=5</link>
-      <guid isPermaLink="false">dogtown-lakewoodelementarysshaeescovedonamedkatvteacherofthemonthkatv</guid>
-      <pubDate>Thu, 15 Oct 2026 12:49:23 +0000</pubDate>
-      <category>Major News</category>
-      <description>Source: KATV</description>
-    </item>
-    <item>
       <title>Driver suffers minor injuries after car crashes into North Little Rock gym - Northwest Arkansas Democrat-Gazette</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3FFZnU2dHdGNlZCZUVCbFBxclpzSHhOcVk1ZE9CaTROcmVBaGI1bFR1Tno5amJjalQybW1JQ2Vtdk8xNDJXX3puQlBWQ0xmV1Jic0NiaUl0SzZNOFlySFRBSlRLS21tUlZVY1RJc0RSRTJZV2tWazJKYUc4S2lwMndaNmtqRnZsLUtzWGQ5X1FKdDZ5YUE?oc=5</link>
       <guid isPermaLink="false">dogtown-driversuffersminorinjuriesaftercarcrashesintonorthlittlerockgymnorthwestarkansas</guid>
@@ -198,6 +190,14 @@
       <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
       <category>Obituaries</category>
       <description>Source: www.smithfamilycares.com</description>
+    </item>
+    <item>
+      <title>North Little Rock Police Probe Infant Death on Alta Vista Dr - Hoodline</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5</link>
+      <guid isPermaLink="false">dogtown-northlittlerockpoliceprobeinfantdeathonaltavistadrhoodline</guid>
+      <pubDate>Sun, 11 Oct 2026 15:13:47 +0000</pubDate>
+      <category>Crime &amp; Safety</category>
+      <description>Source: Hoodline</description>
     </item>
   </channel>
 </rss>
