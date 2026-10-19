@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T18:09:18.969974-05:00",
+ "updated": "2026-10-19T01:12:40.219238-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Minimum of 24 Hours Expected of Traffic Light Drama Confirmed In North Little Rock - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGhtaEwwTnlDVkZDZUg1SW1rRVlrVDR5WTFWN1ByMTJYamdacEZYeVFkM1lQX3I0UjdBcWNZWUtwcGM1VHNHc2lpWDBkTmlpckdrdFNKNXZIdndhb0NmcTBzWi1tMDRaM0ppTUVxT1UwOVF5b1lhN0FLc0FFWk1qaTRoR0RXTDRXTnNHRzM0WEdzcjFWd2NBaTRmWVBqY0tyTVRkdzRn?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1792365460.0,
+   "first_seen": 1792390360.219238,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGhtaEwwTnlDVkZDZUg1SW1rRVlrVDR5WTFWN1ByMTJYamdacEZYeVFkM1lQX3I0UjdBcWNZWUtwcGM1VHNHc2lpWDBkTmlpckdrdFNKNXZIdndhb0NmcTBzWi1tMDRaM0ppTUVxT1UwOVF5b1lhN0FLc0FFWk1qaTRoR0RXTDRXTnNHRzM0WEdzcjFWd2NBaTRmWVBqY0tyTVRkdzRn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "minimumof24hoursexpectedoftrafficlightdramaconfirmedinnorthlittlerockarkansasrad"
+   ]
+  },
   {
    "type": "article",
    "title": "North Little Rock police begin homicide investigation after Sunday morning shooting - thv11.com",
@@ -1815,24 +1837,24 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock Police Probe Infant Death on Alta Vista Dr - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5",
-   "source": "Hoodline",
-   "published": 1791731627.0,
-   "first_seen": 1792297691.745311,
+   "title": "Police: 1 dead, 1 injured in North Little Rock Sunday morning shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVNpU2V0U1EtdlhIczlMWnVnbWR0VFhfRTNDQlp1MXdnUnkyMFo2N01IQ0NtWFJTZU5tU0RYd1l6TnY3enFseGI3QjRacmZOLU9HVG9DVldJcVNabnU5NW9kcmJwYVE0Q080YW8wNjRmQ011TG84eEl0VWNDQVhnV3hyVU5NaEVsaC1YTVNrY3Y1aUFuQnN1R01oVEE?oc=5",
+   "source": "KARK",
+   "published": 1791719453.0,
+   "first_seen": 1792390360.219238,
    "section": "crime",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null,
    "sources": [
     {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5"
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVNpU2V0U1EtdlhIczlMWnVnbWR0VFhfRTNDQlp1MXdnUnkyMFo2N01IQ0NtWFJTZU5tU0RYd1l6TnY3enFseGI3QjRacmZOLU9HVG9DVldJcVNabnU5NW9kcmJwYVE0Q080YW8wNjRmQ011TG84eEl0VWNDQVhnV3hyVU5NaEVsaC1YTVNrY3Y1aUFuQnN1R01oVEE?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockpoliceprobeinfantdeathonaltavistadrhoodline"
+    "police1dead1injuredinnorthlittlerocksundaymorningshootingkark"
    ]
   },
   {
@@ -1916,11 +1938,16 @@
     {
      "source": "Northwest Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNISzllTlBpSGZqWFpKSDF3WTFPX0N2YlJXNWUtTnNSeWQ4Umc5c3A1TGxwUHdVMlBjVjBiZzB4Z2pORi01TmhUejB6N0JkZ2VqakJYVncxM1BXUlJHVUs0U094SFVlZkdCZ19QRXd1WHpadFRIUkJJZXY5dURhbE9KMzQteUI1aERlcF9CUnl1NHp3Tnc?oc=5"
+    },
+    {
+     "source": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlFTcHNRQTNOeVcwNENUSHgyUi03cmRjaEppbVFRdnJoZjdjRllnQ0pHVGlaR2FfMy0wMGVkaTZ6c0Q4aUdZR1VPWThIS3czZndpOHJzbTlyR3F6d25kdUloUno4R09KX0xCZVpMZXlzX045UHg0SE1WMUpHRm5vdEdXOXZvVktaUGFxaURoSmxVWlh6V3BDUUc5VWF2N2ZDY2R2ZE5QMDBJUQ?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette"
+    "northlittlerockpoliceinvestigatingdeathofinfantnorthwestarkansasdemocratgazette",
+    "northlittlerockpoliceprobeinfantdeathonaltavistadrhoodline"
    ]
   },
   {
