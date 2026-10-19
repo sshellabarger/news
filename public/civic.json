@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:30:13.054799-05:00",
+ "updated": "2026-10-19T14:18:33.666062-05:00",
  "meetings": [
   {
    "body": "parks",
@@ -66,6 +66,14 @@
    "start": "2026-12-14T18:00:00",
    "location": "North Little Rock City Hall",
    "url": "https://nlr.ar.gov/event/nlr-city-council-meeting-2/2026-12-14/"
+  },
+  {
+   "body": "school",
+   "title": "NLRSD Board of Education — Regular board meeting (third Thursday)",
+   "start": "2026-12-17T17:30:00",
+   "location": "NLRSD Administration Building, 2400 Willow St",
+   "url": "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public",
+   "computed": true
   },
   {
    "body": "parks",
