@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-21T02:35:29.357734-05:00",
+ "updated": "2026-10-21T08:44:56.460126-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Crime Stopper reward offered to help find missing 70-year-old Charles Noise - KATV",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaUk5eThSdWRQQmNLdjV6cFNiSjhiN2pINnRUNWdmc3lMMG5pY0o4ZDg2Y3UxamprTzZXdHVoQ09pR1VZUUVQZDJVVE5XVnZrcnFQZ0FtZ1B5aXlzSkVDRTBIZG9Jb3NlUk5hVmwyOFNjRE1yd29OazU0TnVWNW5CZDBMOUxobDlhVjdRbTVtUm9saHVHaWlDVFo4bWV3dzNyNTdaRndvbDdKU0lMeERaazEzUWxNRllMWnVFTkcwdjRzSUZNcDRDRGtyb202UU5ZdFZkMXZ5eHlLSm03eTkwNmFHdXBZNzhxNklpQ3Nn?oc=5",
+   "source": "KATV",
+   "published": 1792553410.0,
+   "first_seen": 1792590296.460126,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaUk5eThSdWRQQmNLdjV6cFNiSjhiN2pINnRUNWdmc3lMMG5pY0o4ZDg2Y3UxamprTzZXdHVoQ09pR1VZUUVQZDJVVE5XVnZrcnFQZ0FtZ1B5aXlzSkVDRTBIZG9Jb3NlUk5hVmwyOFNjRE1yd29OazU0TnVWNW5CZDBMOUxobDlhVjdRbTVtUm9saHVHaWlDVFo4bWV3dzNyNTdaRndvbDdKU0lMeERaazEzUWxNRllMWnVFTkcwdjRzSUZNcDRDRGtyb202UU5ZdFZkMXZ5eHlLSm03eTkwNmFHdXBZNzhxNklpQ3Nn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "crimestopperrewardofferedtohelpfindmissing70yearoldcharlesnoisekatv"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Two Batesville High School students killed in car crash - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTg1VFMyaUJGMUd1NnVXeTgyUnYxc3FoSUhVYlhEZjEtN1VOYjduZ1dqSG05aUwwLXhCRWhSM2E2b0xXYTJqaENQdExHQjFyeHJ6Rkw2LV9GdU8xeWU4YlhSVUdGRVBjWUF0bWtrSkNqUVQ3NUVrOUctSF8tbnpkU3dRT2tNeFhBdmtJVXhubU5EQ0FLNjFMLWs3Y21CdlE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792544400.0,
+   "first_seen": 1792590296.460126,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTg1VFMyaUJGMUd1NnVXeTgyUnYxc3FoSUhVYlhEZjEtN1VOYjduZ1dqSG05aUwwLXhCRWhSM2E2b0xXYTJqaENQdExHQjFyeHJ6Rkw2LV9GdU8xeWU4YlhSVUdGRVBjWUF0bWtrSkNqUVQ3NUVrOUctSF8tbnpkU3dRT2tNeFhBdmtJVXhubU5EQ0FLNjFMLWs3Y21CdlE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "twobatesvillehighschoolstudentskilledincarcrashthearkansasdemocratgazette"
+   ]
+  },
   {
    "type": "article",
    "title": "\"Reward\" Offered By Police In Arkansas Hunt For Suspect - Arkansas Radio",
@@ -338,7 +382,6 @@
    ],
    "source_count": 1,
    "member_keys": [
-    "candidateforlittlerocksward2respondstoethicscomplaintfiledbyopponentthearkansasd",
     "citydirectorcandidateinlittlerockfilesethicscomplaintagainstopponentoverwebsitet"
    ]
   },
