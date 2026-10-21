@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-20T17:17:13.444734-05:00",
+ "updated": "2026-10-20T20:33:13.326716-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "\"Reward\" Offered By Police In Arkansas Hunt For Suspect - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkdPZVl1SE9NUkJmRkhGVEVEM1VfQ1dRd0tDeU9qSDZfd0tWS1RSNk9LY25Ha0hRekVMOW5mR19HbGJ5NlR0Vmhoa0Y1RGlIZWpIR25Zby1wbW11OExqVktaZ1VOWDVxZ05PS3ZQNjJQNzlrNnEyX3BZRUhmSERSMGtLMVk?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1792541324.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkdPZVl1SE9NUkJmRkhGVEVEM1VfQ1dRd0tDeU9qSDZfd0tWS1RSNk9LY25Ha0hRekVMOW5mR19HbGJ5NlR0Vmhoa0Y1RGlIZWpIR25Zby1wbW11OExqVktaZ1VOWDVxZ05PS3ZQNjJQNzlrNnEyX3BZRUhmSERSMGtLMVk?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "rewardofferedbypoliceinarkansashuntforsuspectarkansasradio"
+   ],
+   "first_seen": 1792546393.326716,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Usha Vance, Gov. Sanders visit North Little Rock elementary school - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFZWQzVkakFJcHcwSWQwN2lPNmV1VXNYSnRrLTVPUEtYZ2YwaGNzQkM0MlZSc0JGNHVoaDVxVi1NUTIxVGVDZGthWUk5TEltRl95c29zMDR5QWt4SDdVMW5SYkxuSFAtMFM2ZC1VaWJmMUtHYktZUmdOdkUzQm9QYlcyNko0b0F6UEtsOHplOV9JN2RwQW1MclNtSQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792534560.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFZWQzVkakFJcHcwSWQwN2lPNmV1VXNYSnRrLTVPUEtYZ2YwaGNzQkM0MlZSc0JGNHVoaDVxVi1NUTIxVGVDZGthWUk5TEltRl95c29zMDR5QWt4SDdVMW5SYkxuSFAtMFM2ZC1VaWJmMUtHYktZUmdOdkUzQm9QYlcyNko0b0F6UEtsOHplOV9JN2RwQW1MclNtSQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "ushavancegovsandersvisitnorthlittlerockelementaryschoolthearkansasdemocratgazett"
+   ],
+   "first_seen": 1792546393.326716,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock chamber kicks off new residents initiative - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2tacjlMMlNZMzlPUnYwekVRSWprdVFQczRrZzJVV3RuVG9rR0NMOEZZMjlsY1BPaVlZNEg1WGdzMEtQY21qenAtWm9xeVhLYU1peWNtU1ZEYzcxTnk1aXdSejRxMVdXbG1oaE10NkZCSHl3MWJ6cHJ0OEFCTlU2MnprR25ReXZETmRwYXRYdU9oeEZHVFBj?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792533960.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2tacjlMMlNZMzlPUnYwekVRSWprdVFQczRrZzJVV3RuVG9rR0NMOEZZMjlsY1BPaVlZNEg1WGdzMEtQY21qenAtWm9xeVhLYU1peWNtU1ZEYzcxTnk1aXdSejRxMVdXbG1oaE10NkZCSHl3MWJ6cHJ0OEFCTlU2MnprR25ReXZETmRwYXRYdU9oeEZHVFBj?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockchamberkicksoffnewresidentsinitiativethearkansasdemocratgazette"
+   ],
+   "first_seen": 1792546393.326716,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "News | Industrial leasing activity in North Little Rock gets boost with Roofer Mart Deal - CoStar",
@@ -20,28 +86,6 @@
    "source_count": 1,
    "member_keys": [
     "newsindustrialleasingactivityinnorthlittlerockgetsboostwithroofermartdealcostar"
-   ],
-   "first_seen": 1792534633.444734,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Vehicle fire on I-30 near Little Rock slows eastbound traffic Tuesday afternoon - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5FNjFkMEdNN0lWM2RUX3RzUkNwYkthX1F2SVJqdkVWd2NIdi1Oa0NlSk5ISVlTZGhic18xZG5BbUJkeTBvUTlUd21JR2RvWU1hTHE4Y2ZGcEtSRHZlclJ1Yjl6cEpJVkVIbzZhSjZFeGkyR01VZEtWR1VaNEVDZVdDOU5YZW5OdHh4NWRuT3RDbnNFM3BtVkFOOFNLb0hNanJfSzhjdjkyRjA?oc=5",
-   "source": "KATV",
-   "published": 1792528655.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5FNjFkMEdNN0lWM2RUX3RzUkNwYkthX1F2SVJqdkVWd2NIdi1Oa0NlSk5ISVlTZGhic18xZG5BbUJkeTBvUTlUd21JR2RvWU1hTHE4Y2ZGcEtSRHZlclJ1Yjl6cEpJVkVIbzZhSjZFeGkyR01VZEtWR1VaNEVDZVdDOU5YZW5OdHh4NWRuT3RDbnNFM3BtVkFOOFNLb0hNanJfSzhjdjkyRjA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "vehiclefireoni30nearlittlerockslowseastboundtraffictuesdayafternoonkatv"
    ],
    "first_seen": 1792534633.444734,
    "section": "major"
@@ -237,6 +281,7 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
@@ -245,6 +290,7 @@
    ],
    "source_count": 1,
    "member_keys": [
+    "candidateforlittlerocksward2respondstoethicscomplaintfiledbyopponentthearkansasd",
     "citydirectorcandidateinlittlerockfilesethicscomplaintagainstopponentoverwebsitet"
    ],
    "first_seen": 1792490473.278793,
@@ -270,6 +316,28 @@
     "littlerockmanchargedwithcapitalmurderinnorthlittlerockshootingthearkansasdemocra"
    ],
    "first_seen": 1792471544.044224,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "LRPD arrests second man in Colonel Glenn Circle K shooting that left 2 dead - KATV",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNU2dZR05SSUpSTFdndWUzZm1hSlAyWUlFRllKZzVIUjRILU0zQklOZlpGQXI4c0dVd1ZKVnhvdXlSRG0wN1hGT3NzV1AteEJGcmxZc2NxUFByTEg4cnhQQVVwOVUzbWl4eFJnT0tfRFpGbzBzQmtxb0UwRG5Nc0szX3RjQWQwdHI2NjJjMk0zN3dJUEFLVFAyOEg5NHRSOUxDcEpRRk9LcmU4d2VabGNoZ1pacjhIZ2wzNlpXR2E2Y2F2ZkhNOHRvUjE4OVZVR3BiNnYzNEJrM0dhNi1xM3BYeExvQlB3M2daTXhGMC1FNTlKMGFjZUhRWHp0eTVGakF2VFFxLXVqTFpYZVdObkE?oc=5",
+   "source": "KATV",
+   "published": 1792331671.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNU2dZR05SSUpSTFdndWUzZm1hSlAyWUlFRllKZzVIUjRILU0zQklOZlpGQXI4c0dVd1ZKVnhvdXlSRG0wN1hGT3NzV1AteEJGcmxZc2NxUFByTEg4cnhQQVVwOVUzbWl4eFJnT0tfRFpGbzBzQmtxb0UwRG5Nc0szX3RjQWQwdHI2NjJjMk0zN3dJUEFLVFAyOEg5NHRSOUxDcEpRRk9LcmU4d2VabGNoZ1pacjhIZ2wzNlpXR2E2Y2F2ZkhNOHRvUjE4OVZVR3BiNnYzNEJrM0dhNi1xM3BYeExvQlB3M2daTXhGMC1FNTlKMGFjZUhRWHp0eTVGakF2VFFxLXVqTFpYZVdObkE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "lrpdarrestssecondmanincolonelglenncirclekshootingthatleft2deadkatv"
+   ],
+   "first_seen": 1792546393.326716,
    "section": "crime"
   },
   {
@@ -370,28 +438,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock mayor’s race between Frank Scott, B.J. Wyrick has crime, data centers at forefront - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF9ObE9PbHdZSm1sdldsNUo1NmFOUlRRWll1V2tSYmhEZnhQYXdtcmNtdWZ4X2hEYnRTUGtMOXdxWGZRai1QX3oxYWd0NlQyLTlJOHdISFI0SWFzdE5IbDJ3c3A4dHlVMkdaU3RNcmllR203YlpubHlsejVOZl9jYy1kWEhHRktsNm84VW1wd0RkYS1Vd1RkOUxMZw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1792295100.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF9ObE9PbHdZSm1sdldsNUo1NmFOUlRRWll1V2tSYmhEZnhQYXdtcmNtdWZ4X2hEYnRTUGtMOXdxWGZRai1QX3oxYWd0NlQyLTlJOHdISFI0SWFzdE5IbDJ3c3A4dHlVMkdaU3RNcmllR203YlpubHlsejVOZl9jYy1kWEhHRktsNm84VW1wd0RkYS1Vd1RkOUxMZw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockmayorsracebetweenfrankscottbjwyrickhascrimedatacentersatforefrontthear"
-   ],
-   "first_seen": 1792331982.490021,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "Second man arrested in fatal shootings at Little Rock convenience store; suspect was among four people wounded - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg0dXR6SHNqZWFPUXhhNzlTNFhhdV9uZnd2V0oyUTF0d08ybmZsZF8tRXJzaDh4dTVnQzRXZkczSW1NOVFKTmN0RkNMNnA0cEx2eW1FRzBZVHZGNko3RXRha3U0MDdkTHl2T1o1eU1vZEhuOHFUZ1czM0FZZkFQRE9MN2ZVNkF4Y1EtRVAyTzlxcmhSZzRRc25PRk9MQQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -411,6 +457,50 @@
    ],
    "first_seen": 1792437546.796203,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock district closing public schools as enrollment falls; shifting demographics, school choice options cited - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnFrS0ZxQVNPR3RpZmpBM3h4MlhhQmxCMElqMHY4cmRkLVFRVXVLTVpYYmlDVkFwcnAwM2owY1E3NFJtaTBuYWxfazVlb3lGbDNfTFg5Uzd2VldfRVNrV1ZGZTJ3ajIzcFJVNXZWdnYyM1FseVhybTRDTGZtemFjUFVLdzZHUWVHU1RFeTdrLWFYcVg3aktxLXczWQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792212300.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnFrS0ZxQVNPR3RpZmpBM3h4MlhhQmxCMElqMHY4cmRkLVFRVXVLTVpYYmlDVkFwcnAwM2owY1E3NFJtaTBuYWxfazVlb3lGbDNfTFg5Uzd2VldfRVNrV1ZGZTJ3ajIzcFJVNXZWdnYyM1FseVhybTRDTGZtemFjUFVLdzZHUWVHU1RFeTdrLWFYcVg3aktxLXczWQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockdistrictclosingpublicschoolsasenrollmentfallsshiftingdemographicsschoo"
+   ],
+   "first_seen": 1792188281.746507,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Review: STEPHEN KING'S MISERY at Argenta Contemporary Theatre in North Little Rock - BroadwayWorld",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmhvMUtEdnIxejZkS1FwOTVfMEk0aDlDMzBNSVNTeTQ2UkFFNURQQmZaclZFaG94R0ZvV2hvOW1jakxtcVh0SUxSMWphRzFQaUZFeFhzbERfbWZFV0wtX3g2a1BiN1dKQWd4WDZXNUE1YVRlR3ptem1qMWQtTXVZT3lfY2ZybHFXT18ydllwNDR2X0xVVWVkWVEyU2tkenJ3Q0dxTFFXcWFIb0xLWHdmQjhtZ1Nhb2xDZnlxRGwyQWdocEFHWFFHQ0FKZGZfZWxRejVVVWtn?oc=5",
+   "source": "BroadwayWorld",
+   "published": 1792164178.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmhvMUtEdnIxejZkS1FwOTVfMEk0aDlDMzBNSVNTeTQ2UkFFNURQQmZaclZFaG94R0ZvV2hvOW1jakxtcVh0SUxSMWphRzFQaUZFeFhzbERfbWZFV0wtX3g2a1BiN1dKQWd4WDZXNUE1YVRlR3ptem1qMWQtTXVZT3lfY2ZybHFXT18ydllwNDR2X0xVVWVkWVEyU2tkenJ3Q0dxTFFXcWFIb0xLWHdmQjhtZ1Nhb2xDZnlxRGwyQWdocEFHWFFHQ0FKZGZfZWxRejVVVWtn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "reviewstephenkingsmiseryatargentacontemporarytheatreinnorthlittlerockbroadwaywor"
+   ],
+   "first_seen": 1792546393.326716,
+   "section": "major"
   },
   {
    "type": "article",
@@ -454,96 +544,6 @@
     "bananaballreturningtonorthlittlerockinapril2027katv"
    ],
    "first_seen": 1792107639.745177,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Here's how you can go Bananas in North Little Rock this spring - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLUVYUlZ5OHhhT2IwUDAtXzcyTkpsLVczR0trTlphTko3aVZPejJVWUF6dmVEYWlmV0NxMm1YR1RxblM5MWZsQ2VKRlV1Ui1helhXd0tadE1XakI1SzZsbDhYanJBVlZNU3ltMUdyQ0N3dkFLUi1IR09Kc3VLS2JzdWNqUkJyYzhVNThsMUo4R2gzdXlxakFvYWhueUtqV1JkTWI3UUlxTXl5R3JpSVlLZUtJaU1QV0xQUFRkVjh1M0FWcHFJb2R5d0ZLWjluc1dOVWU4WmxHVlJqTnZGd003SlJ4clRvYU0?oc=5",
-   "source": "THV11",
-   "published": 1792112400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLUVYUlZ5OHhhT2IwUDAtXzcyTkpsLVczR0trTlphTko3aVZPejJVWUF6dmVEYWlmV0NxMm1YR1RxblM5MWZsQ2VKRlV1Ui1helhXd0tadE1XakI1SzZsbDhYanJBVlZNU3ltMUdyQ0N3dkFLUi1IR09Kc3VLS2JzdWNqUkJyYzhVNThsMUo4R2gzdXlxakFvYWhueUtqV1JkTWI3UUlxTXl5R3JpSVlLZUtJaU1QV0xQUFRkVjh1M0FWcHFJb2R5d0ZLWjluc1dOVWU4WmxHVlJqTnZGd003SlJ4clRvYU0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "hereshowyoucangobananasinnorthlittlerockthisspringthv11com"
-   ],
-   "first_seen": 1792344027.727391,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Shooting at Little Rock convenience store kills two people, critically injures three others - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDRUWnhUQVZnX2hINFc1OFVVRW95RTU1QlRzZnVkZWI2eHJpMl85Qno3eU1Xc1Z0dzBKRkQ5MV9HTkxBNVhmb1dPWXB5X2FQV3lmLWd4THduSmtsNVd0c25jaU5CQWFwV3k0dDlzNm9TOUs3bDhQcHd5TzFNdThzZXFvUDZZc2l2akVxTmRnbVZDNnYzWE9RR2lKNk4?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1792112238.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDRUWnhUQVZnX2hINFc1OFVVRW95RTU1QlRzZnVkZWI2eHJpMl85Qno3eU1Xc1Z0dzBKRkQ5MV9HTkxBNVhmb1dPWXB5X2FQV3lmLWd4THduSmtsNVd0c25jaU5CQWFwV3k0dDlzNm9TOUs3bDhQcHd5TzFNdThzZXFvUDZZc2l2akVxTmRnbVZDNnYzWE9RR2lKNk4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "shootingatlittlerockconveniencestorekillstwopeoplecriticallyinjuresthreeothersth"
-   ],
-   "first_seen": 1792215262.829336,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Banana Ball Returns to North Little Rock in 2027 - MLB.com",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUZXQVQ5dW9zeDA3ZkNtcUlXRlJWbndXWFJhVkhNRnc4V0I1dHY3cXNMdU1Rd3V4XzRpOEgxRUJpaTZYeDVjeERnakVfTXdtNTFLNGM2clFsNkhLWDFHVDRPdWlNNGI5M3N2NDJVRG5NcHE0cXpvVTZOU1UwUGN3dW1xQTBEY2xIbVRIODlGVlc?oc=5",
-   "source": "MLB.com",
-   "published": 1792111090.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "MLB.com",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUZXQVQ5dW9zeDA3ZkNtcUlXRlJWbndXWFJhVkhNRnc4V0I1dHY3cXNMdU1Rd3V4XzRpOEgxRUJpaTZYeDVjeERnakVfTXdtNTFLNGM2clFsNkhLWDFHVDRPdWlNNGI5M3N2NDJVRG5NcHE0cXpvVTZOU1UwUGN3dW1xQTBEY2xIbVRIODlGVlc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "bananaballreturnstonorthlittlerockin2027mlbcom"
-   ],
-   "first_seen": 1792143975.680524,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock School District to close three elementary schools - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm43c2d4ekZOZUNtLWdDUlhHMWNqRFp0WVNQVTZKT1VSa3JMX2N6YV9BbnkyWWQ1QndLQ2Y1azVlNTVJNGNJUVBXZEJ3VTNnV3JmWU45bG5mVHFCNXFmYVBvZjZhbWRjOTcxQlRrYlNtb1hNV0RwanVqNkcxV0hycVA4aUJFZHhZMWlqV0ZhTnEzaFkzYUE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1792110300.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm43c2d4ekZOZUNtLWdDUlhHMWNqRFp0WVNQVTZKT1VSa3JMX2N6YV9BbnkyWWQ1QndLQ2Y1azVlNTVJNGNJUVBXZEJ3VTNnV3JmWU45bG5mVHFCNXFmYVBvZjZhbWRjOTcxQlRrYlNtb1hNV0RwanVqNkcxV0hycVA4aUJFZHhZMWlqV0ZhTnEzaFkzYUE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockdistrictclosingpublicschoolsasenrollmentfallsshiftingdemographicsschoo",
-    "littlerockschooldistricttoclosethreeelementaryschoolsthearkansasdemocratgazette"
-   ],
-   "first_seen": 1792188281.746507,
    "section": "major"
   }
  ]
