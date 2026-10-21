@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:33:13.326716-05:00",
+ "updated": "2026-10-21T02:35:29.357734-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -33,15 +33,21 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFZWQzVkakFJcHcwSWQwN2lPNmV1VXNYSnRrLTVPUEtYZ2YwaGNzQkM0MlZSc0JGNHVoaDVxVi1NUTIxVGVDZGthWUk5TEltRl95c29zMDR5QWt4SDdVMW5SYkxuSFAtMFM2ZC1VaWJmMUtHYktZUmdOdkUzQm9QYlcyNko0b0F6UEtsOHplOV9JN2RwQW1MclNtSQ?oc=5"
+    },
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQclR1b1BzYVJ1RE1SZGNpRFRaMUZ2QThjSGRxSHBMR0F3OGctb19mbXpUZHlHN1hmOU42NlEyYlljcTBTbTZHZUNsMzZ5a1V2NDhOSGs5UmxUOVVJN0RaMTlibnNzTVR6X1FOejRaQ05RdTB4V1dBdGZndW1rbzQ4QklVaEdWQVZKakY0NFRZb2JWaHJwZExHdTY5elYzVkh3TGxseGJsaU11ZzVLSXE3a2VPUzdRZzIzTzNURmNsZ2hqS3Nzc3c?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "ushavancegovsandersvisitnorthlittlerockelementaryschoolthearkansasdemocratgazett"
+    "ushavancegovsandersvisitnorthlittlerockelementaryschoolthearkansasdemocratgazett",
+    "ushavancevisitsarkansasreadstoelementaryschoolersthv11com"
    ],
    "first_seen": 1792546393.326716,
    "section": "major"
@@ -70,7 +76,7 @@
   },
   {
    "type": "article",
-   "title": "News | Industrial leasing activity in North Little Rock gets boost with Roofer Mart Deal - CoStar",
+   "title": "News | Industrial leasing activity in North Little Rock gets boost with Roofer Mart deal - CoStar",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0FweVRRTjJfeG1wbGx3SzZrQlVjR0NCdF92cVJmZEhqNk5QSm50RFBodWkyam5vTXZENHNDS3NqY2ZhYUFnbGotY0hCbHJyaWxUYkJvWlBFdHprRGFkeXlRb0ptd0VtTF9vVUF0Y0x1M25mUkpPbk1LWDNCelgtcG5XN1plN3dIVkFzbUw4anFWS2t2M3hYVGdoSGRjVTREY0E3aEhwSFZDX3V0cmhJMC05SDlUQThZZ3VCNkh1NA?oc=5",
    "source": "CoStar",
    "published": 1792531015.0,
@@ -202,28 +208,6 @@
   },
   {
    "type": "article",
-   "title": "Two suspects held, facing capital murder charges in Little Rock Circle K shooting - KATV",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNU4xRXdNc2hLS2hjdUVZZG1neG1pN1VSeG5fOHc2X2FsVzRIOHVyZFFiV3ZUMm1ETW5OZEtpZ1Q4aU9SUERtcUpaMmUtNl8tWFhtbHN1Q3Z1Z1IwazNhdC0tTzFCd2o0U0JFMkVXLXFGTTNKZHFURWQtQk5YVmtLNVc3RnMtZDNhY096dlUzeXlWU21wVjRnNjZWNnRwVkl1OHlURzQ1MDhGb2FBbS1GMUFxNTBkSzJSRnhEWnA3b3BHbFRtc3NTajFDN2toTnFHRzhrOVVVSzgtdDduZWk3TFV3?oc=5",
-   "source": "KATV",
-   "published": 1792456493.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNU4xRXdNc2hLS2hjdUVZZG1neG1pN1VSeG5fOHc2X2FsVzRIOHVyZFFiV3ZUMm1ETW5OZEtpZ1Q4aU9SUERtcUpaMmUtNl8tWFhtbHN1Q3Z1Z1IwazNhdC0tTzFCd2o0U0JFMkVXLXFGTTNKZHFURWQtQk5YVmtLNVc3RnMtZDNhY096dlUzeXlWU21wVjRnNjZWNnRwVkl1OHlURzQ1MDhGb2FBbS1GMUFxNTBkSzJSRnhEWnA3b3BHbFRtc3NTajFDN2toTnFHRzhrOVVVSzgtdDduZWk3TFV3?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "twosuspectsheldfacingcapitalmurderchargesinlittlerockcirclekshootingkatv"
-   ],
-   "first_seen": 1792534633.444734,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "Early voting starts in Pulaski County, with nearly 3,000 ballots cast before noon - KATV",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWhVVk9lSlZlbEl5MmIxTFNtTml0TzFmdnoxRUd0QVJxSDBieHN3U1ZneHNTamNvWlM2V05PNDJBdVA2ZE4tdGFyenphb2lkSUlRbXU3TUF6U1J6V1hXMUlpcGFpdW52QVNNZ09HeEllcXhpZnhwNUMxMzA0Z3BaR01ROGxvbXZ3WUdPUmpSSGVuNzhoTDk5cm8td0ItMHlfQWxDZmNzbkFKVGs?oc=5",
    "source": "KATV",
@@ -270,6 +254,28 @@
     "secondladyushavancevisitsarkansastopromotechildhoodliteracyeffortsarkansasadvoca"
    ],
    "first_seen": 1792453052.693162,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock Board set to vote on data center moratorium - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTNCZXhVUWVSeUxVczBfRHREOENKMlJGU01ycXBNdEltNFo5T1hObFFiZDhCa3ViMk1WS1V5QV9EVUltMzFXM1EyZGR5VUVtcGxWUHdRZTN3bmdDalVJRWRkUEE1MjNzZXBzeFd4TS1uMUw2elZnc0RUXzN4UEp0X3lYeVJLRldiSEtjeTNHRVlVYkRYWjVsUg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792448880.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTNCZXhVUWVSeUxVczBfRHREOENKMlJGU01ycXBNdEltNFo5T1hObFFiZDhCa3ViMk1WS1V5QV9EVUltMzFXM1EyZGR5VUVtcGxWUHdRZTN3bmdDalVJRWRkUEE1MjNzZXBzeFd4TS1uMUw2elZnc0RUXzN4UEp0X3lYeVJLRldiSEtjeTNHRVlVYkRYWjVsUg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockboardsettovoteondatacentermoratoriumthearkansasdemocratgazette"
+   ],
+   "first_seen": 1792568129.357734,
    "section": "major"
   },
   {
@@ -438,24 +444,24 @@
   },
   {
    "type": "article",
-   "title": "Second man arrested in fatal shootings at Little Rock convenience store; suspect was among four people wounded - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg0dXR6SHNqZWFPUXhhNzlTNFhhdV9uZnd2V0oyUTF0d08ybmZsZF8tRXJzaDh4dTVnQzRXZkczSW1NOVFKTmN0RkNMNnA0cEx2eW1FRzBZVHZGNko3RXRha3U0MDdkTHl2T1o1eU1vZEhuOHFUZ1czM0FZZkFQRE9MN2ZVNkF4Y1EtRVAyTzlxcmhSZzRRc25PRk9MQQ?oc=5",
+   "title": "Little Rock mayor’s race between Frank Scott, B.J. Wyrick has crime, data centers at forefront - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF9ObE9PbHdZSm1sdldsNUo1NmFOUlRRWll1V2tSYmhEZnhQYXdtcmNtdWZ4X2hEYnRTUGtMOXdxWGZRai1QX3oxYWd0NlQyLTlJOHdISFI0SWFzdE5IbDJ3c3A4dHlVMkdaU3RNcmllR203YlpubHlsejVOZl9jYy1kWEhHRktsNm84VW1wd0RkYS1Vd1RkOUxMZw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1792290600.0,
+   "published": 1792295100.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg0dXR6SHNqZWFPUXhhNzlTNFhhdV9uZnd2V0oyUTF0d08ybmZsZF8tRXJzaDh4dTVnQzRXZkczSW1NOVFKTmN0RkNMNnA0cEx2eW1FRzBZVHZGNko3RXRha3U0MDdkTHl2T1o1eU1vZEhuOHFUZ1czM0FZZkFQRE9MN2ZVNkF4Y1EtRVAyTzlxcmhSZzRRc25PRk9MQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF9ObE9PbHdZSm1sdldsNUo1NmFOUlRRWll1V2tSYmhEZnhQYXdtcmNtdWZ4X2hEYnRTUGtMOXdxWGZRai1QX3oxYWd0NlQyLTlJOHdISFI0SWFzdE5IbDJ3c3A4dHlVMkdaU3RNcmllR203YlpubHlsejVOZl9jYy1kWEhHRktsNm84VW1wd0RkYS1Vd1RkOUxMZw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "secondmanarrestedinfatalshootingsatlittlerockconveniencestoresuspectwasamongfour"
+    "littlerockmayorsracebetweenfrankscottbjwyrickhascrimedatacentersatforefrontthear"
    ],
-   "first_seen": 1792437546.796203,
+   "first_seen": 1792568129.357734,
    "section": "crime"
   },
   {
@@ -522,28 +528,6 @@
     "laneclosuresscheduledoni30arkansasriverbridgethv11com"
    ],
    "first_seen": 1792344027.727391,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Banana Ball returning to North Little Rock in April 2027 - KATV",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYW9JaVl0UDh1ZjQ3THpnYUNzVThGcVJFWHRkYlhBWmZQNll3QXBKOUpkWDh2c1c3a2ZwVERHN19Vb0JIN3NVTnYxWnpfMnUwdDY5anJaQXpNQWpucDAzMERsSG5rNG1hckphdTVJb3U3cmt0elc4QnU5bnQ3VmdoQXh6bnJXdmFfdDhfeQ?oc=5",
-   "source": "KATV",
-   "published": 1792125448.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYW9JaVl0UDh1ZjQ3THpnYUNzVThGcVJFWHRkYlhBWmZQNll3QXBKOUpkWDh2c1c3a2ZwVERHN19Vb0JIN3NVTnYxWnpfMnUwdDY5anJaQXpNQWpucDAzMERsSG5rNG1hckphdTVJb3U3cmt0elc4QnU5bnQ3VmdoQXh6bnJXdmFfdDhfeQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "bananaballreturningtonorthlittlerockinapril2027katv"
-   ],
-   "first_seen": 1792107639.745177,
    "section": "major"
   }
  ]

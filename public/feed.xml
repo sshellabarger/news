@@ -6,7 +6,7 @@
     <atom:link href="https://dirtydogtown.news/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The Wire: North Little Rock, Arkansas news and public discussion, gathered hourly by dirtydogtown.news. Every item links to its source.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:33:13 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 02:35:29 -0500</lastBuildDate>
     <item>
       <title>&quot;Reward&quot; Offered By Police In Arkansas Hunt For Suspect - Arkansas Radio</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkdPZVl1SE9NUkJmRkhGVEVEM1VfQ1dRd0tDeU9qSDZfd0tWS1RSNk9LY25Ha0hRekVMOW5mR19HbGJ5NlR0Vmhoa0Y1RGlIZWpIR25Zby1wbW11OExqVktaZ1VOWDVxZ05PS3ZQNjJQNzlrNnEyX3BZRUhmSERSMGtLMVk?oc=5</link>
@@ -21,7 +21,7 @@
       <guid isPermaLink="false">dogtown-ushavancegovsandersvisitnorthlittlerockelementaryschoolthearkansasdemocratgazett</guid>
       <pubDate>Tue, 20 Oct 2026 22:16:00 +0000</pubDate>
       <category>Major News</category>
-      <description>Source: The Arkansas Democrat-Gazette</description>
+      <description>Sources: The Arkansas Democrat-Gazette, THV11</description>
     </item>
     <item>
       <title>Little Rock chamber kicks off new residents initiative - The Arkansas Democrat-Gazette</title>
@@ -32,7 +32,7 @@
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
-      <title>News | Industrial leasing activity in North Little Rock gets boost with Roofer Mart Deal - CoStar</title>
+      <title>News | Industrial leasing activity in North Little Rock gets boost with Roofer Mart deal - CoStar</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0FweVRRTjJfeG1wbGx3SzZrQlVjR0NCdF92cVJmZEhqNk5QSm50RFBodWkyam5vTXZENHNDS3NqY2ZhYUFnbGotY0hCbHJyaWxUYkJvWlBFdHprRGFkeXlRb0ptd0VtTF9vVUF0Y0x1M25mUkpPbk1LWDNCelgtcG5XN1plN3dIVkFzbUw4anFWS2t2M3hYVGdoSGRjVTREY0E3aEhwSFZDX3V0cmhJMC05SDlUQThZZ3VCNkh1NA?oc=5</link>
       <guid isPermaLink="false">dogtown-newsindustrialleasingactivityinnorthlittlerockgetsboostwithroofermartdealcostar</guid>
       <pubDate>Tue, 20 Oct 2026 21:16:55 +0000</pubDate>
@@ -80,14 +80,6 @@
       <description>Source: Arkansas Radio</description>
     </item>
     <item>
-      <title>Two suspects held, facing capital murder charges in Little Rock Circle K shooting - KATV</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNU4xRXdNc2hLS2hjdUVZZG1neG1pN1VSeG5fOHc2X2FsVzRIOHVyZFFiV3ZUMm1ETW5OZEtpZ1Q4aU9SUERtcUpaMmUtNl8tWFhtbHN1Q3Z1Z1IwazNhdC0tTzFCd2o0U0JFMkVXLXFGTTNKZHFURWQtQk5YVmtLNVc3RnMtZDNhY096dlUzeXlWU21wVjRnNjZWNnRwVkl1OHlURzQ1MDhGb2FBbS1GMUFxNTBkSzJSRnhEWnA3b3BHbFRtc3NTajFDN2toTnFHRzhrOVVVSzgtdDduZWk3TFV3?oc=5</link>
-      <guid isPermaLink="false">dogtown-twosuspectsheldfacingcapitalmurderchargesinlittlerockcirclekshootingkatv</guid>
-      <pubDate>Tue, 20 Oct 2026 00:34:53 +0000</pubDate>
-      <category>Crime &amp; Safety</category>
-      <description>Source: KATV</description>
-    </item>
-    <item>
       <title>Early voting starts in Pulaski County, with nearly 3,000 ballots cast before noon - KATV</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWhVVk9lSlZlbEl5MmIxTFNtTml0TzFmdnoxRUd0QVJxSDBieHN3U1ZneHNTamNvWlM2V05PNDJBdVA2ZE4tdGFyenphb2lkSUlRbXU3TUF6U1J6V1hXMUlpcGFpdW52QVNNZ09HeEllcXhpZnhwNUMxMzA0Z3BaR01ROGxvbXZ3WUdPUmpSSGVuNzhoTDk5cm8td0ItMHlfQWxDZmNzbkFKVGs?oc=5</link>
       <guid isPermaLink="false">dogtown-earlyvotingstartsinpulaskicountywithnearly3000ballotscastbeforenoonkatv</guid>
@@ -102,6 +94,14 @@
       <pubDate>Mon, 19 Oct 2026 22:44:00 +0000</pubDate>
       <category>Major News</category>
       <description>Sources: K8 News | Jonesboro, Arkansas, Arkansas Advocate</description>
+    </item>
+    <item>
+      <title>Little Rock Board set to vote on data center moratorium - The Arkansas Democrat-Gazette</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTNCZXhVUWVSeUxVczBfRHREOENKMlJGU01ycXBNdEltNFo5T1hObFFiZDhCa3ViMk1WS1V5QV9EVUltMzFXM1EyZGR5VUVtcGxWUHdRZTN3bmdDalVJRWRkUEE1MjNzZXBzeFd4TS1uMUw2elZnc0RUXzN4UEp0X3lYeVJLRldiSEtjeTNHRVlVYkRYWjVsUg?oc=5</link>
+      <guid isPermaLink="false">dogtown-littlerockboardsettovoteondatacentermoratoriumthearkansasdemocratgazette</guid>
+      <pubDate>Mon, 19 Oct 2026 22:28:00 +0000</pubDate>
+      <category>Major News</category>
+      <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
       <title>City director candidate in Little Rock files ethics complaint against opponent over website - The Arkansas Democrat-Gazette</title>
@@ -160,10 +160,10 @@
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
-      <title>Second man arrested in fatal shootings at Little Rock convenience store; suspect was among four people wounded - The Arkansas Democrat-Gazette</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg0dXR6SHNqZWFPUXhhNzlTNFhhdV9uZnd2V0oyUTF0d08ybmZsZF8tRXJzaDh4dTVnQzRXZkczSW1NOVFKTmN0RkNMNnA0cEx2eW1FRzBZVHZGNko3RXRha3U0MDdkTHl2T1o1eU1vZEhuOHFUZ1czM0FZZkFQRE9MN2ZVNkF4Y1EtRVAyTzlxcmhSZzRRc25PRk9MQQ?oc=5</link>
-      <guid isPermaLink="false">dogtown-secondmanarrestedinfatalshootingsatlittlerockconveniencestoresuspectwasamongfour</guid>
-      <pubDate>Sun, 18 Oct 2026 02:30:00 +0000</pubDate>
+      <title>Little Rock mayor’s race between Frank Scott, B.J. Wyrick has crime, data centers at forefront - The Arkansas Democrat-Gazette</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF9ObE9PbHdZSm1sdldsNUo1NmFOUlRRWll1V2tSYmhEZnhQYXdtcmNtdWZ4X2hEYnRTUGtMOXdxWGZRai1QX3oxYWd0NlQyLTlJOHdISFI0SWFzdE5IbDJ3c3A4dHlVMkdaU3RNcmllR203YlpubHlsejVOZl9jYy1kWEhHRktsNm84VW1wd0RkYS1Vd1RkOUxMZw?oc=5</link>
+      <guid isPermaLink="false">dogtown-littlerockmayorsracebetweenfrankscottbjwyrickhascrimedatacentersatforefrontthear</guid>
+      <pubDate>Sun, 18 Oct 2026 03:45:00 +0000</pubDate>
       <category>Crime &amp; Safety</category>
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
@@ -190,14 +190,6 @@
       <pubDate>Fri, 16 Oct 2026 13:40:00 +0000</pubDate>
       <category>Major News</category>
       <description>Source: THV11</description>
-    </item>
-    <item>
-      <title>Banana Ball returning to North Little Rock in April 2027 - KATV</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNYW9JaVl0UDh1ZjQ3THpnYUNzVThGcVJFWHRkYlhBWmZQNll3QXBKOUpkWDh2c1c3a2ZwVERHN19Vb0JIN3NVTnYxWnpfMnUwdDY5anJaQXpNQWpucDAzMERsSG5rNG1hckphdTVJb3U3cmt0elc4QnU5bnQ3VmdoQXh6bnJXdmFfdDhfeQ?oc=5</link>
-      <guid isPermaLink="false">dogtown-bananaballreturningtonorthlittlerockinapril2027katv</guid>
-      <pubDate>Fri, 16 Oct 2026 04:37:28 +0000</pubDate>
-      <category>Major News</category>
-      <description>Source: KATV</description>
     </item>
   </channel>
 </rss>
