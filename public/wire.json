@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-22T02:31:41.085707-05:00",
+ "updated": "2026-10-22T08:45:14.291906-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Little Rock Alzheimer’s conference puts focus on treatment, caregiving in Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblctczBMSjY2dGFyX3BWZUdpLVAxYWxCcGJVeXpFb1pmMUZXVWpXNHZmMHFxSnJiT1hNVnhPeXNtczFualFrZllIRUhCcmNCVzMwVnJmdUUxaE0zWkJnVGlwakpzSTdFcUdrT2tDVHV3T1Jqa0ZCY3g5bEtqYWxOMTlWWFNuYVdVdS1sQ2ItN24ydk9JR3JpazljdTRENXJiWFAwbjln?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792639800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblctczBMSjY2dGFyX3BWZUdpLVAxYWxCcGJVeXpFb1pmMUZXVWpXNHZmMHFxSnJiT1hNVnhPeXNtczFualFrZllIRUhCcmNCVzMwVnJmdUUxaE0zWkJnVGlwakpzSTdFcUdrT2tDVHV3T1Jqa0ZCY3g5bEtqYWxOMTlWWFNuYVdVdS1sQ2ItN24ydk9JR3JpazljdTRENXJiWFAwbjln?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockalzheimersconferenceputsfocusontreatmentcaregivinginarkansasthearkansa"
+   ],
+   "first_seen": 1792676714.291906,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "State government career fair in North Little Rock connects Arkansans with job openings - KATV",
@@ -204,28 +226,6 @@
     "wheretofindarkansassabsolutebestchickenwingsandtheirtrophycasetoproveitonlyinyou"
    ],
    "first_seen": 1792508573.249695,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "81 marathons and counting: 76-year-old Arkansas runner proves age is just a number - KATV",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalkxNWlLdlZaNUp3ejFNVzBUYy1Yd3FhTTlRT1ZQdm5sSEFEeXVMZzVtMjJaTkR3b0RYbnZXWEx0MllISW5kNGh1RmlwUWY1VUJkbXlmVGJwQVl5YVFQZXBROF9Cc3F6MUdDRG5TWWp6MUI4MjM3TmdEc3MwOTl1YWdBM0xMNXlsZVBVdzhydVltems1NmlRdzNycGVUSnNDaEZxSVRPd2Q0MWk0c0E?oc=5",
-   "source": "KATV",
-   "published": 1792497118.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalkxNWlLdlZaNUp3ejFNVzBUYy1Yd3FhTTlRT1ZQdm5sSEFEeXVMZzVtMjJaTkR3b0RYbnZXWEx0MllISW5kNGh1RmlwUWY1VUJkbXlmVGJwQVl5YVFQZXBROF9Cc3F6MUdDRG5TWWp6MUI4MjM3TmdEc3MwOTl1YWdBM0xMNXlsZVBVdzhydVltems1NmlRdzNycGVUSnNDaEZxSVRPd2Q0MWk0c0E?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "81marathonsandcounting76yearoldarkansasrunnerprovesageisjustanumberkatv"
-   ],
-   "first_seen": 1792607750.965536,
    "section": "major"
   },
   {
