@@ -1,27 +1,71 @@
 {
- "updated": "2026-10-22T08:45:14.291906-05:00",
+ "updated": "2026-10-22T13:30:25.556652-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Little Rock Alzheimer’s conference puts focus on treatment, caregiving in Arkansas - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblctczBMSjY2dGFyX3BWZUdpLVAxYWxCcGJVeXpFb1pmMUZXVWpXNHZmMHFxSnJiT1hNVnhPeXNtczFualFrZllIRUhCcmNCVzMwVnJmdUUxaE0zWkJnVGlwakpzSTdFcUdrT2tDVHV3T1Jqa0ZCY3g5bEtqYWxOMTlWWFNuYVdVdS1sQ2ItN24ydk9JR3JpazljdTRENXJiWFAwbjln?oc=5",
+   "title": "Little Rock golf shop to close Dec. 31 - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbzRobDNCYzYxU2laLUVGZXhsbl9BRTdhRlpsZTBkdWVqYVdQcFlvczdXWml0LUxtWHRnMDlBYzVXTVl4cWMtaDY5aWVOeDBfODZPQVlfckFNWjhkWXNvQ05VdUZFcERMeFlyaUtjLUNtcDdqXzFaMzZzc2RtbVotNzYwdUpna1hBRHlHS0hfYw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1792639800.0,
+   "published": 1792692600.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblctczBMSjY2dGFyX3BWZUdpLVAxYWxCcGJVeXpFb1pmMUZXVWpXNHZmMHFxSnJiT1hNVnhPeXNtczFualFrZllIRUhCcmNCVzMwVnJmdUUxaE0zWkJnVGlwakpzSTdFcUdrT2tDVHV3T1Jqa0ZCY3g5bEtqYWxOMTlWWFNuYVdVdS1sQ2ItN24ydk9JR3JpazljdTRENXJiWFAwbjln?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbzRobDNCYzYxU2laLUVGZXhsbl9BRTdhRlpsZTBkdWVqYVdQcFlvczdXWml0LUxtWHRnMDlBYzVXTVl4cWMtaDY5aWVOeDBfODZPQVlfckFNWjhkWXNvQ05VdUZFcERMeFlyaUtjLUNtcDdqXzFaMzZzc2RtbVotNzYwdUpna1hBRHlHS0hfYw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockalzheimersconferenceputsfocusontreatmentcaregivinginarkansasthearkansa"
+    "littlerockgolfshoptoclosedec31thearkansasdemocratgazette"
    ],
-   "first_seen": 1792676714.291906,
+   "first_seen": 1792693825.556652,
+   "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Mary Jacquelinne Williams Obituary (2026) - Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVRyVzlxdFpMaTdfb1FaSjZJRkRUYk9PVFFjLTdEZUk5NnNwWnhCcGVJaGhfUko3WWJmckpiTHVwOHk1Z092dW1xRUpNUFBrMXdZQ3R4TjVKTVU4M2dmYVMyTFhlNjlIdkV3MF9EMWlXZjRESmVIcG8ydThyX01Kd2tB?oc=5",
+   "source": "Legacy | Obituary",
+   "published": 1792691878.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVRyVzlxdFpMaTdfb1FaSjZJRkRUYk9PVFFjLTdEZUk5NnNwWnhCcGVJaGhfUko3WWJmckpiTHVwOHk1Z092dW1xRUpNUFBrMXdZQ3R4TjVKTVU4M2dmYVMyTFhlNjlIdkV3MF9EMWlXZjRESmVIcG8ydThyX01Kd2tB?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "maryjacquelinnewilliamsobituary2026littlerockarsmithfamilyfuneralhomesnorthlittl"
+   ],
+   "first_seen": 1792693825.556652,
+   "section": "obits"
+  },
+  {
+   "type": "article",
+   "title": "WWE Raw 11/30/26 Predictions: Preview, Match Card and How to Watch - Sacnilk",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUtQckRNWExqUUlwaEpMSW9JR3ljZ09SVXlLLXJkTllHcUpUVkhoSEpWXzA5TmpRak40QXlybjNwVmNjOE5leURyLUJjWEdzM3hLRlZYTF9GWG9WeXRHNmFyanVlajdkQmNYdXYtSjdZeHpZd2lxYUU4UVpJSFUxdDU1R1JreVY0eV9DTzVsQ1hDY25yNlE?oc=5",
+   "source": "Sacnilk",
+   "published": 1792668826.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Sacnilk",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUtQckRNWExqUUlwaEpMSW9JR3ljZ09SVXlLLXJkTllHcUpUVkhoSEpWXzA5TmpRak40QXlybjNwVmNjOE5leURyLUJjWEdzM3hLRlZYTF9GWG9WeXRHNmFyanVlajdkQmNYdXYtSjdZeHpZd2lxYUU4UVpJSFUxdDU1R1JreVY0eV9DTzVsQ1hDY25yNlE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "wweraw113026predictionspreviewmatchcardandhowtowatchsacnilk"
+   ],
+   "first_seen": 1792693825.556652,
    "section": "major"
   },
   {
@@ -92,25 +136,25 @@
   },
   {
    "type": "article",
-   "title": "Pulaski Academy's Homsi, North Little Rock's King get their revenge, win state overall tennis championships - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkJ3Wnp5U09GbE43dHJBSHdoV2RPX3Z4U3loV05QdXZiZHBCTWpjZmJaNDlnQjRjZFFvamk1Wl9JVUNhcGFUNl9CMzZjZ0JBNW84ZnJPdGlGdDN3a0xTM2lYel9YdVJ2SkM2ZXd6ejdlaTFFTmhIeFhoMWl3MmtMOXlZRVNHTGRLY0pZUFFidnZhWWFxbHBBY2dVTQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1792569900.0,
+   "title": "These 7 Arkansas Roadside Produce Stands Sell Peaches And Tomatoes Worth Pulling Over For - Fast Food Club",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWFpTVpxSno4TkNKUDhWaXI0RVZYN1lodWl3d2NhZnRHdU9GSTZDMlUxRThqdVZqWktyd1VJS0xoeXVKZzM2NDVlbGowRklJTG94SnJXWUt6cmt2TmtvSC0wYUJiZHFKTjYxbF9CY0Q5Tmo5S1ZJUDBjbkdsMVByY2JZUFZ2b1hrZVBJSEF4Tnk3a0NQcG5ETnhRZHpCeWdnYW1uQURSQjJDd0c1YjBWc0N5WlQxZnVhaU9SSVh4U0RsLVY0?oc=5",
+   "source": "Fast Food Club",
+   "published": 1792562460.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkJ3Wnp5U09GbE43dHJBSHdoV2RPX3Z4U3loV05QdXZiZHBCTWpjZmJaNDlnQjRjZFFvamk1Wl9JVUNhcGFUNl9CMzZjZ0JBNW84ZnJPdGlGdDN3a0xTM2lYel9YdVJ2SkM2ZXd6ejdlaTFFTmhIeFhoMWl3MmtMOXlZRVNHTGRLY0pZUFFidnZhWWFxbHBBY2dVTQ?oc=5"
+     "source": "Fast Food Club",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWFpTVpxSno4TkNKUDhWaXI0RVZYN1lodWl3d2NhZnRHdU9GSTZDMlUxRThqdVZqWktyd1VJS0xoeXVKZzM2NDVlbGowRklJTG94SnJXWUt6cmt2TmtvSC0wYUJiZHFKTjYxbF9CY0Q5Tmo5S1ZJUDBjbkdsMVByY2JZUFZ2b1hrZVBJSEF4Tnk3a0NQcG5ETnhRZHpCeWdnYW1uQURSQjJDd0c1YjBWc0N5WlQxZnVhaU9SSVh4U0RsLVY0?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "pulaskiacademyshomsinorthlittlerockskinggettheirrevengewinstateoveralltennischam"
+    "these7arkansasroadsideproducestandssellpeachesandtomatoesworthpullingoverforfast"
    ],
-   "first_seen": 1792607750.965536,
-   "section": "sports"
+   "first_seen": 1792693825.556652,
+   "section": "major"
   },
   {
    "type": "article",
@@ -469,50 +513,6 @@
    "source_count": 1,
    "member_keys": [
     "littlerockdistrictclosingpublicschoolsasenrollmentfallsshiftingdemographicsschoo"
-   ],
-   "first_seen": 1792654301.085707,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Here's how you can go Bananas in North Little Rock this spring - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLUVYUlZ5OHhhT2IwUDAtXzcyTkpsLVczR0trTlphTko3aVZPejJVWUF6dmVEYWlmV0NxMm1YR1RxblM5MWZsQ2VKRlV1Ui1helhXd0tadE1XakI1SzZsbDhYanJBVlZNU3ltMUdyQ0N3dkFLUi1IR09Kc3VLS2JzdWNqUkJyYzhVNThsMUo4R2gzdXlxakFvYWhueUtqV1JkTWI3UUlxTXl5R3JpSVlLZUtJaU1QV0xQUFRkVjh1M0FWcHFJb2R5d0ZLWjluc1dOVWU4WmxHVlJqTnZGd003SlJ4clRvYU0?oc=5",
-   "source": "THV11",
-   "published": 1792112400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLUVYUlZ5OHhhT2IwUDAtXzcyTkpsLVczR0trTlphTko3aVZPejJVWUF6dmVEYWlmV0NxMm1YR1RxblM5MWZsQ2VKRlV1Ui1helhXd0tadE1XakI1SzZsbDhYanJBVlZNU3ltMUdyQ0N3dkFLUi1IR09Kc3VLS2JzdWNqUkJyYzhVNThsMUo4R2gzdXlxakFvYWhueUtqV1JkTWI3UUlxTXl5R3JpSVlLZUtJaU1QV0xQUFRkVjh1M0FWcHFJb2R5d0ZLWjluc1dOVWU4WmxHVlJqTnZGd003SlJ4clRvYU0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "hereshowyoucangobananasinnorthlittlerockthisspringthv11com"
-   ],
-   "first_seen": 1792654301.085707,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Banana Ball Returns to North Little Rock in 2027 - MLB.com",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUZXQVQ5dW9zeDA3ZkNtcUlXRlJWbndXWFJhVkhNRnc4V0I1dHY3cXNMdU1Rd3V4XzRpOEgxRUJpaTZYeDVjeERnakVfTXdtNTFLNGM2clFsNkhLWDFHVDRPdWlNNGI5M3N2NDJVRG5NcHE0cXpvVTZOU1UwUGN3dW1xQTBEY2xIbVRIODlGVlc?oc=5",
-   "source": "MLB.com",
-   "published": 1792111090.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "MLB.com",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUZXQVQ5dW9zeDA3ZkNtcUlXRlJWbndXWFJhVkhNRnc4V0I1dHY3cXNMdU1Rd3V4XzRpOEgxRUJpaTZYeDVjeERnakVfTXdtNTFLNGM2clFsNkhLWDFHVDRPdWlNNGI5M3N2NDJVRG5NcHE0cXpvVTZOU1UwUGN3dW1xQTBEY2xIbVRIODlGVlc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "bananaballreturnstonorthlittlerockin2027mlbcom"
    ],
    "first_seen": 1792654301.085707,
    "section": "major"
