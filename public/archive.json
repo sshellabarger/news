@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:28:28.016847-05:00",
+ "updated": "2026-10-23T02:28:30.713240-05:00",
  "items": [
   {
    "type": "article",
@@ -700,6 +700,28 @@
   },
   {
    "type": "article",
+   "title": "North Little Rock High School (AR) Girls Basketball - MaxPreps",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFlfdjVRSmhiSDRnRjkwdXBoVXF6Q3Y1aG9DRVpKN1BVQ2FaN2g4MGphWldzU2FaVFBDeTllWGNWODBMbEVpdlhRMzNuX1ZkS205R2RHbjNhNXc5WV9PNHVYS0Q3OXE2ZTNlRUJOQng4SVN6VkYtLWhpMHBQRVhSWmU2a0d1Z0R2TzFkbjJzRmxFOERtSG9Ya3VITTN5cWV2?oc=5",
+   "source": "MaxPreps",
+   "published": 1792415684.0,
+   "first_seen": 1792740510.71324,
+   "section": "sports",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "MaxPreps",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFlfdjVRSmhiSDRnRjkwdXBoVXF6Q3Y1aG9DRVpKN1BVQ2FaN2g4MGphWldzU2FaVFBDeTllWGNWODBMbEVpdlhRMzNuX1ZkS205R2RHbjNhNXc5WV9PNHVYS0Q3OXE2ZTNlRUJOQng4SVN6VkYtLWhpMHBQRVhSWmU2a0d1Z0R2TzFkbjJzRmxFOERtSG9Ya3VITTN5cWV2?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockhighschoolargirlsbasketballmaxpreps"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Milton Ray McElrath Jr. Obituary (2026) - Little Rock, AR - A Natural State Funeral Service & Crematory - Legacy | Obituary",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU21yZGVZdDZTMHM3WlhBb3k3VUtXNWtTWGJBakkxQ2dnRWVWcWJ3dTMtRnptUmFJWkVoN2FWSnpzOUpMMW10M1Q1STdGWFNPdFZCWlBPSnljT2N3T083MTF2NW5RUk5GUGRoYVNsZnRfMWN2MUhJbFp6SHo4SF9kaGdJSDQ?oc=5",
    "source": "Legacy | Obituary",
@@ -847,13 +869,18 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXJHTUtoZjlWd0REWGEyaHVod0hHVE8yR3VmbGU1Mm1lZmk2SzVoTjZacXhwaG03aWd5ck1zYmlRWnR5cGNDV0hCU2dEWHowbFdYU21vY2Q2QTNQcTRTRjBEVTd4ZWpKeHFsaVhxTDdKeWpoWEZjY1FzendBTUpCbUtSdGpxSGs5SHF4ZmYtYw?oc=5"
     },
     {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1NhYkExVE5DcHhSMXpzWC1sYnQwMjdUSjU2TjJOR25IT3kzYXEwbE9CUy1pTzZFekJBdHhqMmhNV05uS1E4cVUzMl9GT25FQUpuekhuampNdElNSHQ3dWcwV21EZW9PN0JCYVBUaG1GeFZtVjVqTmQzWHdObXhvRHBBS1R2b3RoV2lJOHJKbGhIVVdPZFAwbGpFMFk4ZFlGeHNUUnEyVDBnTURoLXNIcHlaS0pPYURDVmstN1o5SlBheGtybVd6SmhxYkNWUnZxZFZlbzFkZnFUV2RZbDJyTDBKRXBiTW5vbDJ3?oc=5"
+    },
+    {
      "source": "KATV",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWVOSk9TX3Q5OFZTLV8zTUtBbkRaRkdXd25TeVdTYlRsOUpHa0xGbWFHRHdJeDYzSWdYbkRvMTlpYUdUM1hZQXZGcUV2eDJkZkNyRHIzeGVKZFdBTTVjUllzbFNNZXVXaUZXTjlVSkpmenVNY19nTHJlUGM5WUtweVBUdG9EU2tCS1ZfdlplM0J2a1hERVE?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 3,
    "member_keys": [
     "nlrpdarrestsuspectconnectedtofatalsaturdaynightshootingkatv",
+    "northlittlerockpolicebeginhomicideinvestigationaftersaturdayshootingsuspectarres",
     "police1deadinsaturdaynightnorthlittlerockshootingsuspectarrestedkark"
    ]
   },
