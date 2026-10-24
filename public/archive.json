@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:45:21.460492-05:00",
+ "updated": "2026-10-24T18:10:55.400134-05:00",
  "items": [
   {
    "type": "article",
@@ -1213,15 +1213,10 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1NhYkExVE5DcHhSMXpzWC1sYnQwMjdUSjU2TjJOR25IT3kzYXEwbE9CUy1pTzZFekJBdHhqMmhNV05uS1E4cVUzMl9GT25FQUpuekhuampNdElNSHQ3dWcwV21EZW9PN0JCYVBUaG1GeFZtVjVqTmQzWHdObXhvRHBBS1R2b3RoV2lJOHJKbGhIVVdPZFAwbGpFMFk4ZFlGeHNUUnEyVDBnTURoLXNIcHlaS0pPYURDVmstN1o5SlBheGtybVd6SmhxYkNWUnZxZFZlbzFkZnFUV2RZbDJyTDBKRXBiTW5vbDJ3?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWVOSk9TX3Q5OFZTLV8zTUtBbkRaRkdXd25TeVdTYlRsOUpHa0xGbWFHRHdJeDYzSWdYbkRvMTlpYUdUM1hZQXZGcUV2eDJkZkNyRHIzeGVKZFdBTTVjUllzbFNNZXVXaUZXTjlVSkpmenVNY19nTHJlUGM5WUtweVBUdG9EU2tCS1ZfdlplM0J2a1hERVE?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
-    "nlrpdarrestsuspectconnectedtofatalsaturdaynightshootingkatv",
     "northlittlerockpolicebeginhomicideinvestigationaftersaturdayshootingsuspectarres",
     "police1deadinsaturdaynightnorthlittlerockshootingsuspectarrestedkark"
    ]
@@ -2592,28 +2587,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock School District sues Springdale teen who received more than $12,000 in a payroll mix-up - KARK",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmhhSlJzeWZpbUtJVWVzcG5DcGhHU3NaOEpaUU5ka2NsbDBpZ0g2YmFZck54VmRPdHBTUlVDb3lzQWJHc0pUelUxaFJPM29lNndER3luVmgydmpCZHpvRm5mMG9yWk1NbTdnX0JZeWQ2STc0Y0NJRDVCb2l4RGFyRnNrNzhGT281c2JRTE41S2loQnl6aXRrRFhSLWcwdVdia2dNZGl1ZnFWWGFJWkJVLW9WTkdCQmUteHpKMjF3cjVZblFMdF96bjNiZ05XdnpwZGMzakZ3Z3F5bzBQTDdn?oc=5",
-   "source": "KARK",
-   "published": 1791874800.0,
-   "first_seen": 1791931332.331525,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmhhSlJzeWZpbUtJVWVzcG5DcGhHU3NaOEpaUU5ka2NsbDBpZ0g2YmFZck54VmRPdHBTUlVDb3lzQWJHc0pUelUxaFJPM29lNndER3luVmgydmpCZHpvRm5mMG9yWk1NbTdnX0JZeWQ2STc0Y0NJRDVCb2l4RGFyRnNrNzhGT281c2JRTE41S2loQnl6aXRrRFhSLWcwdVdia2dNZGl1ZnFWWGFJWkJVLW9WTkdCQmUteHpKMjF3cjVZblFMdF96bjNiZ05XdnpwZGMzakZ3Z3F5bzBQTDdn?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockschooldistrictsuesspringdaleteenwhoreceivedmorethan12000inapayrol"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Little Rock Police suspends three officers with pay for misuse of license plate reader system - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -2632,6 +2605,28 @@
    "source_count": 1,
    "member_keys": [
     "littlerockpolicesuspendsthreeofficerswithpayformisuseoflicenseplatereadersystemt"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock School District sues Springdale teen who received more than $12,000 in a payroll mix-up - KARK",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmhhSlJzeWZpbUtJVWVzcG5DcGhHU3NaOEpaUU5ka2NsbDBpZ0g2YmFZck54VmRPdHBTUlVDb3lzQWJHc0pUelUxaFJPM29lNndER3luVmgydmpCZHpvRm5mMG9yWk1NbTdnX0JZeWQ2STc0Y0NJRDVCb2l4RGFyRnNrNzhGT281c2JRTE41S2loQnl6aXRrRFhSLWcwdVdia2dNZGl1ZnFWWGFJWkJVLW9WTkdCQmUteHpKMjF3cjVZblFMdF96bjNiZ05XdnpwZGMzakZ3Z3F5bzBQTDdn?oc=5",
+   "source": "KARK",
+   "published": 1791874800.0,
+   "first_seen": 1791931332.331525,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmhhSlJzeWZpbUtJVWVzcG5DcGhHU3NaOEpaUU5ka2NsbDBpZ0g2YmFZck54VmRPdHBTUlVDb3lzQWJHc0pUelUxaFJPM29lNndER3luVmgydmpCZHpvRm5mMG9yWk1NbTdnX0JZeWQ2STc0Y0NJRDVCb2l4RGFyRnNrNzhGT281c2JRTE41S2loQnl6aXRrRFhSLWcwdVdia2dNZGl1ZnFWWGFJWkJVLW9WTkdCQmUteHpKMjF3cjVZblFMdF96bjNiZ05XdnpwZGMzakZ3Z3F5bzBQTDdn?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockschooldistrictsuesspringdaleteenwhoreceivedmorethan12000inapayrol"
    ]
   },
   {

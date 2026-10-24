@@ -6,7 +6,7 @@
     <atom:link href="https://dirtydogtown.news/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The Wire: North Little Rock, Arkansas news and public discussion, gathered hourly by dirtydogtown.news. Every item links to its source.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:45:21 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:10:55 -0500</lastBuildDate>
     <item>
       <title>Deciphering Dogtown — New museum tells North Little Rock’s colorful history - The Arkansas Democrat-Gazette</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmVYYU0tOUtzR3ZxTVo1bi1vRVpINDlfcmIyY2ZtMXJlcWJsY0JiTkthUUpNWHA4aHZJNElsS1ljZ1hzV3FLWXhZTU9CSVdOcEcwcjRLTUN6OG1GNGtRdVhaTUt6YktHa1VONF8tZ0xHRm9hb05DMFIwdWF3dEJxbmZqSXVFMktWLUpzX3J3MVlINFpqSDN3a1ZUb1JoRC1FM21VOWJweWZqenF0bURYRWIwaEY3NEpaUUwzYXln?oc=5</link>
@@ -157,7 +157,7 @@
       <guid isPermaLink="false">dogtown-police1deadinsaturdaynightnorthlittlerockshootingsuspectarrestedkark</guid>
       <pubDate>Sun, 18 Oct 2026 11:35:26 +0000</pubDate>
       <category>Crime &amp; Safety</category>
-      <description>Sources: KARK, THV11, KATV</description>
+      <description>Sources: KARK, THV11</description>
     </item>
     <item>
       <title>Solid turnout forecast for early voting in Arkansas, with total participation estimated at 50% - The Arkansas Democrat-Gazette</title>
@@ -206,6 +206,14 @@
       <pubDate>Tue, 13 Oct 2026 18:16:49 +0000</pubDate>
       <category>Obituaries</category>
       <description>Source: Legacy | Obituary</description>
+    </item>
+    <item>
+      <title>North Little Rock School District sues Springdale teen who received more than $12,000 in a payroll mix-up - KARK</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmhhSlJzeWZpbUtJVWVzcG5DcGhHU3NaOEpaUU5ka2NsbDBpZ0g2YmFZck54VmRPdHBTUlVDb3lzQWJHc0pUelUxaFJPM29lNndER3luVmgydmpCZHpvRm5mMG9yWk1NbTdnX0JZeWQ2STc0Y0NJRDVCb2l4RGFyRnNrNzhGT281c2JRTE41S2loQnl6aXRrRFhSLWcwdVdia2dNZGl1ZnFWWGFJWkJVLW9WTkdCQmUteHpKMjF3cjVZblFMdF96bjNiZ05XdnpwZGMzakZ3Z3F5bzBQTDdn?oc=5</link>
+      <guid isPermaLink="false">dogtown-northlittlerockschooldistrictsuesspringdaleteenwhoreceivedmorethan12000inapayrol</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
+      <category>Major News</category>
+      <description>Source: KARK</description>
     </item>
   </channel>
 </rss>
