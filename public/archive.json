@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:10:55.400134-05:00",
+ "updated": "2026-10-24T20:07:41.620925-05:00",
  "items": [
   {
    "type": "article",
@@ -2587,28 +2587,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock Police suspends three officers with pay for misuse of license plate reader system - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791874800.0,
-   "first_seen": 1791942811.519985,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockpolicesuspendsthreeofficerswithpayformisuseoflicenseplatereadersystemt"
-   ]
-  },
-  {
-   "type": "article",
    "title": "North Little Rock School District sues Springdale teen who received more than $12,000 in a payroll mix-up - KARK",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVmhhSlJzeWZpbUtJVWVzcG5DcGhHU3NaOEpaUU5ka2NsbDBpZ0g2YmFZck54VmRPdHBTUlVDb3lzQWJHc0pUelUxaFJPM29lNndER3luVmgydmpCZHpvRm5mMG9yWk1NbTdnX0JZeWQ2STc0Y0NJRDVCb2l4RGFyRnNrNzhGT281c2JRTE41S2loQnl6aXRrRFhSLWcwdVdia2dNZGl1ZnFWWGFJWkJVLW9WTkdCQmUteHpKMjF3cjVZblFMdF96bjNiZ05XdnpwZGMzakZ3Z3F5bzBQTDdn?oc=5",
    "source": "KARK",
@@ -2627,6 +2605,28 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerockschooldistrictsuesspringdaleteenwhoreceivedmorethan12000inapayrol"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Little Rock Police suspends three officers with pay for misuse of license plate reader system - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791874800.0,
+   "first_seen": 1791942811.519985,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpolicesuspendsthreeofficerswithpayformisuseoflicenseplatereadersystemt"
    ]
   },
   {
@@ -3137,10 +3137,10 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock police investigate infant's death - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5",
-   "source": "THV11",
-   "published": 1791665520.0,
+   "title": "North Little Rock police investigating death of infant - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlxbnFOTkUyUTdwaDlGSzBoSmFPcEVlZ3ZKcVc4SFJXUEtrRW9ic3BhdDh5RGU2T1IxX3YyWnkxV0dkb2UxbjRJRXVzQkpxTWlNQ3JMUHdZT1BHc2JIQ1BWYmpkMXBoSWlvX09jV3RvODdIRGJLVmdDX0Q0RHh0eU9XN1FPbnBpN0hPMDNqQ3V0RUt0d1ZEX0pQT1g?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791615600.0,
    "first_seen": 1791668475.154969,
    "section": "crime",
    "snippet": "",
@@ -3148,13 +3148,23 @@
    "num_comments": null,
    "sources": [
     {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlxbnFOTkUyUTdwaDlGSzBoSmFPcEVlZ3ZKcVc4SFJXUEtrRW9ic3BhdDh5RGU2T1IxX3YyWnkxV0dkb2UxbjRJRXVzQkpxTWlNQ3JMUHdZT1BHc2JIQ1BWYmpkMXBoSWlvX09jV3RvODdIRGJLVmdDX0Q0RHh0eU9XN1FPbnBpN0hPMDNqQ3V0RUt0d1ZEX0pQT1g?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWtqcU9aZG15eEdJclRfU2c4QUF5M2xQalRDLS10dnJtbmNNVHRUdWxydk4xRkZINEhaUkpjSlhDTUxIWHp0M1h4T29kV2FpQXptUXFrenp2QVN0VWt4LVpPeEZ4QlIzYU9CeFYxdE1YNzRPdTRLYnB4d0xNX2RCOU1EcjQ0QVhqR2c?oc=5"
+    },
+    {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTV92RHlZaHJhbElYRXVFZmxLYTlDMzhESUxCcVJicDQtV1R5LUwyNzdVTENTSHczSnFwdWQtUFo3dTUzVHlOWnpmeFlfUVhlTlRMTzY1ZU02VnF5LVRPakJ4RlJSQjQyY2pQTnh1TmFGOEZ3Sy14d01BdkNFblJYZW9uM3QzRVZONjQxNjE5aEFnRmhTX042RWE0dlVvS1E1d3RDalI0Sl82WnhheTdIZ0hLaFJhaDBYbjJvUy1IdjVITHQzdy1ySU1jUQ?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 3,
    "member_keys": [
-    "northlittlerockpoliceinvestigateinfantsdeaththv11com"
+    "northlittlerockpoliceinvestigateinfantsdeaththv11com",
+    "northlittlerockpoliceinvestigatingdeathofinfantkark",
+    "northlittlerockpoliceinvestigatingdeathofinfantthearkansasdemocratgazette"
    ]
   },
   {
