@@ -6,7 +6,7 @@
     <atom:link href="https://dirtydogtown.news/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The Wire: North Little Rock, Arkansas news and public discussion, gathered hourly by dirtydogtown.news. Every item links to its source.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:21:55 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:13:21 -0500</lastBuildDate>
     <item>
       <title>Ann Sherland McCollum - The Arkansas Democrat-Gazette</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWhWcWZrOFJFWmxhZWtISFVZM21NdWNRckFMTWlvUG5PLWhWcm1HRkhKXzhvTWZILU4yWFdqTG0zbzVOcDhOQjJjRXMtcUJjVlZBUG1IcDI4cF9Jckd4eTUzbzFtQXdmdUZlNE1HRVpON2dTMFVnY3JwblRRTEJveEVHY2x1ZXV4T0pmVDc4Xzg?oc=5</link>
@@ -32,6 +32,14 @@
       <description>Source: KARK</description>
     </item>
     <item>
+      <title>Video shows Arkansas State Police trooper throwing object at passing vehicle on Interstate 40 - The Arkansas Democrat-Gazette</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0RuY2hYd2ZfTXBTY3RmMEFaLTJxS1NsMVBaMk1rOUs0bndqWDlPa3A1MlJwbGJONFpNUTJya1VGRk5lV2NxTzJxcW0tZDl5eG0zUDVXODZRRWV4V1QzeWdmUjFxckhEY1d0NF9kR3RydHhkVHBrVEUtVFFfZ3VrNmFqTEdwaVMtYWZRZzRlbmVtLXBCSGZETE5EUnl1YVdwOHc?oc=5</link>
+      <guid isPermaLink="false">dogtown-videoshowsarkansasstatepolicetrooperthrowingobjectatpassingvehicleoninterstate40</guid>
+      <pubDate>Sat, 24 Oct 2026 22:40:00 +0000</pubDate>
+      <category>Crime &amp; Safety</category>
+      <description>Source: The Arkansas Democrat-Gazette</description>
+    </item>
+    <item>
       <title>Deciphering Dogtown — New museum tells North Little Rock’s colorful history - The Arkansas Democrat-Gazette</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmVYYU0tOUtzR3ZxTVo1bi1vRVpINDlfcmIyY2ZtMXJlcWJsY0JiTkthUUpNWHA4aHZJNElsS1ljZ1hzV3FLWXhZTU9CSVdOcEcwcjRLTUN6OG1GNGtRdVhaTUt6YktHa1VONF8tZ0xHRm9hb05DMFIwdWF3dEJxbmZqSXVFMktWLUpzX3J3MVlINFpqSDN3a1ZUb1JoRC1FM21VOWJweWZqenF0bURYRWIwaEY3NEpaUUwzYXln?oc=5</link>
       <guid isPermaLink="false">dogtown-decipheringdogtownnewmuseumtellsnorthlittlerockscolorfulhistorythearkansasdemocr</guid>
@@ -48,20 +56,12 @@
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
-      <title>Don Brookings Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFVfZGF6UG1vYmJjdkNJVlV1YU5lN29UUzl4OTV3WGZDckhmMmluT1dYdnk5cGVNSGZMZHVnc19pTHhrUldpV09PWVJKVnEtUk1aU0xWZXJDSVFtT09LaXItaEo0UGViZEVFdzVhc29IX2QwTEZwV3hBVHZnVnE2dXJB?oc=5</link>
-      <guid isPermaLink="false">dogtown-donbrookingsobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittlerockl</guid>
-      <pubDate>Fri, 23 Oct 2026 19:54:03 +0000</pubDate>
-      <category>Obituaries</category>
-      <description>Source: Legacy | Obituary</description>
-    </item>
-    <item>
       <title>Doyle Gene Whitehead, age 71 - A Natural State Funeral Service</title>
       <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNTVFVS1BVX1BxVS1Id3VuQ2REY1U2MGIzVjFCMnJiSjc2cE82TUhTV3gtNjR4MFpXMHl3b2RSeDBKX3Q4MjZVcUFHMTU0QTlnLXJfVUcxZlVjOFVpOXlHYU9DUjdaeGlWbHZWZW5USjdlZXZOblVTNUp0X3NoUjRhTWdB?oc=5</link>
       <guid isPermaLink="false">dogtown-doylegenewhiteheadage71anaturalstatefuneralservice</guid>
       <pubDate>Fri, 23 Oct 2026 18:35:27 +0000</pubDate>
       <category>Obituaries</category>
-      <description>Sources: A Natural State Funeral Service, Legacy | Obituary</description>
+      <description>Source: A Natural State Funeral Service</description>
     </item>
     <item>
       <title>State government career fair in North Little Rock connects Arkansans with job openings - KATV</title>
@@ -101,6 +101,14 @@
       <guid isPermaLink="false">dogtown-legislativecommitteevotesforattorneygeneralinvestigationofquitmanschoolsthearkan</guid>
       <pubDate>Tue, 20 Oct 2026 01:10:00 +0000</pubDate>
       <category>Major News</category>
+      <description>Source: The Arkansas Democrat-Gazette</description>
+    </item>
+    <item>
+      <title>Little Rock man charged with capital murder in North Little Rock shooting - The Arkansas Democrat-Gazette</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVd5VEJnbGcyWUMxd2JXa196aFBkZk9aWFNJUHRVV2dhemc4dnRnNWhWSlpESjJoU3U4MVBIeW1qeEY4ZXRDZ2dWaFo4ZVZCNkNFanpaS2hhMUVCOHY1U3MxWXlnYVJmenQ2ZmFsZldjc3FfcTJDT1FKRWZGMnYwYVpyV1k5dkQ2SVczZ2JFeDV6UlNYcnc?oc=5</link>
+      <guid isPermaLink="false">dogtown-littlerockmanchargedwithcapitalmurderinnorthlittlerockshootingthearkansasdemocra</guid>
+      <pubDate>Sun, 18 Oct 2026 15:55:00 +0000</pubDate>
+      <category>Crime &amp; Safety</category>
       <description>Source: The Arkansas Democrat-Gazette</description>
     </item>
     <item>
