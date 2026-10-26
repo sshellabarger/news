@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:45:07.021827-05:00",
+ "updated": "2026-10-25T19:20:05.724913-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
@@ -315,6 +315,28 @@
   },
   {
    "type": "article",
+   "title": "What Arkansans said on the first day of early voting for the midterm election - Arkansas Advocate",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXRPNzl0VnlxbU1rc0laVU5Cbk1kR2ppdDU1VFBsRHpLUUNZYktNWUJqSndSQkt0blZFaW9xT3FEWlV5WmpqVERSUFhLTDdHSVBZVzM4X1pPdTJ4NzcwdVM3Y3N5VFVUTHhqQW5KUm55d1BCYnJkSWJpSVNHQlEtemp5ODBmUUV4ZG9CVDViMk55Q3ZoTm5PejFtSTRtT2REb2RoRWFlWjBfOW02MU1aeS0wTzh3d3V5X3c?oc=5",
+   "source": "Arkansas Advocate",
+   "published": 1792441191.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Advocate",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXRPNzl0VnlxbU1rc0laVU5Cbk1kR2ppdDU1VFBsRHpLUUNZYktNWUJqSndSQkt0blZFaW9xT3FEWlV5WmpqVERSUFhLTDdHSVBZVzM4X1pPdTJ4NzcwdVM3Y3N5VFVUTHhqQW5KUm55d1BCYnJkSWJpSVNHQlEtemp5ODBmUUV4ZG9CVDViMk55Q3ZoTm5PejFtSTRtT2REb2RoRWFlWjBfOW02MU1aeS0wTzh3d3V5X3c?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "whatarkansanssaidonthefirstdayofearlyvotingforthemidtermelectionarkansasadvocate"
+   ],
+   "first_seen": 1792974005.724913,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "Little Rock man charged with capital murder in North Little Rock shooting - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVd5VEJnbGcyWUMxd2JXa196aFBkZk9aWFNJUHRVV2dhemc4dnRnNWhWSlpESjJoU3U4MVBIeW1qeEY4ZXRDZ2dWaFo4ZVZCNkNFanpaS2hhMUVCOHY1U3MxWXlnYVJmenQ2ZmFsZldjc3FfcTJDT1FKRWZGMnYwYVpyV1k5dkQ2SVczZ2JFeDV6UlNYcnc?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -353,10 +375,15 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1NhYkExVE5DcHhSMXpzWC1sYnQwMjdUSjU2TjJOR25IT3kzYXEwbE9CUy1pTzZFekJBdHhqMmhNV05uS1E4cVUzMl9GT25FQUpuekhuampNdElNSHQ3dWcwV21EZW9PN0JCYVBUaG1GeFZtVjVqTmQzWHdObXhvRHBBS1R2b3RoV2lJOHJKbGhIVVdPZFAwbGpFMFk4ZFlGeHNUUnEyVDBnTURoLXNIcHlaS0pPYURDVmstN1o5SlBheGtybVd6SmhxYkNWUnZxZFZlbzFkZnFUV2RZbDJyTDBKRXBiTW5vbDJ3?oc=5"
+    },
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWVOSk9TX3Q5OFZTLV8zTUtBbkRaRkdXd25TeVdTYlRsOUpHa0xGbWFHRHdJeDYzSWdYbkRvMTlpYUdUM1hZQXZGcUV2eDJkZkNyRHIzeGVKZFdBTTVjUllzbFNNZXVXaUZXTjlVSkpmenVNY19nTHJlUGM5WUtweVBUdG9EU2tCS1ZfdlplM0J2a1hERVE?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 3,
    "member_keys": [
+    "nlrpdarrestsuspectconnectedtofatalsaturdaynightshootingkatv",
     "northlittlerockpolicebeginhomicideinvestigationaftersaturdayshootingsuspectarres",
     "police1deadinsaturdaynightnorthlittlerockshootingsuspectarrestedkark"
    ],
@@ -475,28 +502,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock Police suspends three officers with pay for misuse of license plate reader system - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1791874800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkpjOFRid2VaT3R2bEJpN2hwVThKbHRrdWFYY21xZE83WVc1ZVhZanY2Y0ZNR3B2aDc2dEpVRTlQaUFoQy1oQlZkeXZoUHVTVUJHcmVDdHRKMHRFYUxUc215RHkwcnd3SkthSnVrWk1nYlc3d0FuSDVZak5aX0Rua3huZU01Wm1BYXduX3IxVlkzMUdTV0Fobkk1Y18?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockpolicesuspendsthreeofficerswithpayformisuseoflicenseplatereadersystemt"
-   ],
-   "first_seen": 1792890461.620925,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock police identify woman that died in weekend shooting - KARK",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5",
    "source": "KARK",
@@ -504,20 +509,14 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT09sOHozbG1hMTB5SENSd0Q1cE5iRWZQdzRrZ2xId3B4d1IxN3JIX1p5dWRQOTNQMkR4cUdFMkxaZjdHRUxEdGVwLXliTVN6R1NIQkpSMXR4ZFBmQTM5NGFWNFBscmwyNHdoNk1oZldPYVQ2ODJOZDVWWWlKdWtzQnREM3lmZWVMVE9Id2NaV0NwT3lhVFU5QmRybUw0dw?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU55OXNnemdCTTNrWV9NT2RrVVBnMlh3dEtRNWpoMzkyUTVtQXJHekh1OVRILXpMX0Y0bEg3Vk5heFNpWWZScnNla3N2aHJ0SXZhSnNxTXFEZUxYTHk2YkNQYXRsTmNDV1VURzVlMnBUU1RMbEQ5S2xGX3VzUzNkMGZSTmJiZzNwUHZRVTN1MWJnend1b0RvMTRfalFncjBKTUttZEFJbldaSFE?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "northlittlerockpoliceidentify39yearoldwomanasvictiminfatalshootingkatv",
     "northlittlerockpoliceidentifywomanthatdiedinweekendshootingkark"
    ],
    "first_seen": 1792890461.620925,
