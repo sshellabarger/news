@@ -1,28 +1,50 @@
 {
- "updated": "2026-10-28T07:49:07.811561-05:00",
+ "updated": "2026-10-28T13:50:06.893021-05:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Vote set for next week on ordinance over Little Rock police surveillance technology - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGVpVEw3OHcyZGhXYi1qNXg3VEpDbC0wTWNNRjVoQlpLQVFBcFFzbDhxYXZqSkdVY1JiSGxfRDE0MjV2dHN1b1Zic1Zsdi1rS2F6WE9WQmNCRDI5X0VnWngyeHVHWVcyVHdMTUFuTk5vbzE4OXN0RzluWkFYZkY2aXJuZXEwQ2hJeUpYdWhYZm5uWEszdGdObHIwdDk?oc=5",
+   "title": "Tickets go on sale Monday for four Little Rock performances of ‘The Wiz’ - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHppNzBJTjRuOUd3R2x5OWNKZlE4YUgyV3FLM2ZRSmN6bkRQRlpFMHlSNDJPR05oSENPT3Jxc2R0QlZPWmZTVGgzeV9EMXpIeWZRTEh5T3lhUk9qdGlRNnBWZHoxY3lQb2hjREhzZERiX2ZDQWpjNk92UF9Qcnd3LXdBdHZ0NUlrOUJmZGJSU3VLMGpxVGViZE42QQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1793158800.0,
+   "published": 1793210700.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGVpVEw3OHcyZGhXYi1qNXg3VEpDbC0wTWNNRjVoQlpLQVFBcFFzbDhxYXZqSkdVY1JiSGxfRDE0MjV2dHN1b1Zic1Zsdi1rS2F6WE9WQmNCRDI5X0VnWngyeHVHWVcyVHdMTUFuTk5vbzE4OXN0RzluWkFYZkY2aXJuZXEwQ2hJeUpYdWhYZm5uWEszdGdObHIwdDk?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHppNzBJTjRuOUd3R2x5OWNKZlE4YUgyV3FLM2ZRSmN6bkRQRlpFMHlSNDJPR05oSENPT3Jxc2R0QlZPWmZTVGgzeV9EMXpIeWZRTEh5T3lhUk9qdGlRNnBWZHoxY3lQb2hjREhzZERiX2ZDQWpjNk92UF9Qcnd3LXdBdHZ0NUlrOUJmZGJSU3VLMGpxVGViZE42QQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "votesetfornextweekonordinanceoverlittlerockpolicesurveillancetechnologythearkans"
+    "ticketsgoonsalemondayforfourlittlerockperformancesofthewizthearkansasdemocratgaz"
    ],
-   "first_seen": 1793165855.361933,
-   "section": "crime"
+   "first_seen": 1793213406.893021,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "atg Pavilion Honoring Arkansas Musicians Opens in North Little Rock - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5",
+   "source": "Hoodline",
+   "published": 1793197393.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "atgpavilionhonoringarkansasmusiciansopensinnorthlittlerockhoodline"
+   ],
+   "first_seen": 1793213406.893021,
+   "section": "major"
   },
   {
    "type": "article",
@@ -77,15 +99,21 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "A Natural State Funeral Service",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjY0TlRDcGxVNmtsNDJ1OGRNcXZYZmwzT3pDc2R4cGtSREZJNmNSYU5rNUN1WFBSaEtUYnRiSHRIUmk4SjFRTmx3YUo3S3RidTIyTFdaNnNFdGU0a0J1REJIYkw3bVM4RU1BREloNjZ0QVJySDVPRW52eF9zWUdFUVFrTQ?oc=5"
+    },
+    {
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTlHY1huaXVrWURMWWxEbE1LbFRybmJPQjlxR0lBSUtIZlZKZFhBX21HcGJCMElSTG9FcjRxbFlPTzhOMkZqU09zOTR5R3pSQ05oZEpPNkZJZTlqOGZzUGt2WkkwU0Z2M0s3LThwVk9MUEpMZ295cW11TXVZdVJsdld3?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "zacharywilliammoranage39anaturalstatefuneralservice"
+    "zacharywilliammoranage39anaturalstatefuneralservice",
+    "zacharywilliammoranobituary2026littlerockaranaturalstatefuneralservicecrematoryl"
    ],
    "first_seen": 1793144743.956128,
    "section": "obits"
@@ -110,28 +138,6 @@
     "robinsoncenter10thanniversaryopenhousenov10arkansasradio"
    ],
    "first_seen": 1793144743.956128,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "WEHCO Media Inc. announces newspaper job cuts - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzNWT3JGNlRLamtOTWVMWVlZQ2N5VXFfakdHTTZqWjFsYmFxLXRrb2ROWTM1b0JJU09HM1UxTWp3cXc3VkhiT2RCcFBGckR0Z3BWTjdEYXExTGlaSWEyQ0M1VlhoNlI4SThKM1R1N3lFSHRTUF9PVGFURnlRZGVqakQ2TzdBRG5BdXEzcUF5RThQUFdDV3VCdA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793124900.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzNWT3JGNlRLamtOTWVMWVlZQ2N5VXFfakdHTTZqWjFsYmFxLXRrb2ROWTM1b0JJU09HM1UxTWp3cXc3VkhiT2RCcFBGckR0Z3BWTjdEYXExTGlaSWEyQ0M1VlhoNlI4SThKM1R1N3lFSHRTUF9PVGFURnlRZGVqakQ2TzdBRG5BdXEzcUF5RThQUFdDV3VCdA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "wehcomediaincannouncesnewspaperjobcutsthearkansasdemocratgazette"
-   ],
-   "first_seen": 1793191747.811561,
    "section": "major"
   },
   {
@@ -202,28 +208,6 @@
   },
   {
    "type": "article",
-   "title": "Wilma Faulkner - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdThvdmVld3dhek1WV2pScTZZTkU5SE9Ua2VtU1B0ZDRYbkdsWWEtM3NqSzBha3hJaXpUNk5BU3ptQnVoLTVEVm4tSjRGTmRpRm5ZZTdpSlFQT3JoSnl3b3FyNk9vRzFoUFJ2Rmd5a2RGajhNOGc3TDQxaTFHSXhYbThCYzNkT2c?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793077647.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdThvdmVld3dhek1WV2pScTZZTkU5SE9Ua2VtU1B0ZDRYbkdsWWEtM3NqSzBha3hJaXpUNk5BU3ptQnVoLTVEVm4tSjRGTmRpRm5ZZTdpSlFQT3JoSnl3b3FyNk9vRzFoUFJ2Rmd5a2RGajhNOGc3TDQxaTFHSXhYbThCYzNkT2c?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "wilmafaulknerthearkansasdemocratgazette"
-   ],
-   "first_seen": 1793111278.854119,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Testimony begins in trial of Little Rock woman accused in sex trafficking conspiracy - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMWdoNGEzZGI3WTRUZ3Q1b3BDb25VRU56Znh6M1ZPUHhDX0ZNTkVyLW55bnBFRzY3SFlyVkN1SHJPa2JldnhieUF6NVgtVzhDdldjaWRMMkctYzJKaFRBY2Vnd2tIazdpQVlQQ0o3OVd6bDlBZFVUSUJlUVM0TTlCMGpWUXJrd1hmZ2FMWFUzWVJqWjdJa1lISkhFWQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -286,28 +270,6 @@
     "arkansaspostcardpastpinebluffin1905thearkansasdemocratgazette"
    ],
    "first_seen": 1793056118.327891,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas Supreme Court rejects request to stop paying attorneys in Board of Corrections lawsuit - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlQwTlZOeGV5ejJacUlZT1FuN0F2eVBTVVAybDNEaW9SMGRPTEhKNTFQVk9lSU1tMDl4N04yZ29xbUlQU2wxQnJsTUMzd3l4bXhGOExJN1k5eFhwQmVpTjFKUGRoZXo4TEhMUkxhSXlKdV85N3piZ1NlaS1oUGU1ZllwUjdwdTMxTEwzYTVKeWdRLWk1ZjZ0c0pKUQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793043660.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlQwTlZOeGV5ejJacUlZT1FuN0F2eVBTVVAybDNEaW9SMGRPTEhKNTFQVk9lSU1tMDl4N04yZ29xbUlQU2wxQnJsTUMzd3l4bXhGOExJN1k5eFhwQmVpTjFKUGRoZXo4TEhMUkxhSXlKdV85N3piZ1NlaS1oUGU1ZllwUjdwdTMxTEwzYTVKeWdRLWk1ZjZ0c0pKUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansassupremecourtrejectsrequesttostoppayingattorneysinboardofcorrectionslawsu"
-   ],
-   "first_seen": 1793111278.854119,
    "section": "major"
   },
   {
@@ -548,15 +510,10 @@
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXJHTUtoZjlWd0REWGEyaHVod0hHVE8yR3VmbGU1Mm1lZmk2SzVoTjZacXhwaG03aWd5ck1zYmlRWnR5cGNDV0hCU2dEWHowbFdYU21vY2Q2QTNQcTRTRjBEVTd4ZWpKeHFsaVhxTDdKeWpoWEZjY1FzendBTUpCbUtSdGpxSGs5SHF4ZmYtYw?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWVOSk9TX3Q5OFZTLV8zTUtBbkRaRkdXd25TeVdTYlRsOUpHa0xGbWFHRHdJeDYzSWdYbkRvMTlpYUdUM1hZQXZGcUV2eDJkZkNyRHIzeGVKZFdBTTVjUllzbFNNZXVXaUZXTjlVSkpmenVNY19nTHJlUGM5WUtweVBUdG9EU2tCS1ZfdlplM0J2a1hERVE?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
-    "nlrpdarrestsuspectconnectedtofatalsaturdaynightshootingkatv",
     "northlittlerockpolicebeginhomicideinvestigationaftersaturdayshootingsuspectarres",
     "police1deadinsaturdaynightnorthlittlerockshootingsuspectarrestedkark"
    ],
@@ -584,6 +541,50 @@
    ],
    "first_seen": 1793191747.811561,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock police say at least four people were involved in deadly Circle K shooting - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1792134000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzMxV3RPNlB4SU8zSzdyRThBVC1GMTRabjU0Q3F4LXVmR1hKS004UjlXWXBRczczS2R2dTNtWXltMjNIYTVxWFBxd2cwNVdWMXZUYW1mQlhaRURTc2FSTzZYWF9BVG1pNmVYQUVoTU9mdGdnSVRCR3JsMzNOX0lFQ3I4UHlNZlNhNUJHWGZ4SjF4MURlNjB2eA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpolicesayatleastfourpeoplewereinvolvedindeadlycirclekshootingthearkans"
+   ],
+   "first_seen": 1793213406.893021,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Banana Ball Returns to North Little Rock in 2027 - MLB.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUZXQVQ5dW9zeDA3ZkNtcUlXRlJWbndXWFJhVkhNRnc4V0I1dHY3cXNMdU1Rd3V4XzRpOEgxRUJpaTZYeDVjeERnakVfTXdtNTFLNGM2clFsNkhLWDFHVDRPdWlNNGI5M3N2NDJVRG5NcHE0cXpvVTZOU1UwUGN3dW1xQTBEY2xIbVRIODlGVlc?oc=5",
+   "source": "MLB.com",
+   "published": 1792047600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "MLB.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUZXQVQ5dW9zeDA3ZkNtcUlXRlJWbndXWFJhVkhNRnc4V0I1dHY3cXNMdU1Rd3V4XzRpOEgxRUJpaTZYeDVjeERnakVfTXdtNTFLNGM2clFsNkhLWDFHVDRPdWlNNGI5M3N2NDJVRG5NcHE0cXpvVTZOU1UwUGN3dW1xQTBEY2xIbVRIODlGVlc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "bananaballreturnstonorthlittlerockin2027mlbcom"
+   ],
+   "first_seen": 1793213406.893021,
+   "section": "major"
   }
  ]
 }
