@@ -1,12 +1,34 @@
 {
- "updated": "2026-10-29T16:47:32.894560-05:00",
+ "updated": "2026-10-29T20:56:36.726424-05:00",
  "items": [
+  {
+   "type": "article",
+   "title": "How many Flock cameras do you pass every day? Find them on our map - KATV",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeG1QUVE5SG0tSkhTWnkyWmZNNHhpT2NPZHlDV3dZVHBXaEE3MnZNZlFUbmtLV3RkcG5tRDRKNHE2cVpmczU0QlNqaTBYanh1ZG9HTUdKcUlRbEFJV3ZOQ09zLWdLemJ1S0NpeUk5U3NNLS0tLVRITURZM0NUZ0dCYUlCLUdkbThfQVdQaDVrWVN1VlZXMnNUQg?oc=5",
+   "source": "KATV",
+   "published": 1793320393.0,
+   "first_seen": 1793325396.726424,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeG1QUVE5SG0tSkhTWnkyWmZNNHhpT2NPZHlDV3dZVHBXaEE3MnZNZlFUbmtLV3RkcG5tRDRKNHE2cVpmczU0QlNqaTBYanh1ZG9HTUdKcUlRbEFJV3ZOQ09zLWdLemJ1S0NpeUk5U3NNLS0tLVRITURZM0NUZ0dCYUlCLUdkbThfQVdQaDVrWVN1VlZXMnNUQg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "howmanyflockcamerasdoyoupasseverydayfindthemonourmapkatv"
+   ]
+  },
   {
    "type": "article",
    "title": "McLarty opens $3 million Lincoln showroom in North Little Rock - KATV",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXQ1STVUVk9jTExmYmtSWWRyVkFyNm5hN3IxRXI3Rk1qUGpWRnVPazZ1X0ttUjdFM3dna3ZTbGRIR0hwSzVSSENrdnI1NEJPcERhd1U5VERuLXJFa2NPTzM1bnRuVlZsVXZ5QnFMMXJZeDAzb1dvMGx6TERqczNMZU1Fb1BXejMtMl9ZOFZEazluc2M?oc=5",
    "source": "KATV",
-   "published": 1793308002.0,
+   "published": 1793319075.0,
    "first_seen": 1793310452.89456,
    "section": "major",
    "snippet": "",
@@ -47,6 +69,28 @@
   },
   {
    "type": "article",
+   "title": "Trick or treat? Rain Saturday could dampen Halloween but unlikely to ease drought - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDBZSEhNdmJSdEZKOHpXZkp6UExOTEhTN2lXSGlZZy1ENmItcmRJeWtNMWt1NjhwWGZxTFV2N1V3ZzBzY1VvSDhVVkhhTzQzeFhrTE9UM05XTWgwNEpqNGppeHNuWWhxbXVsdnpYSWFMMjd6M0lqdk9fUF9SRzZ2aGV4cGRsRGE3THBLSERfbmJiY2VB?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793297940.0,
+   "first_seen": 1793325396.726424,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDBZSEhNdmJSdEZKOHpXZkp6UExOTEhTN2lXSGlZZy1ENmItcmRJeWtNMWt1NjhwWGZxTFV2N1V3ZzBzY1VvSDhVVkhhTzQzeFhrTE9UM05XTWgwNEpqNGppeHNuWWhxbXVsdnpYSWFMMjd6M0lqdk9fUF9SRzZ2aGV4cGRsRGE3THBLSERfbmJiY2VB?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "trickortreatrainsaturdaycoulddampenhalloweenbutunlikelytoeasedroughtthearkansasd"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Carl Waymon Comer Obituary (2026) - North Little Rock, AR - Arkansas Cremation - Legacy | Obituary",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FTzRPUXlJRGxOVnFEMXVlYWJObHl5Y01qVm44Rkt1UW9DRTRTU01EMGUzQkdCMHcwckZtY2d5U1l6QW5LZHc5bmRVSnNxUGVadm9PVHRISEtfM0wyeEFhQTRpQ3FudkE1Tl9ndXBaOG1JRndWa3dRYURqR2tCdw?oc=5",
    "source": "Legacy | Obituary",
@@ -65,6 +109,28 @@
    "source_count": 1,
    "member_keys": [
     "carlwaymoncomerobituary2026northlittlerockararkansascremationlegacyobituary"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Rapper KenTheMan sets Dec. 5 concert at Little Rock’s Robinson Center - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemc3OUpSOEJma2d2cnR2Y2NvbGxUMUdnM3N0bXd5bGR2aUp3UG51OTQyZXhPXzUxMWMxd1NXOXZfSVZCSUh0QjFxTWFqRFFYdmtyd2JTQmNIYnBDSDR1RVMtMmpFZ18yOTBUZm1SeTB6bWtnbzN2S1NyNmh3Y3BkUWdkeFp1cHQ4TFZ0OS15OFV5VGtSTk1DOHdR?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793296860.0,
+   "first_seen": 1793325396.726424,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemc3OUpSOEJma2d2cnR2Y2NvbGxUMUdnM3N0bXd5bGR2aUp3UG51OTQyZXhPXzUxMWMxd1NXOXZfSVZCSUh0QjFxTWFqRFFYdmtyd2JTQmNIYnBDSDR1RVMtMmpFZ18yOTBUZm1SeTB6bWtnbzN2S1NyNmh3Y3BkUWdkeFp1cHQ4TFZ0OS15OFV5VGtSTk1DOHdR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "rapperkenthemansetsdec5concertatlittlerocksrobinsoncenterthearkansasdemocratgaze"
    ]
   },
   {
@@ -575,6 +641,28 @@
   },
   {
    "type": "article",
+   "title": "Catherine Elizabeth \"Betty\" Johnston Obituary Oct 27, 2026 - www.smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5",
+   "source": "www.smithfamilycares.com",
+   "published": 1793084400.0,
+   "first_seen": 1793229146.467214,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "www.smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "catherineelizabethbettyjohnstonobituaryoct272026wwwsmithfamilycarescom"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Robert D. \"Bob\" Richardson Obituary Oct 27, 2026 - www.smithfamilycares.com",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORFlQVzVQNEpmYWc2N3l5MW5POTFFYzBSYmVkSHNwUUE1alBubkNrOHhDTHNyX3BVdURWc0JEVEd5Vl9kLXFRMlF0OVNiRVVxWW5zWC15SG9RS0ZqdExDeERYUWltYkVQbkRwZDdiU2s3cjBzUGJaYXZPSEZ5eFliazQxRmtza2U5c0F1aEFSZjBBcWVIOElQOENtR2NlUGdrVzRxUW5ObFN3VF9KUGRjck5nWENlQmtKeVdXT3FJM3oxSl9MV0JrTkFSYjUwVHFIZzc2YkpBVHY2anE5SnBpaVplV3c?oc=5",
    "source": "www.smithfamilycares.com",
@@ -597,24 +685,24 @@
   },
   {
    "type": "article",
-   "title": "Catherine Elizabeth \"Betty\" Johnston Obituary Oct 27, 2026 - www.smithfamilycares.com",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5",
-   "source": "www.smithfamilycares.com",
+   "title": "Robert D. Richardson Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZm1MaVU3SmlXaFFKZl9CZVRCQjRVMHUzV1VBc1hQcThWc0RSRFlQZ1J2VWpqMVlWcjY5VTBERVlYdnUxN0JhOG55Z0QwbXlsM1BOS2ktaFgtY1RUb2hmNFl5a2ZCMXg1T3djaHRSc0E4RDFxcUx1MWl6eVVBRW5aUmkzYWIxZ1U?oc=5",
+   "source": "Legacy | Obituary",
    "published": 1793084400.0,
-   "first_seen": 1793229146.467214,
+   "first_seen": 1793325396.726424,
    "section": "obits",
    "snippet": "",
    "discussion_url": "",
    "num_comments": null,
    "sources": [
     {
-     "source": "www.smithfamilycares.com",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5"
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZm1MaVU3SmlXaFFKZl9CZVRCQjRVMHUzV1VBc1hQcThWc0RSRFlQZ1J2VWpqMVlWcjY5VTBERVlYdnUxN0JhOG55Z0QwbXlsM1BOS2ktaFgtY1RUb2hmNFl5a2ZCMXg1T3djaHRSc0E4RDFxcUx1MWl6eVVBRW5aUmkzYWIxZ1U?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "catherineelizabethbettyjohnstonobituaryoct272026wwwsmithfamilycarescom"
+    "robertdrichardsonobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittle"
    ]
   },
   {
@@ -876,15 +964,10 @@
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzQ0ZnY1RzNfeVROZGgyWENLanY5TFdQQi15c3F6UkJ1WVk3NEYyWTBLTTNEekVvWlphR0ZRdlMwQ3BLMFVfTEMzZWdNdTUwaEd6aHlsRXhZelMyQ3g2OW1KMWFuUm1SUmJZNnFLcnN2bG5tWDZxTExKME1NQ1JCa1VWa1F5Q2dGeVl5aQ?oc=5"
-    },
-    {
-     "source": "The Sun",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnBhSjBfOHJqVVdPYmxtMUoyc0U2dExNdGxValVGYTJhdVRiSFc1ZEs1LXNuNFFaYUQyY3g2cmVKU1ZuVmp1dmJiTzg4QlAzRkxPSS01OVhEcjhzM3QyelNGM1JIVF9CTUdzWmp1TU1Wdi1vRG1PWXRjNG5LaUNSZA?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "aldicontinuesopeningspreeasuscityssecondstoretoarriveinjustdaysandshopperscanget",
     "aldiopeningsecondnorthlittlerocklocationkark"
    ]
   },
@@ -1216,6 +1299,28 @@
    "source_count": 1,
    "member_keys": [
     "decipheringdogtownnewmuseumtellsnorthlittlerockscolorfulhistorythearkansasdemocr"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Wilma Faulkner Obituary - North Little Rock, AR - Dignity Memorial",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3FMV3ZVVzU3RFVrTHd4cXE2cHU2c3ZfWXlLRGxjRXIxY1VsSmNwdU1sRVZ4M0o3SW9neHhoTHI4TTA4LWw1LWJHcHVISi15dVdUektDQU42cVRfWmdhSlpWaXlsUFNRNXdjYVpxR2hFVUxwOXBYOThDdTlLR0oyc2RUWW9HcEZWbzhaVExFcWs?oc=5",
+   "source": "Dignity Memorial",
+   "published": 1792825200.0,
+   "first_seen": 1793325396.726424,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Dignity Memorial",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3FMV3ZVVzU3RFVrTHd4cXE2cHU2c3ZfWXlLRGxjRXIxY1VsSmNwdU1sRVZ4M0o3SW9neHhoTHI4TTA4LWw1LWJHcHVISi15dVdUektDQU42cVRfWmdhSlpWaXlsUFNRNXdjYVpxR2hFVUxwOXBYOThDdTlLR0oyc2RUWW9HcEZWbzhaVExFcWs?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "wilmafaulknerobituarynorthlittlerockardignitymemorial"
    ]
   },
   {
@@ -1572,28 +1677,6 @@
   },
   {
    "type": "article",
-   "title": "Joel K. Buckner Obituary Oct 22, 2026 - www.smithfamilycares.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaWFnUHNqUDBGOUZIckZXMUZaTzJHTEMzM0ZHUlRsM3VCRlB5Y2pNWjU4OG54LVZ4Vk1uYjU2N1JBeDU0VjVfMEpKQWl0M2pEenVkZWJyR016aHJUUm1aV1lFOV9ua00?oc=5",
-   "source": "www.smithfamilycares.com",
-   "published": 1792652400.0,
-   "first_seen": 1793111278.854119,
-   "section": "obits",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "www.smithfamilycares.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaWFnUHNqUDBGOUZIckZXMUZaTzJHTEMzM0ZHUlRsM3VCRlB5Y2pNWjU4OG54LVZ4Vk1uYjU2N1JBeDU0VjVfMEpKQWl0M2pEenVkZWJyR016aHJUUm1aV1lFOV9ua00?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "joelkbucknerobituaryoct222026wwwsmithfamilycarescom"
-   ]
-  },
-  {
-   "type": "article",
    "title": "Joel K. Buckner Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOalBXSzNSOFhmQmdpZEtoSHQxd0JqNzRBTk1aQXQzZUw1NW5PZDBPcEdiSnpyWnZBMVV1VU8wdWk1OGw4UUMtdG9NUGRnZ0JqTjhubzRTdUZFcFdFbHE1MGlXVWhldFNIOHYxaVdBVFEwTUVmM1JScDhzNW4tWGdTZw?oc=5",
    "source": "Legacy | Obituary",
@@ -1612,6 +1695,28 @@
    "source_count": 1,
    "member_keys": [
     "joelkbucknerobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittlerockl"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Joel K. Buckner Obituary Oct 22, 2026 - www.smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaWFnUHNqUDBGOUZIckZXMUZaTzJHTEMzM0ZHUlRsM3VCRlB5Y2pNWjU4OG54LVZ4Vk1uYjU2N1JBeDU0VjVfMEpKQWl0M2pEenVkZWJyR016aHJUUm1aV1lFOV9ua00?oc=5",
+   "source": "www.smithfamilycares.com",
+   "published": 1792652400.0,
+   "first_seen": 1793111278.854119,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "www.smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaWFnUHNqUDBGOUZIckZXMUZaTzJHTEMzM0ZHUlRsM3VCRlB5Y2pNWjU4OG54LVZ4Vk1uYjU2N1JBeDU0VjVfMEpKQWl0M2pEenVkZWJyR016aHJUUm1aV1lFOV9ua00?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "joelkbucknerobituaryoct222026wwwsmithfamilycarescom"
    ]
   },
   {
