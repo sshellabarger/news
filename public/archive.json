@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T21:11:56.612857-05:00",
+ "updated": "2026-11-01T03:12:49.213577-06:00",
  "items": [
+  {
+   "type": "article",
+   "title": "PAPER TRAILS: Little Rock’s Dunbar Garden will host festival celebrating zines, artists - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHk0cE5sZUFZQ1l2RTNRUk54UnZFb2FMNDRUaHlLd3FJUGVRSGZPRkpSY1J6a1RkV2JyNTFYVXJLcUJSc2dKSTBFSzlxOU9FS3lfWWNxb2k3T3YxTkZwU1ZEYW1FTlVOMDNjLUpROFM4bjJTTU54Vk03a1VEdzhhdEpMQzZrVF8zc19qSGE1dWp0aF8ybHM5cFVR?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793493000.0,
+   "first_seen": 1793524369.213577,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHk0cE5sZUFZQ1l2RTNRUk54UnZFb2FMNDRUaHlLd3FJUGVRSGZPRkpSY1J6a1RkV2JyNTFYVXJLcUJSc2dKSTBFSzlxOU9FS3lfWWNxb2k3T3YxTkZwU1ZEYW1FTlVOMDNjLUpROFM4bjJTTU54Vk03a1VEdzhhdEpMQzZrVF8zc19qSGE1dWp0aF8ybHM5cFVR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "papertrailslittlerocksdunbargardenwillhostfestivalcelebratingzinesartiststhearka"
+   ]
+  },
   {
    "type": "article",
    "title": "ENTERTAINMENT: ‘Carpenters Songbook’ at WAC, ‘Fraggle Rock’ at UCA - The Arkansas Democrat-Gazette",
@@ -201,6 +223,28 @@
   },
   {
    "type": "article",
+   "title": "North Little Rock’s ATG Pavilion opens, celebrates Arkansas’ musical history - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793403000.0,
+   "first_seen": 1793213406.893021,
+   "section": "major",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
+   ]
+  },
+  {
+   "type": "article",
    "title": "North Little Rock Walmart evacuated due to gas leak - thv11.com",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjhzNlZHZHR2amxKWFhreVVSbzdfencybkZ1Zk9IZG4wcG1keDM0NFBaYUtrOXl4VW94MDhUN3V1dlZtM04xZG5IME05cGJJTDh0ZXUtUjVpRDVjTlFra1NtOUhmTW5yeDZtRnpLV3lwbjV0TnYzT2FaQVlQUjNiYjFWNnM5cXNEdlNSQXNGMUt1b3ppNkw4amlkdy1XQ3dXT09jbWRJTDlEUVZJZk9TdUF2YzNaUEx1RTIwdVo2Q2t2WG9wUTZvLXJnNXJ6THdiMUNyT2JQdkt1QzV0cVRWbjJXNkE?oc=5",
    "source": "THV11",
@@ -373,11 +417,16 @@
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0Rjd3VHZVY1RzlaVFVxajh4NGlrNVp1eVFITmVJbHFZZHBRNGxJOS1VV0xFcHpNRHZEZHZWcmxPRDZKODliOHBBSUljOUxrTjQwRTV2LW0zR0RNUXZURFhwLTE5Vk9XVFJzZWYtQ2dxNmNGR0xpTVZ0RmJSa1hGNWxTMjlxNHRmcDQ4LU80RHdIXzJaSDJUUldKVnBYSzRQRzBKZnRBVWVYc1VTeVdZSlhFd3pycDhDYk12LVR1NWx4Zzg?oc=5"
+    },
+    {
+     "source": "NewsBreak: Local News & Alerts",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGNqSnJVUXpPc2pKZmxLVDJ6UElvcVJDa2RKOFhDbTA5TW1ZUEVEQy1iVlYtUDdERGFCNG9ra1kxUnJTcW9pd2tIanZTelhOZ0JKYmdURHhxWWM2OTZfclIzTXVEZnUtZ0VpSDlwZEVUMmVIbEtkR2dUQXZpMTRCRjUtNnlJMXhPSS10ZnVaNzdZQzVKSjN1U25kNUN5Zw?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "newaldilocationopensinnorthlittlerockaheadofholidayseasonthv11com"
+    "newaldilocationopensinnorthlittlerockaheadofholidayseasonthv11com",
+    "newaldilocationopensinnorthlittlerocknewsbreaklocalnewsalerts"
    ]
   },
   {
@@ -686,33 +735,6 @@
    "source_count": 1,
    "member_keys": [
     "fcctovoteonruleallowingjammingofcellphonesinprisonthearkansasdemocratgazette"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "atg Pavilion Honoring Arkansas Musicians Opens in North Little Rock - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5",
-   "source": "Hoodline",
-   "published": 1793197393.0,
-   "first_seen": 1793213406.893021,
-   "section": "major",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "atgpavilionhonoringarkansasmusiciansopensinnorthlittlerockhoodline",
-    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
    ]
   },
   {
@@ -1370,10 +1392,15 @@
     {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzQ0ZnY1RzNfeVROZGgyWENLanY5TFdQQi15c3F6UkJ1WVk3NEYyWTBLTTNEekVvWlphR0ZRdlMwQ3BLMFVfTEMzZWdNdTUwaEd6aHlsRXhZelMyQ3g2OW1KMWFuUm1SUmJZNnFLcnN2bG5tWDZxTExKME1NQ1JCa1VWa1F5Q2dGeVl5aQ?oc=5"
+    },
+    {
+     "source": "The Sun",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnBhSjBfOHJqVVdPYmxtMUoyc0U2dExNdGxValVGYTJhdVRiSFc1ZEs1LXNuNFFaYUQyY3g2cmVKU1ZuVmp1dmJiTzg4QlAzRkxPSS01OVhEcjhzM3QyelNGM1JIVF9CTUdzWmp1TU1Wdi1vRG1PWXRjNG5LaUNSZA?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
+    "aldicontinuesopeningspreeasuscityssecondstoretoarriveinjustdaysandshopperscanget",
     "aldiopeningsecondnorthlittlerocklocationkark"
    ]
   },

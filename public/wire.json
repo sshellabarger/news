@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-31T21:11:56.612857-05:00",
+ "updated": "2026-11-01T03:12:49.213577-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "PAPER TRAILS: Little Rock’s Dunbar Garden will host festival celebrating zines, artists - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHk0cE5sZUFZQ1l2RTNRUk54UnZFb2FMNDRUaHlLd3FJUGVRSGZPRkpSY1J6a1RkV2JyNTFYVXJLcUJSc2dKSTBFSzlxOU9FS3lfWWNxb2k3T3YxTkZwU1ZEYW1FTlVOMDNjLUpROFM4bjJTTU54Vk03a1VEdzhhdEpMQzZrVF8zc19qSGE1dWp0aF8ybHM5cFVR?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793493000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHk0cE5sZUFZQ1l2RTNRUk54UnZFb2FMNDRUaHlLd3FJUGVRSGZPRkpSY1J6a1RkV2JyNTFYVXJLcUJSc2dKSTBFSzlxOU9FS3lfWWNxb2k3T3YxTkZwU1ZEYW1FTlVOMDNjLUpROFM4bjJTTU54Vk03a1VEdzhhdEpMQzZrVF8zc19qSGE1dWp0aF8ybHM5cFVR?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "papertrailslittlerocksdunbargardenwillhostfestivalcelebratingzinesartiststhearka"
+   ],
+   "first_seen": 1793524369.213577,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "ENTERTAINMENT: ‘Carpenters Songbook’ at WAC, ‘Fraggle Rock’ at UCA - The Arkansas Democrat-Gazette",
@@ -20,28 +42,6 @@
    "source_count": 1,
    "member_keys": [
     "entertainmentcarpenterssongbookatwacfragglerockatucathearkansasdemocratgazette"
-   ],
-   "first_seen": 1793499116.612857,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": ", North Little Rock, AR 72118 | Realtor.com® - Realtor.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkZkeHVXZVJnLW1YM1FNSmE5b2JlWE5BaEViSWJiTTFJU1BFQ1N0dExfUkl5ZWMtQ2NqaFROVTdEZ1AxV01ndjBfQUVUeEZzWl9JalRuUG9OQ29EbGY4Z2ZFQkQ0aVFVb2N2c3g5aF94UmVHQWxFRWh5SHk3VXFaV2ZmZ1k0QQ?oc=5",
-   "source": "Realtor.com",
-   "published": 1793419359.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Realtor.com",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkZkeHVXZVJnLW1YM1FNSmE5b2JlWE5BaEViSWJiTTFJU1BFQ1N0dExfUkl5ZWMtQ2NqaFROVTdEZ1AxV01ndjBfQUVUeEZzWl9JalRuUG9OQ29EbGY4Z2ZFQkQ0aVFVb2N2c3g5aF94UmVHQWxFRWh5SHk3VXFaV2ZmZ1k0QQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockar72118realtorcomrealtorcom"
    ],
    "first_seen": 1793499116.612857,
    "section": "major"
@@ -180,6 +180,28 @@
   },
   {
    "type": "article",
+   "title": "North Little Rock’s ATG Pavilion opens, celebrates Arkansas’ musical history - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793403000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
+   ],
+   "first_seen": 1793213406.893021,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "North Little Rock Walmart evacuated due to gas leak - thv11.com",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjhzNlZHZHR2amxKWFhreVVSbzdfencybkZ1Zk9IZG4wcG1keDM0NFBaYUtrOXl4VW94MDhUN3V1dlZtM04xZG5IME05cGJJTDh0ZXUtUjVpRDVjTlFra1NtOUhmTW5yeDZtRnpLV3lwbjV0TnYzT2FaQVlQUjNiYjFWNnM5cXNEdlNSQXNGMUt1b3ppNkw4amlkdy1XQ3dXT09jbWRJTDlEUVZJZk9TdUF2YzNaUEx1RTIwdVo2Q2t2WG9wUTZvLXJnNXJ6THdiMUNyT2JQdkt1QzV0cVRWbjJXNkE?oc=5",
    "source": "THV11",
@@ -208,28 +230,6 @@
   },
   {
    "type": "article",
-   "title": "Delphenia (Sims) Kuykendall Obituary (2026) - North Little Rock, AR - Arkansas Cremation - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVBPLThEQkh5WE9FVXo3S0c0MU9zd1JZT195Z3JuLUVUN3dJSFZoMHJ0TzY2QVdydkFGbGdTbndpYXlwdGNRYlVoSXgtTkxBdTFOcE5uczlkRVNCemE3ZS10enlSNXRKX2Mtb2hJYzdpcnZFejhIQVYxOFhVT2x0eEpRX3Fpd09RR3lwNElsOHBDQQ?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1793381984.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVBPLThEQkh5WE9FVXo3S0c0MU9zd1JZT195Z3JuLUVUN3dJSFZoMHJ0TzY2QVdydkFGbGdTbndpYXlwdGNRYlVoSXgtTkxBdTFOcE5uczlkRVNCemE3ZS10enlSNXRKX2Mtb2hJYzdpcnZFejhIQVYxOFhVT2x0eEpRX3Fpd09RR3lwNElsOHBDQQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "delpheniasimskuykendallobituary2026northlittlerockararkansascremationlegacyobitu"
-   ],
-   "first_seen": 1793429900.108475,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Weekend Ahead Oct. 30: Halloween raves, trunk or treats, haunted houses and more - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZFhGVVJtXzhETF9nZTJnd3FOdmVVMEpadnluV1pEV20tdXppNnJBV3FaM1RwZFh2MjNqY1djX3BNUVpVQWw4OFRvTlJmQ0dVQ2NFOVItXzFhU0JiOEF4c0lfVmN4a1dRSGxiOEJPREFaZUszVjB6ZHVXRVJzOHdhdXhVQV83dmRZMndkaGdTeVRrU2IwTnN3MnBB?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -248,6 +248,28 @@
     "weekendaheadoct30halloweenravestrunkortreatshauntedhousesandmorethearkansasdemoc"
    ],
    "first_seen": 1793393152.837963,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock School District will now block students from spring graduation walk if they haven’t met requirements - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3FWbnVmWG4yZ2FlcnpyUXFCVlo5RjhrbkZJTXFSdmtmSEVwcUE5eDZqVlJWWEJFQldtamhvRWI5NTA3UHJfNjM3TFpva2luQ2tUNTNCRTZNTXRySGxEdjJZejhUSWxWVk9KUW52UFdxQ2IyT0xTQ3BuZ0J2Z3hBbHVmajZvZndFcFFJWWRmc2NyMnQxMmc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793327400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3FWbnVmWG4yZ2FlcnpyUXFCVlo5RjhrbkZJTXFSdmtmSEVwcUE5eDZqVlJWWEJFQldtamhvRWI5NTA3UHJfNjM3TFpva2luQ2tUNTNCRTZNTXRySGxEdjJZejhUSWxWVk9KUW52UFdxQ2IyT0xTQ3BuZ0J2Z3hBbHVmajZvZndFcFFJWWRmc2NyMnQxMmc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockschooldistrictwillnowblockstudentsfromspringgraduationwalkiftheyhavent"
+   ],
+   "first_seen": 1793524369.213577,
    "section": "major"
   },
   {
@@ -281,15 +303,21 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "THV11",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0Rjd3VHZVY1RzlaVFVxajh4NGlrNVp1eVFITmVJbHFZZHBRNGxJOS1VV0xFcHpNRHZEZHZWcmxPRDZKODliOHBBSUljOUxrTjQwRTV2LW0zR0RNUXZURFhwLTE5Vk9XVFJzZWYtQ2dxNmNGR0xpTVZ0RmJSa1hGNWxTMjlxNHRmcDQ4LU80RHdIXzJaSDJUUldKVnBYSzRQRzBKZnRBVWVYc1VTeVdZSlhFd3pycDhDYk12LVR1NWx4Zzg?oc=5"
+    },
+    {
+     "source": "NewsBreak: Local News & Alerts",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGNqSnJVUXpPc2pKZmxLVDJ6UElvcVJDa2RKOFhDbTA5TW1ZUEVEQy1iVlYtUDdERGFCNG9ra1kxUnJTcW9pd2tIanZTelhOZ0JKYmdURHhxWWM2OTZfclIzTXVEZnUtZ0VpSDlwZEVUMmVIbEtkR2dUQXZpMTRCRjUtNnlJMXhPSS10ZnVaNzdZQzVKSjN1U25kNUN5Zw?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "newaldilocationopensinnorthlittlerockaheadofholidayseasonthv11com"
+    "newaldilocationopensinnorthlittlerockaheadofholidayseasonthv11com",
+    "newaldilocationopensinnorthlittlerocknewsbreaklocalnewsalerts"
    ],
    "first_seen": 1793310452.89456,
    "section": "major"
@@ -362,34 +390,6 @@
   },
   {
    "type": "article",
-   "title": "atg Pavilion Honoring Arkansas Musicians Opens in North Little Rock - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5",
-   "source": "Hoodline",
-   "published": 1793197393.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "atgpavilionhonoringarkansasmusiciansopensinnorthlittlerockhoodline",
-    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
-   ],
-   "first_seen": 1793213406.893021,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Arkansas-Little Rock men’s basketball team hosts UAPB in 2nd Central Arkansas Tip-Off Classic - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcVpFY1ZRbW5kZEZMT2luZWZzUS11dG5xamMzSlVhYi1ZWkhid2M4V1pEUjZ1ZGwyVTkzekVKbXdkT01MTXhpSFNXdDVTQmpEbHdzWm90VjZpYUxROU9BNVNPVnllLWNBaU5hY1NWTW1KVGFOVlhLSkFubTk5NmJxN0tWaUZOZktNUEtNQjdwRnN5WUJwU0hsOTZFUnoyVV9oY0FKLWMzbVJoOWk0RmVwU0FGX09NMG9FOHdiU1N5aFFKUVFZekxlTzdHN3dCY3FhemwtOUt2WGw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -409,28 +409,6 @@
    ],
    "first_seen": 1793349376.673699,
    "section": "sports"
-  },
-  {
-   "type": "article",
-   "title": "Judy Wood Obituary Oct 28, 2026 - www.smithfamilycares.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelRlLVF4NkktMTd3Q2VOczZQTGNQWk0xQlVBXzhfRS1BNFlpSndDVGJKa2VfUHRZRS1OT3VDUERaOWdIMkpWdEJ1N0hrd3hmUTJGUWZkNDhHQU1TYzA3RVJ2MmlRVkt1SjR4TTZzeHZYLTNNa2REeXNJUGZvT0xZNzdMUk9waU8wLWlNUTV1Vm1CUnNjNEFNQS1pTGstdWlnUTI5UE1iWHE4STVmX1c4NlVjVG5MdnB3Vmg5Q2dGajFqazExVk8xMGViMjN1ZENvejNjSmVsUFZqUQ?oc=5",
-   "source": "www.smithfamilycares.com",
-   "published": 1793170800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "www.smithfamilycares.com",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelRlLVF4NkktMTd3Q2VOczZQTGNQWk0xQlVBXzhfRS1BNFlpSndDVGJKa2VfUHRZRS1OT3VDUERaOWdIMkpWdEJ1N0hrd3hmUTJGUWZkNDhHQU1TYzA3RVJ2MmlRVkt1SjR4TTZzeHZYLTNNa2REeXNJUGZvT0xZNzdMUk9waU8wLWlNUTV1Vm1CUnNjNEFNQS1pTGstdWlnUTI5UE1iWHE4STVmX1c4NlVjVG5MdnB3Vmg5Q2dGajFqazExVk8xMGViMjN1ZENvejNjSmVsUFZqUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "judywoodobituaryoct282026wwwsmithfamilycarescom"
-   ],
-   "first_seen": 1793407560.460993,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -459,28 +437,6 @@
   },
   {
    "type": "article",
-   "title": "Winter Jam 2027 Brings Crowder, Anne Wilson and More to Simmons Bank Arena in North Little Rock January 31 - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHVvZHZscVZ4eGpnWjdnVG5BN2V5Z3IyOWJ0ZTJBSU4wbUkxd1pWLUxXNDRHSXhranN4RFZ1Q1U1SldiVDlXSlUyX0lJenhBUjZRanpGUF9mMVc2TUUzcmc4eFh1SVR2dThYNjItV1B4aXRETzdPaUs1UW1wME5XUTh4X05LcTJzOG45cnhNX1NXTm4xUGhvLXFnd2dQa0Z0cEoxc0NtNjM0eE0?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1793138423.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHVvZHZscVZ4eGpnWjdnVG5BN2V5Z3IyOWJ0ZTJBSU4wbUkxd1pWLUxXNDRHSXhranN4RFZ1Q1U1SldiVDlXSlUyX0lJenhBUjZRanpGUF9mMVc2TUUzcmc4eFh1SVR2dThYNjItV1B4aXRETzdPaUs1UW1wME5XUTh4X05LcTJzOG45cnhNX1NXTm4xUGhvLXFnd2dQa0Z0cEoxc0NtNjM0eE0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "winterjam2027bringscrowderannewilsonandmoretosimmonsbankarenainnorthlittlerockja"
-   ],
-   "first_seen": 1793429900.108475,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Zachary William Moran, age 39 - A Natural State Funeral Service",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjY0TlRDcGxVNmtsNDJ1OGRNcXZYZmwzT3pDc2R4cGtSREZJNmNSYU5rNUN1WFBSaEtUYnRiSHRIUmk4SjFRTmx3YUo3S3RidTIyTFdaNnNFdGU0a0J1REJIYkw3bVM4RU1BREloNjZ0QVJySDVPRW52eF9zWUdFUVFrTQ?oc=5",
    "source": "A Natural State Funeral Service",
@@ -503,46 +459,74 @@
   },
   {
    "type": "article",
-   "title": "Billie Sue Reed Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYlpFbTVBa3JPTERtcFo4UXplN0tobHhJQkFlUVdlVkZyelpSeVpLcDM5eVVqQnBwTnBXXzhPYzVWQ3JrQVdudWsxQTdEelU0ZU9sUFV0cDd5VGpBVXlaZ2x1QnNVMUJrY0gxSWhwWDBMZ3FQMlRvRVhyUlJLODQ?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1793126285.0,
+   "title": "Catherine Elizabeth \"Betty\" Johnston Obituary Oct 27, 2026 - www.smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5",
+   "source": "www.smithfamilycares.com",
+   "published": 1793084400.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYlpFbTVBa3JPTERtcFo4UXplN0tobHhJQkFlUVdlVkZyelpSeVpLcDM5eVVqQnBwTnBXXzhPYzVWQ3JrQVdudWsxQTdEelU0ZU9sUFV0cDd5VGpBVXlaZ2x1QnNVMUJrY0gxSWhwWDBMZ3FQMlRvRVhyUlJLODQ?oc=5"
+     "source": "www.smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "billiesuereedobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittlerock"
+    "catherineelizabethbettyjohnstonobituaryoct272026wwwsmithfamilycarescom"
    ],
-   "first_seen": 1793499116.612857,
+   "first_seen": 1793524369.213577,
    "section": "obits"
   },
   {
    "type": "article",
-   "title": "Szymanski Rd, North Little Rock, AR 72118 [Updated 10/27] - Realtor.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUJrZzVIbEhuZC1pcFRXWW5pNGNKZHA1TDB4QnNMZUdBN1piOEVfYm5WUjQ1dURCd1NjVjUwY1FEYVg1UXBma29hRnphbFVScmFrMnQ2TUFFam93TUpvamFweko4am55N3ByN3VhNHUzNTZoYUp3bGRjMEVpRVlnbno4XzZlS3RZTVNERlZRSDE5RkhNcnl1blJsZlRpVld6YjBUVw?oc=5",
-   "source": "Realtor.com",
-   "published": 1793126220.0,
+   "title": "Little Rock city director taking second pass at police surveillance measure - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFFQMktYWjdIbGMwcnRTUVFKSl9KbzV4NXFuejdDdk1wRjFtTnlGQlpaU1hHdlRlVmx1MFU5bnNwOUM0TnhpeFZ2ZUlpSmh5MTZZVXdBcHFvZFNkYWdOSVY2QXY5ZkxNQm9XR1ZvcmNRZ2d1amJKV245M1ROa0hlcEFsMW5YZnk4N3lsOHJtdmlkVE5Mc2FET1FzQkk?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793052300.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Realtor.com",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUJrZzVIbEhuZC1pcFRXWW5pNGNKZHA1TDB4QnNMZUdBN1piOEVfYm5WUjQ1dURCd1NjVjUwY1FEYVg1UXBma29hRnphbFVScmFrMnQ2TUFFam93TUpvamFweko4am55N3ByN3VhNHUzNTZoYUp3bGRjMEVpRVlnbno4XzZlS3RZTVNERlZRSDE5RkhNcnl1blJsZlRpVld6YjBUVw?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFFQMktYWjdIbGMwcnRTUVFKSl9KbzV4NXFuejdDdk1wRjFtTnlGQlpaU1hHdlRlVmx1MFU5bnNwOUM0TnhpeFZ2ZUlpSmh5MTZZVXdBcHFvZFNkYWdOSVY2QXY5ZkxNQm9XR1ZvcmNRZ2d1amJKV245M1ROa0hlcEFsMW5YZnk4N3lsOHJtdmlkVE5Mc2FET1FzQkk?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "szymanskirdnorthlittlerockar72118updated1027realtorcom"
+    "littlerockcitydirectortakingsecondpassatpolicesurveillancemeasurethearkansasdemo"
    ],
-   "first_seen": 1793499116.612857,
+   "first_seen": 1793524369.213577,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "ALDI opening second North Little Rock location - KARK",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzQ0ZnY1RzNfeVROZGgyWENLanY5TFdQQi15c3F6UkJ1WVk3NEYyWTBLTTNEekVvWlphR0ZRdlMwQ3BLMFVfTEMzZWdNdTUwaEd6aHlsRXhZelMyQ3g2OW1KMWFuUm1SUmJZNnFLcnN2bG5tWDZxTExKME1NQ1JCa1VWa1F5Q2dGeVl5aQ?oc=5",
+   "source": "KARK",
+   "published": 1793031050.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzQ0ZnY1RzNfeVROZGgyWENLanY5TFdQQi15c3F6UkJ1WVk3NEYyWTBLTTNEekVvWlphR0ZRdlMwQ3BLMFVfTEMzZWdNdTUwaEd6aHlsRXhZelMyQ3g2OW1KMWFuUm1SUmJZNnFLcnN2bG5tWDZxTExKME1NQ1JCa1VWa1F5Q2dGeVl5aQ?oc=5"
+    },
+    {
+     "source": "The Sun",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnBhSjBfOHJqVVdPYmxtMUoyc0U2dExNdGxValVGYTJhdVRiSFc1ZEs1LXNuNFFaYUQyY3g2cmVKU1ZuVmp1dmJiTzg4QlAzRkxPSS01OVhEcjhzM3QyelNGM1JIVF9CTUdzWmp1TU1Wdi1vRG1PWXRjNG5LaUNSZA?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "aldicontinuesopeningspreeasuscityssecondstoretoarriveinjustdaysandshopperscanget",
+    "aldiopeningsecondnorthlittlerocklocationkark"
+   ],
+   "first_seen": 1793524369.213577,
    "section": "major"
   }
  ]
