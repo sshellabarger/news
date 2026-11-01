@@ -1,28 +1,78 @@
 {
- "updated": "2026-11-01T03:12:49.213577-06:00",
+ "updated": "2026-11-01T10:00:03.838548-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "PAPER TRAILS: Little Rock’s Dunbar Garden will host festival celebrating zines, artists - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHk0cE5sZUFZQ1l2RTNRUk54UnZFb2FMNDRUaHlLd3FJUGVRSGZPRkpSY1J6a1RkV2JyNTFYVXJLcUJSc2dKSTBFSzlxOU9FS3lfWWNxb2k3T3YxTkZwU1ZEYW1FTlVOMDNjLUpROFM4bjJTTU54Vk03a1VEdzhhdEpMQzZrVF8zc19qSGE1dWp0aF8ybHM5cFVR?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793493000.0,
+   "title": "North Little Rock police investigating death after body found Halloween night - KARK",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzNEX0dLOEZZTE9rRUVISExUdHh6LW5kUHdRME8xU2x5Z3R4X3dBV2twYVJOcDQ1a3BTOVJrYUN2YngyU0lrY2djMHhvNTR6TER3LWRJUGY2ejl1XzZBdVlEaEVNNHRoeHpwV21Vd0ZvNlRQNXhyLVN3ekhjXzBNMHh5SlhyU1VOUk5Xbnh1cU5DUUxmLUdxT3BlQ0RORmtuYVpEQW8ySTg5elQ1dXdUdVlzMWZyUQ?oc=5",
+   "source": "KARK",
+   "published": 1793543874.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHk0cE5sZUFZQ1l2RTNRUk54UnZFb2FMNDRUaHlLd3FJUGVRSGZPRkpSY1J6a1RkV2JyNTFYVXJLcUJSc2dKSTBFSzlxOU9FS3lfWWNxb2k3T3YxTkZwU1ZEYW1FTlVOMDNjLUpROFM4bjJTTU54Vk03a1VEdzhhdEpMQzZrVF8zc19qSGE1dWp0aF8ybHM5cFVR?oc=5"
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzNEX0dLOEZZTE9rRUVISExUdHh6LW5kUHdRME8xU2x5Z3R4X3dBV2twYVJOcDQ1a3BTOVJrYUN2YngyU0lrY2djMHhvNTR6TER3LWRJUGY2ejl1XzZBdVlEaEVNNHRoeHpwV21Vd0ZvNlRQNXhyLVN3ekhjXzBNMHh5SlhyU1VOUk5Xbnh1cU5DUUxmLUdxT3BlQ0RORmtuYVpEQW8ySTg5elQ1dXdUdVlzMWZyUQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "papertrailslittlerocksdunbargardenwillhostfestivalcelebratingzinesartiststhearka"
+    "northlittlerockpoliceinvestigatingdeathafterbodyfoundhalloweennightkark"
    ],
-   "first_seen": 1793524369.213577,
+   "first_seen": 1793548803.838548,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "New North Little Rock pavilion honors Arkansas music legends - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONThFUFlobE02WGg0ZFdTZ3I1M0pVZFpCUVc5VEx5Q2Nta0l2VFB6M1Y5Zzl3d1pvdTN1eUM4bWJMVXhadFpUTHRJRlVzR2VCQTI3VnRDcXRVSzBERFBodmtuOGhHUkwtQUQ4ODFvWHZxZHFmeGpQOHNyTjFGWVVzRFhIbjU1OE9hZExmdA?oc=5",
+   "source": "Yahoo",
+   "published": 1793537057.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONThFUFlobE02WGg0ZFdTZ3I1M0pVZFpCUVc5VEx5Q2Nta0l2VFB6M1Y5Zzl3d1pvdTN1eUM4bWJMVXhadFpUTHRJRlVzR2VCQTI3VnRDcXRVSzBERFBodmtuOGhHUkwtQUQ4ODFvWHZxZHFmeGpQOHNyTjFGWVVzRFhIbjU1OE9hZExmdA?oc=5"
+    },
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFI1Z1BwQWUzTEJsZld5SGIwVzBGRUhITUlZWXg1WXdFUDlKb3lwQnN3LXc3U21ZeGFRN2FjRG9yLUVzUXpRX0hGczdwaERMRjdyX0gwOHZMQ1ZiYmV5cEtTaXZuaC1FRU1uVndjVEM5bnF6T3d1d00ySXEtZEV1bG9PeHJHMFNqSHc4QkdkVEJ3QVBla1liOTNNUnVwNXc?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "newnorthlittlerockpavilionhonorsarkansasmusiclegendskark",
+    "newnorthlittlerockpavilionhonorsarkansasmusiclegendsyahoo"
+   ],
+   "first_seen": 1793548803.838548,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Former NLR coach Daryl Fimple set for new start - River Valley Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemUtai14ZloxOGdQdnRfaU1KNnVqTjhZVmhya2JsbTF6VkpCSGdkOUUtVnZDNWFDM3BBWkZwblRDN0VUOXJaSV9qRXVCWlBCQmRJQU5qaFU3WmNqdzg2WlpMZzZ3SFFMZXBneXNqdldkMldFSWhSOVFqY0R2VlZyVWRwV1hWV0l2M25laDZqcUxPQm9NSDRuOTVNdm5wRHFHWk1QT1U5U083WWNs?oc=5",
+   "source": "River Valley Democrat-Gazette",
+   "published": 1793527200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "River Valley Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemUtai14ZloxOGdQdnRfaU1KNnVqTjhZVmhya2JsbTF6VkpCSGdkOUUtVnZDNWFDM3BBWkZwblRDN0VUOXJaSV9qRXVCWlBCQmRJQU5qaFU3WmNqdzg2WlpMZzZ3SFFMZXBneXNqdldkMldFSWhSOVFqY0R2VlZyVWRwV1hWV0l2M25laDZqcUxPQm9NSDRuOTVNdm5wRHFHWk1QT1U5U083WWNs?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "formernlrcoachdarylfimplesetfornewstartrivervalleydemocratgazette"
+   ],
+   "first_seen": 1793548803.838548,
+   "section": "sports"
   },
   {
    "type": "article",
@@ -136,28 +186,6 @@
   },
   {
    "type": "article",
-   "title": "Catholics to meet at Little Rock’s Calvary Cemetery for All Souls’ Day Mass - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWNBRWFubkF2THduazB6THhTVkxOeEx6RmFzLWxfRHVNSENXRnRkVFFxY2pBbXE2TnFhdGFJXy02dFVpbVVhYWJyd3loYzVab09qY2NEV0ZadGdfOWNIazN1bGJENkUwbmZjMjdUT0dBTVg2WWlEYkE3NW5DUUFRRnI5NWtwT1R4Zll4MEJtamQ4QlpNOEF2M0hYV0o?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793406600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWNBRWFubkF2THduazB6THhTVkxOeEx6RmFzLWxfRHVNSENXRnRkVFFxY2pBbXE2TnFhdGFJXy02dFVpbVVhYWJyd3loYzVab09qY2NEV0ZadGdfOWNIazN1bGJENkUwbmZjMjdUT0dBTVg2WWlEYkE3NW5DUUFRRnI5NWtwT1R4Zll4MEJtamQ4QlpNOEF2M0hYV0o?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "catholicstomeetatlittlerockscalvarycemeteryforallsoulsdaymassthearkansasdemocrat"
-   ],
-   "first_seen": 1793429900.108475,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Little Rock opens $11.1 million solar array at port, says panels’ electricity will save city $1 million annually - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dFanRXN1dfWFhYXzRZeUowNzVpbGp1aWplcUVaQ3Q2Slc0M1FrWkVuS21RU09jdFpKOHNxeGdRTldOUFlEbDVxV3pGaUg2bmdkMjJkMEc1WlliR1FPaHN2ZDR4QmpYeEhUMGd4VEhEa3ZGRnFaTGFNOE5YVk9qQVIxLWtUTTBiTWtHNFBmTXFNbEVqQ0RIZERLVGd6akViLUo2V2hnZWI?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -176,28 +204,6 @@
     "littlerockopens111millionsolararrayatportsayspanelselectricitywillsavecity1milli"
    ],
    "first_seen": 1793429900.108475,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock’s ATG Pavilion opens, celebrates Arkansas’ musical history - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793403000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
-   ],
-   "first_seen": 1793213406.893021,
    "section": "major"
   },
   {
@@ -346,28 +352,6 @@
   },
   {
    "type": "article",
-   "title": "George Roland Tolleson Obituary (2026) - Maumelle, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpLRUNOVmhVVkoxWjFpcVVIbWVMeU1qMk81cm1xZzEwU2FMWjl5eG1rS092ZnBTM0hEZ0s2NlVBSmFXZVBfNjhCeVlnRHd2Mm4zbF9FbzB6UHJGd3hxUmRQV3lnSzlTSldQX3BsQldwOW5YWkZPbGVHSnR0R3dEMzlaWG8?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1793257200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpLRUNOVmhVVkoxWjFpcVVIbWVMeU1qMk81cm1xZzEwU2FMWjl5eG1rS092ZnBTM0hEZ0s2NlVBSmFXZVBfNjhCeVlnRHd2Mm4zbF9FbzB6UHJGd3hxUmRQV3lnSzlTSldQX3BsQldwOW5YWkZPbGVHSnR0R3dEMzlaWG8?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "georgerolandtollesonobituary2026maumellearsmithfamilyfuneralhomesnorthlittlerock"
-   ],
-   "first_seen": 1793407560.460993,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Lanes cleared after accidents on I-430 cause traffic backup in North Little Rock - thv11.com",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUNtdUxNc1FoRUZTWVRJVVViUlA4YkdRRDloWVllZ3ZXYloyMEplMFNibFVidE8zbm10MXAxTGdZbGZ2RlYyNEhFYlVEeXp4eThsXy1uS0huc3NNVW9zWG5kOVRGV2I5NWU3Vmt2bkhQaTZLMlNjTXhRWVBxUGppZ1NtWGpGOGtMdTcwbDlfSzRReHZVRk9fTm9YcnF3X0xZWVJxUlF2M0VyMUNsQ0Y3cHZDOTFRQ0hfeWY4amx4d0NaRTdEbk9YdA?oc=5",
    "source": "THV11",
@@ -386,6 +370,58 @@
     "lanesclearedafteraccidentsoni430causetrafficbackupinnorthlittlerockthv11com"
    ],
    "first_seen": 1793240710.357394,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Sex trafficking conspiracy trial of Little Rock woman delayed until Thursday - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3hnel9BendfWjkxTlVtbmNKRlRuekVWeS1Hd2N6Ml9zN2FKTU00eDZnTUdDOTJQdjY1b0VuSWRuOHV1eDJrQXU1dzRZc0VpUTA0clFFT0ZqOHV2enZMbS1nWlBUWE5iTWpwLU1PenhMbXRUNUhVQ1JuVUtmNEpQY1loU1N2TXMtYnYxOTJfeTd3NHNsM2h5WTBOYmk?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793222820.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3hnel9BendfWjkxTlVtbmNKRlRuekVWeS1Hd2N6Ml9zN2FKTU00eDZnTUdDOTJQdjY1b0VuSWRuOHV1eDJrQXU1dzRZc0VpUTA0clFFT0ZqOHV2enZMbS1nWlBUWE5iTWpwLU1PenhMbXRUNUhVQ1JuVUtmNEpQY1loU1N2TXMtYnYxOTJfeTd3NHNsM2h5WTBOYmk?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "federaljuryfindslittlerockwomanguiltyofsextraffickingchildthearkansasdemocratgaz",
+    "sextraffickingconspiracytrialoflittlerockwomandelayeduntilthursdaythearkansasdem"
+   ],
+   "first_seen": 1793111278.854119,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "atg Pavilion Honoring Arkansas Musicians Opens in North Little Rock - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5",
+   "source": "Hoodline",
+   "published": 1793197393.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5"
+    },
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
+    }
+   ],
+   "source_count": 2,
+   "member_keys": [
+    "atgpavilionhonoringarkansasmusiciansopensinnorthlittlerockhoodline",
+    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
+   ],
+   "first_seen": 1793213406.893021,
    "section": "major"
   },
   {
@@ -412,121 +448,90 @@
   },
   {
    "type": "article",
-   "title": "Convicted co-conspirator testifies in Little Rock woman’s sex trafficking trial - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHhNaExMZ0tQai1PcEpYZkNPOEZKYUtXSXdNVUd4VHNLV1g0S3Q3M1pLVlFGbktqUlVDZW1ubkRfVGZGWWg4dGdwXzB2ZlpmRGxiZjc1SGFJV1RiSngtUzNCYlR5bTVSMUI4ZWtEckp3dTNSMzBXczhRTEFLUkVkWUJvUWp2ZEktaFNMSmdKRGZOamd3eTdtS0lhcGlQUTQ?oc=5",
+   "title": "Four candidates look to fill North Little Rock Ward 2 seat as Linda Robinson retires - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1793148000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHhNaExMZ0tQai1PcEpYZkNPOEZKYUtXSXdNVUd4VHNLV1g0S3Q3M1pLVlFGbktqUlVDZW1ubkRfVGZGWWg4dGdwXzB2ZlpmRGxiZjc1SGFJV1RiSngtUzNCYlR5bTVSMUI4ZWtEckp3dTNSMzBXczhRTEFLUkVkWUJvUWp2ZEktaFNMSmdKRGZOamd3eTdtS0lhcGlQUTQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "convictedcoconspiratortestifiesinlittlerockwomanssextraffickingtrialthearkansasd",
-    "federaljuryfindslittlerockwomanguiltyofsextraffickingchildthearkansasdemocratgaz",
-    "sextraffickingconspiracytrialoflittlerockwomandelayeduntilthursdaythearkansasdem"
-   ],
-   "first_seen": 1793111278.854119,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Zachary William Moran, age 39 - A Natural State Funeral Service",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjY0TlRDcGxVNmtsNDJ1OGRNcXZYZmwzT3pDc2R4cGtSREZJNmNSYU5rNUN1WFBSaEtUYnRiSHRIUmk4SjFRTmx3YUo3S3RidTIyTFdaNnNFdGU0a0J1REJIYkw3bVM4RU1BREloNjZ0QVJySDVPRW52eF9zWUdFUVFrTQ?oc=5",
-   "source": "A Natural State Funeral Service",
-   "published": 1793137241.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "A Natural State Funeral Service",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjY0TlRDcGxVNmtsNDJ1OGRNcXZYZmwzT3pDc2R4cGtSREZJNmNSYU5rNUN1WFBSaEtUYnRiSHRIUmk4SjFRTmx3YUo3S3RidTIyTFdaNnNFdGU0a0J1REJIYkw3bVM4RU1BREloNjZ0QVJySDVPRW52eF9zWUdFUVFrTQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "zacharywilliammoranage39anaturalstatefuneralservice"
-   ],
-   "first_seen": 1793471483.843041,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Catherine Elizabeth \"Betty\" Johnston Obituary Oct 27, 2026 - www.smithfamilycares.com",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5",
-   "source": "www.smithfamilycares.com",
-   "published": 1793084400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "www.smithfamilycares.com",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWY0dHNiRU9VTHd0dXBNY3I2cXRrMnlYMVBGMjBZVXBvTXVodmxnczBsaHJNb0pZYm9PbGNmM0I1ejhRMUdrODU5Ylk4UWczM2tkSVQxMFVOU0N1ZVFQSEFCeHNyNkJIRk00R3VoYkwtRkhQa05NMHpPWG11YzBFTHIyRHIxXy00alJaWk5TTmlXVTNtM3AyRTBLLWJ4UnpxNGI5Ym1fTDA0TnlmdWJYNHViaUpBRFJ3ZlJ3NkFMYTNWa0NiUTdQMFZVNmVfaUV0bjJzd1E4eFVpdGFocWVqTlB1My1lUQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "catherineelizabethbettyjohnstonobituaryoct272026wwwsmithfamilycarescom"
-   ],
-   "first_seen": 1793524369.213577,
-   "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock city director taking second pass at police surveillance measure - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFFQMktYWjdIbGMwcnRTUVFKSl9KbzV4NXFuejdDdk1wRjFtTnlGQlpaU1hHdlRlVmx1MFU5bnNwOUM0TnhpeFZ2ZUlpSmh5MTZZVXdBcHFvZFNkYWdOSVY2QXY5ZkxNQm9XR1ZvcmNRZ2d1amJKV245M1ROa0hlcEFsMW5YZnk4N3lsOHJtdmlkVE5Mc2FET1FzQkk?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793052300.0,
+   "published": 1791356400.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFFQMktYWjdIbGMwcnRTUVFKSl9KbzV4NXFuejdDdk1wRjFtTnlGQlpaU1hHdlRlVmx1MFU5bnNwOUM0TnhpeFZ2ZUlpSmh5MTZZVXdBcHFvZFNkYWdOSVY2QXY5ZkxNQm9XR1ZvcmNRZ2d1amJKV245M1ROa0hlcEFsMW5YZnk4N3lsOHJtdmlkVE5Mc2FET1FzQkk?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockcitydirectortakingsecondpassatpolicesurveillancemeasurethearkansasdemo"
+    "fourcandidateslooktofillnorthlittlerockward2seataslindarobinsonretiresthearkansa"
    ],
-   "first_seen": 1793524369.213577,
+   "first_seen": 1793548803.838548,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock city council approves bond measures for Eaton factory, AI policy - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790578800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilapprovesbondmeasuresforeatonfactoryaipolicythearkansas"
+   ],
+   "first_seen": 1793548803.838548,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789974000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind"
+   ],
+   "first_seen": 1793548803.838548,
    "section": "crime"
   },
   {
    "type": "article",
-   "title": "ALDI opening second North Little Rock location - KARK",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzQ0ZnY1RzNfeVROZGgyWENLanY5TFdQQi15c3F6UkJ1WVk3NEYyWTBLTTNEekVvWlphR0ZRdlMwQ3BLMFVfTEMzZWdNdTUwaEd6aHlsRXhZelMyQ3g2OW1KMWFuUm1SUmJZNnFLcnN2bG5tWDZxTExKME1NQ1JCa1VWa1F5Q2dGeVl5aQ?oc=5",
+   "title": "North Little Rock sets ground rules for future data centers as poll shows strong opposition - KARK",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1VKenFvUEMzNUJwdjRHbjhhTkk1YUt2S3JtRTFDYUxtb2hrWklMXzBuNS1pd0wtRG42YkpYeHkzZzcwd1FxVXlDeHF1dkgxTUM5cFU2aF9fOGZlRUpFUmRsd1MzVmw4U3M4ZENvMTl4NFhvdk9yejd5YzVkMEJvR25UNmRhOTAwLUhhblBDN2daR3lXOHZsSXNpYnlQQlVnUjNiM3JGS2hLa2dwXzh5M0UxQTh3U2ZIMXFmZ3dRT2RnWjgxcWZVbQ?oc=5",
    "source": "KARK",
-   "published": 1793031050.0,
+   "published": 1789369200.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
      "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzQ0ZnY1RzNfeVROZGgyWENLanY5TFdQQi15c3F6UkJ1WVk3NEYyWTBLTTNEekVvWlphR0ZRdlMwQ3BLMFVfTEMzZWdNdTUwaEd6aHlsRXhZelMyQ3g2OW1KMWFuUm1SUmJZNnFLcnN2bG5tWDZxTExKME1NQ1JCa1VWa1F5Q2dGeVl5aQ?oc=5"
-    },
-    {
-     "source": "The Sun",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnBhSjBfOHJqVVdPYmxtMUoyc0U2dExNdGxValVGYTJhdVRiSFc1ZEs1LXNuNFFaYUQyY3g2cmVKU1ZuVmp1dmJiTzg4QlAzRkxPSS01OVhEcjhzM3QyelNGM1JIVF9CTUdzWmp1TU1Wdi1vRG1PWXRjNG5LaUNSZA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1VKenFvUEMzNUJwdjRHbjhhTkk1YUt2S3JtRTFDYUxtb2hrWklMXzBuNS1pd0wtRG42YkpYeHkzZzcwd1FxVXlDeHF1dkgxTUM5cFU2aF9fOGZlRUpFUmRsd1MzVmw4U3M4ZENvMTl4NFhvdk9yejd5YzVkMEJvR25UNmRhOTAwLUhhblBDN2daR3lXOHZsSXNpYnlQQlVnUjNiM3JGS2hLa2dwXzh5M0UxQTh3U2ZIMXFmZ3dRT2RnWjgxcWZVbQ?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "aldicontinuesopeningspreeasuscityssecondstoretoarriveinjustdaysandshopperscanget",
-    "aldiopeningsecondnorthlittlerocklocationkark"
+    "northlittlerocksetsgroundrulesforfuturedatacentersaspollshowsstrongoppositionkar"
    ],
-   "first_seen": 1793524369.213577,
+   "first_seen": 1793548803.838548,
    "section": "major"
   }
  ]
