@@ -1,28 +1,50 @@
 {
- "updated": "2026-11-01T14:28:56.961289-06:00",
+ "updated": "2026-11-01T18:41:10.140174-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "George Roland Tolleson, Jr. Obituary (2026) - Maumelle, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0h1dEt4N1FiQXdEd3FyUVl1S3FzNWV6akNQbXhMd3hMWFdidXV0NDluV2YzODU4VnQtbUxsdDFJdjJMeGZmVXF3T1FuaUlDMG5fRVFkcTF5OUQ1dVFaVkRMbEZVcVl3cVlZYVRfRzZXSkZqOWN3Rno0M0kxbFdyMFBrcHVFRndE?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1793562564.0,
+   "title": "Woman’s body found inside vehicle at North Little Rock address - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGpMTm8zQlc0WGpRRUhUQzZOMmNxQV80LWFNRE5MVGVQejZxNDZWSk1neGJoOWtyUi1mcG4tWDFzaWdPUnVVR25jcEpiMjAtTUltOXpsMXByVlpxNTVGSS1BcjBvbC1HZE8wX1hJSHFTYWdibjRlYV9pb3pocnprMGoxbkJ4S3RiUnR0dHByWnNQOU15eUpwUGNUcUF3cWFm?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793574000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0h1dEt4N1FiQXdEd3FyUVl1S3FzNWV6akNQbXhMd3hMWFdidXV0NDluV2YzODU4VnQtbUxsdDFJdjJMeGZmVXF3T1FuaUlDMG5fRVFkcTF5OUQ1dVFaVkRMbEZVcVl3cVlZYVRfRzZXSkZqOWN3Rno0M0kxbFdyMFBrcHVFRndE?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGpMTm8zQlc0WGpRRUhUQzZOMmNxQV80LWFNRE5MVGVQejZxNDZWSk1neGJoOWtyUi1mcG4tWDFzaWdPUnVVR25jcEpiMjAtTUltOXpsMXByVlpxNTVGSS1BcjBvbC1HZE8wX1hJSHFTYWdibjRlYV9pb3pocnprMGoxbkJ4S3RiUnR0dHByWnNQOU15eUpwUGNUcUF3cWFm?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "georgerolandtollesonjrobituary2026maumellearsmithfamilyfuneralhomesnorthlittlero"
+    "womansbodyfoundinsidevehicleatnorthlittlerockaddressthearkansasdemocratgazette"
    ],
-   "first_seen": 1793564936.961289,
-   "section": "obits"
+   "first_seen": 1793580070.140174,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock police investigate shooting that leaves one dead, several injured - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVVkTW0zc0ctVk1zbTdTemc5UDF6UmpSQVE2RXBRUHIzT1RSd2E2R1NwaDJFYmFSYzQ0bFBsNW9HX0NjX19hVmszSjRtaERtQ3B6SE12TWIyTnYyeGxOam80RWNQQ0xyZnE2UlAxMXpkbk90RExQeU1fZkVZUnVUNEdXa2swcnJlNlVQaV9OSGw3d0JBWEFDXw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793566200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVVkTW0zc0ctVk1zbTdTemc5UDF6UmpSQVE2RXBRUHIzT1RSd2E2R1NwaDJFYmFSYzQ0bFBsNW9HX0NjX19hVmszSjRtaERtQ3B6SE12TWIyTnYyeGxOam80RWNQQ0xyZnE2UlAxMXpkbk90RExQeU1fZkVZUnVUNEdXa2swcnJlNlVQaV9OSGw3d0JBWEFDXw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpoliceinvestigateshootingthatleavesonedeadseveralinjuredthearkansasdem"
+   ],
+   "first_seen": 1793580070.140174,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -33,15 +55,21 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "KATV",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1NpN1YtQnhyeURHbkpucmJYTXdveGhxSUVoVVhkaXhqWTVhaE40SFRDSUFnOTNMemVqa1RwX285NlBrdWdKR19heHhMaXRHUW5ONG9VY0ZkcHEwREpLOXFhTlgtRklmck5KZTZJdWtOOHZHaUNxMHBEcl9nRmJ2bkRwSnNVMVpqanZYUFMwbVNmek5tWloxTGhLb3RHN2hYR2dkVmUxRGh4d1h4dTZiTDJma25ZZw?oc=5"
+    },
+    {
+     "source": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRFhNdGFvU19Wd2tTTEd5dXZzekl6S1JUR2VEc25pVmNLSjUxVDJMN0k1UDBpSk41X0Z5Z2FxNkZGNHhESEJhb3VBS0Ixb0dtY2lvSjV4NWxWTXI5cDV2c0dsLVU3M1dxWENHS3pTTnVSaWZMTUJYeHZxeHZac093Sjh2NUdOZ0tSeVlUTWlKWXNwSkJnQ2JSZEZMd3pGNl9VSUtXdUhUYXptdi1kQUw3Um9lX2ZhNzJzVjUzOGxRTE11N0VtYWhHNFZPMkwzXzc4cDNaSEIxc2NseTh2S0Z1SFlTdw?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "northlittlerockpoliceinvestigatingafterfindingwomandeadinsidecaronhalloweenkatv"
+    "northlittlerockpoliceinvestigatingafterfindingwomandeadinsidecaronhalloweenkatv",
+    "womanfounddeadinnorthlittlerockhalloweennightthv11com"
    ],
    "first_seen": 1793564936.961289,
    "section": "crime"
@@ -90,19 +118,14 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3RRZTlWYXJBd1ppVWlWdU5fUEhFNFI0UnVtdVVFRlVBUm9tVGxDc0lqZHBnc2hPRUVwcjNGYkFWZVpTLVZVWlBEYWRkZ1JyMm1TRlAzeVdvZGFuQUVrMHRqZVVnZXpycWYyTWNFNHhKbFotOHJiYjZfR2Qzajlwckc4ODZhaWdqU09RWDF4OEhGNUxNeGVrM3BWRExhWTQ?oc=5"
     },
     {
-     "source": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONThFUFlobE02WGg0ZFdTZ3I1M0pVZFpCUVc5VEx5Q2Nta0l2VFB6M1Y5Zzl3d1pvdTN1eUM4bWJMVXhadFpUTHRJRlVzR2VCQTI3VnRDcXRVSzBERFBodmtuOGhHUkwtQUQ4ODFvWHZxZHFmeGpQOHNyTjFGWVVzRFhIbjU1OE9hZExmdA?oc=5"
-    },
-    {
      "source": "KARK",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFI1Z1BwQWUzTEJsZld5SGIwVzBGRUhITUlZWXg1WXdFUDlKb3lwQnN3LXc3U21ZeGFRN2FjRG9yLUVzUXpRX0hGczdwaERMRjdyX0gwOHZMQ1ZiYmV5cEtTaXZuaC1FRU1uVndjVEM5bnF6T3d1d00ySXEtZEV1bG9PeHJHMFNqSHc4QkdkVEJ3QVBla1liOTNNUnVwNXc?oc=5"
     }
    ],
-   "source_count": 3,
+   "source_count": 2,
    "member_keys": [
     "newnorthlittlerockpavilionhonorsarkansasmusiclegendskark",
-    "newnorthlittlerockpavilionhonorsarkansasmusiclegendsklrtfox16com",
-    "newnorthlittlerockpavilionhonorsarkansasmusiclegendsyahoo"
+    "newnorthlittlerockpavilionhonorsarkansasmusiclegendsklrtfox16com"
    ],
    "first_seen": 1793548803.838548,
    "section": "major"
@@ -128,6 +151,28 @@
    ],
    "first_seen": 1793548803.838548,
    "section": "sports"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas enters final days of midterm voting with Democrats, Republicans hopeful - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUYtTHBWUDZTbTFGUkNqd29Rc0kyaDF5RG4tN1NmYlVWR2QyR2Z4U0lzMVBHS1lWTGVpU2ZaSmk1UG5jX1FNSmRoVEFYZmhoVUFyNkJ6Mnh4c3JzblFucU9LR1ItWUpHY3JVVWxkTXJycnBYV2p6NVd1SkhQcjJOLW8wYmdyUUwtX3BucGRnd25CYjAxVk83Qg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793508360.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUYtTHBWUDZTbTFGUkNqd29Rc0kyaDF5RG4tN1NmYlVWR2QyR2Z4U0lzMVBHS1lWTGVpU2ZaSmk1UG5jX1FNSmRoVEFYZmhoVUFyNkJ6Mnh4c3JzblFucU9LR1ItWUpHY3JVVWxkTXJycnBYV2p6NVd1SkhQcjJOLW8wYmdyUUwtX3BucGRnd25CYjAxVk83Qg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansasentersfinaldaysofmidtermvotingwithdemocratsrepublicanshopefulthearkansas"
+   ],
+   "first_seen": 1793580070.140174,
+   "section": "major"
   },
   {
    "type": "article",
@@ -241,28 +286,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock’s First Lutheran Church marks Reformation Sunday - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1Z1cVh2Z3BWbTNVbGh6NTZPa09BWXZ1S0c5MEQ4d3V5UlpLR2Y5SVZoRlZIb0hOWndSX0hsajdlM29qS1dNZUZNb3lER1Jvc2ROcEF5aDVNUTV2QTVyNS12Q2NOWHNnY1RST2xpZTFla1dtRFdRcU94UmVqWTAyMExKWS1FZWhTVkJlR2NMMk9lVWkzQlNiU3dR?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793408400.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1Z1cVh2Z3BWbTNVbGh6NTZPa09BWXZ1S0c5MEQ4d3V5UlpLR2Y5SVZoRlZIb0hOWndSX0hsajdlM29qS1dNZUZNb3lER1Jvc2ROcEF5aDVNUTV2QTVyNS12Q2NOWHNnY1RST2xpZTFla1dtRFdRcU94UmVqWTAyMExKWS1FZWhTVkJlR2NMMk9lVWkzQlNiU3dR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerocksfirstlutheranchurchmarksreformationsundaythearkansasdemocratgazette"
-   ],
-   "first_seen": 1793471483.843041,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Little Rock opens $11.1 million solar array at port, says panels’ electricity will save city $1 million annually - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dFanRXN1dfWFhYXzRZeUowNzVpbGp1aWplcUVaQ3Q2Slc0M1FrWkVuS21RU09jdFpKOHNxeGdRTldOUFlEbDVxV3pGaUg2bmdkMjJkMEc1WlliR1FPaHN2ZDR4QmpYeEhUMGd4VEhEa3ZGRnFaTGFNOE5YVk9qQVIxLWtUTTBiTWtHNFBmTXFNbEVqQ0RIZERLVGd6akViLUo2V2hnZWI?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -281,6 +304,28 @@
     "littlerockopens111millionsolararrayatportsayspanelselectricitywillsavecity1milli"
    ],
    "first_seen": 1793429900.108475,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock’s ATG Pavilion opens, celebrates Arkansas’ musical history - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793403000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
+   ],
+   "first_seen": 1793213406.893021,
    "section": "major"
   },
   {
@@ -331,6 +376,50 @@
     "weekendaheadoct30halloweenravestrunkortreatshauntedhousesandmorethearkansasdemoc"
    ],
    "first_seen": 1793393152.837963,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Federal jury finds Little Rock woman guilty of sex trafficking child - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1VYSzl4d1FuS1JQVGNnOU5iT2hEeTJlZWUwRXU5WmMtaV9BaDB5Q19hYTIyTE95bHV5UEhDaXNwOW0tQmM1VDh4ZXRmcVVvY3lCQXdWYXc4MUlJZ19XUkNSdkwyMkdOdjVJWHBNN2xNUUJoM2R2VGdaeEdxYVA0Z2UwMm50MUMyZEJ6b2IzU3BJdlJ0Z0ZVT0Nzcw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793326500.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1VYSzl4d1FuS1JQVGNnOU5iT2hEeTJlZWUwRXU5WmMtaV9BaDB5Q19hYTIyTE95bHV5UEhDaXNwOW0tQmM1VDh4ZXRmcVVvY3lCQXdWYXc4MUlJZ19XUkNSdkwyMkdOdjVJWHBNN2xNUUJoM2R2VGdaeEdxYVA0Z2UwMm50MUMyZEJ6b2IzU3BJdlJ0Z0ZVT0Nzcw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "federaljuryfindslittlerockwomanguiltyofsextraffickingchildthearkansasdemocratgaz"
+   ],
+   "first_seen": 1793111278.854119,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "McLarty opens $3 million Lincoln showroom in North Little Rock - KATV",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXQ1STVUVk9jTExmYmtSWWRyVkFyNm5hN3IxRXI3Rk1qUGpWRnVPazZ1X0ttUjdFM3dna3ZTbGRIR0hwSzVSSENrdnI1NEJPcERhd1U5VERuLXJFa2NPTzM1bnRuVlZsVXZ5QnFMMXJZeDAzb1dvMGx6TERqczNMZU1Fb1BXejMtMl9ZOFZEazluc2M?oc=5",
+   "source": "KATV",
+   "published": 1793319122.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXQ1STVUVk9jTExmYmtSWWRyVkFyNm5hN3IxRXI3Rk1qUGpWRnVPazZ1X0ttUjdFM3dna3ZTbGRIR0hwSzVSSENrdnI1NEJPcERhd1U5VERuLXJFa2NPTzM1bnRuVlZsVXZ5QnFMMXJZeDAzb1dvMGx6TERqczNMZU1Fb1BXejMtMl9ZOFZEazluc2M?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "mclartyopens3millionlincolnshowroominnorthlittlerockkatv"
+   ],
+   "first_seen": 1793580070.140174,
    "section": "major"
   },
   {
@@ -445,77 +534,25 @@
   },
   {
    "type": "article",
-   "title": "Lanes cleared after accidents on I-430 cause traffic backup in North Little Rock - thv11.com",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUNtdUxNc1FoRUZTWVRJVVViUlA4YkdRRDloWVllZ3ZXYloyMEplMFNibFVidE8zbm10MXAxTGdZbGZ2RlYyNEhFYlVEeXp4eThsXy1uS0huc3NNVW9zWG5kOVRGV2I5NWU3Vmt2bkhQaTZLMlNjTXhRWVBxUGppZ1NtWGpGOGtMdTcwbDlfSzRReHZVRk9fTm9YcnF3X0xZWVJxUlF2M0VyMUNsQ0Y3cHZDOTFRQ0hfeWY4amx4d0NaRTdEbk9YdA?oc=5",
-   "source": "THV11",
-   "published": 1793228700.0,
+   "title": "George Roland Tolleson Obituary (2026) - Maumelle, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpLRUNOVmhVVkoxWjFpcVVIbWVMeU1qMk81cm1xZzEwU2FMWjl5eG1rS092ZnBTM0hEZ0s2NlVBSmFXZVBfNjhCeVlnRHd2Mm4zbF9FbzB6UHJGd3hxUmRQV3lnSzlTSldQX3BsQldwOW5YWkZPbGVHSnR0R3dEMzlaWG8?oc=5",
+   "source": "Legacy | Obituary",
+   "published": 1793257200.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "THV11",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUNtdUxNc1FoRUZTWVRJVVViUlA4YkdRRDloWVllZ3ZXYloyMEplMFNibFVidE8zbm10MXAxTGdZbGZ2RlYyNEhFYlVEeXp4eThsXy1uS0huc3NNVW9zWG5kOVRGV2I5NWU3Vmt2bkhQaTZLMlNjTXhRWVBxUGppZ1NtWGpGOGtMdTcwbDlfSzRReHZVRk9fTm9YcnF3X0xZWVJxUlF2M0VyMUNsQ0Y3cHZDOTFRQ0hfeWY4amx4d0NaRTdEbk9YdA?oc=5"
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpLRUNOVmhVVkoxWjFpcVVIbWVMeU1qMk81cm1xZzEwU2FMWjl5eG1rS092ZnBTM0hEZ0s2NlVBSmFXZVBfNjhCeVlnRHd2Mm4zbF9FbzB6UHJGd3hxUmRQV3lnSzlTSldQX3BsQldwOW5YWkZPbGVHSnR0R3dEMzlaWG8?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "lanesclearedafteraccidentsoni430causetrafficbackupinnorthlittlerockthv11com"
+    "georgerolandtollesonobituary2026maumellearsmithfamilyfuneralhomesnorthlittlerock"
    ],
-   "first_seen": 1793240710.357394,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Sex trafficking conspiracy trial of Little Rock woman delayed until Thursday - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3hnel9BendfWjkxTlVtbmNKRlRuekVWeS1Hd2N6Ml9zN2FKTU00eDZnTUdDOTJQdjY1b0VuSWRuOHV1eDJrQXU1dzRZc0VpUTA0clFFT0ZqOHV2enZMbS1nWlBUWE5iTWpwLU1PenhMbXRUNUhVQ1JuVUtmNEpQY1loU1N2TXMtYnYxOTJfeTd3NHNsM2h5WTBOYmk?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793222820.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3hnel9BendfWjkxTlVtbmNKRlRuekVWeS1Hd2N6Ml9zN2FKTU00eDZnTUdDOTJQdjY1b0VuSWRuOHV1eDJrQXU1dzRZc0VpUTA0clFFT0ZqOHV2enZMbS1nWlBUWE5iTWpwLU1PenhMbXRUNUhVQ1JuVUtmNEpQY1loU1N2TXMtYnYxOTJfeTd3NHNsM2h5WTBOYmk?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "federaljuryfindslittlerockwomanguiltyofsextraffickingchildthearkansasdemocratgaz",
-    "sextraffickingconspiracytrialoflittlerockwomandelayeduntilthursdaythearkansasdem"
-   ],
-   "first_seen": 1793111278.854119,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "atg Pavilion Honoring Arkansas Musicians Opens in North Little Rock - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5",
-   "source": "Hoodline",
-   "published": 1793197393.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU1NTmJ3RzE2ZmVKVUFtSG9mR1BYcll4X2Y2cmN4NktYNnRRMTk5VlRGODlQNVRWaUo0Y2hkYkJTYzJObFhrX29TVmFVVVhmVEZpVEVnRXg5QWlTVjFYaEoybWdGbFctVTdILUFhbldOMzRfajJ3OTFQOXN4a2gzT0pISm9EbXM5SG5iLXROM1prMVI2Q3NmemM1LXZiYTJOdC1iWXRuMzc2R1E?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRIUWxNVDd3TkdyNldGRGZ2Z3Z2bHI5VWlNUklCa2pEQlN0N3QxLTZiV2lYRTQ1TzNKOXdfMENLaDdGa1h0eFA0TlZnNTBMNEFYdlhTWGczeVdxU0pxanlfNXBuOWtoTnk3SHM4ZDlDd0I1WExMc3VWSS1NVFI5dlF5RFprbzZFZTI1TzFHUkZNa1ZlS0JEU0RaZDhrcVpQeFFqMw?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "atgpavilionhonoringarkansasmusiciansopensinnorthlittlerockhoodline",
-    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorythearkansasdemoc"
-   ],
-   "first_seen": 1793213406.893021,
-   "section": "major"
+   "first_seen": 1793580070.140174,
+   "section": "obits"
   }
  ]
 }
