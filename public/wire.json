@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-03T17:18:55.444640-06:00",
+ "updated": "2026-11-04T00:13:13.227581-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Sanders takes Rogers City Council seat in three-way race - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDFxSlFTMkJ1ZF9yN1pPb1pDaVU0R21oOW1obzU0NFV4SWRKRnlZSXBwMGhMWUVrY01xT3RzRElZVUZVUWZuMjkzZkJMbGFCUTVoMXpNVVFrMGEybXlEVDY0TUk0U2o4OWxfRFp1dnpyc3Btem5wejBmSWk1dkJnVWFFWjhjQS0yU0dLbUllcW4xSWJrYUpHZmxxNGM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793768100.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDFxSlFTMkJ1ZF9yN1pPb1pDaVU0R21oOW1obzU0NFV4SWRKRnlZSXBwMGhMWUVrY01xT3RzRElZVUZVUWZuMjkzZkJMbGFCUTVoMXpNVVFrMGEybXlEVDY0TUk0U2o4OWxfRFp1dnpyc3Btem5wejBmSWk1dkJnVWFFWjhjQS0yU0dLbUllcW4xSWJrYUpHZmxxNGM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "sanderstakesrogerscitycouncilseatinthreewayracethearkansasdemocratgazette"
+   ],
+   "first_seen": 1793772793.227581,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Scott reelected as Little Rock Mayor - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHdGSUJ6anBvYjNYMTkzeTNfX1hBdHpzbWZjal9JMTVYMlVDYzhhX3g0ZXlFeWpERC0tUU9VMGZlR092a3E4ZHJMMVo5LWprTHdSTUt6QmdaUmdScUhORGxjUm92d0ppdVB1b3h6dy1LTUNXVmpqMm1iVURWVUZUOU55dDlJMXRldW5FTjVB?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793762040.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHdGSUJ6anBvYjNYMTkzeTNfX1hBdHpzbWZjal9JMTVYMlVDYzhhX3g0ZXlFeWpERC0tUU9VMGZlR092a3E4ZHJMMVo5LWprTHdSTUt6QmdaUmdScUhORGxjUm92d0ppdVB1b3h6dy1LTUNXVmpqMm1iVURWVUZUOU55dDlJMXRldW5FTjVB?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "scottreelectedaslittlerockmayorthearkansasdemocratgazette"
+   ],
+   "first_seen": 1793772793.227581,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Parkin man’s death under investigation as homicide - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFmNXE4N3ZaYlBobTNUekhDb0hZNnJOM3BSdGh4Q2Fubm1aVFlHY19WcUZ6X0RYRzNwQWlMVzNUODEzYU5VZDAzaHBzMXI4ZVhKbFBZNUF3WmFMLXhpVEh4NzhqbFZOOXYtZ25sRUdlcFc1M2NSdjJ2OE5WWFh0S0NFRHNpcTFUVGt5TG5OeTdVT19pSml0OW1venZ6SEk?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793752320.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFmNXE4N3ZaYlBobTNUekhDb0hZNnJOM3BSdGh4Q2Fubm1aVFlHY19WcUZ6X0RYRzNwQWlMVzNUODEzYU5VZDAzaHBzMXI4ZVhKbFBZNUF3WmFMLXhpVEh4NzhqbFZOOXYtZ25sRUdlcFc1M2NSdjJ2OE5WWFh0S0NFRHNpcTFUVGt5TG5OeTdVT19pSml0OW1venZ6SEk?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "parkinmansdeathunderinvestigationashomicidethearkansasdemocratgazette"
+   ],
+   "first_seen": 1793772793.227581,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "Little Rock man sentenced to five years in shooting of friend - The Arkansas Democrat-Gazette",
@@ -51,7 +117,7 @@
    "title": "North Little Rock based snake breeder’s business a reptile showcase - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTEYwQ1dmazhGRGhFbXIydFZjVnN3TkYzc25FdzBUVzRwSzlvNExKakUzQllJNWVNbFBkME9QUE9GdWloWU5yS1FBRXVkcW1saHlaOWswQWJIUzFNLV9FMzJWUUUyU2ZWM2hlSkFqOWd0N051aktEc3QtODQ0SFBEQVh6aVZUMEpKZFU5ZW5XeTZCRW5ZVUFBa3lHNWtJbVU?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1793743020.0,
+   "published": 1793743140.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
@@ -92,6 +158,28 @@
   },
   {
    "type": "article",
+   "title": "Little Rock Maple Street Shooting Investigated by Police - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3hud1p3SWFkOE5PXzlVY0NQOFd6Skp4UUZZdDVrWXNtYWFDeC11aGZMb2JjSWc0NlllcjUxbEtJU2J1VHlrZVdidTFCYUFEZ25UX1pSc2ZIYUMyMlpmNDNzU0tYeGFtT29NWFhpVktIWEFoWnAwUlpZNEZGaUFxY0JZck9Ucm02QWZRNjlEeGt2Rnk4SWpmVUhIdktYc0JCdzhxVVFtWXI?oc=5",
+   "source": "Hoodline",
+   "published": 1793735931.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3hud1p3SWFkOE5PXzlVY0NQOFd6Skp4UUZZdDVrWXNtYWFDeC11aGZMb2JjSWc0NlllcjUxbEtJU2J1VHlrZVdidTFCYUFEZ25UX1pSc2ZIYUMyMlpmNDNzU0tYeGFtT29NWFhpVktIWEFoWnAwUlpZNEZGaUFxY0JZck9Ucm02QWZRNjlEeGt2Rnk4SWpmVUhIdktYc0JCdzhxVVFtWXI?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockmaplestreetshootinginvestigatedbypolicehoodline"
+   ],
+   "first_seen": 1793772793.227581,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "Jacob Eduard Diaz Obituary (2026) - St. Louis, MO - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wOUM3aHFYSUxNcXpEMVdPN2hsMEtEVktfeWkwb0hHbFFxR3hTMlEzZi1qbW5ZSGtqZ21FZUE1STFieXlFVGxvLVBUWHloZWRNN2tPTUJmbGpyc1VwWGd4cWZFZGk3X1lEMFFOZE1sSW9VSmVTRlYza21SRXJ1UQ?oc=5",
    "source": "Legacy | Obituary",
@@ -111,28 +199,6 @@
    ],
    "first_seen": 1793747935.44464,
    "section": "obits"
-  },
-  {
-   "type": "article",
-   "title": "Shooting near Little Rock jail injures one person Tuesday morning - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjVYRk01d3VabWdRLTZJS1J6TGppSWRXdWJUckRtQjRDeGdoVl9RTHU0aU5PZk80TVUzc3VWMlBtQWE5SDAwYXI3SUFpeFh5cm9DeUZEdW9OcjZxNld2blJDS2p6RE0yMjc1Y1VWSEVRQzY4UUFJLVZNSDI3SkF5YXRIZzE2YjRlN3lYbU9oUjZHa1BaLXZ3eGRuSVBjb00?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793726160.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjVYRk01d3VabWdRLTZJS1J6TGppSWRXdWJUckRtQjRDeGdoVl9RTHU0aU5PZk80TVUzc3VWMlBtQWE5SDAwYXI3SUFpeFh5cm9DeUZEdW9OcjZxNld2blJDS2p6RE0yMjc1Y1VWSEVRQzY4UUFJLVZNSDI3SkF5YXRIZzE2YjRlN3lYbU9oUjZHa1BaLXZ3eGRuSVBjb00?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "shootingnearlittlerockjailinjuresonepersontuesdaymorningthearkansasdemocratgazet"
-   ],
-   "first_seen": 1793728167.657015,
-   "section": "crime"
   },
   {
    "type": "article",
@@ -158,28 +224,6 @@
   },
   {
    "type": "article",
-   "title": "Robert Armstrong - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkhSak1zeTQ5c1pmRnNLeUUtZ1JYVXJRM041WkNTQWhuaHd5T2xBdllBUVNnWWhjTjhCMjk3dTh0a2VtQlJZaXNWMnl6NTAxQzVpOGRpenJ3b0xTdnBrdVJNUHVhcFh6OFNtN20tZjE5VTNEbTVXLTJvM0VrTzA3X1pUTWcxcDBrdUE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793685961.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkhSak1zeTQ5c1pmRnNLeUUtZ1JYVXJRM041WkNTQWhuaHd5T2xBdllBUVNnWWhjTjhCMjk3dTh0a2VtQlJZaXNWMnl6NTAxQzVpOGRpenJ3b0xTdnBrdVJNUHVhcFh6OFNtN20tZjE5VTNEbTVXLTJvM0VrTzA3X1pUTWcxcDBrdUE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "robertarmstrongthearkansasdemocratgazette"
-   ],
-   "first_seen": 1793747935.44464,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Proposed city ordinance to govern police use of surveillance technology voted down - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjJDWUplMnMzR1FVZGZxVDJyc3JfNVpVWDJqQU1NTXlFN3lKQnh3ZGFiZnRUSDYwSWNCSjFqQ2NjcW9GakZGaEJjTlQ5MUI2ZTZRbVhGSnhfcVExZlFnbjhtMXNBemM2ZzJobjBmWWlXelNCZlJ0UHRiMnZ2RzAyTkFzR1BoVnE2dW1qbE8wMlA3cWhMSmpJZHhUdHA?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -202,24 +246,24 @@
   },
   {
    "type": "article",
-   "title": "Officials negotiating with automaker for Port of Little Rock site - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEktNFU2N2hBUHV5OURhZkRwOVpzVHlLYjZXN0kwVm1oZDdUNW5RMy1mT1RYSm5UNmszMnUwcDdQUFRLb1dSTEo4dEVGTW1sV1BaUVQ1a2dVcmIyRGVTZUI5dTExOEdaS3dyWWItWnFBLWZxVjFiMlRfWkhaaWk1bFd6R2NnYVljelp0aC11b0hIdDR5cnFNUWVfWTlmdw?oc=5",
+   "title": "Early voting turnout across Arkansas surpasses two previous midterm elections - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHp2MmdhY3V0blczdVNOZ21GRXRGX1RyR2NzY1VGMmZ4Xy1rUXJEVDdYYVFfVG04RnhJajRJeU9YaXN4cUliTzVYX2NScDVZUGNaN0QyZFQxN1F1RGJkVHpIeUVZOWJDMWpVRG13RXhkMmZxbk5TN3dHZXhwRHhXRHV4OG1rbFZ3R3B2TTVOUzN3RjJxczZrN0p2VQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1793664660.0,
+   "published": 1793667900.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEktNFU2N2hBUHV5OURhZkRwOVpzVHlLYjZXN0kwVm1oZDdUNW5RMy1mT1RYSm5UNmszMnUwcDdQUFRLb1dSTEo4dEVGTW1sV1BaUVQ1a2dVcmIyRGVTZUI5dTExOEdaS3dyWWItWnFBLWZxVjFiMlRfWkhaaWk1bFd6R2NnYVljelp0aC11b0hIdDR5cnFNUWVfWTlmdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHp2MmdhY3V0blczdVNOZ21GRXRGX1RyR2NzY1VGMmZ4Xy1rUXJEVDdYYVFfVG04RnhJajRJeU9YaXN4cUliTzVYX2NScDVZUGNaN0QyZFQxN1F1RGJkVHpIeUVZOWJDMWpVRG13RXhkMmZxbk5TN3dHZXhwRHhXRHV4OG1rbFZ3R3B2TTVOUzN3RjJxczZrN0p2VQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "officialsnegotiatingwithautomakerforportoflittlerocksitethearkansasdemocratgazet"
+    "earlyvotingturnoutacrossarkansassurpassestwopreviousmidtermelectionsthearkansasd"
    ],
-   "first_seen": 1793669594.386177,
+   "first_seen": 1793772793.227581,
    "section": "major"
   },
   {
@@ -406,28 +450,6 @@
   },
   {
    "type": "article",
-   "title": "North Little Rock's ATG Pavilion opens, celebrates Arkansas' musical history - Texarkana Gazette",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmJrQWY5TXlzR0NDWmVnY0NmeGRFXzc3d05LWTRVeExjY1BmeWg2WDI2c2Ezbmg3bTR2ejh4V3g4bVBKNjIxc0xINFVCLVpfU2RqbXB3d2NDcm1PYkNHQnpkYldKREc3QV9oRTVVOXByTHpacHB1V3BNUmExVFZsSzBWT0lOVnY5RnhhMlNtSE1uckg0NXVEem10WklLMFZL?oc=5",
-   "source": "Texarkana Gazette",
-   "published": 1793584800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Texarkana Gazette",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmJrQWY5TXlzR0NDWmVnY0NmeGRFXzc3d05LWTRVeExjY1BmeWg2WDI2c2Ezbmg3bTR2ejh4V3g4bVBKNjIxc0xINFVCLVpfU2RqbXB3d2NDcm1PYkNHQnpkYldKREc3QV9oRTVVOXByTHpacHB1V3BNUmExVFZsSzBWT0lOVnY5RnhhMlNtSE1uckg0NXVEem10WklLMFZL?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerocksatgpavilionopenscelebratesarkansasmusicalhistorytexarkanagazette"
-   ],
-   "first_seen": 1793213406.893021,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Woman’s body found inside vehicle at North Little Rock address - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGpMTm8zQlc0WGpRRUhUQzZOMmNxQV80LWFNRE5MVGVQejZxNDZWSk1neGJoOWtyUi1mcG4tWDFzaWdPUnVVR25jcEpiMjAtTUltOXpsMXByVlpxNTVGSS1BcjBvbC1HZE8wX1hJSHFTYWdibjRlYV9pb3pocnprMGoxbkJ4S3RiUnR0dHByWnNQOU15eUpwUGNUcUF3cWFm?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -450,6 +472,28 @@
   },
   {
    "type": "article",
+   "title": "Little Rock police investigate shooting that leaves one dead, several injured - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVVkTW0zc0ctVk1zbTdTemc5UDF6UmpSQVE2RXBRUHIzT1RSd2E2R1NwaDJFYmFSYzQ0bFBsNW9HX0NjX19hVmszSjRtaERtQ3B6SE12TWIyTnYyeGxOam80RWNQQ0xyZnE2UlAxMXpkbk90RExQeU1fZkVZUnVUNEdXa2swcnJlNlVQaV9OSGw3d0JBWEFDXw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793566200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVVkTW0zc0ctVk1zbTdTemc5UDF6UmpSQVE2RXBRUHIzT1RSd2E2R1NwaDJFYmFSYzQ0bFBsNW9HX0NjX19hVmszSjRtaERtQ3B6SE12TWIyTnYyeGxOam80RWNQQ0xyZnE2UlAxMXpkbk90RExQeU1fZkVZUnVUNEdXa2swcnJlNlVQaV9OSGw3d0JBWEFDXw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpoliceinvestigateshootingthatleavesonedeadseveralinjuredthearkansasdem"
+   ],
+   "first_seen": 1793580070.140174,
+   "section": "crime"
+  },
+  {
+   "type": "article",
    "title": "North Little Rock police investigating after finding woman dead inside car on Halloween - KATV",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1NpN1YtQnhyeURHbkpucmJYTXdveGhxSUVoVVhkaXhqWTVhaE40SFRDSUFnOTNMemVqa1RwX285NlBrdWdKR19heHhMaXRHUW5ONG9VY0ZkcHEwREpLOXFhTlgtRklmck5KZTZJdWtOOHZHaUNxMHBEcl9nRmJ2bkRwSnNVMVpqanZYUFMwbVNmek5tWloxTGhLb3RHN2hYR2dkVmUxRGh4d1h4dTZiTDJma25ZZw?oc=5",
    "source": "KATV",
@@ -468,34 +512,6 @@
     "northlittlerockpoliceinvestigatingafterfindingwomandeadinsidecaronhalloweenkatv"
    ],
    "first_seen": 1793548803.838548,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock Police investigate Halloween night shooting that left 1 dead, several injured - KATV",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWpDVFZJUC02R1JXdllGOEt6QWtEM2I1OVF2ZkN0dGJjdnFVLUNqYTcwWENZYXdwYXduajdYbTF4ZXZCcmd0V3luSVVSWEhEc2FoejN4LUZfMlV3dHVuSm8ycmc3NmtITENYM2NMNW5CM2JKYy1NbEVwS1NMek9vZ1d1R3BRbXphaXFFTnBmU0hub01zZmllUERtYVlabzhpR2NDcElOZ1RRQ201WXNHR2pCeXNTZTQ?oc=5",
-   "source": "KATV",
-   "published": 1793544746.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWpDVFZJUC02R1JXdllGOEt6QWtEM2I1OVF2ZkN0dGJjdnFVLUNqYTcwWENZYXdwYXduajdYbTF4ZXZCcmd0V3luSVVSWEhEc2FoejN4LUZfMlV3dHVuSm8ycmc3NmtITENYM2NMNW5CM2JKYy1NbEVwS1NMek9vZ1d1R3BRbXphaXFFTnBmU0hub01zZmllUERtYVlabzhpR2NDcElOZ1RRQ201WXNHR2pCeXNTZTQ?oc=5"
-    },
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVVkTW0zc0ctVk1zbTdTemc5UDF6UmpSQVE2RXBRUHIzT1RSd2E2R1NwaDJFYmFSYzQ0bFBsNW9HX0NjX19hVmszSjRtaERtQ3B6SE12TWIyTnYyeGxOam80RWNQQ0xyZnE2UlAxMXpkbk90RExQeU1fZkVZUnVUNEdXa2swcnJlNlVQaV9OSGw3d0JBWEFDXw?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "littlerockpoliceinvestigatehalloweennightshootingthatleft1deadseveralinjuredkatv",
-    "littlerockpoliceinvestigateshootingthatleavesonedeadseveralinjuredthearkansasdem"
-   ],
-   "first_seen": 1793580070.140174,
    "section": "crime"
   },
   {
@@ -566,25 +582,25 @@
   },
   {
    "type": "article",
-   "title": ", North Little Rock, AR 72118 | Realtor.com® - Realtor.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkZkeHVXZVJnLW1YM1FNSmE5b2JlWE5BaEViSWJiTTFJU1BFQ1N0dExfUkl5ZWMtQ2NqaFROVTdEZ1AxV01ndjBfQUVUeEZzWl9JalRuUG9OQ29EbGY4Z2ZFQkQ0aVFVb2N2c3g5aF94UmVHQWxFRWh5SHk3VXFaV2ZmZ1k0QQ?oc=5",
-   "source": "Realtor.com",
-   "published": 1793419359.0,
+   "title": "Bryant Hornets fall to the North Little Rock Charging Wildcats 21-0 - KATV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajFkcTNnUmJ3cFVEQTc3ejR3YV92V3JCQ0tHZm1hMmh4cTEzSXVhakE3dXFxR2ZHbUZFMDY4c1VfYzdiaHpjd2tQM1ppSWpuUFlOTEhnYjhzM1B6RkVjQUxqSWN6V1RxTDVNc0h6aWN1NW5IWGlYemJBdU1IVzh1RDEzdnFOajZWMUhzZE53b0FlSzZ2ckx0a0QyblBHYUFkZXFzWjdnMXFxSkJiZTMxTFJ2azI4dw?oc=5",
+   "source": "KATV",
+   "published": 1793417524.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Realtor.com",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkZkeHVXZVJnLW1YM1FNSmE5b2JlWE5BaEViSWJiTTFJU1BFQ1N0dExfUkl5ZWMtQ2NqaFROVTdEZ1AxV01ndjBfQUVUeEZzWl9JalRuUG9OQ29EbGY4Z2ZFQkQ0aVFVb2N2c3g5aF94UmVHQWxFRWh5SHk3VXFaV2ZmZ1k0QQ?oc=5"
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajFkcTNnUmJ3cFVEQTc3ejR3YV92V3JCQ0tHZm1hMmh4cTEzSXVhakE3dXFxR2ZHbUZFMDY4c1VfYzdiaHpjd2tQM1ppSWpuUFlOTEhnYjhzM1B6RkVjQUxqSWN6V1RxTDVNc0h6aWN1NW5IWGlYemJBdU1IVzh1RDEzdnFOajZWMUhzZE53b0FlSzZ2ckx0a0QyblBHYUFkZXFzWjdnMXFxSkJiZTMxTFJ2azI4dw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "northlittlerockar72118realtorcomrealtorcom"
+    "bryanthornetsfalltothenorthlittlerockchargingwildcats210katv"
    ],
-   "first_seen": 1793747935.44464,
-   "section": "major"
+   "first_seen": 1793772793.227581,
+   "section": "sports"
   }
  ]
 }
