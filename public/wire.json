@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-05T18:13:13.296835-06:00",
+ "updated": "2026-11-06T00:41:48.704967-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Eight people killed, another person injured in Arkansas crashes over eight-day period - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmk0N0t3T0drYjV0NWRnX0E2TEZQU1poaEFyMzY4QWdSZm5rcjRhNnFzNzd2dkNpTmdWdWp6WFlTQWpzYVkwT2NRRUVFaUNzYUxTeEtnN3Q4R3kwRVgzX3liQmNhLXhVUlhoUDZHX3UtLWRHbjFyYS1wYTJqZ09uTG5FUk9VVS12dm9EWFV3dDRkTDRxajVjUU1IVQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793939400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmk0N0t3T0drYjV0NWRnX0E2TEZQU1poaEFyMzY4QWdSZm5rcjRhNnFzNzd2dkNpTmdWdWp6WFlTQWpzYVkwT2NRRUVFaUNzYUxTeEtnN3Q4R3kwRVgzX3liQmNhLXhVUlhoUDZHX3UtLWRHbjFyYS1wYTJqZ09uTG5FUk9VVS12dm9EWFV3dDRkTDRxajVjUU1IVQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "eightpeoplekilledanotherpersoninjuredinarkansascrashesovereightdayperiodthearkan"
+   ],
+   "first_seen": 1793947308.704967,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "University of Arkansas at Little Rock celebrates raising more than $266 million for its 100th anniversary - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWFkcnBScVo0aG00MDVHMS1oeEEtaXNTM0lMVHo5Sm9GZ2Y1MGFHVVNnT1RSQTdXdjdIdE0tbkh3dlNNbWExcHFkMzVNNWdLWHduREY4MDdiLWYwVVk4cW5NZFBvb3BYakhRSHVEbXhiTE5MeTA5TnhLc2dYWGk2UVJicUptQndnXzcxbDVqUUhxbjhEeWd2NmdIOEpOZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793934000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWFkcnBScVo0aG00MDVHMS1oeEEtaXNTM0lMVHo5Sm9GZ2Y1MGFHVVNnT1RSQTdXdjdIdE0tbkh3dlNNbWExcHFkMzVNNWdLWHduREY4MDdiLWYwVVk4cW5NZFBvb3BYakhRSHVEbXhiTE5MeTA5TnhLc2dYWGk2UVJicUptQndnXzcxbDVqUUhxbjhEeWd2NmdIOEpOZw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "universityofarkansasatlittlerockcelebratesraisingmorethan266millionforits100than"
+   ],
+   "first_seen": 1793947308.704967,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Fire damages Little Rock apartment building - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmpaUnhDSVY2NFNnNk02YjdESEswRzJ1M0t4Z2FyeV9JVHZmdy04OFktbEcxbFBCVUlPRDFKd2FfWW90WmNqandRWWhJaTRTTkJPaDEtTTI2V2RyUDJmMkVPUTdXOGtqeFdOclZMWE1Md3BNMVNTeUlxSlBoVEJkaFJ5ajA5Y2hQVVVtWDVPOHRETHNBTnUw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793920380.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmpaUnhDSVY2NFNnNk02YjdESEswRzJ1M0t4Z2FyeV9JVHZmdy04OFktbEcxbFBCVUlPRDFKd2FfWW90WmNqandRWWhJaTRTTkJPaDEtTTI2V2RyUDJmMkVPUTdXOGtqeFdOclZMWE1Md3BNMVNTeUlxSlBoVEJkaFJ5ajA5Y2hQVVVtWDVPOHRETHNBTnUw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "firedamageslittlerockapartmentbuildingthearkansasdemocratgazette"
+   ],
+   "first_seen": 1793947308.704967,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Arkansas attorney general seeks end to order establishing majority-Black judicial districts - News From The States",
@@ -22,6 +88,28 @@
     "arkansasattorneygeneralseeksendtoorderestablishingmajorityblackjudicialdistricts"
    ],
    "first_seen": 1793923993.296835,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Car-Mart gains another extension, shares move upward - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa296RU5ZU21ocVNWeTA3d2M5WWcycjVpaS0tRC1yOGJFVGlZN1doTm4wbk1vTUpGNWh5eDBzdzJUTVJ6RHNyYlpmaWJaV0p6TDlGa01IR1d0dk5sX1d5MVJjcmdLV1RJWUE0bzR3eXRyWFRyT2VYS3VjUWdFWGZ4ZW9YNXNiblZkdWs5bVRFdmNVR25PbmU3Yg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793917320.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa296RU5ZU21ocVNWeTA3d2M5WWcycjVpaS0tRC1yOGJFVGlZN1doTm4wbk1vTUpGNWh5eDBzdzJUTVJ6RHNyYlpmaWJaV0p6TDlGa01IR1d0dk5sX1d5MVJjcmdLV1RJWUE0bzR3eXRyWFRyT2VYS3VjUWdFWGZ4ZW9YNXNiblZkdWs5bVRFdmNVR25PbmU3Yg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "carmartgainsanotherextensionsharesmoveupwardthearkansasdemocratgazette"
+   ],
+   "first_seen": 1793947308.704967,
    "section": "major"
   },
   {
@@ -48,46 +136,24 @@
   },
   {
    "type": "article",
-   "title": "Former director of Office of Professional Programs charged in Arkansas Bar Exam tampering probe - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEVZTWNmeEtqQ3BNQzhtUzUxOTl6NGxlME9GNm05eGYtb2lNS0J3VlVTbGMzQk4tS00wSVA1cGhSVFdhaVR2aThHampSU185ajJTaXdzLUdaM1VjeDdVSEJnNnRILXVFUkY0RmhaYm1ybGdSQk5kZmUwdW9YejJZTkI3MlpBeE1aNEh6VWdOVFNtYmFW?oc=5",
+   "title": "Court of Appeals affirms Little Rock man’s 35-year sentence for rape - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFhpd2hTZEM1c2hOVk5TWnlMSmJ6dVk0dnluSmYxTWRiMDRJdU9taDF4OFFDVGJwVVRoRHRKVmdHWDdaQTdfWUpNMEFPN253SXQzSTdpbVZfRjdBNjFoWkxMeTNIRDNJQU80Qm5qVUtVTFotQjBJei1ZVjJaaTFjal9IMm9DQVE1MUtuNGRDRkl5SlZDS3FiNUhNS3A2NFk?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1793909040.0,
+   "published": 1793898900.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEVZTWNmeEtqQ3BNQzhtUzUxOTl6NGxlME9GNm05eGYtb2lNS0J3VlVTbGMzQk4tS00wSVA1cGhSVFdhaVR2aThHampSU185ajJTaXdzLUdaM1VjeDdVSEJnNnRILXVFUkY0RmhaYm1ybGdSQk5kZmUwdW9YejJZTkI3MlpBeE1aNEh6VWdOVFNtYmFW?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFhpd2hTZEM1c2hOVk5TWnlMSmJ6dVk0dnluSmYxTWRiMDRJdU9taDF4OFFDVGJwVVRoRHRKVmdHWDdaQTdfWUpNMEFPN253SXQzSTdpbVZfRjdBNjFoWkxMeTNIRDNJQU80Qm5qVUtVTFotQjBJei1ZVjJaaTFjal9IMm9DQVE1MUtuNGRDRkl5SlZDS3FiNUhNS3A2NFk?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "formerdirectorofofficeofprofessionalprogramschargedinarkansasbarexamtamperingpro"
+    "courtofappealsaffirmslittlerockmans35yearsentenceforrapethearkansasdemocratgazet"
    ],
-   "first_seen": 1793923993.296835,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "State Supreme Court dismisses contempt charge against Helena-West Helena mayor - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjRKMkhvaWtqdFNwM1lQemd6ZUNSUzVXRE1ib2hlUzQ2QWNJNXlvM2ZiaDZFU3VhMVo3OHFuRTk3b1BBNnJBbkp5cmxhemtGYzh5ZXU2NGtSU0Y5TWpvUGxXVV92X0xqa2l3ZlQ2NDZDS05XUkdveDlsUEgwYVhRM3paQ0tzTnlXeGdGUjFmUjhZbW9aZDFfRkhn?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793902740.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjRKMkhvaWtqdFNwM1lQemd6ZUNSUzVXRE1ib2hlUzQ2QWNJNXlvM2ZiaDZFU3VhMVo3OHFuRTk3b1BBNnJBbkp5cmxhemtGYzh5ZXU2NGtSU0Y5TWpvUGxXVV92X0xqa2l3ZlQ2NDZDS05XUkdveDlsUEgwYVhRM3paQ0tzTnlXeGdGUjFmUjhZbW9aZDFfRkhn?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "statesupremecourtdismissescontemptchargeagainsthelenawesthelenamayorthearkansasd"
-   ],
-   "first_seen": 1793904158.611641,
+   "first_seen": 1793947308.704967,
    "section": "major"
   },
   {
@@ -114,6 +180,28 @@
   },
   {
    "type": "article",
+   "title": "Judy Wood Obituary (1943 - 2026) - North Little Rock, AR - White County Citizen - Legacy | Obituary",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHlvUFhNekJkSVB1Q0NHVTBxSTV2bXBaeDEtaUV5RHVuVGlMNTg2aFBRcExOR2E2Rzh4OEhhT29mU1JNazdHeUc4amZ6dFE2Y3lUSFFfSFIzY2ZYYXAzS3VhYjJaSU45QVltc3N6ZXZZYlpqVzRVaFRrUkd3a0xSWkFEZ2ZpT0xIc3VSTDgyN2REYWg1T1E?oc=5",
+   "source": "Legacy | Obituary",
+   "published": 1793893639.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHlvUFhNekJkSVB1Q0NHVTBxSTV2bXBaeDEtaUV5RHVuVGlMNTg2aFBRcExOR2E2Rzh4OEhhT29mU1JNazdHeUc4amZ6dFE2Y3lUSFFfSFIzY2ZYYXAzS3VhYjJaSU45QVltc3N6ZXZZYlpqVzRVaFRrUkd3a0xSWkFEZ2ZpT0xIc3VSTDgyN2REYWg1T1E?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "judywoodobituary19432026northlittlerockarwhitecountycitizenlegacyobituary"
+   ],
+   "first_seen": 1793923993.296835,
+   "section": "obits"
+  },
+  {
+   "type": "article",
    "title": "Person of interest detained in fatal Jonesboro shooting - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjJmN0NackNkRmV5eC0yazFmc3ppWEV6LVJ5WVVsdjBCY2gwM01wR2RrRlR3WHRzdFNBZ09Lc1R2RTNfRkd6eFUzc2IwM3VXb1huY3IwWjBzcFZFWUpmMHlPZ3Fyak4yc1pLa0U2ckVXdHczalhfdUNRbXJ4cEdlVlI4NHR2V3l0ajhWYlZrMWg0MTVCTkFqV3ZrYjdQY3IyNUc0?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -133,28 +221,6 @@
    ],
    "first_seen": 1793904158.611641,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock opens new pavilion celebrating Arkansas music legacy, and it hits right - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSW5YdEVXUEs4T09kMXNRa1RKWklkNks4VWo5RzdjSXRtNVNwNDVrTE5CSGpPNXNRc2VRX0thSjljM1JaS0w2RERlSmN2Z3JIMHo3eG5pWjd4a0FLY0ZiNHRjYTRqTXJNY1N6Uk5KZ3oyNUp5UlZoX0VqM3hMVW9MSXZFRC1OdWUzOGc1U0xxUkxBNmNVTmxZeXpoZHYxdlYxd01VQjZ1Q18wbl9vWXRmT0hnQ29LaHJURlJXZXhEVHQ0V3BaWHU3dnlPbFhLbXkwUllLbDBCMGRuWjZyRHd4cDdzYVEyT09lNFdKRU5QV3RiVGtxamtPeTcwcnd5RFJaOGVEclFva2dsV2xuZlhZZ09kM2JGcWN3V2gzalRjUVpkblVyZHMtU2tUajBPSmpEWDRKaGpoMDBLMFVoSF9fZVdXbnJ5MUI5MXAw?oc=5",
-   "source": "KATV",
-   "published": 1793832988.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSW5YdEVXUEs4T09kMXNRa1RKWklkNks4VWo5RzdjSXRtNVNwNDVrTE5CSGpPNXNRc2VRX0thSjljM1JaS0w2RERlSmN2Z3JIMHo3eG5pWjd4a0FLY0ZiNHRjYTRqTXJNY1N6Uk5KZ3oyNUp5UlZoX0VqM3hMVW9MSXZFRC1OdWUzOGc1U0xxUkxBNmNVTmxZeXpoZHYxdlYxd01VQjZ1Q18wbl9vWXRmT0hnQ29LaHJURlJXZXhEVHQ0V3BaWHU3dnlPbFhLbXkwUllLbDBCMGRuWjZyRHd4cDdzYVEyT09lNFdKRU5QV3RiVGtxamtPeTcwcnd5RFJaOGVEclFva2dsV2xuZlhZZ09kM2JGcWN3V2gzalRjUVpkblVyZHMtU2tUajBPSmpEWDRKaGpoMDBLMFVoSF9fZVdXbnJ5MUI5MXAw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockopensnewpavilioncelebratingarkansasmusiclegacyandithitsrightkatv"
-   ],
-   "first_seen": 1793845454.323636,
-   "section": "major"
   },
   {
    "type": "article",
@@ -269,28 +335,6 @@
    ],
    "first_seen": 1793802583.314534,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Judy Wood Obituary (1943 - 2026) - North Little Rock, AR - White County Citizen - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHlvUFhNekJkSVB1Q0NHVTBxSTV2bXBaeDEtaUV5RHVuVGlMNTg2aFBRcExOR2E2Rzh4OEhhT29mU1JNazdHeUc4amZ6dFE2Y3lUSFFfSFIzY2ZYYXAzS3VhYjJaSU45QVltc3N6ZXZZYlpqVzRVaFRrUkd3a0xSWkFEZ2ZpT0xIc3VSTDgyN2REYWg1T1E?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1793779200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHlvUFhNekJkSVB1Q0NHVTBxSTV2bXBaeDEtaUV5RHVuVGlMNTg2aFBRcExOR2E2Rzh4OEhhT29mU1JNazdHeUc4amZ6dFE2Y3lUSFFfSFIzY2ZYYXAzS3VhYjJaSU45QVltc3N6ZXZZYlpqVzRVaFRrUkd3a0xSWkFEZ2ZpT0xIc3VSTDgyN2REYWg1T1E?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "judywoodobituary19432026northlittlerockarwhitecountycitizenlegacyobituary"
-   ],
-   "first_seen": 1793923993.296835,
-   "section": "obits"
   },
   {
    "type": "article",
@@ -440,68 +484,24 @@
   },
   {
    "type": "article",
-   "title": "Little Rock Police Probe Non-Fatal Shooting on Maple Street on Election Day - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3hud1p3SWFkOE5PXzlVY0NQOFd6Skp4UUZZdDVrWXNtYWFDeC11aGZMb2JjSWc0NlllcjUxbEtJU2J1VHlrZVdidTFCYUFEZ25UX1pSc2ZIYUMyMlpmNDNzU0tYeGFtT29NWFhpVktIWEFoWnAwUlpZNEZGaUFxY0JZck9Ucm02QWZRNjlEeGt2Rnk4SWpmVUhIdktYc0JCdzhxVVFtWXI?oc=5",
-   "source": "Hoodline",
-   "published": 1793735931.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3hud1p3SWFkOE5PXzlVY0NQOFd6Skp4UUZZdDVrWXNtYWFDeC11aGZMb2JjSWc0NlllcjUxbEtJU2J1VHlrZVdidTFCYUFEZ25UX1pSc2ZIYUMyMlpmNDNzU0tYeGFtT29NWFhpVktIWEFoWnAwUlpZNEZGaUFxY0JZck9Ucm02QWZRNjlEeGt2Rnk4SWpmVUhIdktYc0JCdzhxVVFtWXI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockpoliceprobenonfatalshootingonmaplestreetonelectiondayhoodline"
-   ],
-   "first_seen": 1793802583.314534,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Early voting turnout across Arkansas surpasses two previous midterm elections - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHp2MmdhY3V0blczdVNOZ21GRXRGX1RyR2NzY1VGMmZ4Xy1rUXJEVDdYYVFfVG04RnhJajRJeU9YaXN4cUliTzVYX2NScDVZUGNaN0QyZFQxN1F1RGJkVHpIeUVZOWJDMWpVRG13RXhkMmZxbk5TN3dHZXhwRHhXRHV4OG1rbFZ3R3B2TTVOUzN3RjJxczZrN0p2VQ?oc=5",
+   "title": "Little Rock Mayor Frank Scott Jr. reelected to 3rd term - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHdGSUJ6anBvYjNYMTkzeTNfX1hBdHpzbWZjal9JMTVYMlVDYzhhX3g0ZXlFeWpERC0tUU9VMGZlR092a3E4ZHJMMVo5LWprTHdSTUt6QmdaUmdScUhORGxjUm92d0ppdVB1b3h6dy1LTUNXVmpqMm1iVURWVUZUOU55dDlJMXRldW5FTjVB?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1793667900.0,
+   "published": 1793762160.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHp2MmdhY3V0blczdVNOZ21GRXRGX1RyR2NzY1VGMmZ4Xy1rUXJEVDdYYVFfVG04RnhJajRJeU9YaXN4cUliTzVYX2NScDVZUGNaN0QyZFQxN1F1RGJkVHpIeUVZOWJDMWpVRG13RXhkMmZxbk5TN3dHZXhwRHhXRHV4OG1rbFZ3R3B2TTVOUzN3RjJxczZrN0p2VQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHdGSUJ6anBvYjNYMTkzeTNfX1hBdHpzbWZjal9JMTVYMlVDYzhhX3g0ZXlFeWpERC0tUU9VMGZlR092a3E4ZHJMMVo5LWprTHdSTUt6QmdaUmdScUhORGxjUm92d0ppdVB1b3h6dy1LTUNXVmpqMm1iVURWVUZUOU55dDlJMXRldW5FTjVB?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "earlyvotingturnoutacrossarkansassurpassestwopreviousmidtermelectionsthearkansasd"
+    "littlerockmayorfrankscottjrreelectedto3rdtermthearkansasdemocratgazette"
    ],
-   "first_seen": 1793772793.227581,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Strip Club Fights $1.16M Death Verdict in Court - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVG1DblNCeDZYNFJtcmRWeUJGU3pHT2l2SGU4aGhlX3VIRXNZWmVPNWkxOVpRSzZZR3lKYTQ2a0ZDZ3dreldIWkdUUzFudlBvUWpmNHZfdHhEZXRadUJOR1J2WWdjQzdPSEdKY3BldEcwbjNuQTRrNFIyQUZ3ZDMxT0dZVlVENmtvdG1Ra05sVmRuRjB5dWE1YmRR?oc=5",
-   "source": "Hoodline",
-   "published": 1793665826.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Hoodline",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVG1DblNCeDZYNFJtcmRWeUJGU3pHT2l2SGU4aGhlX3VIRXNZWmVPNWkxOVpRSzZZR3lKYTQ2a0ZDZ3dreldIWkdUUzFudlBvUWpmNHZfdHhEZXRadUJOR1J2WWdjQzdPSEdKY3BldEcwbjNuQTRrNFIyQUZ3ZDMxT0dZVlVENmtvdG1Ra05sVmRuRjB5dWE1YmRR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockstripclubfights116mdeathverdictincourthoodline"
-   ],
-   "first_seen": 1793904158.611641,
+   "first_seen": 1793947308.704967,
    "section": "major"
   }
  ]
