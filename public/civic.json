@@ -1,27 +1,21 @@
 {
- "updated": "2026-11-05T14:38:22.469228-06:00",
+ "updated": "2026-11-06T13:56:20.055424-06:00",
  "meetings": [
   {
-   "body": "school",
-   "title": "NLRSD Board of Education — Board workshop (first Thursday)",
-   "start": "2026-11-05T17:30:00",
-   "location": "NLRSD Administration Building, 2400 Willow St",
-   "url": "https://go.boarddocs.com/ar/nlrsd/Board.nsf/public",
+   "body": "council",
+   "title": "City Council — regular meeting",
+   "start": "2026-11-09T18:00:00",
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://nlr.ar.gov/events/category/city-council/",
    "computed": true
   },
   {
-   "body": "council",
-   "title": "NLR City Council Meeting",
-   "start": "2026-11-09T18:00:00",
-   "location": "North Little Rock City Hall",
-   "url": "https://nlr.ar.gov/event/nlr-city-council-meeting-2/2026-11-09/"
-  },
-  {
    "body": "parks",
-   "title": "Parks and Recreation Commission Meeting",
+   "title": "Parks & Recreation Commission — regular meeting",
    "start": "2026-11-16T17:00:00",
-   "location": "North Little Rock Community Center",
-   "url": "https://nlr.ar.gov/event/parks-and-recreation-commission-meeting-26/"
+   "location": "NLR Community Center, 2700 Willow St",
+   "url": "https://nlr.ar.gov/departments/boards-and-commissions/parks-and-recreation-commission/",
+   "computed": true
   },
   {
    "body": "school",
@@ -33,10 +27,11 @@
   },
   {
    "body": "council",
-   "title": "NLR City Council Meeting",
+   "title": "City Council — regular meeting",
    "start": "2026-11-23T18:00:00",
-   "location": "North Little Rock City Hall",
-   "url": "https://nlr.ar.gov/event/nlr-city-council-meeting/2026-11-23/"
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://nlr.ar.gov/events/category/city-council/",
+   "computed": true
   },
   {
    "body": "school",
@@ -48,10 +43,11 @@
   },
   {
    "body": "council",
-   "title": "NLR City Council Meeting",
+   "title": "City Council — regular meeting",
    "start": "2026-12-14T18:00:00",
-   "location": "North Little Rock City Hall",
-   "url": "https://nlr.ar.gov/event/nlr-city-council-meeting-2/2026-12-14/"
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://nlr.ar.gov/events/category/city-council/",
+   "computed": true
   },
   {
    "body": "school",
@@ -63,17 +59,19 @@
   },
   {
    "body": "parks",
-   "title": "Parks and Recreation Commission Meeting",
+   "title": "Parks & Recreation Commission — regular meeting",
    "start": "2026-12-21T17:00:00",
-   "location": "North Little Rock Community Center",
-   "url": "https://nlr.ar.gov/event/parks-and-recreation-commission-meeting-27/"
+   "location": "NLR Community Center, 2700 Willow St",
+   "url": "https://nlr.ar.gov/departments/boards-and-commissions/parks-and-recreation-commission/",
+   "computed": true
   },
   {
    "body": "council",
-   "title": "NLR City Council Meeting",
+   "title": "City Council — regular meeting",
    "start": "2026-12-28T18:00:00",
-   "location": "North Little Rock City Hall",
-   "url": "https://nlr.ar.gov/event/nlr-city-council-meeting/2026-12-28/"
+   "location": "City Hall Council Chambers, 300 Main St",
+   "url": "https://nlr.ar.gov/events/category/city-council/",
+   "computed": true
   }
  ]
 }
