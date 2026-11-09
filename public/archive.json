@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:07:35.847168-06:00",
+ "updated": "2026-11-08T18:51:11.125397-06:00",
  "items": [
   {
    "type": "article",
@@ -417,28 +417,6 @@
    "source_count": 1,
    "member_keys": [
     "hugealtercationathalloweenpartyprecededdeadlysouthwestlittlerockshootingpolicesa"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Suspect in fatal Little Rock shooting claims self-defense with gun he had found - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWZKc2JXN0N0bzFfQkYtWnpCWGl6U3ROSTVIN0k5VUQxdlA1dm1VR0FPbmNDbE5uNGY3a1lNcF8zUkVNOGRaWVBiUmVXeWdCWThtbmtnVHVEeExqbF9ud3pkWWREeXd3T0tqc0loWGk4NFgySzNtQVFZNmZwaVdablFfbnNneUdoTlY0SV9taEJXNHBTXzNoQmtLVVJVclFocV94bnJn?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794016800.0,
-   "first_seen": 1793580070.140174,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWZKc2JXN0N0bzFfQkYtWnpCWGl6U3ROSTVIN0k5VUQxdlA1dm1VR0FPbmNDbE5uNGY3a1lNcF8zUkVNOGRaWVBiUmVXeWdCWThtbmtnVHVEeExqbF9ud3pkWWREeXd3T0tqc0loWGk4NFgySzNtQVFZNmZwaVdablFfbnNneUdoTlY0SV9taEJXNHBTXzNoQmtLVVJVclFocV94bnJn?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "suspectinfatallittlerockshootingclaimsselfdefensewithgunhehadfoundthearkansasdem"
    ]
   },
   {
@@ -1232,6 +1210,29 @@
    "source_count": 1,
    "member_keys": [
     "northlittlerockfiredepartmentcaptainloseseverythinginhousefirecrewralliesaroundh"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Little Rock shooting victim dies; suspect arrested - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0tFUERmdUsyRy1YdXh2UDJVT3AxbkF1OHptdEFfNDNRa3JJMFFuZ3JSZldHOEJ3SHVDYlRBRVBpOWpDTWFKVGlLX1dCNmRVazd2RFVtT1BxS1l2YmZSLTNkM1R0VFhwd3JwY1pEWXhKaG1HbU1EdG1TVDdCTjFlUE9jbTBLMHJaMm1ZOTkxMTFIdk1WSlE0T01tUV9FczA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793827740.0,
+   "first_seen": 1793580070.140174,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0tFUERmdUsyRy1YdXh2UDJVT3AxbkF1OHptdEFfNDNRa3JJMFFuZ3JSZldHOEJ3SHVDYlRBRVBpOWpDTWFKVGlLX1dCNmRVazd2RFVtT1BxS1l2YmZSLTNkM1R0VFhwd3JwY1pEWXhKaG1HbU1EdG1TVDdCTjFlUE9jbTBLMHJaMm1ZOTkxMTFIdk1WSlE0T01tUV9FczA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockshootingvictimdiessuspectarrestedthearkansasdemocratgazette",
+    "suspectinfatallittlerockshootingclaimsselfdefensewithgunhehadfoundthearkansasdem"
    ]
   },
   {
