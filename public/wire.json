@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-10T03:44:52.339149-06:00",
+ "updated": "2026-11-10T11:47:02.362561-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Former administrative assistant arrested following investigation into theft of Pine Bluff High School funds - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczJlbUh5MDNuNjdRTlVCWGhUWlhlcDZoRXJISXM0UkNqZ1JQLXlEd1YtUF9rMmd5bENmN2dGQmxxcEV5Q0Rmb196N1RMNS1YUEs0SEtBQWhmS2NaTGs5bDI2RHNqS2Qyb3lLSV84NExYR2lxWFd3VnNGdHBVd1B4ZE8wWUpCOG5Fak1rOUxoS1FscEE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794319320.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczJlbUh5MDNuNjdRTlVCWGhUWlhlcDZoRXJISXM0UkNqZ1JQLXlEd1YtUF9rMmd5bENmN2dGQmxxcEV5Q0Rmb196N1RMNS1YUEs0SEtBQWhmS2NaTGs5bDI2RHNqS2Qyb3lLSV84NExYR2lxWFd3VnNGdHBVd1B4ZE8wWUpCOG5Fak1rOUxoS1FscEE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "formeradministrativeassistantarrestedfollowinginvestigationintotheftofpinebluffh"
+   ],
+   "first_seen": 1794332822.362561,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "North Little Rock council discusses special appropriations for 2027 fiscal budget - The Arkansas Democrat-Gazette",
@@ -400,6 +422,28 @@
   },
   {
    "type": "article",
+   "title": "Roberta \"Bert\" Hearne Obituary Nov 7, 2026 - www.smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXpYVHV5QlVvc2EyNUNEa2N6aC1IYjFKY3U3MDZnYkJOQkpkVTgydVU0WTlBNFR3QnBGMzBkbXNWUlQwcTZwbXNuNUo3cGxVYnREUmxobDhQT3BSSzY0OUtnU3hJbDRteEVPVW5Rczh3STdQem55MHdPa0hQVTMwVDF2YWhTOUVDYTBmUUVZWWQ4eEItbmc2d2FncktiVmtPQVpKVTBTc095ZlhJbVJsUDNiOGlBSFk0ZnB6NWZTU3RXakRsZnhZdmdKQmZITThKWGRGOUwyNzZEenBKRHJPdg?oc=5",
+   "source": "www.smithfamilycares.com",
+   "published": 1794038400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "www.smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXpYVHV5QlVvc2EyNUNEa2N6aC1IYjFKY3U3MDZnYkJOQkpkVTgydVU0WTlBNFR3QnBGMzBkbXNWUlQwcTZwbXNuNUo3cGxVYnREUmxobDhQT3BSSzY0OUtnU3hJbDRteEVPVW5Rczh3STdQem55MHdPa0hQVTMwVDF2YWhTOUVDYTBmUUVZWWQ4eEItbmc2d2FncktiVmtPQVpKVTBTc095ZlhJbVJsUDNiOGlBSFk0ZnB6NWZTU3RXakRsZnhZdmdKQmZITThKWGRGOUwyNzZEenBKRHJPdg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "robertaberthearneobituarynov72026wwwsmithfamilycarescom"
+   ],
+   "first_seen": 1794332822.362561,
+   "section": "obits"
+  },
+  {
+   "type": "article",
    "title": "Baptist Health Imaging Centers to hold lung cancer screenings for eligible patients - KATV",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2NrLXlXUkd0dC0tdlpnV3hCOXhrQmdFZ3BNSllVbkplMTgxQUtvWTUxTnpEMGt2c0lROHZDSkZjeDZDOWk0S0hJUFJLcF9wZy1mOGRJZE5rY2JEMjRPbEFxcm51bEtHSlFRQmF5bmFRRm9qMVpiM1dQaE1weDRwX0I1WGx5ZGhGR3J0UTdMV00wY21VME9rWHl4UTN3d0k4STluR0xiQ28yOFZBQ1F1NkgtVTRrM0xrcHFTcHUzenNkWF9HcHZkTUlvbV9xdjBOZmNGSGdxdXQ3NnJmbE5yVUlldDNRUQ?oc=5",
    "source": "KATV",
@@ -451,15 +495,21 @@
    "snippet": "",
    "discussion_url": "",
    "comments": [],
+   "num_comments": null,
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmk0N0t3T0drYjV0NWRnX0E2TEZQU1poaEFyMzY4QWdSZm5rcjRhNnFzNzd2dkNpTmdWdWp6WFlTQWpzYVkwT2NRRUVFaUNzYUxTeEtnN3Q4R3kwRVgzX3liQmNhLXhVUlhoUDZHX3UtLWRHbjFyYS1wYTJqZ09uTG5FUk9VVS12dm9EWFV3dDRkTDRxajVjUU1IVQ?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTTNvTjBmS3hOeXRoZF9IUmFJa3FfUkhUckYtdFgyaFZZS3doMmRNVEwyc2FJQ2xYSzRuQVMzaUlqOGV6MHg0djF6bTBKNWt2TEJydENuclBqaWVBMkd1LUZZbHlLVUNfMm90VHJGYi1USTA?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "eightpeoplekilledanotherpersoninjuredinarkansascrashesovereightdayperiodthearkan"
+    "eightpeoplekilledanotherpersoninjuredinarkansascrashesovereightdayperiodthearkan",
+    "veteransdayclosingsnorthwestarkansasdemocratgazette"
    ],
    "first_seen": 1793947308.704967,
    "section": "crime"
@@ -510,28 +560,6 @@
   },
   {
    "type": "article",
-   "title": "State Police assists in ending armed hostage situation in Crossett, girl rescued - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXotQUIzdmJfdHExWkJVUk53RUZqSjNyTHVyeFNsa2hyckNIeWFZTEJobXRNVEdvSkR1TUxKUWRCN1pPMFVuenZnc3E5ZDRYamdsZUNrcHJQZzFuU2cydHp6WHdpdllrTmJKUUhjb3RNOElxVkVCUC1ta3RoY2ttbWlsX214cE1PTWZsVEQ0UFBvdHAtaFdGWjRjb29jaThXdnNpMmJ6cWw5S00?oc=5",
-   "source": "KATV",
-   "published": 1793891607.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXotQUIzdmJfdHExWkJVUk53RUZqSjNyTHVyeFNsa2hyckNIeWFZTEJobXRNVEdvSkR1TUxKUWRCN1pPMFVuenZnc3E5ZDRYamdsZUNrcHJQZzFuU2cydHp6WHdpdllrTmJKUUhjb3RNOElxVkVCUC1ta3RoY2ttbWlsX214cE1PTWZsVEQ0UFBvdHAtaFdGWjRjb29jaThXdnNpMmJ6cWw5S00?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "statepoliceassistsinendingarmedhostagesituationincrossettgirlrescuedkatv"
-   ],
-   "first_seen": 1794132925.457715,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock Ward 2 council election could see runoff - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW85cGtaU00zNjh5SGdiRHQ5TnhvTDZaMS0ycFJ4NFd1TmtyMzNZbkNQR3VJSkJiS3FEdkNaT1U5TWJOYjVmWGVraHBrX252cGhrREtTZEM1VjRfaXpCMGttWGVLemtYRTVxX3NtR0FIeW5kanhhLTZ1TnFieEZ5ZzZhOFNoOXhucmxFUWllQlVsRTVpMmZPb2RIWUI?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -572,50 +600,6 @@
     "northlittlerockopensnewpavilioncelebratingarkansasmusiclegacyandithitsrightkatv"
    ],
    "first_seen": 1794156049.329577,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock Fire Department captain loses everything in house fire, crew rallies around him in support - KARK",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREZxcGEzaXhyTU5KSlhDbWVlTWhmbmx3WFBnYUVVTGpoaWFQcF90NnNDZzlJNmRlSUh6RU5BUHZ5UFdxYWxqRkxDTUNxNURyNjlheEZUQjVpRWpFQVo0N2laRXAzdXlQTl9vLXFwWFpNanFzQXRycUQ4ZGlWeUtVUDZBLTNxaHlIZXlyUWlKQUtuRUtEYnFUTXpWaFc4TEhjT2NLUXpPMm1JRGRReFZQUWQ2MEM0bG5DWkZ5bzVDN0VTdzRvYm4zbzEwMWZ0U00?oc=5",
-   "source": "KARK",
-   "published": 1793829793.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREZxcGEzaXhyTU5KSlhDbWVlTWhmbmx3WFBnYUVVTGpoaWFQcF90NnNDZzlJNmRlSUh6RU5BUHZ5UFdxYWxqRkxDTUNxNURyNjlheEZUQjVpRWpFQVo0N2laRXAzdXlQTl9vLXFwWFpNanFzQXRycUQ4ZGlWeUtVUDZBLTNxaHlIZXlyUWlKQUtuRUtEYnFUTXpWaFc4TEhjT2NLUXpPMm1JRGRReFZQUWQ2MEM0bG5DWkZ5bzVDN0VTdzRvYm4zbzEwMWZ0U00?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockfiredepartmentcaptainloseseverythinginhousefirecrewralliesaroundh"
-   ],
-   "first_seen": 1794276217.48392,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Casa Mariachi open in west Little Rock’s Westchase Plaza - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmtHTHFvY1lNdEU5cmZaMXdfeXIxbTlZTnNLZkFkUzZ5NHdTQ1NqWXJZUjlsd1hZQ3ozLV9vNktUNGRoejRsQnoxQ3BmeVA0TkU0cW55V1QyUkU1Qjh5SWpoenVPTTNvaERuNDlBdU93amNzSGJpandreHktLVVrU3dvb0I4UnNoamFldVAwVm9MbVJtbFRJMmxTNmkzaWNWS3FXdUxtTQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793819820.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmtHTHFvY1lNdEU5cmZaMXdfeXIxbTlZTnNLZkFkUzZ5NHdTQ1NqWXJZUjlsd1hZQ3ozLV9vNktUNGRoejRsQnoxQ3BmeVA0TkU0cW55V1QyUkU1Qjh5SWpoenVPTTNvaERuNDlBdU93amNzSGJpandreHktLVVrU3dvb0I4UnNoamFldVAwVm9MbVJtbFRJMmxTNmkzaWNWS3FXdUxtTQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "casamariachiopeninwestlittlerockswestchaseplazathearkansasdemocratgazette"
-   ],
-   "first_seen": 1794249881.6579,
    "section": "major"
   }
  ]

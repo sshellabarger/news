@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T03:44:52.339149-06:00",
+ "updated": "2026-11-10T11:47:02.362561-06:00",
  "items": [
+  {
+   "type": "article",
+   "title": "Former administrative assistant arrested following investigation into theft of Pine Bluff High School funds - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczJlbUh5MDNuNjdRTlVCWGhUWlhlcDZoRXJISXM0UkNqZ1JQLXlEd1YtUF9rMmd5bENmN2dGQmxxcEV5Q0Rmb196N1RMNS1YUEs0SEtBQWhmS2NaTGs5bDI2RHNqS2Qyb3lLSV84NExYR2lxWFd3VnNGdHBVd1B4ZE8wWUpCOG5Fak1rOUxoS1FscEE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794319320.0,
+   "first_seen": 1794332822.362561,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczJlbUh5MDNuNjdRTlVCWGhUWlhlcDZoRXJISXM0UkNqZ1JQLXlEd1YtUF9rMmd5bENmN2dGQmxxcEV5Q0Rmb196N1RMNS1YUEs0SEtBQWhmS2NaTGs5bDI2RHNqS2Qyb3lLSV84NExYR2lxWFd3VnNGdHBVd1B4ZE8wWUpCOG5Fak1rOUxoS1FscEE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "formeradministrativeassistantarrestedfollowinginvestigationintotheftofpinebluffh"
+   ]
+  },
   {
    "type": "article",
    "title": "North Little Rock council discusses special appropriations for 2027 fiscal budget - The Arkansas Democrat-Gazette",
@@ -707,6 +729,28 @@
   },
   {
    "type": "article",
+   "title": "Roberta \"Bert\" Hearne Obituary Nov 7, 2026 - www.smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXpYVHV5QlVvc2EyNUNEa2N6aC1IYjFKY3U3MDZnYkJOQkpkVTgydVU0WTlBNFR3QnBGMzBkbXNWUlQwcTZwbXNuNUo3cGxVYnREUmxobDhQT3BSSzY0OUtnU3hJbDRteEVPVW5Rczh3STdQem55MHdPa0hQVTMwVDF2YWhTOUVDYTBmUUVZWWQ4eEItbmc2d2FncktiVmtPQVpKVTBTc095ZlhJbVJsUDNiOGlBSFk0ZnB6NWZTU3RXakRsZnhZdmdKQmZITThKWGRGOUwyNzZEenBKRHJPdg?oc=5",
+   "source": "www.smithfamilycares.com",
+   "published": 1794038400.0,
+   "first_seen": 1794332822.362561,
+   "section": "obits",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "www.smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXpYVHV5QlVvc2EyNUNEa2N6aC1IYjFKY3U3MDZnYkJOQkpkVTgydVU0WTlBNFR3QnBGMzBkbXNWUlQwcTZwbXNuNUo3cGxVYnREUmxobDhQT3BSSzY0OUtnU3hJbDRteEVPVW5Rczh3STdQem55MHdPa0hQVTMwVDF2YWhTOUVDYTBmUUVZWWQ4eEItbmc2d2FncktiVmtPQVpKVTBTc095ZlhJbVJsUDNiOGlBSFk0ZnB6NWZTU3RXakRsZnhZdmdKQmZITThKWGRGOUwyNzZEenBKRHJPdg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "robertaberthearneobituarynov72026wwwsmithfamilycarescom"
+   ]
+  },
+  {
+   "type": "article",
    "title": "Conway grocery store temporarily evacuated as police confront man with knife - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2RDNWplZmtfUHJXWVJqdXpieGFaRW12aEFTTVhSN3kyQjlITmV2dEpIV25ybzE4LXVrX1dYdEp1N2Y3VVE1cmNmWmNRMHpBY01uX3VtOGNFbDlQbEpzNGc4WW5wTGVrNE5jN1lGUjRKaVdGa3JETVF0YWRkaGtuNEVWZEV4c05McGl0V3ZhZ0FBQ3JDMFE?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -1028,11 +1072,16 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmk0N0t3T0drYjV0NWRnX0E2TEZQU1poaEFyMzY4QWdSZm5rcjRhNnFzNzd2dkNpTmdWdWp6WFlTQWpzYVkwT2NRRUVFaUNzYUxTeEtnN3Q4R3kwRVgzX3liQmNhLXhVUlhoUDZHX3UtLWRHbjFyYS1wYTJqZ09uTG5FUk9VVS12dm9EWFV3dDRkTDRxajVjUU1IVQ?oc=5"
+    },
+    {
+     "source": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTTNvTjBmS3hOeXRoZF9IUmFJa3FfUkhUckYtdFgyaFZZS3doMmRNVEwyc2FJQ2xYSzRuQVMzaUlqOGV6MHg0djF6bTBKNWt2TEJydENuclBqaWVBMkd1LUZZbHlLVUNfMm90VHJGYi1USTA?oc=5"
     }
    ],
-   "source_count": 1,
+   "source_count": 2,
    "member_keys": [
-    "eightpeoplekilledanotherpersoninjuredinarkansascrashesovereightdayperiodthearkan"
+    "eightpeoplekilledanotherpersoninjuredinarkansascrashesovereightdayperiodthearkan",
+    "veteransdayclosingsnorthwestarkansasdemocratgazette"
    ]
   },
   {
