@@ -1,27 +1,137 @@
 {
- "updated": "2026-11-09T12:44:41.657900-06:00",
+ "updated": "2026-11-09T20:03:37.483920-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Councilman: Springdale firefighters drawing overtime, other pay at same time - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDlRNDNrdld2MWRLYUZITlZ3enZtRW1obWVrNjNlcjU2cUR5c3lQVkVYSm1UQmFvUnk0WWhyaXpQYm41cXVaVGl2UDRVQ2planAxal9sSnV5X25aYktBczBtQ3lRZmdLWWNIazlLdGxJRVBhQTZPN2tFdWN1QkpHXzQyQ0hQWnhqLVFySTE0dGxjbGdxN1E?oc=5",
+   "title": "Colliers reports vacancy decrease in retail, office markets in Central Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkpiR1F0ZExBa1FrZUNzTEc3R0JSYjA3SWVwRURHVHZ1Y2JEOTJiX1hHZUdZdW9yZFFqMng2el8yZUcyQ0FKeWhLZXc1UjE0TlJWUU9haUMxdnU1Vjd4eDRpYktQcExjQjdTajNVR0VKSmRBdGE1VmpSTmZoSUhTdjF5cEVSZTlnbXp3WUs4Uy1lbkNLT0Vr?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1794207600.0,
+   "published": 1794268800.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDlRNDNrdld2MWRLYUZITlZ3enZtRW1obWVrNjNlcjU2cUR5c3lQVkVYSm1UQmFvUnk0WWhyaXpQYm41cXVaVGl2UDRVQ2planAxal9sSnV5X25aYktBczBtQ3lRZmdLWWNIazlLdGxJRVBhQTZPN2tFdWN1QkpHXzQyQ0hQWnhqLVFySTE0dGxjbGdxN1E?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkpiR1F0ZExBa1FrZUNzTEc3R0JSYjA3SWVwRURHVHZ1Y2JEOTJiX1hHZUdZdW9yZFFqMng2el8yZUcyQ0FKeWhLZXc1UjE0TlJWUU9haUMxdnU1Vjd4eDRpYktQcExjQjdTajNVR0VKSmRBdGE1VmpSTmZoSUhTdjF5cEVSZTlnbXp3WUs4Uy1lbkNLT0Vr?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "councilmanspringdalefirefightersdrawingovertimeotherpayatsametimethearkansasdemo"
+    "colliersreportsvacancydecreaseinretailofficemarketsincentralarkansasthearkansasd"
    ],
-   "first_seen": 1794249881.6579,
+   "first_seen": 1794276217.48392,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Pulaski County election run-offs set for Dec. 1 - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUQxbjFYTTJQSGRoTlZTV1VNQXpscEVmYVVGMlhwSENjMUd1Qjd5eWpIbGlHRXB5ZFZISjVKbXBTMEEwUXZXTEZrWUpDQWhLb29iOXhFS0ZwMGlWVEVWdVRQSS1FY3RxLTRZSVdxNTJKRkI2RXhjN0poS1Qza2VVM3FSRGVPOElEVHh1SVZsV2hTOFZjM29hd192TQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794267000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUQxbjFYTTJQSGRoTlZTV1VNQXpscEVmYVVGMlhwSENjMUd1Qjd5eWpIbGlHRXB5ZFZISjVKbXBTMEEwUXZXTEZrWUpDQWhLb29iOXhFS0ZwMGlWVEVWdVRQSS1FY3RxLTRZSVdxNTJKRkI2RXhjN0poS1Qza2VVM3FSRGVPOElEVHh1SVZsV2hTOFZjM29hd192TQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "pulaskicountyelectionrunoffssetfordec1thearkansasdemocratgazette"
+   ],
+   "first_seen": 1794276217.48392,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock man arraigned on arson charges has history of setting fires - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzZXcENvajZJbHdhb3BUMXZ1VGVvejl0T2lxYlVHeXYyNThaMUQ0TWJJYW5UU2tfZzJybncyd3dTWWNubGlKT2szTk9nUjVMMDl5aXFNVmxjdlI1endwV2Jod3RCRmJxUDExbEpadWNIUUU5dm5HRXZNSGJlcTVJVlV0ckdWT1FJcjk5Y0RzUUwtZXlGUmxuWk1wMA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794262800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzZXcENvajZJbHdhb3BUMXZ1VGVvejl0T2lxYlVHeXYyNThaMUQ0TWJJYW5UU2tfZzJybncyd3dTWWNubGlKT2szTk9nUjVMMDl5aXFNVmxjdlI1endwV2Jod3RCRmJxUDExbEpadWNIUUU5dm5HRXZNSGJlcTVJVlV0ckdWT1FJcjk5Y0RzUUwtZXlGUmxuWk1wMA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockmanarraignedonarsonchargeshashistoryofsettingfiresthearkansasdemocratg"
+   ],
+   "first_seen": 1794276217.48392,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Arkansas Postcard Past: West Fork in 1911 - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTh2eEVXVmZkVHVodzlTSlQ3ZU5tdUFZN1o0clRsdkV0UE5aeS1GTDRVWEExaTVBSndWSE8wTW9YTEl5VXFxa2RZUGhoeVB1ZnpleDcyTVkwVVphWjRJSmU0TXhkLURKdng5WTZuQ1otTldMQVk2TkdTTDAtd2dTZy1GR2MyT3hHT0JLZVY3QXlfanM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794261600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTh2eEVXVmZkVHVodzlTSlQ3ZU5tdUFZN1o0clRsdkV0UE5aeS1GTDRVWEExaTVBSndWSE8wTW9YTEl5VXFxa2RZUGhoeVB1ZnpleDcyTVkwVVphWjRJSmU0TXhkLURKdng5WTZuQ1otTldMQVk2TkdTTDAtd2dTZy1GR2MyT3hHT0JLZVY3QXlfanM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansaspostcardpastwestforkin1911thearkansasdemocratgazette"
+   ],
+   "first_seen": 1794276217.48392,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "ARKANSAS SIGHTSEEING: Veterans cemeteries commemorate all who have gone before in service to this country - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGVUa2puMDdpckVLZmNhMXYzLWFveTJlNjc2OUU2bzJ6eE5IZ3Q1NHFFN2dJcDl3S1NSOGQ3MDRCakJSLUtvXzFXNkY1UXNSUERTUDI3TFJKSlJzMEZ1RER6dTZreGE0R1I1eUpySmxfSkZDdllLbkxzUk5hSEZFR2NOblpweVo2ZWV4aGhpWVB6NzA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794254400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGVUa2puMDdpckVLZmNhMXYzLWFveTJlNjc2OUU2bzJ6eE5IZ3Q1NHFFN2dJcDl3S1NSOGQ3MDRCakJSLUtvXzFXNkY1UXNSUERTUDI3TFJKSlJzMEZ1RER6dTZreGE0R1I1eUpySmxfSkZDdllLbkxzUk5hSEZFR2NOblpweVo2ZWV4aGhpWVB6NzA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansassightseeingveteranscemeteriescommemorateallwhohavegonebeforeinservicetot"
+   ],
+   "first_seen": 1794276217.48392,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Morning Fog Descends Over Little Rock Area - The Weekly Times",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjdFc0JXTTRQQ1QxT2ZZakNMUF9ySWdSOWZGeUdKZGhMU3JNalNST01ybU4wQ2JEXzBYSzZ6LW11OEt4bzhUX2FFSmRidTQ5aGlGYjlPa0szZzZrczB2Vl9KZXkyd1F2U2tsLXpiYjdWWTV3RmlwZ1dDb2hCVmdGdkZEM1huRW5LMGZkSzRUUFQ5cTgySlFPZlZoR0xmV3pzNVd1bWhHRzBYbVVpZWR5YXkxb3UwR1diTjdvSkhjY2QyZGx2U0RsaQ?oc=5",
+   "source": "The Weekly Times",
+   "published": 1794253673.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Weekly Times",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjdFc0JXTTRQQ1QxT2ZZakNMUF9ySWdSOWZGeUdKZGhMU3JNalNST01ybU4wQ2JEXzBYSzZ6LW11OEt4bzhUX2FFSmRidTQ5aGlGYjlPa0szZzZrczB2Vl9KZXkyd1F2U2tsLXpiYjdWWTV3RmlwZ1dDb2hCVmdGdkZEM1huRW5LMGZkSzRUUFQ5cTgySlFPZlZoR0xmV3pzNVd1bWhHRzBYbVVpZWR5YXkxb3UwR1diTjdvSkhjY2QyZGx2U0RsaQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "morningfogdescendsoverlittlerockareatheweeklytimes"
+   ],
+   "first_seen": 1794276217.48392,
    "section": "major"
   },
   {
@@ -268,28 +378,6 @@
   },
   {
    "type": "article",
-   "title": "Conway grocery store temporarily evacuated as police confront man with knife - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2RDNWplZmtfUHJXWVJqdXpieGFaRW12aEFTTVhSN3kyQjlITmV2dEpIV25ybzE4LXVrX1dYdEp1N2Y3VVE1cmNmWmNRMHpBY01uX3VtOGNFbDlQbEpzNGc4WW5wTGVrNE5jN1lGUjRKaVdGa3JETVF0YWRkaGtuNEVWZEV4c05McGl0V3ZhZ0FBQ3JDMFE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794018600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2RDNWplZmtfUHJXWVJqdXpieGFaRW12aEFTTVhSN3kyQjlITmV2dEpIV25ybzE4LXVrX1dYdEp1N2Y3VVE1cmNmWmNRMHpBY01uX3VtOGNFbDlQbEpzNGc4WW5wTGVrNE5jN1lGUjRKaVdGa3JETVF0YWRkaGtuNEVWZEV4c05McGl0V3ZhZ0FBQ3JDMFE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "conwaygrocerystoretemporarilyevacuatedaspoliceconfrontmanwithknifethearkansasdem"
-   ],
-   "first_seen": 1794172055.847168,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "‘Huge altercation’ at Halloween party preceded deadly southwest Little Rock shooting, police say - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUNpbFd3UmJPa3dFc1dKazRUYVVXZGlUZEptd3RQcTdIVmFabDN1d1JSd1Vva19rdU5TMUdHYVhFLV9BTHNmZjBwX1J5cE5VcEdrYmlfX1B1VFVaUU5OU3hZRmQxejM3YUhLY21USndBb2J6V2g0QkhsX1RSV1l6dGw1V3F1MVc2M2psMk8yUlRmM2k1VEFIcUVuWEpxMHdmTUFrZQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -422,28 +510,6 @@
   },
   {
    "type": "article",
-   "title": "Former director of Office of Professional Programs charged in Arkansas Bar Exam tampering probe - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEVZTWNmeEtqQ3BNQzhtUzUxOTl6NGxlME9GNm05eGYtb2lNS0J3VlVTbGMzQk4tS00wSVA1cGhSVFdhaVR2aThHampSU185ajJTaXdzLUdaM1VjeDdVSEJnNnRILXVFUkY0RmhaYm1ybGdSQk5kZmUwdW9YejJZTkI3MlpBeE1aNEh6VWdOVFNtYmFW?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793909160.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEVZTWNmeEtqQ3BNQzhtUzUxOTl6NGxlME9GNm05eGYtb2lNS0J3VlVTbGMzQk4tS00wSVA1cGhSVFdhaVR2aThHampSU185ajJTaXdzLUdaM1VjeDdVSEJnNnRILXVFUkY0RmhaYm1ybGdSQk5kZmUwdW9YejJZTkI3MlpBeE1aNEh6VWdOVFNtYmFW?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "formerdirectorofofficeofprofessionalprogramschargedinarkansasbarexamtamperingpro"
-   ],
-   "first_seen": 1794104767.748851,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "State Police assists in ending armed hostage situation in Crossett, girl rescued - KATV",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXotQUIzdmJfdHExWkJVUk53RUZqSjNyTHVyeFNsa2hyckNIeWFZTEJobXRNVEdvSkR1TUxKUWRCN1pPMFVuenZnc3E5ZDRYamdsZUNrcHJQZzFuU2cydHp6WHdpdllrTmJKUUhjb3RNOElxVkVCUC1ta3RoY2ttbWlsX214cE1PTWZsVEQ0UFBvdHAtaFdGWjRjb29jaThXdnNpMmJ6cWw5S00?oc=5",
    "source": "KATV",
@@ -463,28 +529,6 @@
    ],
    "first_seen": 1794132925.457715,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Dwight Townsend Sr. wins Little Rock Ward 2 race; Benny Johnson on track to win in Ward 7 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRk9rMFNxMl9PblV5M3FRVHc5UTgyX0VDcVgzS3VRVzlLNmp3bWRuak1oVndCNlJPZTZNUjRSTzUzaWRNakozc0RDTUNqX2lBX0tXellMNlU0azJWM0w0V3lhR1Y4V2c0WDhPelhZOE5fZjhGS19kZXlfYTgySmdfZmZ1WllfYWJaV05uQTQzVHhibGVjRTVxMmpFSDg?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1793856600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRk9rMFNxMl9PblV5M3FRVHc5UTgyX0VDcVgzS3VRVzlLNmp3bWRuak1oVndCNlJPZTZNUjRSTzUzaWRNakozc0RDTUNqX2lBX0tXellMNlU0azJWM0w0V3lhR1Y4V2c0WDhPelhZOE5fZjhGS19kZXlfYTgySmdfZmZ1WllfYWJaV05uQTQzVHhibGVjRTVxMmpFSDg?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "dwighttownsendsrwinslittlerockward2racebennyjohnsonontracktowininward7thearkansa"
-   ],
-   "first_seen": 1794172055.847168,
-   "section": "major"
   },
   {
    "type": "article",
@@ -532,6 +576,28 @@
   },
   {
    "type": "article",
+   "title": "North Little Rock Fire Department captain loses everything in house fire, crew rallies around him in support - KARK",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREZxcGEzaXhyTU5KSlhDbWVlTWhmbmx3WFBnYUVVTGpoaWFQcF90NnNDZzlJNmRlSUh6RU5BUHZ5UFdxYWxqRkxDTUNxNURyNjlheEZUQjVpRWpFQVo0N2laRXAzdXlQTl9vLXFwWFpNanFzQXRycUQ4ZGlWeUtVUDZBLTNxaHlIZXlyUWlKQUtuRUtEYnFUTXpWaFc4TEhjT2NLUXpPMm1JRGRReFZQUWQ2MEM0bG5DWkZ5bzVDN0VTdzRvYm4zbzEwMWZ0U00?oc=5",
+   "source": "KARK",
+   "published": 1793829793.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREZxcGEzaXhyTU5KSlhDbWVlTWhmbmx3WFBnYUVVTGpoaWFQcF90NnNDZzlJNmRlSUh6RU5BUHZ5UFdxYWxqRkxDTUNxNURyNjlheEZUQjVpRWpFQVo0N2laRXAzdXlQTl9vLXFwWFpNanFzQXRycUQ4ZGlWeUtVUDZBLTNxaHlIZXlyUWlKQUtuRUtEYnFUTXpWaFc4TEhjT2NLUXpPMm1JRGRReFZQUWQ2MEM0bG5DWkZ5bzVDN0VTdzRvYm4zbzEwMWZ0U00?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockfiredepartmentcaptainloseseverythinginhousefirecrewralliesaroundh"
+   ],
+   "first_seen": 1794276217.48392,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "Casa Mariachi open in west Little Rock’s Westchase Plaza - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmtHTHFvY1lNdEU5cmZaMXdfeXIxbTlZTnNLZkFkUzZ5NHdTQ1NqWXJZUjlsd1hZQ3ozLV9vNktUNGRoejRsQnoxQ3BmeVA0TkU0cW55V1QyUkU1Qjh5SWpoenVPTTNvaERuNDlBdU93amNzSGJpandreHktLVVrU3dvb0I4UnNoamFldVAwVm9MbVJtbFRJMmxTNmkzaWNWS3FXdUxtTQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -548,72 +614,6 @@
    "source_count": 1,
    "member_keys": [
     "casamariachiopeninwestlittlerockswestchaseplazathearkansasdemocratgazette"
-   ],
-   "first_seen": 1794249881.6579,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "How Trump and Republicans lost the 2026 midterm elections, according to The AP Voter Poll - Arkansas Advocate",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHFqRlU1LUVEd0hLNS02dWhTNWVjUW0xdVRKU0pXOWd0NnZXTkdXRkF4N1l5NXJZVjJMYzlndFd6NFFOSlpzUHZvV3doYjczZjE0cHBmUFoxeGdDMWYtX2hmQUdad2hPeW5LejBacjhEOThUTTlQY1ZER0J5OHNUNFVQdV94VmZYTEMxNWJaWkN3TmRGNU5FSGRNdGdaT2dnQXpBek1NeGdjWGhZN3h3WmY1X3BHd2xScmo1emoxMmdQZ1N2WnF0OA?oc=5",
-   "source": "Arkansas Advocate",
-   "published": 1793817213.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Advocate",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHFqRlU1LUVEd0hLNS02dWhTNWVjUW0xdVRKU0pXOWd0NnZXTkdXRkF4N1l5NXJZVjJMYzlndFd6NFFOSlpzUHZvV3doYjczZjE0cHBmUFoxeGdDMWYtX2hmQUdad2hPeW5LejBacjhEOThUTTlQY1ZER0J5OHNUNFVQdV94VmZYTEMxNWJaWkN3TmRGNU5FSGRNdGdaT2dnQXpBek1NeGdjWGhZN3h3WmY1X3BHd2xScmo1emoxMmdQZ1N2WnF0OA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "howtrumpandrepublicanslostthe2026midtermelectionsaccordingtotheapvoterpollarkans"
-   ],
-   "first_seen": 1794249881.6579,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Mary Jo Heye-Townsell wins Sherwood mayoral race - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFVjeGxZTXlVZFM5dUJpOUpjTlFjYURuZjNfMWJuME11YTc2VlVyWlp2UUpTWjh3T3d1SlZPTDB5YVhpdnoyb2wwczFUMEdJMThHb0o3dm1BVTFRbERVdVBxeUNBSU4tejlKQ0VaT25pTV9wd2JaUVhtSXBqSkotWUVB?oc=5",
-   "source": "KATV",
-   "published": 1793812257.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFVjeGxZTXlVZFM5dUJpOUpjTlFjYURuZjNfMWJuME11YTc2VlVyWlp2UUpTWjh3T3d1SlZPTDB5YVhpdnoyb2wwczFUMEdJMThHb0o3dm1BVTFRbERVdVBxeUNBSU4tejlKQ0VaT25pTV9wd2JaUVhtSXBqSkotWUVB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "maryjoheyetownsellwinssherwoodmayoralracekatv"
-   ],
-   "first_seen": 1794249881.6579,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Sarah Huckabee Sanders wins second term as Arkansas governor - Arkansas Advocate",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2xqQnNHQjgzRTBQcnE3N1QzQ2J2LXpMNzlqdVl3WG9GVzhKbTlXbTVjRmEyakloVjZSei1JLV93eE9SX08wZGRmcXNBZldPUVdXQ0I2WXcxR3dtTzRlZE9zRUJzeWVMYUN5aFV2dDVld0lLYm45ekZkb1oyWTh3a1k1MWVORnNVV3EtREMtekFpbWNScm5YXzhCY3ZmaEZzaWFR?oc=5",
-   "source": "Arkansas Advocate",
-   "published": 1793785367.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Advocate",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2xqQnNHQjgzRTBQcnE3N1QzQ2J2LXpMNzlqdVl3WG9GVzhKbTlXbTVjRmEyakloVjZSei1JLV93eE9SX08wZGRmcXNBZldPUVdXQ0I2WXcxR3dtTzRlZE9zRUJzeWVMYUN5aFV2dDVld0lLYm45ekZkb1oyWTh3a1k1MWVORnNVV3EtREMtekFpbWNScm5YXzhCY3ZmaEZzaWFR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "sarahhuckabeesanderswinssecondtermasarkansasgovernorarkansasadvocate"
    ],
    "first_seen": 1794249881.6579,
    "section": "major"
