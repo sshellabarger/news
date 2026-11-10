@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-09T16:58:14.004072-06:00",
+ "updated": "2026-11-10T14:26:58.003538-06:00",
  "meetings": [
-  {
-   "body": "council",
-   "title": "NLR City Council Meeting",
-   "start": "2026-11-09T18:00:00",
-   "location": "North Little Rock City Hall",
-   "url": "https://nlr.ar.gov/event/nlr-city-council-meeting-2/2026-11-09/"
-  },
   {
    "body": "parks",
    "title": "Parks and Recreation Commission Meeting",
@@ -40,10 +33,10 @@
   },
   {
    "body": "council",
-   "title": "NLR City Council Meeting",
-   "start": "2026-12-14T18:00:00",
-   "location": "North Little Rock City Hall",
-   "url": "https://nlr.ar.gov/event/nlr-city-council-meeting-2/2026-12-14/"
+   "title": "Retirement Reception Honoring City Council Member Linda Robinson",
+   "start": "2026-12-14T16:00:00",
+   "location": "Patrick Henry Hays Senior Center",
+   "url": "https://nlr.ar.gov/event/retirement-reception-honoring-city-council-member-linda-robinson/"
   },
   {
    "body": "school",
