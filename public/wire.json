@@ -1,28 +1,50 @@
 {
- "updated": "2026-11-11T12:40:24.747074-06:00",
+ "updated": "2026-11-11T19:31:04.488491-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "Fayetteville to host car seat recycling drive ahead of America Recycles Day - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2ZwSVNQMzJDWlhmLTJHU0paYmdfWng4SWk1R2EycWR1M3NvdS1VUVJobW9yZ05TajZoU0tIM212WXFJLVF3ZnlpRTRsOXotWnBVR2FXQ1E0WVllcDZ6VUF4Vlo3di1WaWpoV1R0S192Z0RzR09zaGwzX0VHamJxQmlwS3hZNzZPSEdvamVtODhXR3F3UFFGUk1R?oc=5",
+   "title": "Garth Brooks Adds North Little Rock Dates to Blame It All On My Roots Tour - TicketNews",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUENVUGNxQ3U4bzRHMjFQX2lpS1RSU3VuZk94MkZkZ0FBXzFBNEdvemc5V2JpRTdKVWhKRkJmTXBqeEFZemlUVlpQdWM4Sk9EamZNbHFaRHJTcFVmaE9GOE9lc0lmZjUwbktVRWpGRnY1VF8zVURhaGVGOTJZa0drNUkzLTRqc0pyZnBYVmNDTEo3a1JpZkJlZDhyLXBqcklWb0xvWEZrWXdaR2RGc1pz?oc=5",
+   "source": "TicketNews",
+   "published": 1794437158.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUENVUGNxQ3U4bzRHMjFQX2lpS1RSU3VuZk94MkZkZ0FBXzFBNEdvemc5V2JpRTdKVWhKRkJmTXBqeEFZemlUVlpQdWM4Sk9EamZNbHFaRHJTcFVmaE9GOE9lc0lmZjUwbktVRWpGRnY1VF8zVURhaGVGOTJZa0drNUkzLTRqc0pyZnBYVmNDTEo3a1JpZkJlZDhyLXBqcklWb0xvWEZrWXdaR2RGc1pz?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "garthbrooksaddsnorthlittlerockdatestoblameitallonmyrootstourticketnews"
+   ],
+   "first_seen": 1794447064.488491,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock man sentenced to 25 years in death of girlfriend - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0xvaWlrSm1jUnhsNzVveVpJU25tS0RzZlZiS0ttb0RVaEdJRVlwUC1FZzFmTDNLdTBsU3FhMVZOaW9pTXZoNkMtREtnRzVhT21mZnpHWWY4Q3BvQmp0czM5Qy1MRWFaUUs5b3ZaSTZ3bUxhRUQtOS1BajBFRWlscnR6dzdMbTZndHY2RW9sX3RtVlM4cXdmeDhkRmhVUzQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1794416400.0,
+   "published": 1794436500.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2ZwSVNQMzJDWlhmLTJHU0paYmdfWng4SWk1R2EycWR1M3NvdS1VUVJobW9yZ05TajZoU0tIM212WXFJLVF3ZnlpRTRsOXotWnBVR2FXQ1E0WVllcDZ6VUF4Vlo3di1WaWpoV1R0S192Z0RzR09zaGwzX0VHamJxQmlwS3hZNzZPSEdvamVtODhXR3F3UFFGUk1R?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0xvaWlrSm1jUnhsNzVveVpJU25tS0RzZlZiS0ttb0RVaEdJRVlwUC1FZzFmTDNLdTBsU3FhMVZOaW9pTXZoNkMtREtnRzVhT21mZnpHWWY4Q3BvQmp0czM5Qy1MRWFaUUs5b3ZaSTZ3bUxhRUQtOS1BajBFRWlscnR6dzdMbTZndHY2RW9sX3RtVlM4cXdmeDhkRmhVUzQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "fayettevilletohostcarseatrecyclingdriveaheadofamericarecyclesdaythearkansasdemoc"
+    "littlerockmansentencedto25yearsindeathofgirlfriendthearkansasdemocratgazette"
    ],
-   "first_seen": 1794422424.747074,
-   "section": "major"
+   "first_seen": 1794447064.488491,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -142,7 +164,8 @@
    "source_count": 1,
    "member_keys": [
     "investigationofwomansdeathreopenedfollowinghusbandsarrestinmaumelleinhersonskill",
-    "littlerockwomanreportedinattackonvehiclethearkansasdemocratgazette"
+    "littlerockwomanreportedinattackonvehiclethearkansasdemocratgazette",
+    "northlittlerockcouplesentencedinhomeinvasionandkillingthearkansasdemocratgazette"
    ],
    "first_seen": 1794365393.212249,
    "section": "crime"
@@ -199,28 +222,6 @@
   },
   {
    "type": "article",
-   "title": "Janet Elaine Kimball Obituary (2026) - Jacksonville, AR - A Natural State Funeral Service & Crematory - Legacy | Obituary",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDBLcU1CWWh6cTYyUFlEZDdyRTg5VlpiMUFqc0UtMkRBYUNZYkotdU5Wd2FpMDdWa3NSZkhkWFh5V0poZkNJc2VrM0RzTElxOHl4RU01Q1dabjFXN3lnbUdjb1BGSnFpUURvbUlabnZ2VEIxZXBEcWhqZk13dmZZVWln?oc=5",
-   "source": "Legacy | Obituary",
-   "published": 1794347176.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Legacy | Obituary",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDBLcU1CWWh6cTYyUFlEZDdyRTg5VlpiMUFqc0UtMkRBYUNZYkotdU5Wd2FpMDdWa3NSZkhkWFh5V0poZkNJc2VrM0RzTElxOHl4RU01Q1dabjFXN3lnbUdjb1BGSnFpUURvbUlabnZ2VEIxZXBEcWhqZk13dmZZVWln?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "janetelainekimballobituary2026jacksonvillearanaturalstatefuneralservicecrematory"
-   ],
-   "first_seen": 1794352570.261204,
-   "section": "obits"
-  },
-  {
-   "type": "article",
    "title": "Where to find Veterans Day discounts, free meals and retail offers - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzgxRVJsYzlIVWVOSXVybW53MTN4N3hINkxEaE5mQmlDTkRESXFxSXdxMHFDWEs5ekFjR0VMdVh3ZUxpWDV6V2RMOWxGSFk1LXR1UEU0QXZZcy1VY3lvOGJiczBqQWxNX2Ywd05zUkQwVDlWR3ZQSnV0OGxFVDNLdC1vNEN6T2RjSllWZnFoS1JnVklkMEdmLTZVYjQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -259,28 +260,6 @@
    "source_count": 1,
    "member_keys": [
     "comedianjimgaffigansetsapril17showatlittlerocksrobinsoncenterthearkansasdemocrat"
-   ],
-   "first_seen": 1794352570.261204,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Veteran character actor offers self-tape audition workshop in Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzFYV3lwT2Nwb01ibUtua1VNMEpESkFuYTgybjBnWmtDUUhSMFRkNWFGSTdZeUFkbXpxMmFhbnhmY2VtajJJTzJQMXV1Q0t6UGhiQ3BvQWdqSER3SDFyREF3OXhGdjRmUHA1Q2Jja3VfOGtWcEtkOHpuZzNSaWphSXFmWHFraktzV21oMzBuVWxfZG5pTFBlRXZUOS1UZm8?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794329940.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzFYV3lwT2Nwb01ibUtua1VNMEpESkFuYTgybjBnWmtDUUhSMFRkNWFGSTdZeUFkbXpxMmFhbnhmY2VtajJJTzJQMXV1Q0t6UGhiQ3BvQWdqSER3SDFyREF3OXhGdjRmUHA1Q2Jja3VfOGtWcEtkOHpuZzNSaWphSXFmWHFraktzV21oMzBuVWxfZG5pTFBlRXZUOS1UZm8?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "veterancharacteractoroffersselftapeauditionworkshopinlittlerockthearkansasdemocr"
    ],
    "first_seen": 1794352570.261204,
    "section": "major"
@@ -350,6 +329,28 @@
    ],
    "first_seen": 1794276217.48392,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Maumelle homicide victim was the stepson of the suspect - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVZEZXBRTVp5bzB1enpwalVqajJWcTBRRm80aHlTaXJxSFRRRnE5NTUwUmgxNnNYeHFzYjBZTTZNVFhpQXE3MkFNZk81ZnRlSG05U281RUo5dnNDalZ3TVVxT0lhUXUxWDJGMWJIeG13ajRZSlA2QjFqOVRoellZZkduR0ExOWZDRVk5RlNCdE9FSjZ5dWdneHVTVQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794266160.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVZEZXBRTVp5bzB1enpwalVqajJWcTBRRm80aHlTaXJxSFRRRnE5NTUwUmgxNnNYeHFzYjBZTTZNVFhpQXE3MkFNZk81ZnRlSG05U281RUo5dnNDalZ3TVVxT0lhUXUxWDJGMWJIeG13ajRZSlA2QjFqOVRoellZZkduR0ExOWZDRVk5RlNCdE9FSjZ5dWdneHVTVQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "maumellehomicidevictimwasthestepsonofthesuspectthearkansasdemocratgazette"
+   ],
+   "first_seen": 1794447064.488491,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -460,28 +461,6 @@
    ],
    "first_seen": 1794249881.6579,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock School District closures taxing community - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTZvLWxxcEJvZUZQN2tEckRtNkd0bDZpa0tNZnd4eUs5S2w0VzZqY0E5TzU4V1YtMEhfMjRmeTJvWFVSeDd1Rjl1N3hUYU52U1ZpbXB2UEVxQjh0d1Etdkh4RDhmTFBRQ2gzZFdSQ0kxeXFxbHVRSUtfRkJZVmpaU3B4Y0I3UjU1cGdHYjRIelBsREo5OE1uemxDQU0tWWs0UDY0?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794192300.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTZvLWxxcEJvZUZQN2tEckRtNkd0bDZpa0tNZnd4eUs5S2w0VzZqY0E5TzU4V1YtMEhfMjRmeTJvWFVSeDd1Rjl1N3hUYU52U1ZpbXB2UEVxQjh0d1Etdkh4RDhmTFBRQ2gzZFdSQ0kxeXFxbHVRSUtfRkJZVmpaU3B4Y0I3UjU1cGdHYjRIelBsREo5OE1uemxDQU0tWWs0UDY0?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockschooldistrictclosurestaxingcommunitythearkansasdemocratgazette"
-   ],
-   "first_seen": 1794249881.6579,
-   "section": "major"
   },
   {
    "type": "article",
