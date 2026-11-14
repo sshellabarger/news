@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-14T04:22:15.868170-06:00",
+ "updated": "2026-11-14T11:03:22.694309-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Haden Hall throws four touchdown passes in the first as Little Rock Christian downs Springdale - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGtvclNSU2poT0VSZ0J3bV8xcE1ZSFB0TWItbVZDc3BkbVhJZEh4TmZTQkFOajJQVGw2VW1qSDlWYzN6eFAxTzdGV0xfSEdMZHYzZHQ3SUJWY1Y4THlrdm5OR2k4b3hLSFJWTENmV2pmRHBYWTZKenRZVWQ4eVRLbEFmM1NydFFlcGY3Y2lqbjA4dk00NG1oNDlhZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794633300.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGtvclNSU2poT0VSZ0J3bV8xcE1ZSFB0TWItbVZDc3BkbVhJZEh4TmZTQkFOajJQVGw2VW1qSDlWYzN6eFAxTzdGV0xfSEdMZHYzZHQ3SUJWY1Y4THlrdm5OR2k4b3hLSFJWTENmV2pmRHBYWTZKenRZVWQ4eVRLbEFmM1NydFFlcGY3Y2lqbjA4dk00NG1oNDlhZw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "hadenhallthrowsfourtouchdownpassesinthefirstaslittlerockchristiandownsspringdale"
+   ],
+   "first_seen": 1794675802.694309,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Heye-Townsell reelected Sherwood mayor with just over 50% of vote after Pulaski County panel denies recount petition - The Arkansas Democrat-Gazette",
@@ -26,25 +48,25 @@
   },
   {
    "type": "article",
-   "title": "National nonprofit uses billboard to thank Little Rock’s Agape Church for support of Jews - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUxyY3F3SW1MMFZ6NTRHZHAxMEJtVVE2b2RRcTlkYXJBR1FQM1BEeU5Sa2JTaUk0Sk8tZUdhRmNoNzhYeWQxZmlVRl9RQlI1OVdDaURqQXJuSlAzcl9adGdiZHNaS2hzVEFSZFY3c19lUXhBd0VfbEZia2otemNTYjFUS1cyUWlJNlBNQWFRYWZPVFJYakV5SlY2RWk4a1Z2?oc=5",
+   "title": "Blytheville man dies after search at northeast Arkansas jail; police say he swallowed fentanyl - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzVpMkdfSWlnUkd5Q2VPTTdyOG83TEtNalBpRnlXT3N1OTVUSFJiNU1hT25LaXRJLVo3cDhRZnlKbEdaZTYxcVhtY21RbVpZbm5uTnhPT3FYQmVlbG9yb1JMRUJWRGpZZDFLX3hTOGZubUdwbE9XVEZlTWNVUl9fQ1BBYlZrXzhSaExFRkhKZzRNellCR0cyd0gtNnZnSUc4QVJLdA?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1794614400.0,
+   "published": 1794619800.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUxyY3F3SW1MMFZ6NTRHZHAxMEJtVVE2b2RRcTlkYXJBR1FQM1BEeU5Sa2JTaUk0Sk8tZUdhRmNoNzhYeWQxZmlVRl9RQlI1OVdDaURqQXJuSlAzcl9adGdiZHNaS2hzVEFSZFY3c19lUXhBd0VfbEZia2otemNTYjFUS1cyUWlJNlBNQWFRYWZPVFJYakV5SlY2RWk4a1Z2?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzVpMkdfSWlnUkd5Q2VPTTdyOG83TEtNalBpRnlXT3N1OTVUSFJiNU1hT25LaXRJLVo3cDhRZnlKbEdaZTYxcVhtY21RbVpZbm5uTnhPT3FYQmVlbG9yb1JMRUJWRGpZZDFLX3hTOGZubUdwbE9XVEZlTWNVUl9fQ1BBYlZrXzhSaExFRkhKZzRNellCR0cyd0gtNnZnSUc4QVJLdA?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "nationalnonprofitusesbillboardtothanklittlerocksagapechurchforsupportofjewsthear"
+    "blythevillemandiesaftersearchatnortheastarkansasjailpolicesayheswallowedfentanyl"
    ],
-   "first_seen": 1794651735.86817,
-   "section": "major"
+   "first_seen": 1794675802.694309,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -92,24 +114,24 @@
   },
   {
    "type": "article",
-   "title": "208 W 14th St, North Little Rock, AR 72114 - Realtor.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHBmU0NzSGhZWE5YZmY5TFp3OW03QXJfblhULW1aSVNScUMxa1Q3TlhVMjZVUVlVVE5DQVhKTTh4THZaSUtTTFZlQ05KZHo3X0ZITmVIX3c4OHY5ZXhsSVVQcGJ2R3FOLTE1U1BSYUx1V1lSNEJQVWl6dTkzVnVad0g4aHo1SVpCQ2JjUmlCVDhvRE53VmcxWQ?oc=5",
-   "source": "Realtor.com",
-   "published": 1794582419.0,
+   "title": "Balanced attack from North Florida leads to third straight loss for Trojans - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk5fcHdJWlJhVy1NNEpXRGoxWG4zc1dHN3RxY2ZxMEUyZ05rREotdWZieklKTG9SMGhFTGoyWWQ3ZlJqeUsycFZuOVhvd1RpSWFoeEdjWW9xd2NVRm1aVGNHTUpfaVdtQXlxd0NwRURBNnc3bVRndWhrOU8zSEVxREljdjMtaFF5Nk9PTkdPNlJqRkpyTnNYRElTUWl6OXM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794557580.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Realtor.com",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHBmU0NzSGhZWE5YZmY5TFp3OW03QXJfblhULW1aSVNScUMxa1Q3TlhVMjZVUVlVVE5DQVhKTTh4THZaSUtTTFZlQ05KZHo3X0ZITmVIX3c4OHY5ZXhsSVVQcGJ2R3FOLTE1U1BSYUx1V1lSNEJQVWl6dTkzVnVad0g4aHo1SVpCQ2JjUmlCVDhvRE53VmcxWQ?oc=5"
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk5fcHdJWlJhVy1NNEpXRGoxWG4zc1dHN3RxY2ZxMEUyZ05rREotdWZieklKTG9SMGhFTGoyWWQ3ZlJqeUsycFZuOVhvd1RpSWFoeEdjWW9xd2NVRm1aVGNHTUpfaVdtQXlxd0NwRURBNnc3bVRndWhrOU8zSEVxREljdjMtaFF5Nk9PTkdPNlJqRkpyTnNYRElTUWl6OXM?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "208w14thstnorthlittlerockar72114realtorcom"
+    "balancedattackfromnorthfloridaleadstothirdstraightlossfortrojansthearkansasdemoc"
    ],
-   "first_seen": 1794607070.952765,
+   "first_seen": 1794583298.437825,
    "section": "major"
   },
   {
@@ -132,50 +154,6 @@
     "littlerockschooldistrictseeksfederalfundsforsensorstodetectvapesmokefightinginlo"
    ],
    "first_seen": 1794551961.482669,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock man faces 40 years after pleading guilty to conspiracy to distribute meth - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFUyMGg5SUlJRTRhOWY2QTR5MTAwLWFoU1hHQVUwQUtwQUxjWGViVWRKY3c5YVFqRS12dkFRQUwzTy1lMklIcUFxcnJWeGFqRXViWUg3Sl9abGxUYjBUakhncm1fbkJmeUpaX1ItR3ZLWmc1TTFmT1lFY2l3RGVSSmZoX3VyQXhqdEVIbmkxaGc3SUl6S2c?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794525060.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFUyMGg5SUlJRTRhOWY2QTR5MTAwLWFoU1hHQVUwQUtwQUxjWGViVWRKY3c5YVFqRS12dkFRQUwzTy1lMklIcUFxcnJWeGFqRXViWUg3Sl9abGxUYjBUakhncm1fbkJmeUpaX1ItR3ZLWmc1TTFmT1lFY2l3RGVSSmZoX3VyQXhqdEVIbmkxaGc3SUl6S2c?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockmanfaces40yearsafterpleadingguiltytoconspiracytodistributemeththearkan"
-   ],
-   "first_seen": 1794551961.482669,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas Postcard Past: Little Rock in 1917 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHktemJMVkxzVndra2J1bWg0Vkt6ZUJtVWhTRWdxRmlDX1dGSWJQYmZQTVR2T21XN19lZ3owUllDZ2YzV2VWcmxnejdXNnd5Ul9EMWJrcXNOejd6Q01oV0tHZ25wMmV0WXFKNU4zYlRveUlDU24wdGJublprUm5rMTlIN2RJLTdGQ0w3cWtGNkRwMnVGZEE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794520800.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHktemJMVkxzVndra2J1bWg0Vkt6ZUJtVWhTRWdxRmlDX1dGSWJQYmZQTVR2T21XN19lZ3owUllDZ2YzV2VWcmxnejdXNnd5Ul9EMWJrcXNOejd6Q01oV0tHZ25wMmV0WXFKNU4zYlRveUlDU24wdGJublprUm5rMTlIN2RJLTdGQ0w3cWtGNkRwMnVGZEE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansaspostcardpastlittlerockin1917thearkansasdemocratgazette"
-   ],
-   "first_seen": 1794276217.48392,
    "section": "major"
   },
   {
@@ -301,48 +279,46 @@
   },
   {
    "type": "article",
-   "title": "Little Rock woman reported in attack on vehicle - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEZlamt5R2hqX05yaTNNdExLbE5NMWhyVEs5a3JVaWZIU214OVQ4dEhCSFZfT3IxWTZLSUJVdnV4eTdlbks1TGY2Z193c0xpS0FEbl9WSkEwUG1Ga1RWcXVMNXBVcjJOTFVNRTRvakM0UDd5SnBjRjVJbmM3QUZCQldvZmNxWk5uTTR3V1ZqQ3M?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794388680.0,
+   "title": "Lorenzo Briscoe Obituary - North Little Rock, AR - Dignity Memorial",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW0xN2dVSGZTUVdsQ1l1a1BVZUViVUw5SnlEdEwtLUR4VEIydU5SYzJvTmQ5emNoMU1oQUFXc2c2VTdxZFFOZFpsU3REYWw3dld0eUl1ZGtJU3RadEFGazU4UmFMWEU5bTlRN2VLb3FDNjJCNDdFLVBSWUFzbElxa0ZvZTNWUTlfTTVXUndDWE5hZw?oc=5",
+   "source": "Dignity Memorial",
+   "published": 1794384000.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
-   "num_comments": null,
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEZlamt5R2hqX05yaTNNdExLbE5NMWhyVEs5a3JVaWZIU214OVQ4dEhCSFZfT3IxWTZLSUJVdnV4eTdlbks1TGY2Z193c0xpS0FEbl9WSkEwUG1Ga1RWcXVMNXBVcjJOTFVNRTRvakM0UDd5SnBjRjVJbmM3QUZCQldvZmNxWk5uTTR3V1ZqQ3M?oc=5"
+     "source": "Dignity Memorial",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW0xN2dVSGZTUVdsQ1l1a1BVZUViVUw5SnlEdEwtLUR4VEIydU5SYzJvTmQ5emNoMU1oQUFXc2c2VTdxZFFOZFpsU3REYWw3dld0eUl1ZGtJU3RadEFGazU4UmFMWEU5bTlRN2VLb3FDNjJCNDdFLVBSWUFzbElxa0ZvZTNWUTlfTTVXUndDWE5hZw?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "balancedattackfromnorthfloridaleadstothirdstraightlossfortrojansthearkansasdemoc",
-    "littlerockwomanreportedinattackonvehiclethearkansasdemocratgazette"
+    "lorenzobriscoeobituarynorthlittlerockardignitymemorial"
    ],
-   "first_seen": 1794583298.437825,
-   "section": "major"
+   "first_seen": 1794675802.694309,
+   "section": "obits"
   },
   {
    "type": "article",
-   "title": "Sissy’s Log Cabin opens new flagship Little Rock store - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUI0a1lleHNJdngwU0ZlLUd3cHVWbmR0LU4wYW9LQ2JFU0dpWDZYVFlRSmxDaURyOHdQTVZOa3djSzNHRzRqSEpxVHotSEZlUDVGMUhpaGV3OEpDUGNiRlNXQ2N3NENNNVJvV00wNGJoYmk0SGpyS2o0dURVNWNiX0hCdmtZYWVkTXBLNW9iU0JIUTB5NWhJa0l4ai0?oc=5",
+   "title": "Arkansas veterans receive free dental care at inaugural clinic at Lyon dental school - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTZQX285ZkdtQ2NBTlVGX3NLZmJmb04wSWdoMjBYV2d2bjBwejNDSndMa2l3ZTV2bGVoRmlpa0o2RFRmNjJfc05jWXJjNHpfV3pJa2JER21DdTl4LVZ5eDktblpuZERGNng5azVCdzROTnRQN01zUDliaDhod1NkWHZ2djJ4WjFZLTV6RTZ5WV9hRXpxN05waFFn?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1794367800.0,
+   "published": 1794368760.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUI0a1lleHNJdngwU0ZlLUd3cHVWbmR0LU4wYW9LQ2JFU0dpWDZYVFlRSmxDaURyOHdQTVZOa3djSzNHRzRqSEpxVHotSEZlUDVGMUhpaGV3OEpDUGNiRlNXQ2N3NENNNVJvV00wNGJoYmk0SGpyS2o0dURVNWNiX0hCdmtZYWVkTXBLNW9iU0JIUTB5NWhJa0l4ai0?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTZQX285ZkdtQ2NBTlVGX3NLZmJmb04wSWdoMjBYV2d2bjBwejNDSndMa2l3ZTV2bGVoRmlpa0o2RFRmNjJfc05jWXJjNHpfV3pJa2JER21DdTl4LVZ5eDktblpuZERGNng5azVCdzROTnRQN01zUDliaDhod1NkWHZ2djJ4WjFZLTV6RTZ5WV9hRXpxN05waFFn?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "sissyslogcabinopensnewflagshiplittlerockstorethearkansasdemocratgazette"
+    "arkansasveteransreceivefreedentalcareatinauguralclinicatlyondentalschoolthearkan"
    ],
-   "first_seen": 1794394337.956573,
+   "first_seen": 1794675802.694309,
    "section": "major"
   },
   {
@@ -434,6 +410,28 @@
    ],
    "first_seen": 1794447064.488491,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "ARKANSAS SIGHTSEEING: Veterans cemeteries commemorate all who have gone before in service to this country - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGVUa2puMDdpckVLZmNhMXYzLWFveTJlNjc2OUU2bzJ6eE5IZ3Q1NHFFN2dJcDl3S1NSOGQ3MDRCakJSLUtvXzFXNkY1UXNSUERTUDI3TFJKSlJzMEZ1RER6dTZreGE0R1I1eUpySmxfSkZDdllLbkxzUk5hSEZFR2NOblpweVo2ZWV4aGhpWVB6NzA?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794254400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGVUa2puMDdpckVLZmNhMXYzLWFveTJlNjc2OUU2bzJ6eE5IZ3Q1NHFFN2dJcDl3S1NSOGQ3MDRCakJSLUtvXzFXNkY1UXNSUERTUDI3TFJKSlJzMEZ1RER6dTZreGE0R1I1eUpySmxfSkZDdllLbkxzUk5hSEZFR2NOblpweVo2ZWV4aGhpWVB6NzA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansassightseeingveteranscemeteriescommemorateallwhohavegonebeforeinservicetot"
+   ],
+   "first_seen": 1794675802.694309,
+   "section": "major"
   },
   {
    "type": "article",
@@ -543,6 +541,28 @@
     "northlittlerockward2councilelectioncouldseerunoffthearkansasdemocratgazette"
    ],
    "first_seen": 1794607070.952765,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Live coverage: Arkansas 2026 election - Arkansas Advocate",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVE1eU1PZmFYRy1uX0d2Mk1oajlFQzNFSkVPV0tCNFBmUkNtUzQtTEZieU1WMDVwcHFWOVdTWWlUT2JINHVIamlhQ2FFamhHNnBGem15R1VlSi1GT2NHdzM0TVpuWUNjanoyamEwdW9paVRjRzVjMEt0X242UlJiOERnYw?oc=5",
+   "source": "Arkansas Advocate",
+   "published": 1793779200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Advocate",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVE1eU1PZmFYRy1uX0d2Mk1oajlFQzNFSkVPV0tCNFBmUkNtUzQtTEZieU1WMDVwcHFWOVdTWWlUT2JINHVIamlhQ2FFamhHNnBGem15R1VlSi1GT2NHdzM0TVpuWUNjanoyamEwdW9paVRjRzVjMEt0X242UlJiOERnYw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "livecoveragearkansas2026electionarkansasadvocate"
+   ],
+   "first_seen": 1794675802.694309,
    "section": "major"
   }
  ]
