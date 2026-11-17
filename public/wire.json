@@ -1,27 +1,137 @@
 {
- "updated": "2026-11-17T07:19:19.556981-06:00",
+ "updated": "2026-11-17T16:18:29.236148-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
   {
    "type": "article",
-   "title": "WANTED: \"Woman intentionally hit 15-year-old with her car\" says North Little Rock Police - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcVRxMlZCZTZoSGptRmlDc2E3MjdmVTg0Q2pkem1KWUxLQU11V3M3ZzBIbzZSb0ZoZkd6aE1NSDUxdGs3NmhvQnRyb3M2U0FUQ2k5bFNnX2FJaHFxNzhIa25vamcyQ0RHZTBSSDIxNjQ3TXo1QzU0YjRweGUwMEVITm95TWxkVUlwM0VIZGwzTlFYZkF5VUNLQWJXdlF0T2xxNFl5TGdyVHZzRm5NYmNneVRwOEhxUUJlYnNhcWRMMk1EekRPUXFjVjg2MmpoajhkYmQ3aGV4dGRFWXpwbHFzRmd3Q1FySVlQNklGZ2JQbkFNVWpPSVRZWGJDbFVta1hUOUlqa3ZCR3k0TTdTQkY4a2x1M1ZIOFlqZmpwcGpUNHRKbzc3NGhmUQ?oc=5",
+   "title": "Rock Region METRO bus fares to increase starting in January - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkxiVFkxM28zOFAtU0JvRzBxVE95bDRIUGh6dmJpYTVWS0pEbl9BY3N5YjVTQjBub3JJalI0aUp0MXhqbkVjdFFYQWFDMnJ2TE5qZTEzQmZFNmN4Z0wtSlMtZDFhMzcxem95NEpvUDZ5TjlibTUwR1NfRThHOVpQRm5lb2RGS0t1VWdick4zd2Z3Q0duYUEyTTJ0MFJYdw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794948360.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkxiVFkxM28zOFAtU0JvRzBxVE95bDRIUGh6dmJpYTVWS0pEbl9BY3N5YjVTQjBub3JJalI0aUp0MXhqbkVjdFFYQWFDMnJ2TE5qZTEzQmZFNmN4Z0wtSlMtZDFhMzcxem95NEpvUDZ5TjlibTUwR1NfRThHOVpQRm5lb2RGS0t1VWdick4zd2Z3Q0duYUEyTTJ0MFJYdw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "rockregionmetrobusfarestoincreasestartinginjanuarythearkansasdemocratgazette"
+   ],
+   "first_seen": 1794953909.236148,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Sherwood amends complaint calling for dismissal of NLR Wastewater lawsuit - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdktDX1Y2Y3JrUWJSTUVPOVMzbXJpLUZTQ1RETWU1azhtQ1Y4eVA0eExVT0hUUzR5WW8zd3NleUhUd1hpRW4yVmlOM0g1cGprQU9LOGxWNEdNa0cyVFd4Q2t5dlljQnpJalh5NWNrV3BHSXpueDVMZlRxSnFjaXMySTFfcGR4UlYyejNRclRsTDJaNmVPa2gzajdyVTk?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794944820.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdktDX1Y2Y3JrUWJSTUVPOVMzbXJpLUZTQ1RETWU1azhtQ1Y4eVA0eExVT0hUUzR5WW8zd3NleUhUd1hpRW4yVmlOM0g1cGprQU9LOGxWNEdNa0cyVFd4Q2t5dlljQnpJalh5NWNrV3BHSXpueDVMZlRxSnFjaXMySTFfcGR4UlYyejNRclRsTDJaNmVPa2gzajdyVTk?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "sherwoodamendscomplaintcallingfordismissalofnlrwastewaterlawsuitthearkansasdemoc"
+   ],
+   "first_seen": 1794953909.236148,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Food drives and pantries to support around Thanksgiving in Central Arkansas - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUG96V3JRVUliS2JYUjFyRUEwRnI4eEZEYUowNlU0N2VvWG91VjdOY3dPTjdJUTBKdGxPWS1FNjR1NWVNVEgtN3dqeDgxQXNlc2t2c2lFaFdfWWdSQ1JaSU9rM05HRUlGUW5LSVpwdG53aXhQS21wYWV2YUxEWkd5a05aVl8zWENIVHQzcWpwUElLYV83NkE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794941700.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUG96V3JRVUliS2JYUjFyRUEwRnI4eEZEYUowNlU0N2VvWG91VjdOY3dPTjdJUTBKdGxPWS1FNjR1NWVNVEgtN3dqeDgxQXNlc2t2c2lFaFdfWWdSQ1JaSU9rM05HRUlGUW5LSVpwdG53aXhQS21wYWV2YUxEWkd5a05aVl8zWENIVHQzcWpwUElLYV83NkE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "fooddrivesandpantriestosupportaroundthanksgivingincentralarkansasthearkansasdemo"
+   ],
+   "first_seen": 1794953909.236148,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Police Search for Davionna Smith - Hoodline",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VXQV9vS0hXTFBfcnN3UHhmeXVNV2Y4SWd0ZHlOOGlYeWJiU1JHWnhMYWhtSXVQbDhmUmlUSFQ3RG5pRlpvNEVZTndZamhTdWhPTzZyWl9mbFVVb09YemRncTR6VW1Dc2t4RkVFdXJGSTg0NGJfemVpamtUNmFrSS1VLWJNZGlIZDNxXzh1dWt6azU1S0N2ZENOYjZjOVV0S1BSag?oc=5",
+   "source": "Hoodline",
+   "published": 1794924833.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1VXQV9vS0hXTFBfcnN3UHhmeXVNV2Y4SWd0ZHlOOGlYeWJiU1JHWnhMYWhtSXVQbDhmUmlUSFQ3RG5pRlpvNEVZTndZamhTdWhPTzZyWl9mbFVVb09YemRncTR6VW1Dc2t4RkVFdXJGSTg0NGJfemVpamtUNmFrSS1VLWJNZGlIZDNxXzh1dWt6azU1S0N2ZENOYjZjOVV0S1BSag?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpolicesearchfordavionnasmithhoodline"
+   ],
+   "first_seen": 1794953909.236148,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Megadeth expands farewell tour to include North Little Rock stop in 2027 - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVduOUdSX1FsaGxQMnhhX0sySG5veDhwdzRZVlBOc2lWV3k0TkI1SmFobElUVGZkMGRjUXRRZUtHZUR4SURLbURRV0JMTG1oeEdRRnJxQUIwbzR4cmpUel9sazdXbTNXenFpNlhGdmQwYzk2aEU1WlJjMFEwVGIxdmZvQ1haWER6dlRGQW1CSW9jajFJaTBRTW84N1E0cUZ2M0E?oc=5",
    "source": "KATV",
-   "published": 1794913665.0,
+   "published": 1794893697.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcVRxMlZCZTZoSGptRmlDc2E3MjdmVTg0Q2pkem1KWUxLQU11V3M3ZzBIbzZSb0ZoZkd6aE1NSDUxdGs3NmhvQnRyb3M2U0FUQ2k5bFNnX2FJaHFxNzhIa25vamcyQ0RHZTBSSDIxNjQ3TXo1QzU0YjRweGUwMEVITm95TWxkVUlwM0VIZGwzTlFYZkF5VUNLQWJXdlF0T2xxNFl5TGdyVHZzRm5NYmNneVRwOEhxUUJlYnNhcWRMMk1EekRPUXFjVjg2MmpoajhkYmQ3aGV4dGRFWXpwbHFzRmd3Q1FySVlQNklGZ2JQbkFNVWpPSVRZWGJDbFVta1hUOUlqa3ZCR3k0TTdTQkY4a2x1M1ZIOFlqZmpwcGpUNHRKbzc3NGhmUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVduOUdSX1FsaGxQMnhhX0sySG5veDhwdzRZVlBOc2lWV3k0TkI1SmFobElUVGZkMGRjUXRRZUtHZUR4SURLbURRV0JMTG1oeEdRRnJxQUIwbzR4cmpUel9sazdXbTNXenFpNlhGdmQwYzk2aEU1WlJjMFEwVGIxdmZvQ1haWER6dlRGQW1CSW9jajFJaTBRTW84N1E0cUZ2M0E?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "wantedwomanintentionallyhit15yearoldwithhercarsaysnorthlittlerockpolicekatv"
+    "megadethexpandsfarewelltourtoincludenorthlittlerockstopin2027katv"
    ],
-   "first_seen": 1794887352.775695,
+   "first_seen": 1794953909.236148,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "19-year-old man charged Capital Murder after human remains discovered near Lake Maumelle - KATV",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTEFaT01zNEJHMTJDeWRlQ3JtRWlXYkhEblBfTHptUzVWb09xaFZtTzZpLV9SbUtlNHdCNEdpNy1xVXhCOFRqQ1hqbFlDWnlQSGJlbll0RnkteWVNUmNYVndhUGdFT2dHcHExSkdYbE96U1lqU094ZEJ5dmNDTEFRUUw2VFNLTEg4MVBrSGhfOTlEZXFfT2QzejF3RjZkMTF3dDF0a0VDRjBKbEVFNGhPUG9CUlNQS1d2eTBXdkFDTDVqSlpuX0lsbXJpYTVTYjZ3N2U3Z01uQkRpdnhldzFERU1aMUFwbmxWUlN2UDBIeTBkSmFkNWkxSg?oc=5",
+   "source": "KATV",
+   "published": 1794888175.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTEFaT01zNEJHMTJDeWRlQ3JtRWlXYkhEblBfTHptUzVWb09xaFZtTzZpLV9SbUtlNHdCNEdpNy1xVXhCOFRqQ1hqbFlDWnlQSGJlbll0RnkteWVNUmNYVndhUGdFT2dHcHExSkdYbE96U1lqU094ZEJ5dmNDTEFRUUw2VFNLTEg4MVBrSGhfOTlEZXFfT2QzejF3RjZkMTF3dDF0a0VDRjBKbEVFNGhPUG9CUlNQS1d2eTBXdkFDTDVqSlpuX0lsbXJpYTVTYjZ3N2U3Z01uQkRpdnhldzFERU1aMUFwbmxWUlN2UDBIeTBkSmFkNWkxSg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "19yearoldmanchargedcapitalmurderafterhumanremainsdiscoverednearlakemaumellekatv"
+   ],
+   "first_seen": 1794953909.236148,
    "section": "crime"
   },
   {
@@ -45,6 +155,28 @@
    ],
    "first_seen": 1794887352.775695,
    "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "WANTED: \"Woman intentionally hit 15-year-old with her car\" says North Little Rock Police - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcVRxMlZCZTZoSGptRmlDc2E3MjdmVTg0Q2pkem1KWUxLQU11V3M3ZzBIbzZSb0ZoZkd6aE1NSDUxdGs3NmhvQnRyb3M2U0FUQ2k5bFNnX2FJaHFxNzhIa25vamcyQ0RHZTBSSDIxNjQ3TXo1QzU0YjRweGUwMEVITm95TWxkVUlwM0VIZGwzTlFYZkF5VUNLQWJXdlF0T2xxNFl5TGdyVHZzRm5NYmNneVRwOEhxUUJlYnNhcWRMMk1EekRPUXFjVjg2MmpoajhkYmQ3aGV4dGRFWXpwbHFzRmd3Q1FySVlQNklGZ2JQbkFNVWpPSVRZWGJDbFVta1hUOUlqa3ZCR3k0TTdTQkY4a2x1M1ZIOFlqZmpwcGpUNHRKbzc3NGhmUQ?oc=5",
+   "source": "KATV",
+   "published": 1794871141.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcVRxMlZCZTZoSGptRmlDc2E3MjdmVTg0Q2pkem1KWUxLQU11V3M3ZzBIbzZSb0ZoZkd6aE1NSDUxdGs3NmhvQnRyb3M2U0FUQ2k5bFNnX2FJaHFxNzhIa25vamcyQ0RHZTBSSDIxNjQ3TXo1QzU0YjRweGUwMEVITm95TWxkVUlwM0VIZGwzTlFYZkF5VUNLQWJXdlF0T2xxNFl5TGdyVHZzRm5NYmNneVRwOEhxUUJlYnNhcWRMMk1EekRPUXFjVjg2MmpoajhkYmQ3aGV4dGRFWXpwbHFzRmd3Q1FySVlQNklGZ2JQbkFNVWpPSVRZWGJDbFVta1hUOUlqa3ZCR3k0TTdTQkY4a2x1M1ZIOFlqZmpwcGpUNHRKbzc3NGhmUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "wantedwomanintentionallyhit15yearoldwithhercarsaysnorthlittlerockpolicekatv"
+   ],
+   "first_seen": 1794887352.775695,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -110,28 +242,6 @@
    "member_keys": [
     "danielinthelionsdenandesthercomingtonorthlittlerockdecember11tharkansasradio",
     "danielinthelionsdenandestherthebravestqueenarkansasradio"
-   ],
-   "first_seen": 1794860752.191477,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "McLarty Honda Announces Availability of the 2027 Honda Civic Hybrid in Little Rock, Arkansas - markets.businessinsider.com",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGhYc3loRHRrbEJwVmlDVnNDYThhRWwyZG5uOHdFSnVPQlBRTEM4d0VqVG45N2ZScl9scnZuX3Vab3VzOEVBSi12OEJKSlVDR1dvZVpNQ3k0dFVuaFV1cG1sSHJPOTNfSjZ0Y0hsaXVZcjdWa1Vqb2NYTEhEbEZpaWg3WmR4c1lLYlNDS3VPV0JNZUtiLVdxMV9rU21jT0Z6NFlIMGZVdFpKcG1xcEVfVFVEWDdIbW10ckd5N2ZPbmZNdkp5WTFKMVpvR003a19mbVh4MVR1XzJoSXlvczZmeDliRlI?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": 1794845810.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "markets.businessinsider.com",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGhYc3loRHRrbEJwVmlDVnNDYThhRWwyZG5uOHdFSnVPQlBRTEM4d0VqVG45N2ZScl9scnZuX3Vab3VzOEVBSi12OEJKSlVDR1dvZVpNQ3k0dFVuaFV1cG1sSHJPOTNfSjZ0Y0hsaXVZcjdWa1Vqb2NYTEhEbEZpaWg3WmR4c1lLYlNDS3VPV0JNZUtiLVdxMV9rU21jT0Z6NFlIMGZVdFpKcG1xcEVfVFVEWDdIbW10ckd5N2ZPbmZNdkp5WTFKMVpvR003a19mbVh4MVR1XzJoSXlvczZmeDliRlI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "mclartyhondaannouncesavailabilityofthe2027hondacivichybridinlittlerockarkansasma"
    ],
    "first_seen": 1794860752.191477,
    "section": "major"
@@ -204,28 +314,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock Fraternal Order of Police chapter criticizes months of delays in deploying new patrol vehicles - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcU5lZVNya1F0V3VOUlVvMWdrWkFob1kwb1BkUVdkbmdJUVQyQjRTTGh2eUpuRUREaVB0OE1NWHphT2IxdXFIRlJNSGxuLXV6TmdoaEgxd0lJQU1nLW15bHN1WUdwOU5vM2ZsWjduM20zNTdxV0djNVYzRGZaZW9WcEI1eE5IS3BDUXBLUHFBQThUV01XTU1JOVNn?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794798000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcU5lZVNya1F0V3VOUlVvMWdrWkFob1kwb1BkUVdkbmdJUVQyQjRTTGh2eUpuRUREaVB0OE1NWHphT2IxdXFIRlJNSGxuLXV6TmdoaEgxd0lJQU1nLW15bHN1WUdwOU5vM2ZsWjduM20zNTdxV0djNVYzRGZaZW9WcEI1eE5IS3BDUXBLUHFBQThUV01XTU1JOVNn?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockfraternalorderofpolicechaptercriticizesmonthsofdelaysindeployingnewpat"
-   ],
-   "first_seen": 1794887352.775695,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "Little Rock School Board will consider creating in-house police department after criticism of city officers’ use of force - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lMVXhrd2NJR0xXb05aT1hlVlFaTTFOOGlQWWwyaGtuWEVLbUY3NTRzLUdJeHNsN1pxaHlRUnJQWjZFbUhkOVhtalNBci1zUmEyQ2N6NnlSZ0I4dDl0QnowLU1IcWlMUVNlMWl5a3dDVE1LNjlaSFJmSm5TVVZzeW8xUlZMR0tKUUZ3cXUtOGFoQVZleTdBWlY1a0czUUZfVm1yUTAtM3pKRno2SHc?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -266,28 +354,6 @@
     "arkansaslearnsacthaspublicschoolsstressinghighwagehighdemandcareereducationpathw"
    ],
    "first_seen": 1794887352.775695,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Bakers converge on Little Rock for 13th year of sweet potato pie judging - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnRMYnk4Y1pFVmNNZ0didVZYaHhFLV9YYUs5MHMwYV84enA1S05tcTV2SUFjam5CQmgyRVFMNnc2bm1aODZ5WW92bnoxNUJTR1JVWnFvVTBHS0VubVcxNmtLQ3lTN0duNzJXZGhNR1NJeXFYS1laMU1hTUg4eDdlV3Y0LXFyU0JkTVBQdmdvTkJSWlczaDJB?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794792600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnRMYnk4Y1pFVmNNZ0didVZYaHhFLV9YYUs5MHMwYV84enA1S05tcTV2SUFjam5CQmgyRVFMNnc2bm1aODZ5WW92bnoxNUJTR1JVWnFvVTBHS0VubVcxNmtLQ3lTN0duNzJXZGhNR1NJeXFYS1laMU1hTUg4eDdlV3Y0LXFyU0JkTVBQdmdvTkJSWlczaDJB?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "bakersconvergeonlittlerockfor13thyearofsweetpotatopiejudgingthearkansasdemocratg"
-   ],
-   "first_seen": 1794821791.289968,
    "section": "major"
   },
   {
@@ -386,47 +452,25 @@
   },
   {
    "type": "article",
-   "title": "West hangs more than half a hundred on Little Rock Central, winning 54-7 - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVp3X1R5RnVKeGJhXzVDMkRBWUVkdGhXREVtQXExYnZoVnhwMG9LQXdSWFNKVTRVSkZodjVZMHMxMVlDQWV1NjBJSkFxbnF5TVhiZjRjR3ZxREFXZTF5bThxOWNnb21QcFlRYVBhcGcxY0Q4a0U1eWVzeFl6TVNLT3lNV3A4WThGVTBBZUNHczF5NjVJUU1aQ19n?oc=5",
+   "title": "Teen arrested on negligent homicide charge in shooting death of 17-year-old in Prescott - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFFKTkktWTZGVzFpUDliLWV2bUozSnJ4eFRuN1YxS0RrV1BLbkpsbmc1TWhXVTNveTdXbzJ3elo2Zi1NdmFvNURtWEdYbkg3ejFIQ0gwWnl3VXVwc05YNWRZbWFCZnZsaVExM0hQZG93RFhITGlpM3VoWW5RMkJqZ2x3TkVTUlp0SGFVNFZYek00Z1U2eHYxZ0F6X0t6QQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
-   "published": 1794644340.0,
+   "published": 1794619200.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
      "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVp3X1R5RnVKeGJhXzVDMkRBWUVkdGhXREVtQXExYnZoVnhwMG9LQXdSWFNKVTRVSkZodjVZMHMxMVlDQWV1NjBJSkFxbnF5TVhiZjRjR3ZxREFXZTF5bThxOWNnb21QcFlRYVBhcGcxY0Q4a0U1eWVzeFl6TVNLT3lNV3A4WThGVTBBZUNHczF5NjVJUU1aQ19n?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFFKTkktWTZGVzFpUDliLWV2bUozSnJ4eFRuN1YxS0RrV1BLbkpsbmc1TWhXVTNveTdXbzJ3elo2Zi1NdmFvNURtWEdYbkg3ejFIQ0gwWnl3VXVwc05YNWRZbWFCZnZsaVExM0hQZG93RFhITGlpM3VoWW5RMkJqZ2x3TkVTUlp0SGFVNFZYek00Z1U2eHYxZ0F6X0t6QQ?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "westhangsmorethanhalfahundredonlittlerockcentralwinning547thearkansasdemocratgaz"
+    "teenarrestedonnegligenthomicidechargeinshootingdeathof17yearoldinprescottthearka"
    ],
-   "first_seen": 1794860752.191477,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Haden Hall throws four touchdown passes in the first as Little Rock Christian downs Springdale - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGtvclNSU2poT0VSZ0J3bV8xcE1ZSFB0TWItbVZDc3BkbVhJZEh4TmZTQkFOajJQVGw2VW1qSDlWYzN6eFAxTzdGV0xfSEdMZHYzZHQ3SUJWY1Y4THlrdm5OR2k4b3hLSFJWTENmV2pmRHBYWTZKenRZVWQ4eVRLbEFmM1NydFFlcGY3Y2lqbjA4dk00NG1oNDlhZw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794633300.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGtvclNSU2poT0VSZ0J3bV8xcE1ZSFB0TWItbVZDc3BkbVhJZEh4TmZTQkFOajJQVGw2VW1qSDlWYzN6eFAxTzdGV0xfSEdMZHYzZHQ3SUJWY1Y4THlrdm5OR2k4b3hLSFJWTENmV2pmRHBYWTZKenRZVWQ4eVRLbEFmM1NydFFlcGY3Y2lqbjA4dk00NG1oNDlhZw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "hadenhallthrowsfourtouchdownpassesinthefirstaslittlerockchristiandownsspringdale"
-   ],
-   "first_seen": 1794887352.775695,
-   "section": "major"
+   "first_seen": 1794953909.236148,
+   "section": "crime"
   },
   {
    "type": "article",
@@ -464,15 +508,11 @@
     {
      "source": "The Arkansas Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWMyQ3B3eVhsSWt1cjM0MFN1LXRlaE5wODlZeGZtdmtvNURUU1M5cVdkZ2NpMlFHRUtRWE1ub3JrNWhYcVJrUmNyOENMSzZXT21OaW1acjFGYkItMFZpOVNZMVRmRXpOS0pQSlY3VGpCRmE5OTlYcEtrdXpyczhxNlBTZV9aeUhWTFUwS0ZYNUNZdWIwd2YxQ2EtalV1QQ?oc=5"
-    },
-    {
-     "source": "Northwest Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRF9WaDJjNGFydFBPYnhmLUFleUVHZmVyclI5eWJuUkYxVVdTZ19JOE96QUdvczl1STJnMi1YQW9vX2NvSEozeW9NNWJOaU1mam55RHZLV2hlallPczVWbGd0SnB4b0JFNXVRR3QxS2w5NDdNNFptdm10Smhuc0M0VVhIb1AwZlZDdnU2OFVjMGlJQQ?oc=5"
     }
    ],
-   "source_count": 2,
+   "source_count": 1,
    "member_keys": [
-    "megadethsetssept6concertatnorthlittlerockssimmonsbankarenanorthwestarkansasdemoc",
+    "megadethsetssept6concertatnorthlittlerockssimmonsbankarenathearkansasdemocratgaz",
     "popsingeralexwarrenheadlinesapril6concertatnorthlittlerockssimmonsbankarenathear"
    ],
    "first_seen": 1794607070.952765,
@@ -502,69 +542,25 @@
   },
   {
    "type": "article",
-   "title": "Five people killed, three others injured in Arkansas crashes over 74-hour period - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjNVOVFLMTZsbEQ1N1BrT2lHY0VGM2dkdmRNdWl0STA0aHdubWZDN3dWWENtdlh5eWIyeHdPWHZ3SV90TklCQ0VFSDVGbFBlTnFOSkphWi1iVkZIY1JGY0VvQnZkU0FDdUc4cmFaLUNxdmFKODJJYmhaeEl5aUpLUlRPY25NNGNwTHVWNElmY2QxLWY4T0d3ZFQ2VWFLdw?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794546000.0,
+   "title": "Troy Gillespie Obituary Nov 13, 2026 - www.smithfamilycares.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZVF0UWx0b0w5UTlhUnZWd1JfT2JIVi1ZT29LdUc4SkZPRGtzNnRCTXlKY1ZJRkc1azRNNEcyRkotMlNkWElOTEhJUEQtWXRwd2w3YXlab0szUDhoQkZscmFhY19fWGROcndXeFZreEg4Nl80X2pPMWlDQjlibWhLVk9mTWEtd0c4ekJGYUxxcnZvZWVBb1NQcGpwUHVuNjhubTVOWUo3UkZjSWhyNnN6M042dm9pSUNaUDZKcm9KSklSTmFuelR1RDJsRGhVVzNrZFpBaVlHak5kT21yQURJYg?oc=5",
+   "source": "www.smithfamilycares.com",
+   "published": 1794556800.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjNVOVFLMTZsbEQ1N1BrT2lHY0VGM2dkdmRNdWl0STA0aHdubWZDN3dWWENtdlh5eWIyeHdPWHZ3SV90TklCQ0VFSDVGbFBlTnFOSkphWi1iVkZIY1JGY0VvQnZkU0FDdUc4cmFaLUNxdmFKODJJYmhaeEl5aUpLUlRPY25NNGNwTHVWNElmY2QxLWY4T0d3ZFQ2VWFLdw?oc=5"
+     "source": "www.smithfamilycares.com",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZVF0UWx0b0w5UTlhUnZWd1JfT2JIVi1ZT29LdUc4SkZPRGtzNnRCTXlKY1ZJRkc1azRNNEcyRkotMlNkWElOTEhJUEQtWXRwd2w3YXlab0szUDhoQkZscmFhY19fWGROcndXeFZreEg4Nl80X2pPMWlDQjlibWhLVk9mTWEtd0c4ekJGYUxxcnZvZWVBb1NQcGpwUHVuNjhubTVOWUo3UkZjSWhyNnN6M042dm9pSUNaUDZKcm9KSklSTmFuelR1RDJsRGhVVzNrZFpBaVlHak5kT21yQURJYg?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "fivepeoplekilledthreeothersinjuredinarkansascrashesover74hourperiodthearkansasde"
+    "troygillespieobituarynov132026wwwsmithfamilycarescom"
    ],
-   "first_seen": 1794821791.289968,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Maumelle man arrested in stepson’s killing told police they had fought the night before, affidavit says - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEl3c3M4NDBZWE96dzJsak5JY2R5VEtZeVU3dGhOSllFMlZvc3BTZmNQOWF2VHNVUEZOV21kRklSaGhmdlBJRFV6OUVGaG1IbzFjTEZRdXJXNFNXeF9saTY4OWFPUEdBT0JLaUE5US1DUDJ4VkgzcHFwZ2gyR0tHLV9PNHl6eV9DYU1NQVYzenM5U0hIOHN0dQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794540600.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEl3c3M4NDBZWE96dzJsak5JY2R5VEtZeVU3dGhOSllFMlZvc3BTZmNQOWF2VHNVUEZOV21kRklSaGhmdlBJRFV6OUVGaG1IbzFjTEZRdXJXNFNXeF9saTY4OWFPUEdBT0JLaUE5US1DUDJ4VkgzcHFwZ2gyR0tHLV9PNHl6eV9DYU1NQVYzenM5U0hIOHN0dQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "maumellemanarrestedinstepsonskillingtoldpolicetheyhadfoughtthenightbeforeaffidav"
-   ],
-   "first_seen": 1794447064.488491,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas State Police investigating Trooper-involved shooting that left Camden fugitive dead - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzExTmczRUREZ2tCQW16OEJvcXdGZjlwMkpNaVpOYmNsQXJPeWhNWmxVT2pQVzhSY0kwanBMWHJBeXFxOFR6dlB2UDB6Ykp6QlEtODg4Vml2Wl9GMmgyZVdVRE8tbk9rdHB4MmQ4T014TUpmclBaUVE0M2V4QjJNUVNtQ1NpbGJkbVZhN3FZRDZsWk0wWlZj?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794517620.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzExTmczRUREZ2tCQW16OEJvcXdGZjlwMkpNaVpOYmNsQXJPeWhNWmxVT2pQVzhSY0kwanBMWHJBeXFxOFR6dlB2UDB6Ykp6QlEtODg4Vml2Wl9GMmgyZVdVRE8tbk9rdHB4MmQ4T014TUpmclBaUVE0M2V4QjJNUVNtQ1NpbGJkbVZhN3FZRDZsWk0wWlZj?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasstatepoliceinvestigatingtrooperinvolvedshootingthatleftcamdenfugitivedea"
-   ],
-   "first_seen": 1794887352.775695,
-   "section": "crime"
+   "first_seen": 1794953909.236148,
+   "section": "obits"
   }
  ]
 }
