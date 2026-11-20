@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-20T05:31:21.309262-06:00",
+ "updated": "2026-11-20T14:11:03.790650-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Little Rock police SWAT officer on administrative leave following fatal shooting on Wednesday - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUhycjdEdGlmY2NxUW1NREtKQ01VQ1p6VFFyeFRLdE4zZEVyX0ZGSWVVNDVuZmRpcG5QNUFxQ0JOVkYwSS04Z2t3blEzWUduTXA5aHd2eHpDRHBsSzRXR1VOelFKOTB5U3lHbEl4MWVwY3VKelhjeEdQWDZQNzhoSVRkSmdLWFR6MGM3SDdpbHBBb0I1WUxMTGlLbGtqNXM?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1795203780.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUhycjdEdGlmY2NxUW1NREtKQ01VQ1p6VFFyeFRLdE4zZEVyX0ZGSWVVNDVuZmRpcG5QNUFxQ0JOVkYwSS04Z2t3blEzWUduTXA5aHd2eHpDRHBsSzRXR1VOelFKOTB5U3lHbEl4MWVwY3VKelhjeEdQWDZQNzhoSVRkSmdLWFR6MGM3SDdpbHBBb0I1WUxMTGlLbGtqNXM?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpoliceswatofficeronadministrativeleavefollowingfatalshootingonwednesda"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "crime"
+  },
   {
    "type": "article",
    "title": "North Little Rock police revise Flock Safety policy, requiring monthly audits and noting cameras’ role in arrests - The Arkansas Democrat-Gazette",
@@ -23,28 +45,6 @@
    ],
    "first_seen": 1795144175.629893,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Judge sides with Little Rock officer demoted over courtroom remark, orders compensation for lost wages - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVgxdVcwMHpoRHZ0VExfMERnZ3hDYjNsVXQ2N2poQ0taU090WjQtN1BmN2pkZzhncFBoeW9weHFJb0RhazNEbTcxTkcxSWZzMzVJRXRic1JpT1hVak9QNXlqcmJ0aFROWkxmUGxVR3BhM1gtN1JURkMySXAyRjJEU3NSNDd0RjZidGREc19peG5QOFJBRlRR?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795138200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVgxdVcwMHpoRHZ0VExfMERnZ3hDYjNsVXQ2N2poQ0taU090WjQtN1BmN2pkZzhncFBoeW9weHFJb0RhazNEbTcxTkcxSWZzMzVJRXRic1JpT1hVak9QNXlqcmJ0aFROWkxmUGxVR3BhM1gtN1JURkMySXAyRjJEU3NSNDd0RjZidGREc19peG5QOFJBRlRR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "judgesideswithlittlerockofficerdemotedovercourtroomremarkorderscompensationforlo"
-   ],
-   "first_seen": 1795174281.309262,
-   "section": "major"
   },
   {
    "type": "article",
@@ -92,72 +92,6 @@
   },
   {
    "type": "article",
-   "title": "WIN Garth Brooks Tickets Before You Can Buy Them - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHhNRnpaVzA2M2FSVkgyRDVZXzl6R1Naak14MzgtSnZueXdxRnFoc3JKRDlwQWVuTXd5SXJwOVpTSHdWT1BKam4xa09oaWVrakk2QTJWcGRZckFSaV8wamJfdm0tOERadHRReEkxSnlkUkxtVEc2Q2RPWlBYeEl6em1sMkNmYk0wUUpfX1FEZE8?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1795129029.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHhNRnpaVzA2M2FSVkgyRDVZXzl6R1Naak14MzgtSnZueXdxRnFoc3JKRDlwQWVuTXd5SXJwOVpTSHdWT1BKam4xa09oaWVrakk2QTJWcGRZckFSaV8wamJfdm0tOERadHRReEkxSnlkUkxtVEc2Q2RPWlBYeEl6em1sMkNmYk0wUUpfX1FEZE8?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "wingarthbrooksticketsbeforeyoucanbuythemarkansasradio"
-   ],
-   "first_seen": 1795144175.629893,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Weekend Entertainment Roundup for November 19, 2026 - Little Rock Public Radio",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnNrTlI3amVzdVRwN2tsTFVoaXlxanpvczZZazI0dEhvOHJqZHpmQlhGNHZPYmt1QURUdXlTQlJxQ3FjVXhGWThvTGJMU1R1R3NpemxUUEdUT1lFNmlldG1GQmtGMnNlMHU0eHRDS2hxaUFtNU42U09LN3UtT3dNQ3MtWEhMRFFOU2g2aXJIZ0FobVVoQ1p4Wlczb2lHSUg0TlUzRGYtb1A5NGdaZFp6cWpR?oc=5",
-   "source": "Little Rock Public Radio",
-   "published": 1795128756.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Little Rock Public Radio",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnNrTlI3amVzdVRwN2tsTFVoaXlxanpvczZZazI0dEhvOHJqZHpmQlhGNHZPYmt1QURUdXlTQlJxQ3FjVXhGWThvTGJMU1R1R3NpemxUUEdUT1lFNmlldG1GQmtGMnNlMHU0eHRDS2hxaUFtNU42U09LN3UtT3dNQ3MtWEhMRFFOU2g2aXJIZ0FobVVoQ1p4Wlczb2lHSUg0TlUzRGYtb1A5NGdaZFp6cWpR?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "weekendentertainmentroundupfornovember192026littlerockpublicradio"
-   ],
-   "first_seen": 1795174281.309262,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "After FCC allows cellphone jamming in prison, Cotton pushes for legislation - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSG44cVZMVGJGdkN3bXB2SWRSZTUtdE4tTndXVEcwc2RYb0dwV1J0R0J0MkhiX2I5cE9XcjJnSmVQcjZzZmlpRDFwdDdvLXREdlAzdVdOeUZvQjFkREFPVEVKM2FZOFR5TWpQQ3ZNNTRmMG9TMHZ0SkllcVEyOGpYV29KR0NqcUxsMHlwbEtXNTI1cDNCS01KMQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795125000.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSG44cVZMVGJGdkN3bXB2SWRSZTUtdE4tTndXVEcwc2RYb0dwV1J0R0J0MkhiX2I5cE9XcjJnSmVQcjZzZmlpRDFwdDdvLXREdlAzdVdOeUZvQjFkREFPVEVKM2FZOFR5TWpQQ3ZNNTRmMG9TMHZ0SkllcVEyOGpYV29KR0NqcUxsMHlwbEtXNTI1cDNCS01KMQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "afterfccallowscellphonejamminginprisoncottonpushesforlegislationthearkansasdemoc"
-   ],
-   "first_seen": 1795174281.309262,
-   "section": "crime"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock man sentenced to five years for attempting to blow up ATM with homemade explosives - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpaNHJTd243MkFqdkk2ajAxYzZ4MjlBajZfQzBnRmFGRUhVQXFpNm1NeWp0S1dZMGZlTFQ5aE5sUzFkT0NLamdQNFBZalNlN0U5NlVpdUxWVlJaMG9XOC0tUEhzczlOYzhud3J6dTlZNHE5ZGgxLXRFLVBfb0h5R05paXVSbHp1dHpQM19fUk0xY2ZXaWpZY2pmVHdCNFE?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -177,100 +111,6 @@
    ],
    "first_seen": 1794887352.775695,
    "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Leaders of North Little Rock elementary school placed on administrative leave - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGxXVkRwNV9zZWlTYVFyMlByOUhqelBqUnZmSkgwNjRNMHBjYTg0QlFuY1ZoMnBwRVBscWJLd180SWJWQnIxOWZ1MVNTYlNtWndBX0pZTVlRdWpHcU41cVdIbWNwTkNvVWVWb3lPQk9QWXlDMHYyMU40aWU3TjdONFdBa3RQZ0FkUWlxbnNmZ1FfandxUFhXcUFjTQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795117440.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGxXVkRwNV9zZWlTYVFyMlByOUhqelBqUnZmSkgwNjRNMHBjYTg0QlFuY1ZoMnBwRVBscWJLd180SWJWQnIxOWZ1MVNTYlNtWndBX0pZTVlRdWpHcU41cVdIbWNwTkNvVWVWb3lPQk9QWXlDMHYyMU40aWU3TjdONFdBa3RQZ0FkUWlxbnNmZ1FfandxUFhXcUFjTQ?oc=5"
-    },
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb25wbGhnTC1iWkJ2cFlqRWxJWHB1WTdYTTcyeWl3RkZaaFVhVnp3TXVXYW1HdVJRbTI4dUVIaVNVS2c2a2xDT3E1QnAteDQ1V2dFU1lUTmFweFlPVDdHNWpQR1VWZnVRWktpQ3VIM3E4UDFDY0tKbVA1S1JLUjJZcldhYVA1NVVaWTctUkJGQThRRGd1YzdjQm1oX2R5SWtYYm9ZMTNaQ0hZWGFXNVZoTmZB?oc=5"
-    }
-   ],
-   "source_count": 2,
-   "member_keys": [
-    "indianhillselementaryprincipalassistantprincipalplacedonadministrativeleavekatv",
-    "leadersofnorthlittlerockelementaryschoolplacedonadministrativeleavethearkansasde"
-   ],
-   "first_seen": 1795123733.113833,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Winter Circus brings holiday fun to North Little Rock - FOX16.com",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUm5pczY0M0xQZGhkWFMwN3VDemstcDhFTVotdEtneTh0RkhqdVF6ZDRYRmYwR25RRDRwOUlnNkJGRVhKR1pnelY1endGcW5CaGR4M1hIN1dEVUF5Y085S2ZvNG04ZXlVa1lqWlBRS245eV9UaU9faV9xS0d0NVBsSTd6VXJ1N0gxaG1sV29kaFZjeWPSAZgBQVVfeXFMT3d6OU5YUHM4VXpUaHdLTW53Q19OVmdyR29EVFZwZnBRU1NxbkR0N09UeHZMRzRQc2JiTXM0QWhiYm5VdjZpaUJHSVpTNDhGQW1ZRUR4RDZNdEQ4bkdxd2VUZEtGSjlYNnVfWUZqclp4NmVJZ3V1anZqVExtT2lzWFVBR3lzeDBXZXFmR3VIU2ZzcUdkaEZrVWI?oc=5",
-   "source": "FOX16",
-   "published": 1795110705.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "FOX16",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUm5pczY0M0xQZGhkWFMwN3VDemstcDhFTVotdEtneTh0RkhqdVF6ZDRYRmYwR25RRDRwOUlnNkJGRVhKR1pnelY1endGcW5CaGR4M1hIN1dEVUF5Y085S2ZvNG04ZXlVa1lqWlBRS245eV9UaU9faV9xS0d0NVBsSTd6VXJ1N0gxaG1sV29kaFZjeWPSAZgBQVVfeXFMT3d6OU5YUHM4VXpUaHdLTW53Q19OVmdyR29EVFZwZnBRU1NxbkR0N09UeHZMRzRQc2JiTXM0QWhiYm5VdjZpaUJHSVpTNDhGQW1ZRUR4RDZNdEQ4bkdxd2VUZEtGSjlYNnVfWUZqclp4NmVJZ3V1anZqVExtT2lzWFVBR3lzeDBXZXFmR3VIU2ZzcUdkaEZrVWI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "wintercircusbringsholidayfuntonorthlittlerockfox16com"
-   ],
-   "first_seen": 1795123733.113833,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Piccolo Zoppe Winter Circus Dazzles North Little Rock - KARK",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFd1TFhiRTV3cVdpLTlCTjhJWTN4TVktbEEzc1hFUnl5ZUNLN0xDdVpJSjJMTkhxd19kRkdLSVVSeXdMOXBteTJzQ2d0b1QxR2FrNVZxQ2VjbXRWYmZBS2M2dlNpZ29ubEprdkhTOXE2ZEdONkJHOXU4Q1FCaEpIaFYzeWh3V1RfX3pKdXU2SEJZQ0ly?oc=5",
-   "source": "KARK",
-   "published": 1795109640.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KARK",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFd1TFhiRTV3cVdpLTlCTjhJWTN4TVktbEEzc1hFUnl5ZUNLN0xDdVpJSjJMTkhxd19kRkdLSVVSeXdMOXBteTJzQ2d0b1QxR2FrNVZxQ2VjbXRWYmZBS2M2dlNpZ29ubEprdkhTOXE2ZEdONkJHOXU4Q1FCaEpIaFYzeWh3V1RfX3pKdXU2SEJZQ0ly?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "piccolozoppewintercircusdazzlesnorthlittlerockkark"
-   ],
-   "first_seen": 1795144175.629893,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "OPINION | WALLY HALL: Oaklawn set to start its celebration in North Little Rock - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTW1GdGljLVUzRGRzLUM2ajF6UVBFNGxfRWFDQkxSN3h0dFNrTWVHdUMzVVNYQmVYTWtBZzJUeXkyTTI0UVc1TWRKOXFSR3BON0ZaQmNZRnZyQ2QzSk00S19uZnlCT3d6LUtOTWE3SVRCVWxhc1Jfa1BsZDZrOGc2WG5TZmd2NHExWFc4TlZsSnpJcERUV0w4?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795076460.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTW1GdGljLVUzRGRzLUM2ajF6UVBFNGxfRWFDQkxSN3h0dFNrTWVHdUMzVVNYQmVYTWtBZzJUeXkyTTI0UVc1TWRKOXFSR3BON0ZaQmNZRnZyQ2QzSk00S19uZnlCT3d6LUtOTWE3SVRCVWxhc1Jfa1BsZDZrOGc2WG5TZmd2NHExWFc4TlZsSnpJcERUV0w4?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "opinionwallyhalloaklawnsettostartitscelebrationinnorthlittlerockthearkansasdemoc"
-   ],
-   "first_seen": 1795123733.113833,
-   "section": "major"
   },
   {
    "type": "article",
@@ -296,72 +136,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock police investigate fatal officer-involved shooting following SWAT call-out - KATV",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX3lXTElWSlhEMHQ3NFdwN1FMLVlKMjhnVVpEMDNzakRLTkZjbzROdG1wMF83QTRabG9hMG1aNk40ZjVOemVSS1hKVlVwbEVFYXJhRkVMUmhkOWtDdkdZRDhTRy10LUhsQ0x5Ym16Z3B3c19XSk5NSUlET19aMGZ2ODNaWVpjMlJxRW94T1RBM2F1c1pwYTJaajdGb052VjR0bGdqcGZFYjNhQXJNdGg1MWdLVkFscGxXVHlUMFNJcTdTMnhMSzJaYTVTN3R0QXhCRWI1dndqWS1qZzVtbHdQVV80UkZQUlJSZVRCVG5xdVpHeDVVZmhxaEg0bFRkeFBkSTRBTnFhVjFWRUlZYXc?oc=5",
-   "source": "KATV",
-   "published": 1795066138.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX3lXTElWSlhEMHQ3NFdwN1FMLVlKMjhnVVpEMDNzakRLTkZjbzROdG1wMF83QTRabG9hMG1aNk40ZjVOemVSS1hKVlVwbEVFYXJhRkVMUmhkOWtDdkdZRDhTRy10LUhsQ0x5Ym16Z3B3c19XSk5NSUlET19aMGZ2ODNaWVpjMlJxRW94T1RBM2F1c1pwYTJaajdGb052VjR0bGdqcGZFYjNhQXJNdGg1MWdLVkFscGxXVHlUMFNJcTdTMnhMSzJaYTVTN3R0QXhCRWI1dndqWS1qZzVtbHdQVV80UkZQUlJSZVRCVG5xdVpHeDVVZmhxaEg0bFRkeFBkSTRBTnFhVjFWRUlZYXc?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockpoliceinvestigatefatalofficerinvolvedshootingfollowingswatcalloutkatv"
-   ],
-   "first_seen": 1795093141.734483,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "Garth Brooks North Little Rock tickets on sale at Simmons Bank Arena - TicketNews",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUk1wOVRGTWVpTFdMYzd0WkdmdGNPTGtadTJwdHc2U1l1ME1hdE8yNWpacHl0bjZNRGhTOVFoQzU1YU1JMGlSaExveWxWcDFNMWpIRXRXY1ExOVVtSUZWRHMyRjVBVTkzakJ3MlJ1ZVhVc2R2ZXJqa2toVWJoenRhdzJIYmE4azQ5TWVpVHhWdl9RTmU3b1Vua0QtOU1CZmNlT0pLZ0d0cw?oc=5",
-   "source": "TicketNews",
-   "published": 1795064388.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUk1wOVRGTWVpTFdMYzd0WkdmdGNPTGtadTJwdHc2U1l1ME1hdE8yNWpacHl0bjZNRGhTOVFoQzU1YU1JMGlSaExveWxWcDFNMWpIRXRXY1ExOVVtSUZWRHMyRjVBVTkzakJ3MlJ1ZVhVc2R2ZXJqa2toVWJoenRhdzJIYmE4azQ5TWVpVHhWdl9RTmU3b1Vua0QtOU1CZmNlT0pLZ0d0cw?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "garthbrooksnorthlittlerockticketsonsaleatsimmonsbankarenaticketnews"
-   ],
-   "first_seen": 1795093141.734483,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Security officers sue Little Rock School District, claiming failure to pay wages owed - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFRUVUZNamN3cUJJMFFTSkNzQUI1ZFFMSW1rWGRnZGZDdGk1anlSSzFiNVlEUnV1MHo0X1lGbkk0NXppWW5sWUVpUkFPcFc3VVpFWGZkcjlJeUFQQXV4NWJuLURVRDNJbTBwaWd5eFVwbEc4YjZkQ0ZFQU1KdmRuc1RfYjNsVEg5S21VZUIxR1lwS3NQSXgycjVVajZtZWs?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795062915.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFRUVUZNamN3cUJJMFFTSkNzQUI1ZFFMSW1rWGRnZGZDdGk1anlSSzFiNVlEUnV1MHo0X1lGbkk0NXppWW5sWUVpUkFPcFc3VVpFWGZkcjlJeUFQQXV4NWJuLURVRDNJbTBwaWd5eFVwbEc4YjZkQ0ZFQU1KdmRuc1RfYjNsVEg5S21VZUIxR1lwS3NQSXgycjVVajZtZWs?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "securityofficerssuelittlerockschooldistrictclaimingfailuretopaywagesowedthearkan"
-   ],
-   "first_seen": 1795174281.309262,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock parks office turns into a mini free-book nook for young visitors - KATV",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQWJUUWNIbnlmNWpVa3pNVjhrUzg1OFFlTkRZRjNDN2otVzc5am5zLXJuck9XdW52d3QwaWxpN3R0cTdlZFZHWjdrbWJsV25mN2ZUd1E2R3NHb2dRajVxckR3MWcxX0ZpbzF2MGNCMFdiUU40cnhrN0djY1dLcms2T2doaUpjcy0wWHdrRWNOR1ZvTExDeE1PYmI5ZDFLS2Q4SXBRVF9Pc2l2d01GNkc4QklCaERpNTlDV0lJS3JTSzVJem9OVTVpWkhXSEN0cXhxSXFubzBUVk5nOHd1SFFIZHJvUFE2RTJZZUhKcFVmS2s4cy04ZkZ6UU5FQ3R4dndnVlJjSjRVQU4zSzRSeWRwaTF4RDY4UXJaR2c?oc=5",
    "source": "KATV",
@@ -380,72 +154,6 @@
     "northlittlerockparksofficeturnsintoaminifreebooknookforyoungvisitorskatv"
    ],
    "first_seen": 1795093141.734483,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock police fatally shoot person barricaded in house - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSl9FdmViTkhkQjNobDVVMnMyWkVMcjBwb0dkaDZRVVhMNWNrMnlqVzVXb1phMnFJaGNWWG5lMkN0QzBGbjJxdFE3aGFBRDl3RktHX0hiZWZfUXR0QVR5QWJEVmc0T0l1R3BqSGxHTFBoSFhrRDY3S2dnNldrNFh6VFhIblhYNEZnVWpTTzh1clU1UQ?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795048200.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSl9FdmViTkhkQjNobDVVMnMyWkVMcjBwb0dkaDZRVVhMNWNrMnlqVzVXb1phMnFJaGNWWG5lMkN0QzBGbjJxdFE3aGFBRDl3RktHX0hiZWZfUXR0QVR5QWJEVmc0T0l1R3BqSGxHTFBoSFhrRDY3S2dnNldrNFh6VFhIblhYNEZnVWpTTzh1clU1UQ?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockpolicefatallyshootpersonbarricadedinhousethearkansasdemocratgazette"
-   ],
-   "first_seen": 1795093141.734483,
-   "section": "crime"
-  },
-  {
-   "type": "article",
-   "title": "North Little Rock health club member files suit, claims new owner promised renovations but never reopened - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc25PTmdWQXo5eDRvU3pGdHJNSkE1cmtwRkdHSmJCcVVnZ25FTDhveUlvQUhKWHM1eHR4bmREWEtRS2g1ZDdrOFpOM2JhV2N5UUQzTE1NM2c4OEQyenFCamxhY3FsOUY3R3NOaWt2ZnNTXzc5UVE5VTljN2tVNDNZWFpub3ZiSjk0MHJSeHBiSHVpQ2x6ZXVPamNheDE?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795047300.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc25PTmdWQXo5eDRvU3pGdHJNSkE1cmtwRkdHSmJCcVVnZ25FTDhveUlvQUhKWHM1eHR4bmREWEtRS2g1ZDdrOFpOM2JhV2N5UUQzTE1NM2c4OEQyenFCamxhY3FsOUY3R3NOaWt2ZnNTXzc5UVE5VTljN2tVNDNZWFpub3ZiSjk0MHJSeHBiSHVpQ2x6ZXVPamNheDE?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "northlittlerockhealthclubmemberfilessuitclaimsnewownerpromisedrenovationsbutneve"
-   ],
-   "first_seen": 1795058547.254503,
-   "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Arkansas Duck Season Social Set for December 2nd - Arkansas Radio",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWI4RTNnc0NSYWZsOWgtVHdjWTNyZUYxUTRZemtpUnpmUmQ0WEdRcF9VMGF4OE0wWENVaUhfZVVSRXgxNTc4dW1kNnpRWlhyMF80b1pnNllVNE1ReFRETW1Yb1dTVjVYSkNFNW1LNm8yaXlhZjdQTk9XczdPZklzVUxucDI?oc=5",
-   "source": "Arkansas Radio",
-   "published": 1795040146.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "Arkansas Radio",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWI4RTNnc0NSYWZsOWgtVHdjWTNyZUYxUTRZemtpUnpmUmQ0WEdRcF9VMGF4OE0wWENVaUhfZVVSRXgxNTc4dW1kNnpRWlhyMF80b1pnNllVNE1ReFRETW1Yb1dTVjVYSkNFNW1LNm8yaXlhZjdQTk9XczdPZklzVUxucDI?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "arkansasduckseasonsocialsetfordecember2ndarkansasradio"
-   ],
-   "first_seen": 1795123733.113833,
    "section": "major"
   },
   {
@@ -522,30 +230,6 @@
   },
   {
    "type": "article",
-   "title": "Little Rock board postpones final vote on proposed annexations - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1BhWEtEV01BcW1YUnd5MkxCSXVMNi1pcnpzUkNUQzVhNV8ycE1LZXVsV09IckZqYVVtZnFzbmRfdFZKQ1ItcTlNTndKUzg5bHVadFFmZ3d3Vi1nM1hZVExnOFRsNFNJTXY0VS1lQ1ZFYnlIUHpNRU9PdkdMR0tyUUM5YWY5X1hXdFhGWHk3d2hRcklD?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1794977160.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1BhWEtEV01BcW1YUnd5MkxCSXVMNi1pcnpzUkNUQzVhNV8ycE1LZXVsV09IckZqYVVtZnFzbmRfdFZKQ1ItcTlNTndKUzg5bHVadFFmZ3d3Vi1nM1hZVExnOFRsNFNJTXY0VS1lQ1ZFYnlIUHpNRU9PdkdMR0tyUUM5YWY5X1hXdFhGWHk3d2hRcklD?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockboardpostponesfinalvoteonproposedannexationsthearkansasdemocratgazette",
-    "littlerockschoolboardpostponesvoteoninhousepolicedepartmentproposalthearkansasde"
-   ],
-   "first_seen": 1795007105.096973,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Suspicious activity call leads North Little Rock Police officers to kitten rescue - FOX16.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3lFSjByVy1vX1NjMVluSzJybG9ZTTdrb3FhdHZpX2phSnZ0azl1RlVuUVpxRzJPYmtuaXhpUU1Gc1NaUVFGZjFBVHV0NXdiWFd6aXBsbVdiVTBYT0pjeGV0dzJPMGtKX0ZUeVlRODA5eHFua2llMHRBUXp2dkxTREhoRWtTeUF4SVc4dkdyMnJGNVluYUh0aGpxVFpJbEM1ZmZQQjAtNzg3WGFiYWFtVWhsRTVoaG9JRjY0ONIBwgFBVV95cUxPazNYQW5oQ2lVcGQ2R0xlS0pjejAyRHZsR2ZpczJOWmdhdnpmVXVCTk1OUmVlNWgtVHdxTlV1SUJBcmZKV0w0RG82Wlc2cG1wbU9yMXpULXFtQ2ljZlZhT3JTRVY0MEdUTFM3MC1lb0RLellWbC1Mazc5VUxXWUFtSndYWXVoWUo5Zm1hWVVJTTVIdThndnFlSkxKbTF2bl95TzZVRTZBYlc5cU5NWFdfcEthTVZ2b0dfUEp6NjloWGpCZw?oc=5",
    "source": "FOX16",
@@ -565,6 +249,317 @@
    ],
    "first_seen": 1795007105.096973,
    "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Woman sought by North Little Rock Police after allegedly striking teen with vehicle - KARK",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjJ5aGxKMEk3b1BCYm9QMHUtaFVqaXdtSUhHZlpKb2NrLWhTSTZQZG5xOXlNd0IzUzdtTnFUbXc3dm45MmN5cWN0VWR1SW9VNS1uTWk4ZHZzMVZVcjBUUDEtZk9JRnlyX3BCbDNmR3BQcEVtX1FoVzJiT3MyV1M2bFZ2ZnEyMXJ3d3MxOE9CY0huTWtCQkVjSTRXZ3pfeHplMnlfenQ3WFVkOERwZWpaTQ?oc=5",
+   "source": "KARK",
+   "published": 1794869705.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjJ5aGxKMEk3b1BCYm9QMHUtaFVqaXdtSUhHZlpKb2NrLWhTSTZQZG5xOXlNd0IzUzdtTnFUbXc3dm45MmN5cWN0VWR1SW9VNS1uTWk4ZHZzMVZVcjBUUDEtZk9JRnlyX3BCbDNmR3BQcEVtX1FoVzJiT3MyV1M2bFZ2ZnEyMXJ3d3MxOE9CY0huTWtCQkVjSTRXZ3pfeHplMnlfenQ3WFVkOERwZWpaTQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "womansoughtbynorthlittlerockpoliceafterallegedlystrikingteenwithvehiclekark"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Little Rock School Board will consider creating in-house police department after criticism of city officers’ use of force - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lMVXhrd2NJR0xXb05aT1hlVlFaTTFOOGlQWWwyaGtuWEVLbUY3NTRzLUdJeHNsN1pxaHlRUnJQWjZFbUhkOVhtalNBci1zUmEyQ2N6NnlSZ0I4dDl0QnowLU1IcWlMUVNlMWl5a3dDVE1LNjlaSFJmSm5TVVZzeW8xUlZMR0tKUUZ3cXUtOGFoQVZleTdBWlY1a0czUUZfVm1yUTAtM3pKRno2SHc?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794796200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lMVXhrd2NJR0xXb05aT1hlVlFaTTFOOGlQWWwyaGtuWEVLbUY3NTRzLUdJeHNsN1pxaHlRUnJQWjZFbUhkOVhtalNBci1zUmEyQ2N6NnlSZ0I4dDl0QnowLU1IcWlMUVNlMWl5a3dDVE1LNjlaSFJmSm5TVVZzeW8xUlZMR0tKUUZ3cXUtOGFoQVZleTdBWlY1a0czUUZfVm1yUTAtM3pKRno2SHc?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpolicefatallyshootpersonbarricadedinhousethearkansasdemocratgazette",
+    "littlerockschoolboardpostponesvoteoninhousepolicedepartmentproposalthearkansasde",
+    "littlerockschoolboardwillconsidercreatinginhousepolicedepartmentaftercriticismof"
+   ],
+   "first_seen": 1795007105.096973,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock council discusses special appropriations for 2027 fiscal budget - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGVaLUVVcndrcXo0SzFFSWliZUpaWHpfa3V5VjI4UFEyRDV1dVNPZ0NDVEtKczhuak9PSlNncVhhOGU4R09VVTE2R3Jjd3FodlU2Z00zZ1VmXy1XeWdmQzVWeXloWVNNM1BwNnozYnFRYktFeE9uS0dkYXN4aWZRTjZFdVRqb0hRNVpnelBmMHVjMFNYVkxr?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1794283800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGVaLUVVcndrcXo0SzFFSWliZUpaWHpfa3V5VjI4UFEyRDV1dVNPZ0NDVEtKczhuak9PSlNncVhhOGU4R09VVTE2R3Jjd3FodlU2Z00zZ1VmXy1XeWdmQzVWeXloWVNNM1BwNnozYnFRYktFeE9uS0dkYXN4aWZRTjZFdVRqb0hRNVpnelBmMHVjMFNYVkxr?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcouncildiscussesspecialappropriationsfor2027fiscalbudgetthearkans"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock Ward 2 council election could see runoff - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW85cGtaU00zNjh5SGdiRHQ5TnhvTDZaMS0ycFJ4NFd1TmtyMzNZbkNQR3VJSkJiS3FEdkNaT1U5TWJOYjVmWGVraHBrX252cGhrREtTZEM1VjRfaXpCMGttWGVLemtYRTVxX3NtR0FIeW5kanhhLTZ1TnFieEZ5ZzZhOFNoOXhucmxFUWllQlVsRTVpMmZPb2RIWUI?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1793779200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW85cGtaU00zNjh5SGdiRHQ5TnhvTDZaMS0ycFJ4NFd1TmtyMzNZbkNQR3VJSkJiS3FEdkNaT1U5TWJOYjVmWGVraHBrX252cGhrREtTZEM1VjRfaXpCMGttWGVLemtYRTVxX3NtR0FIeW5kanhhLTZ1TnFieEZ5ZzZhOFNoOXhucmxFUWllQlVsRTVpMmZPb2RIWUI?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockward2councilelectioncouldseerunoffthearkansasdemocratgazette"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "Four candidates look to fill North Little Rock Ward 2 seat as Linda Robinson retires - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1791356400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2FBNlV4TDRSYndIWXhraVl2WDVzT2ZvcV92cURNWmJsTzA1Q2h0ZVNVRmJKRlkzOVRLN0VwaVdzMDNHRG5DNVMxVHZscTIyYndBdG82ekpWT0RmT1BtY2k2QVVwSTE3VHJVdzVYS3JiQWFmVlY2SmRfYjZoTDZHSU5fbW8tTmMyYk9CbF94Vm9CdUFZbzFyMk41Yw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "fourcandidateslooktofillnorthlittlerockward2seataslindarobinsonretiresthearkansa"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock city council approves bond measures for Eaton factory, AI policy - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1790578800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1BPaXhlcVRxTDBhUlpWZ0pDazQzV05sSWtMUFJqSXNLckdrVGpFNVFvQl9XNFJWQzYwemFCdlZQOS00VmZMMW1qdV9Va0ZLWl9acmFTOUlXS2NWT21FSklHTVZsbkd4LW16YlNDV1FkMV9zS3FfZWdCNDM5YXpRc3NvejkzUnpmNzRPSGxEMWRJNGJfVk9MZWhkOGVOUQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilapprovesbondmeasuresforeatonfactoryaipolicythearkansas"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "POLICE BEAT: North Little Rock man arrested in theft of vehicle; North Little Rock man charged in drug possession - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789974000.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9neTV1TkZhY2tQSDc5NzBVM0FESk1PaHZMeWI2Q2pPZ2VMdEdqQXhIVlprYVFQNUJqaV9aU05JTDFPWGI3M1pHeE9xb3RSX3FEYldBVlJjQW85Rm9XX1MyV3J3eVl3dHhnV29jS1NuRDFiOTJnNGtTUGZrV0t6WWtLYnkzWV9Ic3d5ZEFGWUpuYnlTN2NKeFZvci1GZw?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "policebeatnorthlittlerockmanarrestedintheftofvehiclenorthlittlerockmanchargedind"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock sets ground rules for future data centers as poll shows strong opposition - KARK",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1VKenFvUEMzNUJwdjRHbjhhTkk1YUt2S3JtRTFDYUxtb2hrWklMXzBuNS1pd0wtRG42YkpYeHkzZzcwd1FxVXlDeHF1dkgxTUM5cFU2aF9fOGZlRUpFUmRsd1MzVmw4U3M4ZENvMTl4NFhvdk9yejd5YzVkMEJvR25UNmRhOTAwLUhhblBDN2daR3lXOHZsSXNpYnlQQlVnUjNiM3JGS2hLa2dwXzh5M0UxQTh3U2ZIMXFmZ3dRT2RnWjgxcWZVbQ?oc=5",
+   "source": "KARK",
+   "published": 1789369200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1VKenFvUEMzNUJwdjRHbjhhTkk1YUt2S3JtRTFDYUxtb2hrWklMXzBuNS1pd0wtRG42YkpYeHkzZzcwd1FxVXlDeHF1dkgxTUM5cFU2aF9fOGZlRUpFUmRsd1MzVmw4U3M4ZENvMTl4NFhvdk9yejd5YzVkMEJvR25UNmRhOTAwLUhhblBDN2daR3lXOHZsSXNpYnlQQlVnUjNiM3JGS2hLa2dwXzh5M0UxQTh3U2ZIMXFmZ3dRT2RnWjgxcWZVbQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerocksetsgroundrulesforfuturedatacentersaspollshowsstrongoppositionkar"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock City Council sets new rules for data center campuses with amendment - KATV",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNM2dseEdfeDNJbzVUOVlKQ3dQU2FJdWExSHIyeUVVWkI5OVlFMzFUU193bnotZ0o5VnVQM2ZwZXpVeWkxVWFpUDVVanRPNklfcFhPc2pmdmExN3lPQ21mZnJkMVNOYXJjM3Z1NXRFM0dndlBPNHZVX2YxWlpZUEp1Z1FDdlcybWxJMjZYLTYyQmJKNzFsbmZvNmUwSEE1T2tKcGQxREtvbE40djVacTNWVzJ6SEhJdGZCeENSamExNFN1a1BLMkJyMzE0aXVfNDNGZmlzUnFMci1DNmZQNGxfR1EybkZlNWkwdU5lTk1VaVNFTUhDSXJUZjgzY3BjeTg5cVFqMXVzdm9PNnFzZ2tBV0dLY1pYNzhiQktSMk0yNlA4d1Z3MEJ6aTdmRXN3dER6bDgwTkxkZ1pCQQ?oc=5",
+   "source": "KATV",
+   "published": 1789369200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNM2dseEdfeDNJbzVUOVlKQ3dQU2FJdWExSHIyeUVVWkI5OVlFMzFUU193bnotZ0o5VnVQM2ZwZXpVeWkxVWFpUDVVanRPNklfcFhPc2pmdmExN3lPQ21mZnJkMVNOYXJjM3Z1NXRFM0dndlBPNHZVX2YxWlpZUEp1Z1FDdlcybWxJMjZYLTYyQmJKNzFsbmZvNmUwSEE1T2tKcGQxREtvbE40djVacTNWVzJ6SEhJdGZCeENSamExNFN1a1BLMkJyMzE0aXVfNDNGZmlzUnFMci1DNmZQNGxfR1EybkZlNWkwdU5lTk1VaVNFTUhDSXJUZjgzY3BjeTg5cVFqMXVzdm9PNnFzZ2tBV0dLY1pYNzhiQktSMk0yNlA4d1Z3MEJ6aTdmRXN3dER6bDgwTkxkZ1pCQQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilsetsnewrulesfordatacentercampuseswithamendmentkatv"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock City Council will consider restrictions on data centers - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFprbmExY1B5YkpOSHRfRjBuWE1vT0lZY1RNRnlGaGJqSmpGWFNkQWdDZjFiWGczdUNoamp6U2tITEZNdFZPWlZPdW42cDJCc0dEdzZqVWZJeVVNWDFoYWNqc04xN3RyV0tmbndEWDh6THQ2NWRXQVQ2NlN2RVBtQmxmWkRkMWRxdWV4X28zR2pzUkFjMk1Ldg?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1789282800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFprbmExY1B5YkpOSHRfRjBuWE1vT0lZY1RNRnlGaGJqSmpGWFNkQWdDZjFiWGczdUNoamp6U2tITEZNdFZPWlZPdW42cDJCc0dEdzZqVWZJeVVNWDFoYWNqc04xN3RyV0tmbndEWDh6THQ2NWRXQVQ2NlN2RVBtQmxmWkRkMWRxdWV4X28zR2pzUkFjMk1Ldg?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockcitycouncilwillconsiderrestrictionsondatacentersthearkansasdemocr"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police arrest 18-year-old in deadly gas station shooting - KARK",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5",
+   "source": "KARK",
+   "published": 1788850800.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmlTc2Z6SEY0SjdNTGs5VG13TWN2Uzc4cDFDZUdLLTFOS2pOZVlJZmpVWnFJektFdWRhVGZwcEJhcVV4bm84dnp4WUFJV1pKRTZpUEw2aEFuM1BBMDF4Qm4xUFhZbTR3QTdZVGN2cVJBbXp5Y2MzaE1tYWNfc1pyM1BIdE5sbXp4MnlFckExNXV0LWVTdzhGdWhPNWdDU0RWRDdaNQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpolicearrest18yearoldindeadlygasstationshootingkark"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "North Little Rock police release additional pictures of Silver Alert subject Charles Noise - KARK",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGxDd0JtbVlVZ0NaTndINURsWl9hM0tIb1RaUHNWb3pkOUowcDI2VE5oTUFETVFoNHlaWTdOZWtqNkMxWE81RWpzX1kxWHVwSzZZMzRvdHIyc09nX1lBTkpDR2FGY25vNi1sWlFJUWJDR05McWdiaEtfQW13MTBNYmdSY0VEZHZoVFBEQUtZczVhak9aVUVCdFNHMHZFallabmZqa05CNVFqTGl4T1lOdFJoMy1LN2sydFk0V3hETllpTll6Wi1j?oc=5",
+   "source": "KARK",
+   "published": 1788505200.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGxDd0JtbVlVZ0NaTndINURsWl9hM0tIb1RaUHNWb3pkOUowcDI2VE5oTUFETVFoNHlaWTdOZWtqNkMxWE81RWpzX1kxWHVwSzZZMzRvdHIyc09nX1lBTkpDR2FGY25vNi1sWlFJUWJDR05McWdiaEtfQW13MTBNYmdSY0VEZHZoVFBEQUtZczVhak9aVUVCdFNHMHZFallabmZqa05CNVFqTGl4T1lOdFJoMy1LN2sydFk0V3hETllpTll6Wi1j?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "northlittlerockpolicereleaseadditionalpicturesofsilveralertsubjectcharlesnoiseka"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "crime"
+  },
+  {
+   "type": "article",
+   "title": "Data lacking on North Little Rock’s use of Flock, other license plate reading cameras - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWxoeEJXS0w2bllNbURJWTVfdjZ1TWprUW96bkxzYXFjVzhkY3d5NkpXWmwtcXdQOGZVVEFZbF9PUWxGczhYUTFqOVE4MFpFRU5iVXFSSFMycWhjWVNQaE9yemRMZ3pETTl5V0R3bGVPSDF5ZkhVZjJGV3FkNWlUcFN3ODBhZkZadmc4UjI0UG4yd2xyXzhpeGxwUk4xSkE?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1787468400.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWxoeEJXS0w2bllNbURJWTVfdjZ1TWprUW96bkxzYXFjVzhkY3d5NkpXWmwtcXdQOGZVVEFZbF9PUWxGczhYUTFqOVE4MFpFRU5iVXFSSFMycWhjWVNQaE9yemRMZ3pETTl5V0R3bGVPSDF5ZkhVZjJGV3FkNWlUcFN3ODBhZkZadmc4UjI0UG4yd2xyXzhpeGxwUk4xSkE?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "datalackingonnorthlittlerocksuseofflockotherlicenseplatereadingcamerasthearkansa"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "major"
+  },
+  {
+   "type": "article",
+   "title": "NLR City Council approves new Dickey-Stephens lease for Arkansas Travelers - KATV",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDRkVzRUeHN1amJRX3Zudm9DX1dJa3ZtRzFrMi13NTFsR3ZvQ0RzdEpwNXNZRXdhbzhMaWE4WWc4eEZaVmNVNWZHbGpKQVRYZ0tmeGd5eUIxX2Q2S1ZLaDM1bUpkOXJmMWo2SXcxN3lFQjhfVWVmVXZ0MldMSlNQNm1BRGdqQmd4cjJkUnROTFBvcHVMOGNvSWxTOG5CUzlvU3RYeA?oc=5",
+   "source": "KATV",
+   "published": 1786431600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDRkVzRUeHN1amJRX3Zudm9DX1dJa3ZtRzFrMi13NTFsR3ZvQ0RzdEpwNXNZRXdhbzhMaWE4WWc4eEZaVmNVNWZHbGpKQVRYZ0tmeGd5eUIxX2Q2S1ZLaDM1bUpkOXJmMWo2SXcxN3lFQjhfVWVmVXZ0MldMSlNQNm1BRGdqQmd4cjJkUnROTFBvcHVMOGNvSWxTOG5CUzlvU3RYeA?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "nlrcitycouncilapprovesnewdickeystephensleaseforarkansastravelerskatv"
+   ],
+   "first_seen": 1795205463.79065,
+   "section": "sports"
   }
  ]
 }
