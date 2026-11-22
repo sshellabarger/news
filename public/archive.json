@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:11:17.097300-06:00",
+ "updated": "2026-11-21T21:07:40.592682-06:00",
  "items": [
   {
    "type": "article",
@@ -351,28 +351,6 @@
    "source_count": 1,
    "member_keys": [
     "hotspringspolicepursuitwreckendinfelonychargefordriverthearkansasdemocratgazette"
-   ]
-  },
-  {
-   "type": "article",
-   "title": "Little Rock School Board postpones vote on in-house police department proposal - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW81UWxid1ZoenYzc01BMDROVURTQ3MycVE3LTBvWGJZZlp5UTRTcUpTQWpLeV9LU0VSZXVJN2lTX2hNUUk1RS1QYkJKVlFKcFYyVlJvcndrZ2hibDZOZUpNU0wtRUpYWXliUTVpVy1jUDhKa2psWlpNRTAtOVVGTlFEdGFtRDhDdk0wNkJXcXYtaFV0TWFOSDVNMA?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795144500.0,
-   "first_seen": 1794821791.289968,
-   "section": "crime",
-   "snippet": "",
-   "discussion_url": "",
-   "num_comments": null,
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW81UWxid1ZoenYzc01BMDROVURTQ3MycVE3LTBvWGJZZlp5UTRTcUpTQWpLeV9LU0VSZXVJN2lTX2hNUUk1RS1QYkJKVlFKcFYyVlJvcndrZ2hibDZOZUpNU0wtRUpYWXliUTVpVy1jUDhKa2psWlpNRTAtOVVGTlFEdGFtRDhDdk0wNkJXcXYtaFV0TWFOSDVNMA?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockschoolboardpostponesvoteoninhousepolicedepartmentproposalthearkansasde"
    ]
   },
   {
@@ -929,6 +907,29 @@
    "source_count": 1,
    "member_keys": [
     "littlerockpolicefatallyshootpersonbarricadedinbuildingthearkansasdemocratgazette"
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Little Rock police fatally shoot person barricaded in house - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSl9FdmViTkhkQjNobDVVMnMyWkVMcjBwb0dkaDZRVVhMNWNrMnlqVzVXb1phMnFJaGNWWG5lMkN0QzBGbjJxdFE3aGFBRDl3RktHX0hiZWZfUXR0QVR5QWJEVmc0T0l1R3BqSGxHTFBoSFhrRDY3S2dnNldrNFh6VFhIblhYNEZnVWpTTzh1clU1UQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1795048200.0,
+   "first_seen": 1794821791.289968,
+   "section": "crime",
+   "snippet": "",
+   "discussion_url": "",
+   "num_comments": null,
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSl9FdmViTkhkQjNobDVVMnMyWkVMcjBwb0dkaDZRVVhMNWNrMnlqVzVXb1phMnFJaGNWWG5lMkN0QzBGbjJxdFE3aGFBRDl3RktHX0hiZWZfUXR0QVR5QWJEVmc0T0l1R3BqSGxHTFBoSFhrRDY3S2dnNldrNFh6VFhIblhYNEZnVWpTTzh1clU1UQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "littlerockpolicefatallyshootpersonbarricadedinhousethearkansasdemocratgazette",
+    "littlerockschoolboardpostponesvoteoninhousepolicedepartmentproposalthearkansasde"
    ]
   },
   {
