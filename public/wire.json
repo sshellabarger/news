@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-22T12:31:56.348327-06:00",
+ "updated": "2026-11-22T18:17:03.712470-06:00",
  "place": "North Little Rock, Arkansas",
  "items": [
+  {
+   "type": "article",
+   "title": "Arkansas Chamber Singers Holiday Jazz Fundraiser in Little Rock - Arkansas Radio",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmNUbTBhcDZxMzNlaEtnOXdySTR6akY1XzZidGVzaTVjaldnMUd5VTUyVVBCM2lNWklZdVhLMFQyY3lfVGdnM1Q1RXZHcGZhQWp2d0FrQXdDOENpQ3RmSklfbEs3NTZCSFhTa0FLSUZVTVFjU0VoaVpaTnQ5YXJ6S1RGczRrazl1MXRNNW1NWV9KNFozc1pFUFZBUUtSaDQ?oc=5",
+   "source": "Arkansas Radio",
+   "published": 1795383390.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Arkansas Radio",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmNUbTBhcDZxMzNlaEtnOXdySTR6akY1XzZidGVzaTVjaldnMUd5VTUyVVBCM2lNWklZdVhLMFQyY3lfVGdnM1Q1RXZHcGZhQWp2d0FrQXdDOENpQ3RmSklfbEs3NTZCSFhTa0FLSUZVTVFjU0VoaVpaTnQ5YXJ6S1RGczRrazl1MXRNNW1NWV9KNFozc1pFUFZBUUtSaDQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "arkansaschambersingersholidayjazzfundraiserinlittlerockarkansasradio"
+   ],
+   "first_seen": 1795393023.71247,
+   "section": "major"
+  },
   {
    "type": "article",
    "title": "Garth Brooks set Little Rock tour opener for sale on November 20 - ad-hoc-news.de",
@@ -160,28 +182,6 @@
   },
   {
    "type": "article",
-   "title": "High school football scores for Week Fourteen | Football Friday Night - 5newsonline.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2JsVDhhUUdZd21ZTVhNamxCdExTc0RkSzZkOUxlTHNOZmJGSEVTSTZaZ1Y3MmZnaUVpdXNFSHpwYm10d0JtWlVmMzlwMjBLX0I2T2JyRzdiY25mbkRvb2RiLUdQTElVRjZQMnBrUlBMS0pxeXU3Y2N6WElycGxzaTVRdzRsV3AzZVBFNlRUUHdPVWR3QzYwc3FxemVoVEx6LU1DZnA0QTFPeGxScFhHR1I4aUFTUEVWV2MxX3dIRTFiSkl4YU9fM3p1cFZvR1NSYzNpZHJ3?oc=5",
-   "source": "5NEWS",
-   "published": 1795234484.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "5NEWS",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2JsVDhhUUdZd21ZTVhNamxCdExTc0RkSzZkOUxlTHNOZmJGSEVTSTZaZ1Y3MmZnaUVpdXNFSHpwYm10d0JtWlVmMzlwMjBLX0I2T2JyRzdiY25mbkRvb2RiLUdQTElVRjZQMnBrUlBMS0pxeXU3Y2N6WElycGxzaTVRdzRsV3AzZVBFNlRUUHdPVWR3QzYwc3FxemVoVEx6LU1DZnA0QTFPeGxScFhHR1I4aUFTUEVWV2MxX3dIRTFiSkl4YU9fM3p1cFZvR1NSYzNpZHJ3?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "highschoolfootballscoresforweekfourteenfootballfridaynight5newsonlinecom"
-   ],
-   "first_seen": 1795254289.435709,
-   "section": "sports"
-  },
-  {
-   "type": "article",
    "title": "North Little Rock parents demand answers after Indian Hills Elementary leaders removed - KATV",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVFIMS13and0enRKZ0FLYWtoSTVFTk4za2x5MnFZdTJncFJURXd4RkdBLUEtVm96ekYxZTVYSExYdXhIWUhKaEZURXNMOVVycnVsMWJ2TUZEeXkwMWU5LXRqNmZTdk1udzRVLXA4el96ckE0NktMRXhMOHcxcWtsX21keE9feElOb3R1TGhBRWUwdWgyd3JSakd4cVZLQnRGWmtxbUVId0ZKMjlrb3lINzlOMUM?oc=5",
    "source": "KATV",
@@ -336,6 +336,28 @@
   },
   {
    "type": "article",
+   "title": "Drought conditions remain exceptional throughout much of Arkansas, with little relief in sight - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmJRZWJWRHVSc1hjU2xsMkNscW51OXBfWVBqRFpoUGpNVFNUSXdjSlE4ekRfSnd5MFhNSWpZM2FOamZkMElCSXRKbnVWYVJ1Zk52WjN3Mm5rSXVFQnR6al9HZlNNTVdYbFdFbllWSDVJMVF2UTRxamNIblNBcG1mekVXcWRWM1VjcUlWSlZ1b3cwSW96SVdlX2tRVQ?oc=5",
+   "source": "The Arkansas Democrat-Gazette",
+   "published": 1795131600.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmJRZWJWRHVSc1hjU2xsMkNscW51OXBfWVBqRFpoUGpNVFNUSXdjSlE4ekRfSnd5MFhNSWpZM2FOamZkMElCSXRKbnVWYVJ1Zk52WjN3Mm5rSXVFQnR6al9HZlNNTVdYbFdFbllWSDVJMVF2UTRxamNIblNBcG1mekVXcWRWM1VjcUlWSlZ1b3cwSW96SVdlX2tRVQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "droughtconditionsremainexceptionalthroughoutmuchofarkansaswithlittlereliefinsigh"
+   ],
+   "first_seen": 1795393023.71247,
+   "section": "major"
+  },
+  {
+   "type": "article",
    "title": "North Little Rock School Places Principals on Leave - Wisevoter",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzZCWW1zSkVnQ0EzWm9XMWNCMnJDQnZ3UkUxdjF2UDUyQnZGRjhRQ2d6OU5VSGl1cFd6dnczUzMxNzNzRm9VVTEwQ0RMUUpPSl9KVWF3dEtoZ3p3cTRjTTBuX2k0Ymh6WEVfejRzYk5IMVdiNWJoU2hPaFZBbnM4Q2xRVmpRODZkV1RZWmkzR01SX091VzhhdXJpZG9Rck5YUUp5eWdvbjhEX08zRXlDRGtzbw?oc=5",
    "source": "Wisevoter",
@@ -430,24 +452,24 @@
   },
   {
    "type": "article",
-   "title": "Little Rock Weekend Guide: Nov. 19-22 - Little Rock Soirée",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VWTBrUGtwdUJCdEFXUHdRMUh1WWtZWnRsVkFvWG9UYkt2Ul96aUdTMVhUQ0FybmsyRkhfM1Z6RTJra1lmWTFnUTVrdW4wU015TFVXbV9hZnhZTGhqM1RNLWJ0WmowZjVwc3BPMXg5cjEwcWpLeDgtUw?oc=5",
-   "source": "Little Rock Soirée",
-   "published": 1795105879.0,
+   "title": "Piccolo Zoppe Winter Circus Dazzles North Little Rock - KARK",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFd1TFhiRTV3cVdpLTlCTjhJWTN4TVktbEEzc1hFUnl5ZUNLN0xDdVpJSjJMTkhxd19kRkdLSVVSeXdMOXBteTJzQ2d0b1QxR2FrNVZxQ2VjbXRWYmZBS2M2dlNpZ29ubEprdkhTOXE2ZEdONkJHOXU4Q1FCaEpIaFYzeWh3V1RfX3pKdXU2SEJZQ0ly?oc=5",
+   "source": "KARK",
+   "published": 1795109640.0,
    "snippet": "",
    "discussion_url": "",
    "comments": [],
    "sources": [
     {
-     "source": "Little Rock Soirée",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VWTBrUGtwdUJCdEFXUHdRMUh1WWtZWnRsVkFvWG9UYkt2Ul96aUdTMVhUQ0FybmsyRkhfM1Z6RTJra1lmWTFnUTVrdW4wU015TFVXbV9hZnhZTGhqM1RNLWJ0WmowZjVwc3BPMXg5cjEwcWpLeDgtUw?oc=5"
+     "source": "KARK",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFd1TFhiRTV3cVdpLTlCTjhJWTN4TVktbEEzc1hFUnl5ZUNLN0xDdVpJSjJMTkhxd19kRkdLSVVSeXdMOXBteTJzQ2d0b1QxR2FrNVZxQ2VjbXRWYmZBS2M2dlNpZ29ubEprdkhTOXE2ZEdONkJHOXU4Q1FCaEpIaFYzeWh3V1RfX3pKdXU2SEJZQ0ly?oc=5"
     }
    ],
    "source_count": 1,
    "member_keys": [
-    "littlerockweekendguidenov1922littlerocksoirée"
+    "piccolozoppewintercircusdazzlesnorthlittlerockkark"
    ],
-   "first_seen": 1795282078.710196,
+   "first_seen": 1795393023.71247,
    "section": "major"
   },
   {
@@ -474,6 +496,28 @@
   },
   {
    "type": "article",
+   "title": "Troy Gillespie Obituary (2026) - North Little Rock, AR - Smith Family Funeral Homes - North Little Rock - Legacy | Obituary",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYTdTRUREczZRZnhmYTJ5X3RHUkdDVzVuNWthX2R4WnNQTE9MLWJsOExDV3RTWlhOR1JtdzhCWUp5ZHVDV0QzMWFLREFLc1AtQXItaGJTTmRWZzZBTVBCbk1MdHdCMTdIeThENVVvUWpMUUtkcVFvNkxqV1E2b2plUDE1SQ?oc=5",
+   "source": "Legacy | Obituary",
+   "published": 1795074844.0,
+   "snippet": "",
+   "discussion_url": "",
+   "comments": [],
+   "sources": [
+    {
+     "source": "Legacy | Obituary",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYTdTRUREczZRZnhmYTJ5X3RHUkdDVzVuNWthX2R4WnNQTE9MLWJsOExDV3RTWlhOR1JtdzhCWUp5ZHVDV0QzMWFLREFLc1AtQXItaGJTTmRWZzZBTVBCbk1MdHdCMTdIeThENVVvUWpMUUtkcVFvNkxqV1E2b2plUDE1SQ?oc=5"
+    }
+   ],
+   "source_count": 1,
+   "member_keys": [
+    "troygillespieobituary2026northlittlerockarsmithfamilyfuneralhomesnorthlittlerock"
+   ],
+   "first_seen": 1795393023.71247,
+   "section": "obits"
+  },
+  {
+   "type": "article",
    "title": "Wrecks on Arkansas roadways leave 11 people dead, six others injured over six-day period - The Arkansas Democrat-Gazette",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEQ1UEZ2S2VCTDJ1Z2x1U3FkcjBobnZBcTJ5Y0dyRWFSQWZIQjY1Sko1Q3dtbTkwRmk4SldVSnhnT3FFZTNnYXdtclY0WWhmSWFKNXF3RGVpU1Fid1ktcjFnRUx2U2NhRFk4ZmFKdV9vR3V1R3VqTUpBdkZ2XzNOZWdQa19OY0UtcHlKTi1lM3pxcmQ0WkhHSFIxYWpkQQ?oc=5",
    "source": "The Arkansas Democrat-Gazette",
@@ -496,28 +540,6 @@
   },
   {
    "type": "article",
-   "title": "Security officers sue Little Rock School District, claiming failure to pay wages owed - The Arkansas Democrat-Gazette",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFRUVUZNamN3cUJJMFFTSkNzQUI1ZFFMSW1rWGRnZGZDdGk1anlSSzFiNVlEUnV1MHo0X1lGbkk0NXppWW5sWUVpUkFPcFc3VVpFWGZkcjlJeUFQQXV4NWJuLURVRDNJbTBwaWd5eFVwbEc4YjZkQ0ZFQU1KdmRuc1RfYjNsVEg5S21VZUIxR1lwS3NQSXgycjVVajZtZWs?oc=5",
-   "source": "The Arkansas Democrat-Gazette",
-   "published": 1795062915.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "The Arkansas Democrat-Gazette",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFRUVUZNamN3cUJJMFFTSkNzQUI1ZFFMSW1rWGRnZGZDdGk1anlSSzFiNVlEUnV1MHo0X1lGbkk0NXppWW5sWUVpUkFPcFc3VVpFWGZkcjlJeUFQQXV4NWJuLURVRDNJbTBwaWd5eFVwbEc4YjZkQ0ZFQU1KdmRuc1RfYjNsVEg5S21VZUIxR1lwS3NQSXgycjVVajZtZWs?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "securityofficerssuelittlerockschooldistrictclaimingfailuretopaywagesowedthearkan"
-   ],
-   "first_seen": 1795316860.592682,
-   "section": "major"
-  },
-  {
-   "type": "article",
    "title": "Samantha McGuire, 29, Killed on I-40 in North Little Rock - Arkansas Radio",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGN6bGc5cnRvV1htTzN3cWlpUWhuR2hwY3FRZlo2QWhkbzl1NEYwWHg5RTRhRExNYmotRFZudVVGWDRyanRkZW9ub21xNjF4UnpUeVc0Q21TN2hHSUJ4Z3R3eHJTSGlOU1RjVnNETVZzTjJadTZONTQxeGVsTmpfSnBCWGdiTjNsUmpseElOZzU4Rk15aklOSU9R?oc=5",
    "source": "Arkansas Radio",
@@ -537,28 +559,6 @@
    ],
    "first_seen": 1795316860.592682,
    "section": "major"
-  },
-  {
-   "type": "article",
-   "title": "Little Rock considers new transparency rules for police surveillance technology - KATV",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3pOYnJYa0c5ZzVfdlNIVlNsaVJCZmRWSGNZZFB0Vi10QUVOcEVzMmpMRkVQUURtUllUTmJEUzNsQXRmMEJKYXdVYmhUOEVrNFNYQ2VLNmRrS3JVeHdsSy1nUWdOZUZWM0VjZXZJLXV4R3dSZ2VqME9hZURHbUdBQ1pTRUIwTG83eWExRjF6eDNPVmpManAzaU1BcWZWWjhNcEtld3Jrd0FLd0E?oc=5",
-   "source": "KATV",
-   "published": 1795012315.0,
-   "snippet": "",
-   "discussion_url": "",
-   "comments": [],
-   "sources": [
-    {
-     "source": "KATV",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3pOYnJYa0c5ZzVfdlNIVlNsaVJCZmRWSGNZZFB0Vi10QUVOcEVzMmpMRkVQUURtUllUTmJEUzNsQXRmMEJKYXdVYmhUOEVrNFNYQ2VLNmRrS3JVeHdsSy1nUWdOZUZWM0VjZXZJLXV4R3dSZ2VqME9hZURHbUdBQ1pTRUIwTG83eWExRjF6eDNPVmpManAzaU1BcWZWWjhNcEtld3Jrd0FLd0E?oc=5"
-    }
-   ],
-   "source_count": 1,
-   "member_keys": [
-    "littlerockconsidersnewtransparencyrulesforpolicesurveillancetechnologykatv"
-   ],
-   "first_seen": 1795372316.348327,
-   "section": "crime"
   },
   {
    "type": "article",
